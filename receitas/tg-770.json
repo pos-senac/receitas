@@ -1,0 +1,67 @@
+{
+  "id": "tg-770",
+  "titulo": "Arroz branco",
+  "url": "https://www.tudogostoso.com.br/receita/770-arroz-branco.html",
+  "nota": 4.8,
+  "n_avaliacoes": 334,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Arroz branco",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "arroz lavado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de arroz lavado"
+    },
+    {
+      "nome": "água fervente",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de água fervente"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho amassado"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/4",
+      "unidade": null,
+      "texto_original": "1/4 de cebola picada"
+    },
+    {
+      "nome": "azeite o suficiente",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite o suficiente"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue o alho e a cebola no azeite.",
+      "Coloque o arroz e deixe fritar por cerca de 30 segundos.",
+      "Adicione a água fervente e o sal.",
+      "Abaixe o fogo e deixe cozinhar até a água quase secar",
+      "Tampe a panela e aguarde cerca de 20 minutos antes de servir.",
+      "Se desejar fazer mais, é só seguir as proporções, principalmente da água."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Arroz branco. Ingredientes: arroz lavado, água fervente, alho amassado, cebola picada, azeite o suficiente, sal a gosto. Preparo: Refogue o alho e a cebola no azeite. Coloque o arroz e deixe fritar por cerca de 30 segundos. Adicione a água fervente e o sal."
+}

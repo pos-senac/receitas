@@ -1,0 +1,75 @@
+{
+  "id": "tg-139339",
+  "titulo": "Bolo pega marido",
+  "url": "https://www.tudogostoso.com.br/receita/139339-bolo-pega-marido.html",
+  "nota": 4.4,
+  "n_avaliacoes": 1803,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo pega marido",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite integral (a mesma medida da lata de leite condensado)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite integral (a mesma medida da lata de leite condensado)"
+    },
+    {
+      "nome": "vidro pequeno de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de leite de coco"
+    },
+    {
+      "nome": "farinha de trigo especial (ou comum) (mesma lata)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de farinha de trigo especial (ou comum) (mesma lata)"
+    },
+    {
+      "nome": "medida da lata de açúcar (mesma lata)",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 medida da lata de açúcar (mesma lata)"
+    },
+    {
+      "nome": "ovos grandes inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos grandes inteiros"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos tudo no liquidificador.",
+      "Coloque em uma fôrma untada e enfarinhada.",
+      "Leve ao forno médio (200°C) até dourar, 30 a 60 minutos, depende do forno.",
+      "Faça o teste do palito para retirar do forno.",
+      "O bolo fica com consistência de uma queijada e é muito gostoso!"
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Formo de bolo",
+    "Forno elétrico",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Bolo pega marido. Ingredientes: leite condensado, leite integral (a mesma medida da lata de leite condensado), vidro pequeno de leite de coco, farinha de trigo especial (ou comum) (mesma lata), medida da lata de açúcar (mesma lata), ovos grandes inteiros, sopa de margarina. Preparo: Bata todos tudo no liquidificador. Coloque em uma fôrma untada e enfarinhada. Leve ao forno médio (200°C) até dourar, 30 a 60 minutos, depende do forno."
+}

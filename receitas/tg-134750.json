@@ -1,0 +1,72 @@
+{
+  "id": "tg-134750",
+  "titulo": "Bolo de laranja fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/134750-bolo-de-laranja-fofinho.html",
+  "nota": 4.5,
+  "n_avaliacoes": 235,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de laranja fofinho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "ovos grandes",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos grandes"
+    },
+    {
+      "nome": "suco de 2 laranjas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 2 laranjas"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "farinha de trigo bem cheias",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo bem cheias"
+    },
+    {
+      "nome": "açúcar bem cheia",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar bem cheia"
+    },
+    {
+      "nome": "fermento bem cheia",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento bem cheia"
+    },
+    {
+      "nome": "raspas de laranja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas de laranja"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o suco de laranja e o óleo.",
+      "Em seguida adicione o trigo e o açúcar e misture bem até obter uma mistura homogênea.",
+      "Adicione por último o fermento, mexa por mais alguns minutos e disponha a massa em uma forma com furo central untada e enfarinhada.",
+      "Asse em forno médio (180° C), preaquecido, por 40 minutos e está pronto."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de laranja fofinho. Ingredientes: ovos grandes, suco de 2 laranjas, óleo, farinha de trigo bem cheias, açúcar bem cheia, fermento bem cheia, raspas de laranja. Preparo: Bata no liquidificador os ovos, o suco de laranja e o óleo. Em seguida adicione o trigo e o açúcar e misture bem até obter uma mistura homogênea. Adicione por último o fermento, mexa por mais alguns minutos e disponha a massa em uma forma com furo central untada e enfarinhada."
+}

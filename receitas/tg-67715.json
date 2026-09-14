@@ -1,0 +1,71 @@
+{
+  "id": "tg-67715",
+  "titulo": "Crepe suíço",
+  "url": "https://www.tudogostoso.com.br/receita/67715-crepe-suico.html",
+  "nota": 4.5,
+  "n_avaliacoes": 117,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Crepe suíço",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de farinha de trigo"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1 e 1/2",
+      "unidade": "colher",
+      "texto_original": "1 e 1/2 colher de amido de milho"
+    },
+    {
+      "nome": "fermento de pão",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento de pão"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de queijo parmesão ralado"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1/2",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1/2 colher (sobremesa) de sal"
+    },
+    {
+      "nome": "ovo inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador e deixe descansar por 15 minutos.",
+      "Depois, coloque na forma de crepe e leve ao fogo até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Crepe suíço. Ingredientes: leite, margarina, farinha de trigo, amido de milho, fermento de pão, queijo parmesão ralado, sal, ovo inteiro. Preparo: Bata tudo no liquidificador e deixe descansar por 15 minutos. Depois, coloque na forma de crepe e leve ao fogo até dourar."
+}

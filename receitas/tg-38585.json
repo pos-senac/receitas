@@ -1,0 +1,56 @@
+{
+  "id": "tg-38585",
+  "titulo": "Mingau de fubá mineiro perfeito",
+  "url": "https://www.tudogostoso.com.br/receita/38585-mingau-de-fuba-mineiro-perfeito.html",
+  "nota": 4.6,
+  "n_avaliacoes": 147,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Mingau de fubá mineiro perfeito",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "cheias de fubá fino",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres cheias de fubá fino"
+    },
+    {
+      "nome": "ou 2 copos de leite",
+      "quantidade": "400",
+      "unidade": "ml",
+      "texto_original": "400 ml ou 2 copos de leite"
+    },
+    {
+      "nome": "cheias de açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres cheias de açúcar"
+    },
+    {
+      "nome": "canela",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de canela"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque ¾ do leite em uma panela, de preferência anti-aderente e leve ao fogo médio/baixo.",
+      "Misture o fubá com o restante do leite, o açúcar e a canela.",
+      "Quando o leite estiver quente, mas não fervendo, junte a mistura de fubá e mexa até levantar fervura.",
+      "Abaixe o fogo e deixe cozinhar por 15 minutos, mexendo de vez em quando.",
+      "Quando estiver pronto, coloque a manteiga, misture e sirva em um prato fundo ou em uma tigela de sopa."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Mingau de fubá mineiro perfeito. Ingredientes: cheias de fubá fino, ou 2 copos de leite, cheias de açúcar, canela, manteiga. Preparo: Coloque ¾ do leite em uma panela, de preferência anti-aderente e leve ao fogo médio/baixo. Misture o fubá com o restante do leite, o açúcar e a canela. Quando o leite estiver quente, mas não fervendo, junte a mistura de fubá e mexa até levantar fervura."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tg-5766",
+  "titulo": "Milk shake de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/5766-milk-shake-de-chocolate.html",
+  "nota": 4.4,
+  "n_avaliacoes": 458,
+  "categoria": "Receitas milk shake",
+  "subcategoria": "Milk shake de chocolate",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "bolas de sorvete de chocolate",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 bolas de sorvete de chocolate"
+    },
+    {
+      "nome": "leite gelado",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "2 e 1/2 xícaras de leite gelado"
+    },
+    {
+      "nome": "essência de baunilha",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "nome": "cobertura de chocolate ou outro sabor",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cobertura de chocolate ou outro sabor"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes, menos a cobertura, no liquidificador.",
+      "Espalhe um pouco de cobertura em uma taça própria para milk shake.",
+      "Coloque o milk shake na taça e sirva-se."
+    ]
+  },
+  "utensilios": [
+    "Canudo",
+    "Copo",
+    "Liquidificador"
+  ],
+  "texto_para_embedding": "Milk shake de chocolate. Ingredientes: bolas de sorvete de chocolate, leite gelado, essência de baunilha, cobertura de chocolate ou outro sabor. Preparo: Bata todos os ingredientes, menos a cobertura, no liquidificador. Espalhe um pouco de cobertura em uma taça própria para milk shake. Coloque o milk shake na taça e sirva-se."
+}

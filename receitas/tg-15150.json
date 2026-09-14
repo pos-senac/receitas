@@ -1,0 +1,58 @@
+{
+  "id": "tg-15150",
+  "titulo": "Coxinha",
+  "url": "https://www.tudogostoso.com.br/receita/15150-coxinha.html",
+  "nota": 4.5,
+  "n_avaliacoes": 807,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Coxinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "trigo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de leite"
+    },
+    {
+      "nome": "caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de galinha"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o leite, a margarina e o caldo.",
+      "Deixe ferver.",
+      "Despeje de uma só vez o trigo e mexa bem.",
+      "Depois retire da panela e coloque sobre a mesa.",
+      "Sove um pouco e comece a modelar as coxinhas.",
+      "Coloque para fritar em óleo quente, espere dourar, retire e sirva."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Papel-toalha",
+    "Bowl",
+    "Colher de pau",
+    "Fogão"
+  ],
+  "texto_para_embedding": "Coxinha. Ingredientes: trigo, leite, caldo de galinha, margarina. Preparo: Leve ao fogo o leite, a margarina e o caldo. Deixe ferver. Despeje de uma só vez o trigo e mexa bem."
+}

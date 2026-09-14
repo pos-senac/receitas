@@ -1,0 +1,76 @@
+{
+  "id": "tg-102",
+  "titulo": "Carne ao molho de cerveja",
+  "url": "https://www.tudogostoso.com.br/receita/102-carne-ao-molho-de-cerveja.html",
+  "nota": 4.5,
+  "n_avaliacoes": 126,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Carne ao molho de cerveja",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "fraldinha",
+      "quantidade": "800",
+      "unidade": "g",
+      "texto_original": "800 g de fraldinha"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de óleo"
+    },
+    {
+      "nome": "ramo de alecrim",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ramo de alecrim"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "cebola cortada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola cortada"
+    },
+    {
+      "nome": "tomilho a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tomilho a gosto"
+    },
+    {
+      "nome": "sopa de extrato de tomate",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de extrato de tomate"
+    },
+    {
+      "nome": "cerveja",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de cerveja"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe a carne e tempere com sal. Numa panela aqueça o óleo com alecrim. Coloque a carne e deixe dourar por igual. Acrescente o alho, a cebola e o tomilho e deixe fritar por 3 minutos. Junte a cerveja e deixe cozinhar por 30 minutos. Se secar coloque água quente aos poucos para finalizar o cozimento.Retire a carne e reserve em local aquecido. Coe e reduza o molho em fogo alto, ao ponto desejado. Corte em fatias , regue com o molho e sirva a seguir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Carne ao molho de cerveja. Ingredientes: fraldinha, sopa de óleo, ramo de alecrim, alho, cebola cortada, tomilho a gosto, sopa de extrato de tomate, cerveja, sal a gosto. Preparo: Limpe a carne e tempere com sal. Numa panela aqueça o óleo com alecrim. Coloque a carne e deixe dourar por igual. Acrescente o alho, a cebola e o tomilho e deixe fritar por 3 minutos. Junte a cerveja e deixe cozinhar por 30 minutos. Se secar coloque água quente aos poucos para finalizar o cozimento.Retire a carne e reserve em local aquecido. Coe e reduza o molho em fogo alto, ao ponto desejado. Corte em fatias , regue com o molho e sirva a seguir."
+}

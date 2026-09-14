@@ -1,0 +1,87 @@
+{
+  "id": "tg-1534",
+  "titulo": "Filé à parmegiana",
+  "url": "https://www.tudogostoso.com.br/receita/1534-file-a-parmegiana.html",
+  "nota": 4.7,
+  "n_avaliacoes": 279,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Filé à parmegiana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "bifes filé mignon",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 bifes filé mignon"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de extrato de tomate"
+    },
+    {
+      "nome": "pitadinha de açúcar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pitadinha de açúcar"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "10",
+      "unidade": "fatias",
+      "texto_original": "10 fatias de mussarela"
+    }
+  ],
+  "modo_preparo": {
+    "Para a milanesa:": [
+      "Corte o filé em bifes não muito finos (por favor não bata) e tempere-os a gosto.",
+      "Passe os bifes na farinha de trigo.",
+      "Bata ligeiramente os ovos (dois ou mais) com uma pitadinha de sal e passe os bifes nessa mistura.",
+      "Passe os bifes na farinha de rosca.",
+      "Faça com que a massa fique bem aderida aos bifes.",
+      "Frite os bifes, deixe-os em papel toalha para que sequem bem e coloque-os em uma forma refratária."
+    ],
+    "Montagem:": [
+      "Faça um molho com extrato de tomate e uma pitadinha de açúcar e coloque sobre os filés. O melhor sempre será o seu próprio molho de tomates. Cubra-os com as fatias de mussarela e coloque no forno por aproximadamente 10 minutos.",
+      "Pessoalmente prefiro queijo prato e recomendo polvilhar bastante queijo parmesão ralado, antes de gratinar.",
+      "Para acompanhar batatas fritas bem douradas e arroz branco. Fica uma delícia."
+    ]
+  },
+  "utensilios": [
+    "Papel-toalha",
+    "Refratário",
+    "Prato fundo",
+    "Faca",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Filé à parmegiana. Ingredientes: bifes filé mignon, farinha de trigo, ovos, sal, farinha de rosca, extrato de tomate, pitadinha de açúcar, mussarela. Preparo: Corte o filé em bifes não muito finos (por favor não bata) e tempere-os a gosto. Passe os bifes na farinha de trigo. Bata ligeiramente os ovos (dois ou mais) com uma pitadinha de sal e passe os bifes nessa mistura."
+}

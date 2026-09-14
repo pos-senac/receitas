@@ -1,0 +1,85 @@
+{
+  "id": "tg-3004",
+  "titulo": "Bolo de fubá com goiabada",
+  "url": "https://www.tudogostoso.com.br/receita/3004-bolo-de-fuba-com-goiabada.html",
+  "nota": 4.8,
+  "n_avaliacoes": 1224,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá com goiabada",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de leite"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de fubá"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo (americano)",
+      "texto_original": "1/2 copo (americano) de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "goiabada em pedaços",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "goiabada em pedaços"
+    },
+    {
+      "nome": "erva-doce a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "erva-doce a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture no liquidificador o ovo, o leite, o óleo, o açúcar, o fubá e bata bem.",
+      "Despeje a mistura em uma tigela, e misture com a farinha e o fermento em pó.",
+      "Despeje a massa em uma forma untada com manteiga e farinha, e acrescente uma camada de goiabada. Repita este processo até preencher toda a forma.",
+      "Leve o bolo de fubá com goiabada ao forno médio (180° C), preaquecido, por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Espatula",
+    "Formo de bolo",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo de fubá com goiabada. Ingredientes: ovo, leite, fubá, açúcar, óleo, farinha de trigo, fermento em pó, goiabada em pedaços, erva-doce a gosto. Preparo: Misture no liquidificador o ovo, o leite, o óleo, o açúcar, o fubá e bata bem. Despeje a mistura em uma tigela, e misture com a farinha e o fermento em pó. Despeje a massa em uma forma untada com manteiga e farinha, e acrescente uma camada de goiabada. Repita este processo até preencher toda a forma."
+}

@@ -1,0 +1,157 @@
+{
+  "id": "tg-61257",
+  "titulo": "Macarrão de forno",
+  "url": "https://www.tudogostoso.com.br/receita/61257-macarrao-de-forno.html",
+  "nota": 4.7,
+  "n_avaliacoes": 149,
+  "categoria": "Receitas massas",
+  "subcategoria": "Macarrão de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "peito de frango",
+      "quantidade": "1 e 1/2",
+      "unidade": "kg",
+      "texto_original": "1 e 1/2 kg de peito de frango"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo de soja"
+    },
+    {
+      "nome": "cebola grande picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picadinha"
+    },
+    {
+      "nome": "tomates sem sementes e picados em cubos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates sem sementes e picados em cubos"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho amassados"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de extrato de tomate"
+    },
+    {
+      "nome": "milho verde escorrida (200 g)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde escorrida (200 g)"
+    },
+    {
+      "nome": "cubos de caldo de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubos de caldo de galinha"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite (use a lata de creme de leite como medida)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (use a lata de creme de leite como medida)"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de maisena"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "tablete de caldo de legumes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de legumes"
+    },
+    {
+      "nome": "parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de parmesão ralado"
+    },
+    {
+      "nome": "noz-moscada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "noz-moscada a gosto"
+    },
+    {
+      "nome": "macarrão tipo fusilli, cozido um pouco antes de estar al dente",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de macarrão tipo fusilli, cozido um pouco antes de estar al dente"
+    },
+    {
+      "nome": "muçarela ralada grossa",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de muçarela ralada grossa"
+    },
+    {
+      "nome": "parmesão ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de parmesão ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o peito de frango, desfie e reserve.",
+      "Em uma panela grande, coloque o óleo, deixe aquecer bem e acrescente a cebola.",
+      "Quando a cebola estiver bem transparente, adicione o alho.",
+      "Deixe tudo dourar e adicione o extrato de tomate, o tomate picado, o frango e misture bem.",
+      "Dissolva os caldos de galinha em 250 ml de água fervente e misture na panela.",
+      "Acrescente também o milho verde, a pimenta-do-reino e corrija o sal.",
+      "Em outra panela, coloque 2/3 do leite, a maisena dissolvida no restante do leite, a margarina, o cubinho de caldo e o parmesão.",
+      "Mexa até ferver e obter consistência.",
+      "Apague o fogo, acrescente o creme de leite e mexa bem.",
+      "Misture a massa ao frango, coloque em uma forma bem grande e despeje por cima o molho branco.",
+      "Cubra com a mussarela misturada com o parmesão e leve ao forno até derreter e dourar a mussarela."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Escorredor de massa",
+    "Pegador de macarrão",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Macarrão de forno. Ingredientes: peito de frango, óleo de soja, cebola grande picadinha, tomates sem sementes e picados em cubos, alho amassados, extrato de tomate, milho verde escorrida (200 g), cubos de caldo de galinha, cheiro-verde a gosto, Sal a gosto, creme de leite, leite (use a lata de creme de leite como medida), maisena, margarina, tablete de caldo de legumes, parmesão ralado, noz-moscada a gosto, macarrão tipo fusilli, cozido um pouco antes de estar al dente, muçarela ralada grossa, parmesão ralado. Preparo: Cozinhe o peito de frango, desfie e reserve. Em uma panela grande, coloque o óleo, deixe aquecer bem e acrescente a cebola. Quando a cebola estiver bem transparente, adicione o alho."
+}

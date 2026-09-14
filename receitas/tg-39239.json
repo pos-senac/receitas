@@ -1,0 +1,69 @@
+{
+  "id": "tg-39239",
+  "titulo": "Bolo de bolo (sem manteiga e leite)",
+  "url": "https://www.tudogostoso.com.br/receita/39239-bolo-de-bolo-sem-manteiga-e-leite.html",
+  "nota": 4.6,
+  "n_avaliacoes": 109,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de bolo (sem manteiga e leite)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "1 e 1/2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "rasa de fermento (ou use a farinha que já vem com fermento)",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de fermento (ou use a farinha que já vem com fermento)"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma bacia bata primeiro os ovos, o açúcar e o óleo.",
+      "Coloque a farinha peneirada, o amido e o fermento.",
+      "Bata novamente.",
+      "Adicione a água e bata até obter uma massa cremosa.",
+      "Coloque em uma forma untada média.",
+      "Leve ao forno médio, pré-aquecido, por cerca de 30 minutos, ou até que doure e o palito saia seco."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de bolo (sem manteiga e leite). Ingredientes: ovos, açúcar, farinha de trigo, óleo, água, rasa de fermento (ou use a farinha que já vem com fermento), amido de milho. Preparo: Em uma bacia bata primeiro os ovos, o açúcar e o óleo. Coloque a farinha peneirada, o amido e o fermento. Bata novamente."
+}

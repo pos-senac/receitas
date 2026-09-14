@@ -1,0 +1,68 @@
+{
+  "id": "tg-113808",
+  "titulo": "Frango empanado sem ovo muito mais crocante",
+  "url": "https://www.tudogostoso.com.br/receita/113808-frango-empanado-sem-ovo-muito-mais-crocante.html",
+  "nota": 4.8,
+  "n_avaliacoes": 97,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango empanado sem ovo muito mais crocante",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "agua",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de agua"
+    },
+    {
+      "nome": "Tempero completo (tipo sabor ami)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tempero completo (tipo sabor ami)"
+    },
+    {
+      "nome": "pimenta do reino",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de pimenta do reino"
+    },
+    {
+      "nome": "filés de frango",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 filés de frango"
+    },
+    {
+      "nome": "1/2 xícaras de farinha de rosca",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícaras de farinha de rosca"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture os ingredientes, menos a farinha de rosca para formar um creme.",
+      "Mergulhe os files de frango um por um nesse creme.",
+      "Depois passe os filés na farinha de rosca.",
+      "No óleo aquecido frite os filés de frango.",
+      "Ficam super sequinhos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango empanado sem ovo muito mais crocante. Ingredientes: farinha de trigo, agua, Tempero completo (tipo sabor ami), pimenta do reino, filés de frango, 1/2 xícaras de farinha de rosca, Óleo para fritar. Preparo: Misture os ingredientes, menos a farinha de rosca para formar um creme. Mergulhe os files de frango um por um nesse creme. Depois passe os filés na farinha de rosca."
+}

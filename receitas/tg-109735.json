@@ -1,0 +1,134 @@
+{
+  "id": "tg-109735",
+  "titulo": "Esfiha de carne temperada",
+  "url": "https://www.tudogostoso.com.br/receita/109735-esfiha-de-carne-temperada.html",
+  "nota": 4.8,
+  "n_avaliacoes": 154,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Esfiha de carne temperada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "600",
+      "unidade": "g",
+      "texto_original": "600 g farinha de trigo"
+    },
+    {
+      "nome": "fermento biológico seco instantâneo",
+      "quantidade": "10",
+      "unidade": "g",
+      "texto_original": "10 g fermento biológico seco instantâneo"
+    },
+    {
+      "nome": "leite/água (pode ser usado só água ou leite desnatado para uma receita light)",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml leite/água (pode ser usado só água ou leite desnatado para uma receita light)"
+    },
+    {
+      "nome": "óleo de canola ou girassol",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml óleo de canola ou girassol"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "carne moída (de preferência patinho)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de carne moída (de preferência patinho)"
+    },
+    {
+      "nome": "tomate grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate grande"
+    },
+    {
+      "nome": "limão grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 limão grande"
+    },
+    {
+      "nome": "cebola pequena",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena"
+    },
+    {
+      "nome": "pimentão vermelho pequeno",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão vermelho pequeno"
+    },
+    {
+      "nome": "pimentão amarelo pequeno",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão amarelo pequeno"
+    },
+    {
+      "nome": "pimentão verde pequeno",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão verde pequeno"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Misturar o leite (de morno a temperatura ambiente), o açúcar, os ovos e o fermento.",
+      "Aguardar 5 minutos e misturar o óleo, a farinha e o sal.",
+      "Sove a massa até que fique lisa e macia, jogue pouco a pouco farinha de trigo na superfície caso a massa fique grudando.",
+      "Deixe descansar por volta de 40 minutos até que a massa dobre de tamanho.",
+      "Se preferir assar outro dia, guarde a massa na geladeira por até 3 dias em um recipiente fechado antes que \"cresça\" ou pré-asse a esfiha pronta, mas não a deixe dourar.",
+      "Dica: faça uma bolinha bem pequena, (tamanho de um feijão), de massa e coloque em meio copo de água, quando a bolinha subir a massa estará pronta para modelar."
+    ],
+    "Recheio:": [
+      "Picar em cubos pequenos (média de 0,5 cm) o tomate (sem pele e sem sementes), a cebola, o pimentão vermelho, o pimentão amarelo e o pimentão verde.",
+      "Misture a carne moída e o sal, dê uma rápida refogada na carne apenas para tirar o vermelho da carne, mas não frite.",
+      "Misture bem o suco de limão, o tomate, a cebola, o pimentão vermelho, o pimentão amarelo e o pimentão verde.",
+      "Aguarde por volta de 20 minutos, então deixe toda a mistura da carne em um escorredor por volta de uns 20 minutos para que fique mais sequinha."
+    ],
+    "Esfiha:": [
+      "Unte uma forma com margarina ou óleo e polvilhe com farinha de trigo.",
+      "Corte pequeno pedaço da massa e então modele uma bolinha média, abra bem para que a massa fique o mais fina possível, então coloque uma colher de sopa cheia de recheio, una as partes em formato de triângulo ou como preferir.",
+      "Pincele gema de ovo antes de assar para dourar.",
+      "Asse em forno pré-aquecido por volta de 180ºC."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Forma"
+  ],
+  "texto_para_embedding": "Esfiha de carne temperada. Ingredientes: farinha de trigo, fermento biológico seco instantâneo, leite/água (pode ser usado só água ou leite desnatado para uma receita light), óleo de canola ou girassol, sopa de açúcar, chá de sal, ovos, carne moída (de preferência patinho), tomate grande, limão grande, cebola pequena, pimentão vermelho pequeno, pimentão amarelo pequeno, pimentão verde pequeno, Sal a gosto. Preparo: Misturar o leite (de morno a temperatura ambiente), o açúcar, os ovos e o fermento. Aguardar 5 minutos e misturar o óleo, a farinha e o sal. Sove a massa até que fique lisa e macia, jogue pouco a pouco farinha de trigo na superfície caso a massa fique grudando."
+}

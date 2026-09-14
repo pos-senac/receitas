@@ -1,0 +1,83 @@
+{
+  "id": "tg-41735",
+  "titulo": "Bife à milanesa",
+  "url": "https://www.tudogostoso.com.br/receita/41735-bife-a-milanesa.html",
+  "nota": 4.8,
+  "n_avaliacoes": 112,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Bife à milanesa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "bife (pode ser patinho, coxão mole, alcatra)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de bife (pode ser patinho, coxão mole, alcatra)"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta do reino a gosto"
+    },
+    {
+      "nome": "Farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo"
+    },
+    {
+      "nome": "ovos batido",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batido"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "Farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de rosca"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os bifes com o alho, sal e pimenta do reino a gosto.",
+      "Passe-os na farinha de trigo.",
+      "Após passe-os no ovo batido com o leite.",
+      "Por último passe-os na farinha de rosca.",
+      "Frite em óleo quente.",
+      "Deixe escorrer em papel toalha.",
+      "Sirva quente.",
+      "Fica muito bom se servido acompanhado de molho inglês."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bife à milanesa. Ingredientes: bife (pode ser patinho, coxão mole, alcatra), alho, Sal a gosto, Pimenta do reino a gosto, Farinha de trigo, ovos batido, leite, Farinha de rosca, Óleo para fritar. Preparo: Tempere os bifes com o alho, sal e pimenta do reino a gosto. Passe-os na farinha de trigo. Após passe-os no ovo batido com o leite."
+}

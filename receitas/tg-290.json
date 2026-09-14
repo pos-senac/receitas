@@ -1,0 +1,74 @@
+{
+  "id": "tg-290",
+  "titulo": "Pão fácil",
+  "url": "https://www.tudogostoso.com.br/receita/290-pao-facil.html",
+  "nota": 4.5,
+  "n_avaliacoes": 727,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 28,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "fermento para pão (50 g)",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de fermento para pão (50 g)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador, exceto a farinha de trigo.",
+      "Despeje numa vasilha grande e coloque a farinha aos poucos, mexendo bem até ficar em ponto de uma massa mole.",
+      "Coloque numa assadeira bem grande untada com margarina para crescer.",
+      "Tempo para crescer a massa: 1 hora.",
+      "Asse até dourar, em forno médio, por aproximadamente 50 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão fácil. Ingredientes: água, farinha de trigo, leite, açúcar, óleo, ovos, sal, fermento para pão (50 g). Preparo: Bata todos os ingredientes no liquidificador, exceto a farinha de trigo. Despeje numa vasilha grande e coloque a farinha aos poucos, mexendo bem até ficar em ponto de uma massa mole. Coloque numa assadeira bem grande untada com margarina para crescer."
+}

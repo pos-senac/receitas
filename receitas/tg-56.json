@@ -1,0 +1,71 @@
+{
+  "id": "tg-56",
+  "titulo": "Quibe frito",
+  "url": "https://www.tudogostoso.com.br/receita/56-quibe-frito.html",
+  "nota": 4.4,
+  "n_avaliacoes": 184,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Quibe frito",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 60,
+  "ingredientes": [
+    {
+      "nome": "carne moída",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne moída"
+    },
+    {
+      "nome": "farinha de trigo para quibe",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo para quibe"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "cebolas picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas picadas"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta do reino a gosto"
+    },
+    {
+      "nome": "hortelã a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "hortelã a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a farinha de trigo para quibe de molho por aproximadamente 3 horas, depois escorra e esprema a farinha de trigo.",
+      "Misture a carne moída, a manteiga, a cebola picada, o sal, a pimenta e o hortelã, antes de fritar se preferir passe por um moedor ou processador antes de fritar.",
+      "Enrole no formato de quibe e depois frite no óleo quente."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Escumadeira",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Quibe frito. Ingredientes: carne moída, farinha de trigo para quibe, manteiga, cebolas picadas, sal a gosto, pimenta do reino a gosto, hortelã a gosto. Preparo: Coloque a farinha de trigo para quibe de molho por aproximadamente 3 horas, depois escorra e esprema a farinha de trigo. Misture a carne moída, a manteiga, a cebola picada, o sal, a pimenta e o hortelã, antes de fritar se preferir passe por um moedor ou processador antes de fritar. Enrole no formato de quibe e depois frite no óleo quente."
+}

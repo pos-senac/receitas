@@ -1,0 +1,69 @@
+{
+  "id": "tg-30561",
+  "titulo": "Mousse de limão prático",
+  "url": "https://www.tudogostoso.com.br/receita/30561-mousse-de-limao-pratico.html",
+  "nota": 4.8,
+  "n_avaliacoes": 113,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de limão prático",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite (sem soro)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (sem soro)"
+    },
+    {
+      "nome": "gelatina de limão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina de limão"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água quente"
+    },
+    {
+      "nome": "Suco de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1 limão"
+    },
+    {
+      "nome": "Raspas de limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Raspas de limão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva a gelatina na água quente, reserve.",
+      "Coloque no liquidificador o leite condensado, o creme de leite (sem soro), o suco do limão e a gelatina dissolvida.",
+      "Bata por aproximadamente três a quatro minutos.",
+      "Coloque em um recipente, enfeite com raspas de limão e leve à geladeira.",
+      "Servir gelado."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Espátula de silicone",
+    "Expremedor de Limão",
+    "Ralador",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Mousse de limão prático. Ingredientes: leite condensado, creme de leite (sem soro), gelatina de limão, água quente, Suco de 1 limão, Raspas de limão. Preparo: Dissolva a gelatina na água quente, reserve. Coloque no liquidificador o leite condensado, o creme de leite (sem soro), o suco do limão e a gelatina dissolvida. Bata por aproximadamente três a quatro minutos."
+}

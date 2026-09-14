@@ -1,0 +1,62 @@
+{
+  "id": "tg-125528",
+  "titulo": "Bolo de caneca sem fermento",
+  "url": "https://www.tudogostoso.com.br/receita/125528-bolo-de-caneca-sem-fermento.html",
+  "nota": 4.5,
+  "n_avaliacoes": 167,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de caneca sem fermento",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 3,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "farinha",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de farinha"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de leite"
+    },
+    {
+      "nome": "(sopa de óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres (sopa de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque na caneca a farinha, o chocolate e o açúcar e misture bem com um garfo.",
+      "Adicione o ovo e misture bem.",
+      "Coloque o leite e o óleo e misture até ficar homogêneo.",
+      "Leve ao micro-ondas em potência máxima por 3 minutos.",
+      "Pode adicionar uma calda ou cobertura de sua escolha para ficar mais gostoso!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de caneca sem fermento. Ingredientes: farinha, açúcar, chocolate em pó, ovo, leite, (sopa de óleo. Preparo: Coloque na caneca a farinha, o chocolate e o açúcar e misture bem com um garfo. Adicione o ovo e misture bem. Coloque o leite e o óleo e misture até ficar homogêneo."
+}

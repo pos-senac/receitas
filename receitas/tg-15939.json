@@ -1,0 +1,132 @@
+{
+  "id": "tg-15939",
+  "titulo": "Pavê de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/15939-pave-de-chocolate.html",
+  "nota": 4.7,
+  "n_avaliacoes": 681,
+  "categoria": "Receitas pavês",
+  "subcategoria": "Pavê de chocolate",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 5,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "bolacha maisena",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de bolacha maisena"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de chocolate em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite de vaca (use a medida da lata de leite condensado)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite de vaca (use a medida da lata de leite condensado)"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de amido de milho"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite de vaca (a medida da lata de leite condensado)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite de vaca (a medida da lata de leite condensado)"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de amido de milho"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de chocolate em pó"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 claras"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de açúcar"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, misture o leite e o chocolate em pó até que esteja completamente dissolvido.",
+      "Molhe as bolachas no leite e reserve."
+    ],
+    "Creme branco": [
+      "Em uma panela, leve todos os ingredientes ao fogo médio e misture até obter uma consistência grossa e cremosa."
+    ],
+    "Creme de chocolate": [
+      "Repita o processo feito no creme branco."
+    ],
+    "Para a cobertura": [
+      "Bata as claras em neve com o açúcar até obter um creme consistente, adicione o creme de leite e misture delicadamente."
+    ],
+    "Montagem": [
+      "Em um refratário grande, despeje o creme branco, metade das bolachas, creme de chocolate, bolachas e claras em neve.",
+      "Repita o processo até preencher todo o refratário e leve à geladeira por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Bowl",
+    "Espátula de silicone",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Pavê de chocolate. Ingredientes: bolacha maisena, leite, chocolate em pó, leite condensado, leite de vaca (use a medida da lata de leite condensado), amido de milho, gemas, leite condensado, leite de vaca (a medida da lata de leite condensado), amido de milho, gemas, chocolate em pó, claras, açúcar, creme de leite sem soro. Preparo: Em uma tigela, misture o leite e o chocolate em pó até que esteja completamente dissolvido. Molhe as bolachas no leite e reserve. Em uma panela, leve todos os ingredientes ao fogo médio e misture até obter uma consistência grossa e cremosa."
+}

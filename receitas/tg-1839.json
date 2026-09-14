@@ -1,0 +1,104 @@
+{
+  "id": "tg-1839",
+  "titulo": "Cachorro quente de forno",
+  "url": "https://www.tudogostoso.com.br/receita/1839-cachorro-quente-de-forno.html",
+  "nota": 4.1,
+  "n_avaliacoes": 141,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Cachorro quente de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "salsicha",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de salsicha"
+    },
+    {
+      "nome": "pimentões",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pimentões"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de extrato de tomate"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de leite"
+    },
+    {
+      "nome": "pitada de sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pitada de sal"
+    },
+    {
+      "nome": "fermento de pão (fresco) ou 15 g de fermento biológico seco (granulado)",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de fermento de pão (fresco) ou 15 g de fermento biológico seco (granulado)"
+    },
+    {
+      "nome": "dedo no copo de óleo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 dedo no copo de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Dilua o fermento no leite morno, até que fique totalmente dissolvido.",
+      "Coloque o óleo e o sal, junte a farinha e amasse até que a massa fique boa de trabalhar (sem grudar).",
+      "Deixe descansar por aproximadamente 40 minutos"
+    ],
+    "Recheio:": [
+      "Enquanto a massa descansa, corte o pimentão, a cebola e o tomate em pedaços pequenos.",
+      "Coloque uma colher (sopa) de margarina na panela e deixe derreter.",
+      "Doure a cebola e depois coloque o pimentão, o tomate e as salsichas cortadas em rodelas.",
+      "Coloque sal a gosto, coloque água e deixe cozinhar.",
+      "Após levantar fervura, coloque o extrato de tomate e deixe ferver até encorpar."
+    ],
+    "Finalização:": [
+      "Divida a massa em duas partes.",
+      "Abra a primeira parte e cubra um tabuleiro todo, fazendo borda.",
+      "Coloque o recheio todo e depois abra a segunda parte da massa e coloque por cima.",
+      "Misture duas gemas com um pouco de catchup e passe por cima da massa.",
+      "Asse por aproximadamente 25 minutos e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cachorro quente de forno. Ingredientes: salsicha, pimentões, tomates, cebola, extrato de tomate, sal a gosto, farinha de trigo, leite, pitada de sal, fermento de pão (fresco) ou 15 g de fermento biológico seco (granulado), dedo no copo de óleo. Preparo: Dilua o fermento no leite morno, até que fique totalmente dissolvido. Coloque o óleo e o sal, junte a farinha e amasse até que a massa fique boa de trabalhar (sem grudar). Deixe descansar por aproximadamente 40 minutos"
+}

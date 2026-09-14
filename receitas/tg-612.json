@@ -1,0 +1,70 @@
+{
+  "id": "tg-612",
+  "titulo": "Pavê de Bis",
+  "url": "https://www.tudogostoso.com.br/receita/612-pave-de-bis.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1740,
+  "categoria": "Receitas pavês",
+  "subcategoria": "Pavê de Bis",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de amido de milho"
+    },
+    {
+      "nome": "ovos separados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos separados"
+    },
+    {
+      "nome": "chocolate Bis picado",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de chocolate Bis picado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture o leite condensado, o leite, a maisena, as gemas e leve ao fogo.",
+      "Mexa sempre até engrossar e reserve.",
+      "Forre o fundo de uma forma refratária grande com metade do creme.",
+      "Forme uma camada com o chocolate picado e complete com o restante do creme.",
+      "Bata as claras em neve e acrescente o açúcar, aos poucos, batendo sempre, até obter um suspiro firme.",
+      "Junte o creme de leite e mexa bem.",
+      "Coloque essa mistura por cima do creme e leve à geladeira até a hora de servir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pavê de Bis. Ingredientes: leite condensado, litro de leite, amido de milho, ovos separados, chocolate Bis picado, açúcar, creme de leite. Preparo: Misture o leite condensado, o leite, a maisena, as gemas e leve ao fogo. Mexa sempre até engrossar e reserve. Forre o fundo de uma forma refratária grande com metade do creme."
+}

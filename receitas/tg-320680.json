@@ -1,0 +1,56 @@
+{
+  "id": "tg-320680",
+  "titulo": "Pãozinho de aveia na airfryer de apenas 4 ingredientes e que fica pronto em 15 minutos",
+  "url": "https://www.tudogostoso.com.br/receita/320680-paozinho-de-aveia-na-airfryer-de-apenas-4-ingredientes-e-que-fica-pronto-em-15-minutos.html",
+  "nota": 5.0,
+  "n_avaliacoes": 5,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pãozinho de aveia na airfryer de apenas 4 ingredientes e que fica pronto em 15 minutos",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "farinha de aveia",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de farinha de aveia"
+    },
+    {
+      "nome": "cheia de leite em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) cheia de leite em pó"
+    },
+    {
+      "nome": "fermento químico em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "nome": "temperos a gosto (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "temperos a gosto (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o ovo, a farinha de aveia, o leite em pó e o fermento em uma tigela. Se desejar, pode temperar para não ficar muito adocicado adicionando sal, pimenta-do-reino, orégano, queijo ralado, ervas finas, etc.",
+      "Misture bem até formar uma mistura homogênea. Ela não é uma massa muito densa, então não se preocupe se parecer líquida.",
+      "Passe a massa para uma forma de bolo pequena ou então um ramequim untado com óleo ou azeite.",
+      "Coloque seu pãozinho de aveia na airfryer preaquecida a 180ºC por cerca de 10 minutos ou o suficiente para assar por dentro e dourar por cima.",
+      "Sirva quentinho ou espere esfriar, conforme preferir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pãozinho de aveia na airfryer de apenas 4 ingredientes e que fica pronto em 15 minutos. Ingredientes: ovo, farinha de aveia, cheia de leite em pó, fermento químico em pó, temperos a gosto (opcional). Preparo: Coloque o ovo, a farinha de aveia, o leite em pó e o fermento em uma tigela. Se desejar, pode temperar para não ficar muito adocicado adicionando sal, pimenta-do-reino, orégano, queijo ralado, ervas finas, etc. Misture bem até formar uma mistura homogênea. Ela não é uma massa muito densa, então não se preocupe se parecer líquida. Passe a massa para uma forma de bolo pequena ou então um ramequim untado com óleo ou azeite."
+}

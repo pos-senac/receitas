@@ -1,0 +1,86 @@
+{
+  "id": "tg-93348",
+  "titulo": "Arroz de forno da Valéria",
+  "url": "https://www.tudogostoso.com.br/receita/93348-arroz-de-forno-da-valeria.html",
+  "nota": 4.7,
+  "n_avaliacoes": 105,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Arroz de forno da Valéria",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "1/2 xícaras de arroz cozido",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 1/2 xícaras de arroz cozido"
+    },
+    {
+      "nome": "linguiças calabresa cortadas em cubinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 linguiças calabresa cortadas em cubinhos"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "alho picadinhos",
+      "quantidade": "5",
+      "unidade": "dentes",
+      "texto_original": "5 dentes de alho picadinhos"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "tomate pelato",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de tomate pelato"
+    },
+    {
+      "nome": "Azeitonas verdes picadas a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeitonas verdes picadas a gosto"
+    },
+    {
+      "nome": "mussarela fatiada",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de mussarela fatiada"
+    },
+    {
+      "nome": "ovos cozidos picadinhos e temperados com sal e azeite de oliva",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos cozidos picadinhos e temperados com sal e azeite de oliva"
+    },
+    {
+      "nome": "Queijo ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo ralado a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela refogue a calabresa, o alho e a cebola, até ficarem douradinhos.",
+      "Com o fogo mais baixo acrescente , o milho verde, as azeitonas e o molho de tomate pelato.",
+      "Junte o arroz e misture até ficar todo por igual. Desligue o fogo e acrescente os ovos picados.",
+      "Coloque o arroz em um refratário, salpique queijo ralado e cubra com a mussarela fatiada.",
+      "Leve ao forno até que o queijo esteja gratinado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Arroz de forno da Valéria. Ingredientes: 1/2 xícaras de arroz cozido, linguiças calabresa cortadas em cubinhos, cebola picadinha, alho picadinhos, milho verde, tomate pelato, Azeitonas verdes picadas a gosto, mussarela fatiada, ovos cozidos picadinhos e temperados com sal e azeite de oliva, Queijo ralado a gosto. Preparo: Em uma panela refogue a calabresa, o alho e a cebola, até ficarem douradinhos. Com o fogo mais baixo acrescente , o milho verde, as azeitonas e o molho de tomate pelato. Junte o arroz e misture até ficar todo por igual. Desligue o fogo e acrescente os ovos picados."
+}

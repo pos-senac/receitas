@@ -1,0 +1,85 @@
+{
+  "id": "tg-38617",
+  "titulo": "Bolo pão de queijo",
+  "url": "https://www.tudogostoso.com.br/receita/38617-bolo-pao-de-queijo.html",
+  "nota": 4.7,
+  "n_avaliacoes": 263,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Bolo pão de queijo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de sal"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "queijo mussarela picada",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo mussarela picada"
+    },
+    {
+      "nome": "polvilho doce",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de polvilho doce"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "queijo parmesão ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo parmesão ralado para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o óleo, o leite, os ovos e o sal.",
+      "Reserve 2 colheres (sopa) do queijo parmesão para polvilhar.",
+      "Adicione o restante do queijo parmesão e a mussarela ralada à mistura do liquidificador, batendo até ficar uma massa homogênea.",
+      "Reserve.",
+      "Em um recipiente, coloque o polvilho doce e a mistura reservada.",
+      "Mexa com uma colher e se desejar, acrescente orégano e salsinha.",
+      "A seguir, adicione o fermento e mexa bem.",
+      "Coloque em assadeira redonda de buraco no centro, untada e enfarinhada, e polvilhe as 2 colheres do queijo reservado.",
+      "Leve ao forno preaquecido (200º C) por 20 a 25 minutos.",
+      "Sirva quente ou frio."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo pão de queijo. Ingredientes: óleo, leite, ovos, sal, queijo parmesão ralado, queijo mussarela picada, polvilho doce, fermento em pó, queijo parmesão ralado para polvilhar. Preparo: Bata no liquidificador o óleo, o leite, os ovos e o sal. Reserve 2 colheres (sopa) do queijo parmesão para polvilhar. Adicione o restante do queijo parmesão e a mussarela ralada à mistura do liquidificador, batendo até ficar uma massa homogênea."
+}

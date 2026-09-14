@@ -1,0 +1,81 @@
+{
+  "id": "tg-125788",
+  "titulo": "Salpicão de frango simples",
+  "url": "https://www.tudogostoso.com.br/receita/125788-salpicao-de-frango-simples.html",
+  "nota": 4.7,
+  "n_avaliacoes": 574,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Salpicão de frango simples",
+  "nivel": null,
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "cenouras grandes raladas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras grandes raladas"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilha"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "uva passa",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de uva passa"
+    },
+    {
+      "nome": "maçã",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maçã"
+    },
+    {
+      "nome": "maionese a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "maionese a gosto"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    },
+    {
+      "nome": "batata palha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "batata palha a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes, menos a batata palha.",
+      "Depois de tudo misturado, forre com a batata palha.",
+      "Depois, e só servir."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Salpicão de frango simples. Ingredientes: peito de frango cozido e desfiado, cenouras grandes raladas, ervilha, milho verde, uva passa, maçã, maionese a gosto, cheiro-verde a gosto, batata palha a gosto. Preparo: Misture todos os ingredientes, menos a batata palha. Depois de tudo misturado, forre com a batata palha. Depois, e só servir."
+}

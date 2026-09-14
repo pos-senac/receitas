@@ -1,0 +1,94 @@
+{
+  "id": "tg-48083",
+  "titulo": "Bolo de cenoura fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/48083-bolo-de-cenoura-fofinho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 671,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura fofinho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 50,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "cenouras médias",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras médias"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento em pó"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de chocolate em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Coloque no liquidificador a cenoura descascada e picada, os ovos inteiros e o azeite, bata até formar um creme.",
+      "Em uma vasilha separada (pode ser a bacia da batedeira) coloque o trigo e o açúcar.",
+      "Junte o creme do liquidificador e bata por alguns minutos.",
+      "Por último, coloque o fermento em pó e mexa bem.",
+      "Coloque para assar em forno médio, preaquecido, por aproximadamente 40 minutos, ou até dourar."
+    ],
+    "Cobertura": [
+      "Coloque todos os ingredientes em uma panela e mexa até engrossar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de cenoura fofinho. Ingredientes: cenouras médias, ovos, óleo, fermento em pó, trigo, açúcar, margarina, leite condensado, chocolate em pó, leite. Preparo: Coloque no liquidificador a cenoura descascada e picada, os ovos inteiros e o azeite, bata até formar um creme. Em uma vasilha separada (pode ser a bacia da batedeira) coloque o trigo e o açúcar. Junte o creme do liquidificador e bata por alguns minutos."
+}

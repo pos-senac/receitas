@@ -1,0 +1,61 @@
+{
+  "id": "tg-297",
+  "titulo": "Pudim de micro-ondas",
+  "url": "https://www.tudogostoso.com.br/receita/297-pudim-de-micro-ondas.html",
+  "nota": 3.9,
+  "n_avaliacoes": 724,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de micro-ondas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite comum",
+      "quantidade": "1 e 1/2",
+      "unidade": "lata",
+      "texto_original": "1 e 1/2 lata de leite comum"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "10",
+      "unidade": "colheres (sopa)",
+      "texto_original": "10 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes do pudim manualmente.",
+      "Para a calda, coloque o açúcar e a água em um refratário de anel, misture levemente e leve ao forno micro-ondas por cerca de 5 minutos na potência alta, até dourar.",
+      "Misture bem.",
+      "Caso você deseje uma calda mais escura, acrescente mais 1 minuto ou de acordo com seu gosto.",
+      "Coloque sobre a calda o restante dos ingredientes do pudim (já misturados), e leve ao forno micro-ondas novamente por 8 a 10 minutos em potência alta."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Micro-ondas",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Pudim de micro-ondas. Ingredientes: leite condensado, leite comum, ovos, açúcar, água. Preparo: Misture todos os ingredientes do pudim manualmente. Para a calda, coloque o açúcar e a água em um refratário de anel, misture levemente e leve ao forno micro-ondas por cerca de 5 minutos na potência alta, até dourar. Misture bem."
+}

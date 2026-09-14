@@ -1,0 +1,82 @@
+{
+  "id": "tg-367",
+  "titulo": "Tutu de feijão",
+  "url": "https://www.tudogostoso.com.br/receita/367-tutu-de-feijao.html",
+  "nota": 4.3,
+  "n_avaliacoes": 134,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Tutu de feijão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "feijão cozido",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de feijão cozido"
+    },
+    {
+      "nome": "cebola pequena picada em cubinhos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena picada em cubinhos"
+    },
+    {
+      "nome": "bacon picado em cubinhos",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de bacon picado em cubinhos"
+    },
+    {
+      "nome": "alho picadinhos,",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho picadinhos,"
+    },
+    {
+      "nome": "cheiro verde picado (opcional salsão)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de cheiro verde picado (opcional salsão)"
+    },
+    {
+      "nome": "gomo de linguiça calabreza cortada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gomo de linguiça calabreza cortada em rodelas"
+    },
+    {
+      "nome": "Farinha de mandioca crua",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de mandioca crua"
+    },
+    {
+      "nome": "Orégano, sal e pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano, sal e pimenta do reino a gosto"
+    },
+    {
+      "nome": "Óleo de milho ou soja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo de milho ou soja"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Fritar a cebola, o alho, o bacon e a lingüiça em uma frigideira grande.",
+      "Junte o feijão, os temperos e o cheiro verde e por fim a farinha até dar o ponto desejado, mais cremoso ou mais sequinho.",
+      "Sirva quente com arroz branco e bisteca de porco."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Colher de silicone",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Tutu de feijão. Ingredientes: feijão cozido, cebola pequena picada em cubinhos, bacon picado em cubinhos, alho picadinhos,, cheiro verde picado (opcional salsão), gomo de linguiça calabreza cortada em rodelas, Farinha de mandioca crua, Orégano, sal e pimenta do reino a gosto, Óleo de milho ou soja. Preparo: Fritar a cebola, o alho, o bacon e a lingüiça em uma frigideira grande. Junte o feijão, os temperos e o cheiro verde e por fim a farinha até dar o ponto desejado, mais cremoso ou mais sequinho. Sirva quente com arroz branco e bisteca de porco."
+}

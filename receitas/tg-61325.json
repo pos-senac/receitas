@@ -1,0 +1,113 @@
+{
+  "id": "tg-61325",
+  "titulo": "Cuscuz paulista",
+  "url": "https://www.tudogostoso.com.br/receita/61325-cuscuz-paulista.html",
+  "nota": 4.7,
+  "n_avaliacoes": 612,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Cuscuz paulista",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "azeite",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de azeite"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "ou caixa de molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata ou caixa de molho de tomate"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de água"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilha"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "pimentão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão"
+    },
+    {
+      "nome": "sardinha ou atum",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de sardinha ou atum"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    },
+    {
+      "nome": "sal e temperos a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e temperos a gosto"
+    },
+    {
+      "nome": "tablete de caldo de legumes ou do seu sabor preferido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de legumes ou do seu sabor preferido"
+    },
+    {
+      "nome": "farinha de milho grossa",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de milho grossa"
+    },
+    {
+      "nome": "ovos cozidos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos cozidos"
+    },
+    {
+      "nome": "tomate para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tomate para decorar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue no azeite, a cebola, o pimentão, as azeitonas, a ervilha, o milho verde, o molho de tomate, o cheiro-verde, a sardinha, os temperos e o tablete de caldo .",
+      "Coloque a água, deixe ferver, coloque a farinha de milho e cozinhe.",
+      "Unte a forma com azeite, e coloque os ovos, os tomates e a sardinha por baixo.",
+      "Coloque a massa na forma, deixe esfriar e desenforme."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Cuscuz paulista. Ingredientes: azeite, cebola picada, ou caixa de molho de tomate, água, ervilha, milho verde, pimentão, sardinha ou atum, cheiro-verde a gosto, sal e temperos a gosto, tablete de caldo de legumes ou do seu sabor preferido, farinha de milho grossa, ovos cozidos, tomate para decorar. Preparo: Refogue no azeite, a cebola, o pimentão, as azeitonas, a ervilha, o milho verde, o molho de tomate, o cheiro-verde, a sardinha, os temperos e o tablete de caldo . Coloque a água, deixe ferver, coloque a farinha de milho e cozinhe. Unte a forma com azeite, e coloque os ovos, os tomates e a sardinha por baixo."
+}

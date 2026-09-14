@@ -1,0 +1,68 @@
+{
+  "id": "tg-85204",
+  "titulo": "Purê de Batata Cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/85204-pure-de-batata-cremoso.html",
+  "nota": 4.7,
+  "n_avaliacoes": 170,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Purê de Batata Cremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "batata",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batata"
+    },
+    {
+      "nome": "latinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 latinha de creme de leite"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de manteiga"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    },
+    {
+      "nome": "sopa de requeijão",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de requeijão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque as batatas e coloque em uma panela para cozinhar.",
+      "Acrescente o sal.",
+      "Quando você espetar as batatas com uma faca e esta entrar facilmente sua batata está cozida.",
+      "Escorra-as, esprema na panela, acrescente o leite a manteiga e misture bem, coloque no fogo médio, mexendo coloque o creme de leite, e o requeijão, o toque final será o queijo ralado.",
+      "Esse purê fica macio e gostoso, acompanha muito bem carnes e frango."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Purê de Batata Cremoso. Ingredientes: batata, latinha de creme de leite, Sal a gosto, leite, sopa de manteiga, queijo ralado, sopa de requeijão. Preparo: Descasque as batatas e coloque em uma panela para cozinhar. Acrescente o sal. Quando você espetar as batatas com uma faca e esta entrar facilmente sua batata está cozida."
+}

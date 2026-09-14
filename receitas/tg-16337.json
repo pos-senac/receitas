@@ -1,0 +1,145 @@
+{
+  "id": "tg-16337",
+  "titulo": "Empadão de palmito especial",
+  "url": "https://www.tudogostoso.com.br/receita/16337-empadao-de-palmito-especial.html",
+  "nota": 4.7,
+  "n_avaliacoes": 144,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Empadão de palmito especial",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de azeite"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picado"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "vidro de palmito picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de palmito picado"
+    },
+    {
+      "nome": "azeitonas verdes picadas",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de azeitonas verdes picadas"
+    },
+    {
+      "nome": "tomate sem pele picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate sem pele picado"
+    },
+    {
+      "nome": "tablete de caldo de sua preferencia",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de sua preferencia"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "Salsinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de requeijão"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de trigo"
+    },
+    {
+      "nome": "gordura vegetal hidrogenada",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de gordura vegetal hidrogenada"
+    },
+    {
+      "nome": "sopa de queijo ralado opcional",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de queijo ralado opcional"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "guaraná",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de guaraná"
+    },
+    {
+      "nome": "Gema para pincelar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Gema para pincelar"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio:": [
+      "Refogue no azeite o alho a cebola o palmito o tomate e as azeitonas.",
+      "Misture a água o caldo deixe uns 5 minutos, misture o leite, deixe ferver e misture a farinha de uma vez.",
+      "Mexa rapidamente até soltar da panela retire do fogo e misture a salsinha."
+    ],
+    "Massa:": [
+      "Misture a farinha, a gordura, o sal, o queijo e aos poucos o guaraná as vezes não é preciso usar todo o guaraná amasse bem até não grudar nas mãos.",
+      "Forre o fundo e lateral de uma forma distribua o recheio já frio o requeijão e o queijo ralado.",
+      "Cubra com o restante da massa pincele a gema e leve para assar em forno quente até dourar mais ou menos 30 minutos.",
+      "Essa massa é maravilhosa fica leve crocante e deliciosa.",
+      "O recheio é a gosto pode-se variar à vontade."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Empadão de palmito especial. Ingredientes: sopa de azeite, alho picado, cebola picada, vidro de palmito picado, azeitonas verdes picadas, tomate sem pele picado, tablete de caldo de sua preferencia, água, leite, sopa de farinha de trigo, Salsinha, requeijão, queijo ralado, farinha de trigo, gordura vegetal hidrogenada, sopa de queijo ralado opcional, Sal a gosto, guaraná, Gema para pincelar. Preparo: Refogue no azeite o alho a cebola o palmito o tomate e as azeitonas. Misture a água o caldo deixe uns 5 minutos, misture o leite, deixe ferver e misture a farinha de uma vez. Mexa rapidamente até soltar da panela retire do fogo e misture a salsinha."
+}

@@ -1,0 +1,107 @@
+{
+  "id": "tg-2089",
+  "titulo": "Lasanha com massa de panqueca",
+  "url": "https://www.tudogostoso.com.br/receita/2089-lasanha-com-massa-de-panqueca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 117,
+  "categoria": "Receitas lasanha",
+  "subcategoria": "Lasanha com massa de panqueca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) óleo"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de carne moída"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de extrato de tomate"
+    },
+    {
+      "nome": "água fervente e sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "água fervente e sal a gosto"
+    },
+    {
+      "nome": "e meia (chá) leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e meia (chá) leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "tablete de caldo de legumes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de legumes"
+    },
+    {
+      "nome": "Cebolinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebolinha a gosto"
+    },
+    {
+      "nome": "400g de mussarela",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "400g de mussarela"
+    },
+    {
+      "nome": "400g de presunto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "400g de presunto"
+    },
+    {
+      "nome": "Parmesão ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Parmesão ralado"
+    }
+  ],
+  "modo_preparo": {
+    "Molho": [
+      "numa panela aqueça o óleo, doure a cebola e frite a carne até dourar.",
+      "Junte o extrato de tomate, misture e acrescente a água fervente até atingir um molho com uma boa consistência.",
+      "Tempere a gosto e reserve."
+    ],
+    "Massa": [
+      "bater no liquidificador o leite, a farinha, os ovos e o caldo de legumes, dissolvido num pouco de água quente, e a cebolinha.",
+      "Aqueça numa frigideira antiaderente, com umas gotas de óleo para não grudar a massa.",
+      "Despeje com uma concha de feijão pequenas quantidades de massa espalhando no fundo da frigideira.",
+      "Faça panquecas finas até o terminar a massa."
+    ],
+    "Montagem": [
+      "numa forma refratária monte a lasanha, a primeira camada de molho, massa, mussarela, presunto.",
+      "A última camada deve ser de mussarela e molho.",
+      "Polvilhe o queijo ralado e leve ao forno quente para derreter o queijo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Lasanha com massa de panqueca. Ingredientes: óleo, carne moída, extrato de tomate, água fervente e sal a gosto, e meia (chá) leite, farinha de trigo, ovos, tablete de caldo de legumes, Cebolinha a gosto, 400g de mussarela, 400g de presunto, Parmesão ralado. Preparo: numa panela aqueça o óleo, doure a cebola e frite a carne até dourar. Junte o extrato de tomate, misture e acrescente a água fervente até atingir um molho com uma boa consistência. Tempere a gosto e reserve."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "tg-142450",
+  "titulo": "Frango assado na cerveja - chef Vitor Monteiro",
+  "url": "https://www.tudogostoso.com.br/receita/142450-frango-assado-na-cerveja-chef-vitor-monteiro.html",
+  "nota": 4.7,
+  "n_avaliacoes": 146,
+  "categoria": "Receitas aves",
+  "subcategoria": "Frango assado na cerveja - chef Vitor Monteiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 65,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "coxas e sobrecoxas de frango",
+      "quantidade": "1 e 1/2",
+      "unidade": "kg",
+      "texto_original": "1 e 1/2 kg de coxas e sobrecoxas de frango"
+    },
+    {
+      "nome": "cheia de mostarda",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) cheia de mostarda"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de orégano"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "10",
+      "unidade": "dentes",
+      "texto_original": "10 dentes de alho amassados"
+    },
+    {
+      "nome": "cebolas médias picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas médias picadas"
+    },
+    {
+      "nome": "cheias de maionese",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres cheias de maionese"
+    },
+    {
+      "nome": "rasa de pimenta-do-reino",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de pimenta-do-reino"
+    },
+    {
+      "nome": "vinagre branco",
+      "quantidade": "1/2",
+      "unidade": "copo (requeijão)",
+      "texto_original": "1/2 copo (requeijão) de vinagre branco"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sal"
+    },
+    {
+      "nome": "cerveja clara (adicione apenas no momento de assar)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de cerveja clara (adicione apenas no momento de assar)"
+    },
+    {
+      "nome": "batatas médias sem casca e cortadas ao meio",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batatas médias sem casca e cortadas ao meio"
+    },
+    {
+      "nome": "cebola grande fatiada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande fatiada"
+    },
+    {
+      "nome": "forma grande untada com manteiga ou margarina",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "forma grande untada com manteiga ou margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture os ingredientes da marinada com o frango.",
+      "Não coloque a cerveja neste momento.",
+      "Armazene na geladeira de um dia para o outro.",
+      "Acomode na forma, o frango com a pele virada para baixo com as batatas, e por cima despeje o caldo da marinada e a cerveja.",
+      "Asse por 30 minutos em fogo alto.",
+      "Retire a forma do forno com cuidado e com o auxílio de uma concha, elimine o excesso de líquido.",
+      "Vire os pedaços de frango para que a pele fique para cima.",
+      "Espalhe a cebola fatiada por cima.",
+      "Asse por mais 30 minutos ou até a pele dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango assado na cerveja - chef Vitor Monteiro. Ingredientes: coxas e sobrecoxas de frango, cheia de mostarda, orégano, alho amassados, cebolas médias picadas, cheias de maionese, rasa de pimenta-do-reino, vinagre branco, sal, cerveja clara (adicione apenas no momento de assar), batatas médias sem casca e cortadas ao meio, cebola grande fatiada, forma grande untada com manteiga ou margarina. Preparo: Misture os ingredientes da marinada com o frango. Não coloque a cerveja neste momento. Armazene na geladeira de um dia para o outro."
+}

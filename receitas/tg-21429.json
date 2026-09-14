@@ -1,0 +1,48 @@
+{
+  "id": "tg-21429",
+  "titulo": "Ganache",
+  "url": "https://www.tudogostoso.com.br/receita/21429-ganache.html",
+  "nota": 4.5,
+  "n_avaliacoes": 147,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Ganache",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 7,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "150g de chocolate ao leite ou meio amargo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "150g de chocolate ao leite ou meio amargo"
+    },
+    {
+      "nome": "200g de creme de leite fresco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de creme de leite fresco"
+    },
+    {
+      "nome": "sopa manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Derreter o chocolate no microondas. Para isso, coloque o chocolate em um recipiente de vidro, leve ao micro-ondas e na potência máxima deixe por 1 minuto.",
+      "Enquanto isso derreta a manteiga.",
+      "Passado o tempo, retire o chocolate do microondas e mexa. Se perceber que o chocolate não derreteu bem, deixe por mais 30 segundos no micro-ondas.",
+      "Coloque o chocolate derretido numa panela junto com a manteiga derretida e o creme de leite. Deixe em fogo baixo e mexa até ficar um creme homogêneo.",
+      "O ganache é ótimo para cobrir bolos de chocolate, cenoura, tortinhas, pães doces."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de silicone"
+  ],
+  "texto_para_embedding": "Ganache. Ingredientes: 150g de chocolate ao leite ou meio amargo, 200g de creme de leite fresco, sopa manteiga. Preparo: Derreter o chocolate no microondas. Para isso, coloque o chocolate em um recipiente de vidro, leve ao micro-ondas e na potência máxima deixe por 1 minuto. Enquanto isso derreta a manteiga. Passado o tempo, retire o chocolate do microondas e mexa. Se perceber que o chocolate não derreteu bem, deixe por mais 30 segundos no micro-ondas."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tg-54592",
+  "titulo": "Cobertura de chocolate para bolo",
+  "url": "https://www.tudogostoso.com.br/receita/54592-cobertura-de-chocolate-para-bolo.html",
+  "nota": 4.4,
+  "n_avaliacoes": 129,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cobertura de chocolate para bolo",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de chocolate em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela o leite, o chocolate em pó e a margarina.",
+      "Leve ao fogo médio até ferver.",
+      "Quando começar a ferver acrescente o leite condensado.",
+      "Mexa até ferver e ficar um pouco consistente.",
+      "Retire do fogo e está pronta."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Cobertura de chocolate para bolo. Ingredientes: leite condensado, leite, margarina, chocolate em pó. Preparo: Coloque em uma panela o leite, o chocolate em pó e a margarina. Leve ao fogo médio até ferver. Quando começar a ferver acrescente o leite condensado."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "tg-81595",
+  "titulo": "Batatas gratinadas com bacon",
+  "url": "https://www.tudogostoso.com.br/receita/81595-batatas-gratinadas-com-bacon.html",
+  "nota": 4.6,
+  "n_avaliacoes": 200,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Batatas gratinadas com bacon",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "batatas médias",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 batatas médias"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "bacon defumado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de bacon defumado"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo mussarela"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque e corte as batatas em rodelas.",
+      "Cozinhe as batatas em água com sal (não as deixar cozer muito para não se desfazerem).",
+      "Coloque as batatas numa assadeira.",
+      "Corte o bacon aos cubinhos e junte às batatas.",
+      "Espalhe o queijo por cima das batatas e do bacon e polvilhe tudo com orégano.",
+      "Deite um fio de azeite por cima e leve ao forno quente, durante alguns minutos (o suficiente para tostar o bacon e o queijo)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Batatas gratinadas com bacon. Ingredientes: batatas médias, sal, bacon defumado, queijo mussarela, orégano, azeite. Preparo: Descasque e corte as batatas em rodelas. Cozinhe as batatas em água com sal (não as deixar cozer muito para não se desfazerem). Coloque as batatas numa assadeira."
+}

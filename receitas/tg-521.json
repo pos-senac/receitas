@@ -1,0 +1,71 @@
+{
+  "id": "tg-521",
+  "titulo": "Bolo de nata",
+  "url": "https://www.tudogostoso.com.br/receita/521-bolo-de-nata.html",
+  "nota": 4.6,
+  "n_avaliacoes": 151,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de nata",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "nata",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de nata"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de amido de milho"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes na batedeira, menos o fermento, até a massa ficar bem clarinha.",
+      "Misture o fermento, sem bater.",
+      "Coloque para assar em uma forma retangular por uns 40 minutos aproximadamente."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Espátula para bolo",
+    "Forma",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de nata. Ingredientes: nata, ovos, amido de milho, farinha de trigo, leite, açúcar, fermento em pó. Preparo: Bata todos os ingredientes na batedeira, menos o fermento, até a massa ficar bem clarinha. Misture o fermento, sem bater. Coloque para assar em uma forma retangular por uns 40 minutos aproximadamente."
+}

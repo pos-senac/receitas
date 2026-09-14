@@ -1,0 +1,84 @@
+{
+  "id": "tg-100781",
+  "titulo": "Bolo de banana e aveia",
+  "url": "https://www.tudogostoso.com.br/receita/100781-bolo-de-banana-e-aveia.html",
+  "nota": 4.8,
+  "n_avaliacoes": 776,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana e aveia",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "aveia fina (1 caixinha)",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de aveia fina (1 caixinha)"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) fermento"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "bananas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 bananas"
+    },
+    {
+      "nome": "1/2 xícaras de açúcar (pode ser mascavo)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícaras de açúcar (pode ser mascavo)"
+    },
+    {
+      "nome": "canela",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de canela"
+    },
+    {
+      "nome": "castanha de cajú ou do Pará picada",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de castanha de cajú ou do Pará picada"
+    },
+    {
+      "nome": "passas de uva",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de passas de uva"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os 4 ovos, 1/2 xícara de óleo, 4 bananas, 1 1/2 xícara de açúcar (pode ser mascavo).",
+      "Despeje esta mistura na aveia fina com o fermento e opcionais a gosto.",
+      "Leve para assar em forma untada, em forno médio, pré-aquecido, por cerca de 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de banana e aveia. Ingredientes: aveia fina (1 caixinha), fermento, ovos, óleo, bananas, 1/2 xícaras de açúcar (pode ser mascavo), canela, castanha de cajú ou do Pará picada, passas de uva. Preparo: Bata no liquidificador os 4 ovos, 1/2 xícara de óleo, 4 bananas, 1 1/2 xícara de açúcar (pode ser mascavo). Despeje esta mistura na aveia fina com o fermento e opcionais a gosto. Leve para assar em forma untada, em forno médio, pré-aquecido, por cerca de 40 minutos, ou até dourar."
+}

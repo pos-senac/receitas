@@ -1,0 +1,83 @@
+{
+  "id": "tg-6796",
+  "titulo": "Bolo de Laranja com Casca",
+  "url": "https://www.tudogostoso.com.br/receita/6796-bolo-de-laranja-com-casca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 685,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de Laranja com Casca",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 25,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "laranja média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 laranja média"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "suco de laranja peneirado",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de suco de laranja peneirado"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte a laranja em 4 pedaços, retire a parte branca do miolo e as sementes que estiverem aparentes.",
+      "Bata no liquidificador as laranjas, o óleo, os ovos e o açúcar.",
+      "Em uma vasilha, misture a farinha de trigo e o fermento.",
+      "Adicione o conteúdo do liquidificador à mistura, mexendo com colher de pau (não bater em batedeira).",
+      "Leve ao forno médio por, aproximadamente, 25 minutos em forma untada com margarina e polvilhada com farinha de trigo."
+    ],
+    "Cobertura": [
+      "Misture em uma panela todos os ingredientes e leve ao fogo, mexendo sempre até ferver.",
+      "Deixe cozinhar um pouco e despeje sobre o bolo assado ainda quente."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Formo de bolo",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo de Laranja com Casca. Ingredientes: laranja média, óleo, ovos, açúcar, farinha de trigo, fermento em pó, suco de laranja peneirado, amido de milho. Preparo: Corte a laranja em 4 pedaços, retire a parte branca do miolo e as sementes que estiverem aparentes. Bata no liquidificador as laranjas, o óleo, os ovos e o açúcar. Em uma vasilha, misture a farinha de trigo e o fermento."
+}

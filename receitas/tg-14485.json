@@ -1,0 +1,63 @@
+{
+  "id": "tg-14485",
+  "titulo": "Sopa de ervilha",
+  "url": "https://www.tudogostoso.com.br/receita/14485-sopa-de-ervilha.html",
+  "nota": 4.6,
+  "n_avaliacoes": 154,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de ervilha",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 35,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "ervilha desidratada (de pacote)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de ervilha desidratada (de pacote)"
+    },
+    {
+      "nome": "bacon",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de bacon"
+    },
+    {
+      "nome": "costelinha defumada",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de costelinha defumada"
+    },
+    {
+      "nome": "cebola bem picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola bem picada"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Na panela de pressão coloque o óleo, refogue a cebola e frite o bacon.",
+      "Deixe fritar bem o bacon até sair toda a gordura.",
+      "Após o bacon bem frito, acrescente a costelinha defumada e refogue um pouco.",
+      "Depois coloque a ervilha e encha a panela de água abaixo da marca do cabo da panela.",
+      "Cozinhe de 25 a 30 minutos.",
+      "Após cozida, mexa para dissolver os pedaços de ervilha que restaram.",
+      "É melhor servi-la com pão murcho do que com torrada."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Concha",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Sopa de ervilha. Ingredientes: ervilha desidratada (de pacote), bacon, costelinha defumada, cebola bem picada, óleo. Preparo: Na panela de pressão coloque o óleo, refogue a cebola e frite o bacon. Deixe fritar bem o bacon até sair toda a gordura. Após o bacon bem frito, acrescente a costelinha defumada e refogue um pouco."
+}

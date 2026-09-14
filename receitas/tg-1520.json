@@ -1,0 +1,55 @@
+{
+  "id": "tg-1520",
+  "titulo": "Massa para crepe",
+  "url": "https://www.tudogostoso.com.br/receita/1520-massa-para-crepe.html",
+  "nota": 4.7,
+  "n_avaliacoes": 289,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa para crepe",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1 e 1/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/4 xícara (chá) de leite"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "gotas de essência de baunilha",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 gotas de essência de baunilha"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador todos os ingredientes por 30 segundos.",
+      "Despeje uma concha da massa e distribua sobre uma frigideira untada com óleo",
+      "Ainda no fogo, recheie o crepe com os ingredientes de sua preferência.",
+      "Dobre a massa ao meio e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa para crepe. Ingredientes: farinha de trigo, leite, ovo, gotas de essência de baunilha, sal. Preparo: Bata no liquidificador todos os ingredientes por 30 segundos. Despeje uma concha da massa e distribua sobre uma frigideira untada com óleo Ainda no fogo, recheie o crepe com os ingredientes de sua preferência."
+}

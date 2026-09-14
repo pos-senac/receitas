@@ -1,0 +1,79 @@
+{
+  "id": "tg-32560",
+  "titulo": "Souflé de couve - flor",
+  "url": "https://www.tudogostoso.com.br/receita/32560-soufle-de-couve-flor.html",
+  "nota": 4.7,
+  "n_avaliacoes": 117,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Souflé de couve - flor",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "couve - flor média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 couve - flor média"
+    },
+    {
+      "nome": "ovos (claras e gemas separadas)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos (claras e gemas separadas)"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "rasas de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) rasas de farinha de trigo"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Colocar a couve - flor para cozinhar em água e sal, porém sem que se torne extremamente mole.",
+      "Prepare um molho branco colocando o leite, a farinha, o sal e a manteiga em uma panela.",
+      "Leve ao fogo até engrossar.",
+      "Reserve.",
+      "Pique a couve - flor e junte as gemas, o queijo e o molho branco, misturando bem.",
+      "Bata as claras em neve e junte delicadamente à mistura.",
+      "Coloque o souflé em um refratário untado com manteiga e farinha.",
+      "Asse em forno moderado, previamente aquecido, por aproximadamente 35 minutos ou até que se torne dourado.",
+      "Sirva quente como acompanhamento de carnes."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Bowl",
+    "Faca",
+    "Forno elétrico",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Souflé de couve - flor. Ingredientes: couve - flor média, ovos (claras e gemas separadas), queijo parmesão ralado, leite, manteiga, rasas de farinha de trigo, Sal a gosto. Preparo: Colocar a couve - flor para cozinhar em água e sal, porém sem que se torne extremamente mole. Prepare um molho branco colocando o leite, a farinha, o sal e a manteiga em uma panela. Leve ao fogo até engrossar."
+}

@@ -1,0 +1,135 @@
+{
+  "id": "tg-145227",
+  "titulo": "Filé de frango à parmegiana",
+  "url": "https://www.tudogostoso.com.br/receita/145227-file-de-frango-a-parmegiana.html",
+  "nota": 4.8,
+  "n_avaliacoes": 106,
+  "categoria": "Receitas aves",
+  "subcategoria": "Filé de frango à parmegiana",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "filé de frango",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de filé de frango"
+    },
+    {
+      "nome": "alho picadinho",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho picadinho"
+    },
+    {
+      "nome": "suco de limão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de limão a gosto"
+    },
+    {
+      "nome": "ervas finas a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "ervas finas a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    },
+    {
+      "nome": "ovos batidos com 1 pitada de sal",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batidos com 1 pitada de sal"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de rosca"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "tomates maduros picadinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates maduros picadinhos"
+    },
+    {
+      "nome": "caixinha de molho de tomate pronto",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de molho de tomate pronto"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xicara (chá)",
+      "texto_original": "1/2 xicara (chá) de água"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "tabletinho de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tabletinho de caldo de galinha"
+    },
+    {
+      "nome": "manjericão ou orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manjericão ou orégano a gosto"
+    },
+    {
+      "nome": "mussarela em fatias",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de mussarela em fatias"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os filés de frango com o alho, o suco de limão, as ervas finas e o sal a gosto.",
+      "Deixe na geladeira por 30 minutos.",
+      "Após esse tempo, passe nos ovos batidos e na farinha de rosca.",
+      "Frite em óleo não muito quente.",
+      "Retire e deixe descansar sobre papel absorvente."
+    ],
+    "Molho": [
+      "Doure a cebola no azeite e acrescente os tomates picadinhos, o molho pronto, a água e o caldo de galinha.",
+      "Deixe apurar um pouco, desligue e acrescente o manjericão ou o orégano.",
+      "Coloque os filés em um refratário.",
+      "Cubra com a mussarela em fatias.",
+      "Regue com o molho e leve ao forno bem quente, somente para derreter a mussarela.",
+      "Retire e sirva."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Frigideira funda",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Filé de frango à parmegiana. Ingredientes: filé de frango, alho picadinho, suco de limão a gosto, ervas finas a gosto, sal a gosto, óleo para fritar, ovos batidos com 1 pitada de sal, farinha de rosca, cebola picadinha, tomates maduros picadinhos, caixinha de molho de tomate pronto, água, azeite, tabletinho de caldo de galinha, manjericão ou orégano a gosto, mussarela em fatias. Preparo: Tempere os filés de frango com o alho, o suco de limão, as ervas finas e o sal a gosto. Deixe na geladeira por 30 minutos. Após esse tempo, passe nos ovos batidos e na farinha de rosca."
+}

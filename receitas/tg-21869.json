@@ -1,0 +1,103 @@
+{
+  "id": "tg-21869",
+  "titulo": "Massa de salgadinho para festa",
+  "url": "https://www.tudogostoso.com.br/receita/21869-massa-de-salgadinho-para-festa.html",
+  "nota": 4.6,
+  "n_avaliacoes": 158,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Massa de salgadinho para festa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "água quente",
+      "quantidade": "1",
+      "unidade": "l",
+      "texto_original": "1 l de água quente"
+    },
+    {
+      "nome": "tabletes de caldo (galinha, carne ou camarão)",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 tabletes de caldo (galinha, carne ou camarão)"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho amassado"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "700",
+      "unidade": "g",
+      "texto_original": "700 g de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "bolinhas (queijo ou queijo com presunto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "bolinhas (queijo ou queijo com presunto)"
+    },
+    {
+      "nome": "coxinha (frango ou frango com requeijão cremoso)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coxinha (frango ou frango com requeijão cremoso)"
+    },
+    {
+      "nome": "risoles (carne ou camarão)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "risoles (carne ou camarão)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Numa panela, coloque o óleo e o alho para dourar.",
+      "Após refogar, acrescente a água quente dissolvida com o caldo de sua preferência e em seguida coloque aos poucos a farinha de trigo.",
+      "Deixe cozinhar, mexendo até desgrudar do fundo da panela.",
+      "Reserve e deixe esfriar.",
+      "Faça os salgadinhos de seu gosto."
+    ],
+    "Para empanar:": [
+      "Passe os salgadinhos na farinha de trigo temperada com sal.",
+      "Depois coloque as bolinhas no leite, retire e coloque na farinha de rosca.",
+      "Em seguida, depois de bem empanados os salgadinhos, frite-os em óleo quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa de salgadinho para festa. Ingredientes: água quente, tabletes de caldo (galinha, carne ou camarão), óleo, alho amassado, farinha de trigo, leite, farinha de trigo, farinha de rosca, sal, bolinhas (queijo ou queijo com presunto), coxinha (frango ou frango com requeijão cremoso), risoles (carne ou camarão). Preparo: Numa panela, coloque o óleo e o alho para dourar. Após refogar, acrescente a água quente dissolvida com o caldo de sua preferência e em seguida coloque aos poucos a farinha de trigo. Deixe cozinhar, mexendo até desgrudar do fundo da panela."
+}

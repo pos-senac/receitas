@@ -1,0 +1,76 @@
+{
+  "id": "tg-1779",
+  "titulo": "Rosquinhas",
+  "url": "https://www.tudogostoso.com.br/receita/1779-rosquinhas.html",
+  "nota": 4.5,
+  "n_avaliacoes": 380,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Rosquinhas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de açúcar"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de margarina"
+    },
+    {
+      "nome": "farinha e trigo",
+      "quantidade": "1",
+      "unidade": "Kg",
+      "texto_original": "1 Kg de farinha e trigo"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "essência de baunilha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "essência de baunilha"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    },
+    {
+      "nome": "canela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos com o açúcar e a margarina. Junte o leite o fermento  a essência e por último a farinha de trigo. Modele a massa em rolinhos de espessura de um dedo e vá moldando no formato de rosquinhas. Frite em óleo quente e coloque sobre papel absorvente.No final retire o papel e polvilhe açúcar com canela e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Rosquinhas. Ingredientes: açúcar, sopa de margarina, farinha e trigo, chá de leite, ovos, sopa de fermento em pó, essência de baunilha, óleo para fritar, canela a gosto. Preparo: Bata os ovos com o açúcar e a margarina. Junte o leite o fermento  a essência e por último a farinha de trigo. Modele a massa em rolinhos de espessura de um dedo e vá moldando no formato de rosquinhas. Frite em óleo quente e coloque sobre papel absorvente.No final retire o papel e polvilhe açúcar com canela e sirva."
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tg-1418",
+  "titulo": "Quindim família",
+  "url": "https://www.tudogostoso.com.br/receita/1418-quindim-familia.html",
+  "nota": 4.2,
+  "n_avaliacoes": 242,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Quindim família",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 9,
+  "ingredientes": [
+    {
+      "nome": "gemas de ovo",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 gemas de ovo"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de coco ralado"
+    },
+    {
+      "nome": "vidro pequeno de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de leite de coco"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de açúcar"
+    },
+    {
+      "nome": "manteiga para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manteiga para untar"
+    },
+    {
+      "nome": "açúcar para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Separe as claras das gemas.",
+      "Unte com manteiga e açúcar uma forma com buraco no meio ou forminhas individuais.",
+      "Na tigela em que estão as gemas, junte o açúcar, o leite de coco e o coco ralado e misture delicadamente. É importante não misturar muito.",
+      "Coloque a mistura dentro da forma e leve ao forno preaquecido a 110°C por aproximadamente 50 minutos.",
+      "Para saber se o quindim está pronto, verifique se a parte de cima está corada e espete um palito dentro para ver se sai seco.",
+      "Quando o quindim estiver pronto, retire do forno e deixe ficar morno.",
+      "Coloque um prato por cima da forma e vire delicadamente para o quindim cair sobre o prato."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Quindim família. Ingredientes: gemas de ovo, coco ralado, vidro pequeno de leite de coco, açúcar, manteiga para untar, açúcar para untar. Preparo: Separe as claras das gemas. Unte com manteiga e açúcar uma forma com buraco no meio ou forminhas individuais. Na tigela em que estão as gemas, junte o açúcar, o leite de coco e o coco ralado e misture delicadamente. É importante não misturar muito."
+}

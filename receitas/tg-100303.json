@@ -1,0 +1,103 @@
+{
+  "id": "tg-100303",
+  "titulo": "Risoto de Camarão",
+  "url": "https://www.tudogostoso.com.br/receita/100303-risoto-de-camarao.html",
+  "nota": 4.8,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Risoto de Camarão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "camarão médio",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de camarão médio"
+    },
+    {
+      "nome": "1/2 xícara de arroz carnaroli ou arbóreo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícara de arroz carnaroli ou arbóreo"
+    },
+    {
+      "nome": "vinho branco seco",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de vinho branco seco"
+    },
+    {
+      "nome": "champignon (opcional) cortado em lâminas",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de champignon (opcional) cortado em lâminas"
+    },
+    {
+      "nome": "tomates (italiano) grandes, maduros e picados",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates (italiano) grandes, maduros e picados"
+    },
+    {
+      "nome": "cebolas pequenas raladas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas pequenas raladas"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho amassados"
+    },
+    {
+      "nome": "talo de salsão picadinho",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 talo de salsão picadinho"
+    },
+    {
+      "nome": "caldo de camarão (ou de peixe ou de legumes)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de camarão (ou de peixe ou de legumes)"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de creme de leite"
+    },
+    {
+      "nome": "Sal, parmesão, curry, salsinha, folha de louro e azeite a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal, parmesão, curry, salsinha, folha de louro e azeite a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Espremer um limão nos camarões e deixar descansando enquanto você rala as cebolas, pica os tomates e salsão, amassa os alhos.",
+      "Refogue metade do alho, uma das cebolas, 1 folha de louro e o talo de salsão no azeite.",
+      "Depois acrescente os tomates e refogue até formar um molho.",
+      "Pingue água só quando começar a grudar no fundo da panela.",
+      "Tempere suavemente.",
+      "Enxague os camarões, escorra-os e jogue-os sobre uma frigideira antiaderente (pode ser uma wok ou paellera) pré-aquecida com azeite e alho picado.",
+      "Salpique sobre eles sal e curry. Acrescente os champignons. Após grelhados, despeje o molho de tomate já pronto e refogue mais um pouco.",
+      "Reserve.",
+      "Esse prato tem que fazer por etapa, pois quando começar preparar o arroz, não se pode parar de mexer.",
+      "Coloque cerca de 1 litro de água para ferver com o caldo de camarão.",
+      "Coloque o restante da cebola e 1 folha de louro noutra panela e refogue com azeite. Despeje o arroz sem lavá-lo e mexa.",
+      "Depois coloque o vinho, sem parar de mexer. Quando evaporar o álcool, adicione a água fervente com o caldo, concha a concha, sem para de mexer, adicionando mais quando começar a secar.",
+      "Se a água fervida for pouca, é só aquecer mais (sem caldo), lembrando que o arroz arbóreo ou carnaroli cozinha em aproximadamente 17 minutos e rende mais que o arroz comum.",
+      "Vale lembrar, ainda, que risto se faz em fogo alto.",
+      "Após cozido, despeje-o na frigideira dos camarões, misturando delicadamente. Experimente o tempero e corrija o sal se precisar. Deixe terminando de cozinhar ou secar mais um pouco, caso necessário.",
+      "Desligue o fogo e acrescente o creme de leite, o parmesão e a salsinha picadinha. Mexa delicadamente, tampe a panela e espere uns 5 minutos para agregar o sabor. Sirva quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Risoto de Camarão. Ingredientes: camarão médio, 1/2 xícara de arroz carnaroli ou arbóreo, vinho branco seco, champignon (opcional) cortado em lâminas, tomates (italiano) grandes, maduros e picados, cebolas pequenas raladas, alho amassados, talo de salsão picadinho, caldo de camarão (ou de peixe ou de legumes), creme de leite, Sal, parmesão, curry, salsinha, folha de louro e azeite a gosto. Preparo: Espremer um limão nos camarões e deixar descansando enquanto você rala as cebolas, pica os tomates e salsão, amassa os alhos. Refogue metade do alho, uma das cebolas, 1 folha de louro e o talo de salsão no azeite. Depois acrescente os tomates e refogue até formar um molho."
+}

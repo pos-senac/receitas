@@ -1,0 +1,90 @@
+{
+  "id": "tg-36031",
+  "titulo": "Bolo de cenoura com calda de chocolate de microondas",
+  "url": "https://www.tudogostoso.com.br/receita/36031-bolo-de-cenoura-com-calda-de-chocolate-de-microondas.html",
+  "nota": 4.7,
+  "n_avaliacoes": 151,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura com calda de chocolate de microondas",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 10,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícara",
+      "texto_original": "2 xícara de açúcar"
+    },
+    {
+      "nome": "cenouras médias",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cenouras médias"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "tampinha de fermento peneirada com a farinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tampinha de fermento peneirada com a farinha"
+    },
+    {
+      "nome": "e ½ (sopa) de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher e ½ (sopa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de leite"
+    },
+    {
+      "nome": "Chocolate amargo em pó a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Chocolate amargo em pó a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador, colocar os ovos, o óleo e as cenouras.",
+      "Bater por 3 minutos para sumir o cheiro dos ovos.",
+      "Em uma vasilha à parte colocar os secos.",
+      "Misturar os dois e mexer bem.",
+      "Levar ao microondas por 10 minutos (em forma apropriada).",
+      "Enquanto isso fazer a calda.",
+      "Levar tudo ao fogo e mexer sempre, até engrossar.",
+      "Colocar em cima do bolo ainda quente.",
+      "Se o bolo for feito na forma de silicone, ele sai super fácil passando um pouco de óleo na forma e não quebra."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de cenoura com calda de chocolate de microondas. Ingredientes: farinha de trigo, óleo, açúcar, cenouras médias, ovos, tampinha de fermento peneirada com a farinha, e ½ (sopa) de margarina, açúcar, leite, Chocolate amargo em pó a gosto. Preparo: No liquidificador, colocar os ovos, o óleo e as cenouras. Bater por 3 minutos para sumir o cheiro dos ovos. Em uma vasilha à parte colocar os secos."
+}

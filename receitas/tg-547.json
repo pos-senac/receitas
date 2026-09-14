@@ -1,0 +1,61 @@
+{
+  "id": "tg-547",
+  "titulo": "Filé de peixe da mamãe",
+  "url": "https://www.tudogostoso.com.br/receita/547-file-de-peixe-da-mamae.html",
+  "nota": 4.6,
+  "n_avaliacoes": 285,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Filé de peixe da mamãe",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "filé de peixe",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de peixe"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "batatas cozidas cortadas em rodelas",
+      "quantidade": "1",
+      "unidade": "Kg",
+      "texto_original": "1 Kg de batatas cozidas cortadas em rodelas"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "Catchup",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Catchup"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um refratário médio coloque as batatas cozidas de tal forma que elas cubram o fundo.",
+      "Coloque os filés de peixe temperados com sal por cima das batatas. Misture o molho de tomate e o catchup e distribua essa mistura por cima dos filés.  Repita a operação, terminando com o molho.",
+      "Leve ao forno quente (200º) por 15 minutos.  Retire, coloque a mussarela, leve ao forno novamente para gratinar.",
+      "Sirva com arroz branco."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Filé de peixe da mamãe. Ingredientes: filé de peixe, Sal a gosto, batatas cozidas cortadas em rodelas, molho de tomate, Catchup, mussarela. Preparo: Em um refratário médio coloque as batatas cozidas de tal forma que elas cubram o fundo. Coloque os filés de peixe temperados com sal por cima das batatas. Misture o molho de tomate e o catchup e distribua essa mistura por cima dos filés.  Repita a operação, terminando com o molho. Leve ao forno quente (200º) por 15 minutos.  Retire, coloque a mussarela, leve ao forno novamente para gratinar."
+}

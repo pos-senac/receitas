@@ -1,0 +1,72 @@
+{
+  "id": "tg-20617",
+  "titulo": "Massa de pastel de feira profissional",
+  "url": "https://www.tudogostoso.com.br/receita/20617-pastel-de-feira.html",
+  "nota": 4.7,
+  "n_avaliacoes": 278,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa de pastel de feira profissional",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "água morna (ou um pouco mais)",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de água morna (ou um pouco mais)"
+    },
+    {
+      "nome": "óleo (de soja, milho, girassol ou algodão)",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo (de soja, milho, girassol ou algodão)"
+    },
+    {
+      "nome": "aguardente",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de aguardente"
+    },
+    {
+      "nome": "rasa de sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de sal"
+    },
+    {
+      "nome": "farinha de trigo para trabalhar a massa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo para trabalhar a massa"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a farinha misturada com o sal em uma vasilha ou uma mesa e abra um buraco no meio.",
+      "Nesse buraco, coloque o óleo, a aguardente e um pouco de água.",
+      "Misture a água e a farinha aos poucos, cada vez pegando um pouco mais de farinha da borda do buraco.",
+      "Quando a massa estiver ficando dura, coloque mais água.",
+      "A massa deve ficar macia. Se estiver um pouco grudenta, não tem problema. Mas caso esteja muito, coloque mais farinha e, se estiver dura, coloque mais água.",
+      "Em uma superfície enfarinhada, abra a massa com o auxílio de um rolo, de forma que ela fique bem fina.",
+      "Se não ficar fina, ela não fica crocante depois de fritar.",
+      "Recheie a gosto e feche com um garfo ou com o verso de uma faca.",
+      "Frite em óleo quente (não muito) em fogo médio-alto e escorra com o auxílio de uma escumadeira antes de deixar para secar em papel absorvente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Escumadeira",
+    "Frigideira funda",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Massa de pastel de feira profissional. Ingredientes: farinha de trigo, água morna (ou um pouco mais), óleo (de soja, milho, girassol ou algodão), aguardente, rasa de sal, farinha de trigo para trabalhar a massa. Preparo: Coloque a farinha misturada com o sal em uma vasilha ou uma mesa e abra um buraco no meio. Nesse buraco, coloque o óleo, a aguardente e um pouco de água. Misture a água e a farinha aos poucos, cada vez pegando um pouco mais de farinha da borda do buraco."
+}

@@ -1,0 +1,83 @@
+{
+  "id": "tg-95378",
+  "titulo": "Massa de pizza fácil, rápida e deliciosa",
+  "url": "https://www.tudogostoso.com.br/receita/95378-massa-de-pizza-facil-rapida-e-deliciosa.html",
+  "nota": 4.8,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Massa de pizza fácil, rápida e deliciosa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo (com ou sem fermento, tanto faz)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de trigo (com ou sem fermento, tanto faz)"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "fermento biológico seco",
+      "quantidade": "1",
+      "unidade": "pacote (10 g)",
+      "texto_original": "1 pacote (10 g) de fermento biológico seco"
+    },
+    {
+      "nome": "água (temperatura ambiente)",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de água (temperatura ambiente)"
+    },
+    {
+      "nome": "ovo inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente fundo, misture todos os ingredientes secos (farinha, açúcar, sal e fermento).",
+      "Após, faça uma cava (buraco com a colher) no meio dessa farinha e quebre 1 ovo inteiro e a manteiga (ou margarina), misture (amassando com a colher ou as mãos).",
+      "Após coloque a água aos poucos e amassando.",
+      "A massa está pronta quando estiver desgrudando das mãos (caso necessário, coloque mais um pouquinho de farinha ou de água).",
+      "Não precisa deixar esta massa descansar, é só abri-la na forma de pizza, colocar o molho de tomate e levar ao forno (já aquecido) por uns 3 ou 5 minutos, ou até a massa \"secar\" um pouquinho.",
+      "Fica na aparência daquelas massas que compramos pronta no mercado.",
+      "Caso queira fazer com borda recheada de catupiry, compre aquelas bisnagas de catupiry que vende no mercado.",
+      "Ao abrir a massa na forma de pizza, dê o espaço nas bordas de uns 2 dedos e coloque o catupiry em toda a volta (vai ficar com a borda uns 2 dedos de massa e depois vem o catupiry).",
+      "Esta massa que está na ponta (borda) da forma, vire-a, cobrindo o catupiry e cole na outra parte da massa (a que ficou depois do catupiry).",
+      "Depois de virar toda a borda, passe o dedo novamente, \"colando\" as duas partes e dentro, fica alto mesmo pois tem o catupiry.",
+      "Pincele somente a borda com azeite e espalhe no restante da massa o molho de tomate.",
+      "Leve ao forno (já aquecido) por uns 3 ou 5 minutos (ou até a massa \"secar\" um pouquinho (ficar na aparência daquelas massas que compramos prontas no mercado).",
+      "Faça o recheio de sua preferência (doce ou salgado) e leve ao forno até derreter o queijo."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Cortador de pizza",
+    "Espátula de silicone",
+    "Forno elétrico",
+    "Tigela",
+    "Forma de pizza"
+  ],
+  "texto_para_embedding": "Massa de pizza fácil, rápida e deliciosa. Ingredientes: farinha de trigo (com ou sem fermento, tanto faz), açúcar, sal, fermento biológico seco, água (temperatura ambiente), ovo inteiro, manteiga. Preparo: Em um recipiente fundo, misture todos os ingredientes secos (farinha, açúcar, sal e fermento). Após, faça uma cava (buraco com a colher) no meio dessa farinha e quebre 1 ovo inteiro e a manteiga (ou margarina), misture (amassando com a colher ou as mãos). Após coloque a água aos poucos e amassando."
+}

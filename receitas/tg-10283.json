@@ -1,0 +1,79 @@
+{
+  "id": "tg-10283",
+  "titulo": "Batata suíça",
+  "url": "https://www.tudogostoso.com.br/receita/10283-batata-suica.html",
+  "nota": 4.6,
+  "n_avaliacoes": 530,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Batata suíça",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "batatas",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de batatas"
+    },
+    {
+      "nome": "Manteiga para untar a frigideira",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Manteiga para untar a frigideira"
+    },
+    {
+      "nome": "Vasilha com água e sal para umedecer os dedos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Vasilha com água e sal para umedecer os dedos"
+    },
+    {
+      "nome": "Queijo cremoso, mussarela, abobrinha crua fatiada em rodelas finas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo cremoso, mussarela, abobrinha crua fatiada em rodelas finas"
+    },
+    {
+      "nome": "Queijo cremoso, mussarela, carne seca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo cremoso, mussarela, carne seca"
+    },
+    {
+      "nome": "Queijo cremoso, mussarela, frango desfiado com milho verde ou frango com tomate seco e cogumelo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo cremoso, mussarela, frango desfiado com milho verde ou frango com tomate seco e cogumelo"
+    },
+    {
+      "nome": "Queijo cremoso, mussarela, estrogonofe grosso",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo cremoso, mussarela, estrogonofe grosso"
+    },
+    {
+      "nome": "Queijo cremoso, mussarela, camarão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo cremoso, mussarela, camarão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve as batatas para cozinhar em uma panela com água.",
+      "Quando começar a ferver, marque 7 minutos e retire as batatas.",
+      "Leve para geladeira e deixe de um dia para o outro.",
+      "Retire da geladeira e passe no ralo grosso.",
+      "Unte uma frigideira de 16 cm de diâmetro com manteiga.",
+      "Coloque a batata ralada, o suficiente para cobrir o fundo da frigideira, sempre umedecendo as mãos na água com sal (facilita o manuseio da batata e salga ao mesmo tempo).",
+      "Ponha também uma camada do recheio desejado, quantidade para cobrir a batata, deixando as bordas livres.",
+      "Depois, coloque mais uma camada de batata e leve ao fogo médio por mais ou menos 3 minutos.",
+      "Pegue outra frigideira também untada, vire e deixe mais 3 minutos deste lado.",
+      "Repita o processo mais duas vezes ou até dourar a batata."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Batata suíça. Ingredientes: batatas, Manteiga para untar a frigideira, Vasilha com água e sal para umedecer os dedos, Queijo cremoso, mussarela, abobrinha crua fatiada em rodelas finas, Queijo cremoso, mussarela, carne seca, Queijo cremoso, mussarela, frango desfiado com milho verde ou frango com tomate seco e cogumelo, Queijo cremoso, mussarela, estrogonofe grosso, Queijo cremoso, mussarela, camarão. Preparo: Leve as batatas para cozinhar em uma panela com água. Quando começar a ferver, marque 7 minutos e retire as batatas. Leve para geladeira e deixe de um dia para o outro."
+}

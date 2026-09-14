@@ -1,0 +1,85 @@
+{
+  "id": "tg-21049",
+  "titulo": "Macarons au chocolat",
+  "url": "https://www.tudogostoso.com.br/receita/21049-macarons-au-chocolat.html",
+  "nota": 3.9,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Macarons au chocolat",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de amêndoas, se não encontrar pode ser farinha de castanha de caju.",
+      "quantidade": "90",
+      "unidade": "g",
+      "texto_original": "90 g de farinha de amêndoas, se não encontrar pode ser farinha de castanha de caju."
+    },
+    {
+      "nome": "40g de farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "40g de farinha de trigo"
+    },
+    {
+      "nome": "200g de açúcar de confeiteiro",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de açúcar de confeiteiro"
+    },
+    {
+      "nome": "claras de 3 ovos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "claras de 3 ovos"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "30g de açúcar refinado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "30g de açúcar refinado"
+    },
+    {
+      "nome": "gotas de corante vermelho e 5 de corante verde para obter uma cor meio marron",
+      "quantidade": "20",
+      "unidade": null,
+      "texto_original": "20 gotas de corante vermelho e 5 de corante verde para obter uma cor meio marron"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "chocolate em barra ao leite",
+      "quantidade": "130",
+      "unidade": "g",
+      "texto_original": "130 g de chocolate em barra ao leite"
+    },
+    {
+      "nome": "sopa de nata (creme de leite fresco)",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de nata (creme de leite fresco)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture a farinha de amêndoas, afarinha de trigo, o açúcar de confeiteiro e o chocolate. Passe a mistura por uma peneira para obter um pó fininho, reserve. Aqueça as claras no microondas por 30 segundos, mexa, veja se perdeu um pouco da viscosidade, se necessário coloque por mais 30 seguntos até deixar morninho. Só tome cuidado para não deixar cozinhar. Coloque as claras numa batedeira, bata até formar clara em neve, depois misture aos poucos o açúcar refinado. Quando formar um creme firminho acrescente o corante misturando bem. Desligue a batedeira e acrescente a mistura que você peneirou aos poucos misturando com um batedor. Quando tiver bem homogêneo coloque a massa num saco de confeiteiro. Pegue uma forma forrada com papel manteiga e untada com farinha e manteiga, esprema o saco de modo que sejam dispostas na forma 40 bolinhas, macarons. Deixe descansar por 20 minutos, as bolinhas ficarão achatadas edevem ter aproximadamente 2 cm de largura cada, não esqueça de deixar um espacinho entre cada macaron. Leve ao forno pré-aquecido a 170 graus por aproximadamente 15 minutos, sendo que deve-se deixar o forno entre-aberto com uma colher de pau nos últimos 8 minutos.  Deixe esfriar os macarons. Caso fique difícil de tirá-los da forma sem quebrá-los, umedeça a forma com um pouco de água para que o papel manteiga absorva essa água soltanto mais facilmente os macarons."
+    ],
+    "Recheio:": [
+      "Derreta o chocolate no microondas, leve os ingredientes do recheio ao fogo baixo misturando bem até formar um creme liso. Recheie uma face do macaron e feche com outro macarron como se fosse um biscoito recheado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarons au chocolat. Ingredientes: farinha de amêndoas, se não encontrar pode ser farinha de castanha de caju., 40g de farinha de trigo, 200g de açúcar de confeiteiro, claras de 3 ovos, sopa de chocolate em pó, 30g de açúcar refinado, gotas de corante vermelho e 5 de corante verde para obter uma cor meio marron, sopa de manteiga, chocolate em barra ao leite, sopa de nata (creme de leite fresco). Preparo: Misture a farinha de amêndoas, afarinha de trigo, o açúcar de confeiteiro e o chocolate. Passe a mistura por uma peneira para obter um pó fininho, reserve. Aqueça as claras no microondas por 30 segundos, mexa, veja se perdeu um pouco da viscosidade, se necessário coloque por mais 30 seguntos até deixar morninho. Só tome cuidado para não deixar cozinhar. Coloque as claras numa batedeira, bata até formar clara em neve, depois misture aos poucos o açúcar refinado. Quando formar um creme firminho acrescente o corante misturando bem. Desligue a batedeira e acrescente a mistura que você peneirou aos poucos misturando com um batedor. Quando tiver bem homogêneo coloque a massa num saco de confeiteiro. Pegue uma forma forrada com papel manteiga e untada com farinha e manteiga, esprema o saco de modo que sejam dispostas na forma 40 bolinhas, macarons. Deixe descansar por 20 minutos, as bolinhas ficarão achatadas edevem ter aproximadamente 2 cm de largura cada, não esqueça de deixar um espacinho entre cada macaron. Leve ao forno pré-aquecido a 170 graus por aproximadamente 15 minutos, sendo que deve-se deixar o forno entre-aberto com uma colher de pau nos últimos 8 minutos.  Deixe esfriar os macarons. Caso fique difícil de tirá-los da forma sem quebrá-los, umedeça a forma com um pouco de água para que o papel manteiga absorva essa água soltanto mais facilmente os macarons. Derreta o chocolate no microondas, leve os ingredientes do recheio ao fogo baixo misturando bem até formar um creme liso. Recheie uma face do macaron e feche com outro macarron como se fosse um biscoito recheado."
+}

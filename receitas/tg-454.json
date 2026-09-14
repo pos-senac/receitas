@@ -1,0 +1,40 @@
+{
+  "id": "tg-454",
+  "titulo": "Peixe ao leite de coco",
+  "url": "https://www.tudogostoso.com.br/receita/454-peixe-ao-leite-de-coco.html",
+  "nota": 4.5,
+  "n_avaliacoes": 240,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Peixe ao leite de coco",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 25,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "cação ou merlin",
+      "quantidade": "1",
+      "unidade": "Kg",
+      "texto_original": "1 Kg de cação ou merlin"
+    },
+    {
+      "nome": "creme de cebola",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de creme de cebola"
+    },
+    {
+      "nome": "vidro pequeno de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de leite de coco"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Passe as postas do peixe no creme de cebola, coloque-as em um refratário. cubra com o leite de coco e asse em forno médio por 25 minutos. Depois é só se deliciar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Peixe ao leite de coco. Ingredientes: cação ou merlin, creme de cebola, vidro pequeno de leite de coco. Preparo: Passe as postas do peixe no creme de cebola, coloque-as em um refratário. cubra com o leite de coco e asse em forno médio por 25 minutos. Depois é só se deliciar."
+}

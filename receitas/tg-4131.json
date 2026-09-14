@@ -1,0 +1,81 @@
+{
+  "id": "tg-4131",
+  "titulo": "Vaca atolada",
+  "url": "https://www.tudogostoso.com.br/receita/4131-vaca-atolada.html",
+  "nota": 4.4,
+  "n_avaliacoes": 205,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Vaca atolada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "mandioca descascada e picada",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de mandioca descascada e picada"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 tomates"
+    },
+    {
+      "nome": "cebola desidratada",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de cebola desidratada"
+    },
+    {
+      "nome": "Cheiro-verde desidratado à vontade",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro-verde desidratado à vontade"
+    },
+    {
+      "nome": "tabletes de caldo natural",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tabletes de caldo natural"
+    },
+    {
+      "nome": "e 1/2 de costela de boi cozida",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg e 1/2 de costela de boi cozida"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    },
+    {
+      "nome": "sopa de colorau",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de colorau"
+    },
+    {
+      "nome": "tempero a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tempero a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue a mandioca e deixe cozinhar.",
+      "Quando já estiver macia, acrescente o tomate picado, a cebola, o caldo natural e deixe cozinhar mais um pouco.",
+      "Acrescente a costela de boi, deixe apurar mais um pouco.",
+      "Cozinhe por aproximadamente 40 minutos.",
+      "Salpique o cheiro-verde e a pimenta de sua preferência.",
+      "Bom apetite."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Vaca atolada. Ingredientes: mandioca descascada e picada, tomates, cebola desidratada, Cheiro-verde desidratado à vontade, tabletes de caldo natural, e 1/2 de costela de boi cozida, pimenta a gosto, sopa de colorau, tempero a gosto. Preparo: Refogue a mandioca e deixe cozinhar. Quando já estiver macia, acrescente o tomate picado, a cebola, o caldo natural e deixe cozinhar mais um pouco. Acrescente a costela de boi, deixe apurar mais um pouco."
+}

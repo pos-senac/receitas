@@ -1,0 +1,72 @@
+{
+  "id": "tg-26695",
+  "titulo": "Pudim de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/26695-pudim-de-chocolate.html",
+  "nota": 4.5,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de chocolate em pó"
+    },
+    {
+      "nome": "Chocolate granulado para cobertura",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Chocolate granulado para cobertura"
+    },
+    {
+      "nome": "açucar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açucar"
+    },
+    {
+      "nome": "chocolate",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de chocolate"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingrediente no liquidificador até ficar homogêneo.",
+      "Faça uma calda com o açúcar e o chocolate e caramelize uma forma de pudim.",
+      "Despeje o conteúdo do liquidificador na forma e cozinhe em banho - maria por quarenta minutos.",
+      "Depois de frio, retire da forma e polvilhe chocolate granulado."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espátula para bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Pudim de chocolate. Ingredientes: leite, ovos, leite condensado, chocolate em pó, Chocolate granulado para cobertura, açucar, chocolate. Preparo: Bata todos os ingrediente no liquidificador até ficar homogêneo. Faça uma calda com o açúcar e o chocolate e caramelize uma forma de pudim. Despeje o conteúdo do liquidificador na forma e cozinhe em banho - maria por quarenta minutos."
+}

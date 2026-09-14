@@ -1,0 +1,57 @@
+{
+  "id": "tg-137204",
+  "titulo": "Bombom de morango na travessa",
+  "url": "https://www.tudogostoso.com.br/receita/137204-bombom-de-morango-na-travessa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 235,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bombom de morango na travessa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "morangos",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de morangos"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite"
+    },
+    {
+      "nome": "chocolate ao leite",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de chocolate ao leite"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina ou manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite condensado e a manteiga e leve ao fogo, mexendo sempre até começar a soltar do fundo da panela.",
+      "Depois, acrescente 1 lata de creme de leite, misture e reserve este creme no pirex.",
+      "Deixe esfriar e coloque os morangos por cima.",
+      "Derreta o chocolate em banho-maria e misture o creme de leite.",
+      "Jogue por cima dos morangos.",
+      "Leve à geladeira."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bombom de morango na travessa. Ingredientes: morangos, leite condensado, creme de leite, chocolate ao leite, margarina ou manteiga. Preparo: Coloque o leite condensado e a manteiga e leve ao fogo, mexendo sempre até começar a soltar do fundo da panela. Depois, acrescente 1 lata de creme de leite, misture e reserve este creme no pirex. Deixe esfriar e coloque os morangos por cima."
+}

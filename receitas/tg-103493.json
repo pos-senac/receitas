@@ -1,0 +1,130 @@
+{
+  "id": "tg-103493",
+  "titulo": "Coxinha com massa de batata",
+  "url": "https://www.tudogostoso.com.br/receita/103493-coxinha-com-massa-de-batata.html",
+  "nota": 4.5,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Coxinha com massa de batata",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 50,
+  "porcoes": 100,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite"
+    },
+    {
+      "nome": "tablete caldo galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tablete caldo galinha"
+    },
+    {
+      "nome": "margarina sem sal",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g margarina sem sal"
+    },
+    {
+      "nome": "batata cozida e espremida",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g batata cozida e espremida"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "600",
+      "unidade": "g",
+      "texto_original": "600 g farinha de trigo"
+    },
+    {
+      "nome": "sobremesa de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de sal"
+    },
+    {
+      "nome": "peito de frango medio",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango medio"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "sopa margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa margarina"
+    },
+    {
+      "nome": "maço de cheiro verde",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 maço de cheiro verde"
+    },
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de água"
+    },
+    {
+      "nome": "folha de louro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 folha de louro"
+    },
+    {
+      "nome": "sopa farinha trigo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa farinha trigo"
+    },
+    {
+      "nome": "litro de água gelada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de água gelada"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g farinha de rosca"
+    },
+    {
+      "nome": "litro de óleo para fritar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhar o peito do frango com as 3 xícaras de água, o louro, 1 tablete de caldo de galinha e a cebola picada.",
+      "Retirar o frango cozido e desfiar (reserve o caldo do cozimento).",
+      "Acrescente ao frango desfiado o cheiro verde,1 colher de sopa margarina e as 2 colheres de farinha de trigo, 1 xícara do caldo do cozimento, misture tudo e reserve.",
+      "Em uma panela coloque o leite, 500 ml de caldo do cozimento do frango, caso não dê complete com água, a margarina, o sal.",
+      "Deixe ferver.",
+      "Acrescente as batatas já cozidas e espremidas, em seguida a farinha de trigo até soltar do fundo da panela.",
+      "Coloque a massa em cima de uma bancada para esfriar, sove um pouco e modele as coxinhas.",
+      "Passe na água gelada e na farinha de rosca, frite em óleo quente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Descascador de legumes",
+    "Expremedor de Batata",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Coxinha com massa de batata. Ingredientes: leite, tablete caldo galinha, margarina sem sal, batata cozida e espremida, farinha de trigo, sobremesa de sal, peito de frango medio, cebola picada, sopa margarina, maço de cheiro verde, água, folha de louro, sopa farinha trigo, litro de água gelada, farinha de rosca, litro de óleo para fritar. Preparo: Cozinhar o peito do frango com as 3 xícaras de água, o louro, 1 tablete de caldo de galinha e a cebola picada. Retirar o frango cozido e desfiar (reserve o caldo do cozimento). Acrescente ao frango desfiado o cheiro verde,1 colher de sopa margarina e as 2 colheres de farinha de trigo, 1 xícara do caldo do cozimento, misture tudo e reserve."
+}

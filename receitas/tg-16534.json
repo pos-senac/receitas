@@ -1,0 +1,131 @@
+{
+  "id": "tg-16534",
+  "titulo": "Torta de carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/16534-torta-de-carne-moida.html",
+  "nota": 4.5,
+  "n_avaliacoes": 141,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de carne moída",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "azeite arisco extravirgem",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de azeite arisco extravirgem"
+    },
+    {
+      "nome": "cebola pequena ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena ralada"
+    },
+    {
+      "nome": "puro alho polpa arisco",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de puro alho polpa arisco"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de carne moída"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "2",
+      "unidade": "colheres (chá)",
+      "texto_original": "2 colheres (chá) de sal"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "ovos cozidos e picados",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos cozidos e picados"
+    },
+    {
+      "nome": "meia xícara (chá) de azeitonas verdes picadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "meia xícara (chá) de azeitonas verdes picadas"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "margarina culinária",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de margarina culinária"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de leite"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "gema ligeiramente batida",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema ligeiramente batida"
+    }
+  ],
+  "modo_preparo": {
+    "recheio:": [
+      "em uma panela, aqueça o azeite arisco extra virgem em fogo médio, refogue rapidamente a cebola e o puro alho polpa arisco.",
+      "junte a carne e refogue até secar o líquido. tempere com o sal.",
+      "dissolva a farinha no leite, acrescente ao refogado e cozinhe até engrossar, mexendo sempre.",
+      "retire do fogo, misture os ovos e as azeitonas. reserve."
+    ],
+    "massa:": [
+      "em uma vasilha, misture bem a farinha, o ovo, a margarina, o fermento, o leite e o sal. amasse até obter uma massa lisa e homogênea.",
+      "preaqueça o forno em temperatura média (180°c)."
+    ],
+    "montagem:": [
+      "divida a massa em 3 partes iguais. forre o fundo e as laterais de um refratário médio com 2 partes da massa. reserve uma parte para cobrir a torta.",
+      "coloque o recheio na fôrma e espalhe com auxílio de uma colher para nivelar.",
+      "faça cordões com a massa reservada e cubra a torta formando uma grade. pincele a gema e leve ao forno por 35 minutos ou até dourar.",
+      "deixe esfriar por 10 minutos e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de carne moída. Ingredientes: azeite arisco extravirgem, cebola pequena ralada, puro alho polpa arisco, carne moída, sal, farinha de trigo, leite, ovos cozidos e picados, meia xícara (chá) de azeitonas verdes picadas, farinha de trigo, ovo, margarina culinária, fermento em pó, leite, sal, gema ligeiramente batida. Preparo: em uma panela, aqueça o azeite arisco extra virgem em fogo médio, refogue rapidamente a cebola e o puro alho polpa arisco. junte a carne e refogue até secar o líquido. tempere com o sal. dissolva a farinha no leite, acrescente ao refogado e cozinhe até engrossar, mexendo sempre."
+}

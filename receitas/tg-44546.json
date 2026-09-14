@@ -1,0 +1,74 @@
+{
+  "id": "tg-44546",
+  "titulo": "Massa rápida de torta salgada de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/44546-massa-rapida-de-torta-salgada-de-liquidificador.html",
+  "nota": 4.8,
+  "n_avaliacoes": 214,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Massa rápida de torta salgada de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de leite"
+    },
+    {
+      "nome": "rasa de fermento em pó químico",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de fermento em pó químico"
+    },
+    {
+      "nome": "tomate inteiro e grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate inteiro e grande"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de galinha"
+    },
+    {
+      "nome": "Recheio de sua preferência",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Recheio de sua preferência"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Despeje metade da massa em uma forma untada.",
+      "Acrescente o recheio de sua preferência.",
+      "Cubra com o restante da massa.",
+      "Coloque para assar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa rápida de torta salgada de liquidificador. Ingredientes: farinha de trigo, ovos, óleo, leite, rasa de fermento em pó químico, tomate inteiro e grande, tablete de caldo de galinha, Recheio de sua preferência. Preparo: Bata todos os ingredientes no liquidificador. Despeje metade da massa em uma forma untada. Acrescente o recheio de sua preferência."
+}

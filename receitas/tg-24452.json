@@ -1,0 +1,79 @@
+{
+  "id": "tg-24452",
+  "titulo": "Bolo de milho",
+  "url": "https://www.tudogostoso.com.br/receita/24452-bolo-de-milho.html",
+  "nota": 4.8,
+  "n_avaliacoes": 467,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de milho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 13,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "queijo ralado tipo parmessão",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de queijo ralado tipo parmessão"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "lata (a mesma lata do milho)",
+      "texto_original": "1 lata (a mesma lata do milho) de açúcar"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de fubá"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de óleo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o fubá , o açúcar, o milho verde, o leite , o óleo e queijo ralado por 2 minutos.",
+      "Em seguida, coloque o fermento em pó.",
+      "Mexa com uma colher e coloque para assar em forno médio por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Espátula de silicone",
+    "Fogão",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo de milho. Ingredientes: ovos, queijo ralado tipo parmessão, milho verde, açúcar, fubá, leite, óleo, fermento. Preparo: Bata no liquidificador os ovos, o fubá , o açúcar, o milho verde, o leite , o óleo e queijo ralado por 2 minutos. Em seguida, coloque o fermento em pó. Mexa com uma colher e coloque para assar em forno médio por 40 minutos."
+}

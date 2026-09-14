@@ -1,0 +1,95 @@
+{
+  "id": "tg-19326",
+  "titulo": "Salpicão",
+  "url": "https://www.tudogostoso.com.br/receita/19326-salpicao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 165,
+  "categoria": "Receitas saladas",
+  "subcategoria": "Salpicão",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "frango (peito) refogado e desfiado",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de frango (peito) refogado e desfiado"
+    },
+    {
+      "nome": "cenoura média ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura média ralada"
+    },
+    {
+      "nome": "milho escorrido",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho escorrido"
+    },
+    {
+      "nome": "vidro de azeitona pequena",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de azeitona pequena"
+    },
+    {
+      "nome": "Palmito picado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Palmito picado a gosto"
+    },
+    {
+      "nome": "maçãs cascada e picada",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 maçãs cascada e picada"
+    },
+    {
+      "nome": "uvas passas",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de uvas passas"
+    },
+    {
+      "nome": "presunto picado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de presunto picado"
+    },
+    {
+      "nome": "mussarela picada",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de mussarela picada"
+    },
+    {
+      "nome": "Tempero a gosto e por último",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tempero a gosto e por último"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de maionese"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes.",
+      "Jogar por cima batata palha a gosto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Salpicão. Ingredientes: frango (peito) refogado e desfiado, cenoura média ralada, milho escorrido, vidro de azeitona pequena, Palmito picado a gosto, maçãs cascada e picada, uvas passas, presunto picado, mussarela picada, Tempero a gosto e por último, creme de leite, maionese. Preparo: Misture todos os ingredientes. Jogar por cima batata palha a gosto."
+}

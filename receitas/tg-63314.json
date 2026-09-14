@@ -1,0 +1,88 @@
+{
+  "id": "tg-63314",
+  "titulo": "Cupim assado",
+  "url": "https://www.tudogostoso.com.br/receita/63314-cupim-assado.html",
+  "nota": 4.5,
+  "n_avaliacoes": 196,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Cupim assado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 120,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "peça de cupim de 2 kg",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peça de cupim de 2 kg"
+    },
+    {
+      "nome": "vinagre",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de vinagre"
+    },
+    {
+      "nome": "tabletes de caldo de carne",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tabletes de caldo de carne"
+    },
+    {
+      "nome": "Pimenta-do-reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino"
+    },
+    {
+      "nome": "Cominho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cominho"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    },
+    {
+      "nome": "batatas",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batatas"
+    },
+    {
+      "nome": "cebola grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "Água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Se sua panela de pressão for pequena, corte a peça ao meio para caber.",
+      "Coloque os dentes de alho, os tabletes de caldo de carne, pimenta-do-reino, cominho e cubra com água.",
+      "Depois que levantou fervura cozinhe por 1 hora.",
+      "Retire a carne da panela e coloque em uma assadeira com a cebola em rodelas.",
+      "Leve ao forno médio.",
+      "No caldo do cozimento da carne, coloque as batatas cortadas ao meio para cozinhar por 5 minutos e depois junte à carne no forno.",
+      "Asse por mais 1 hora."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cupim assado. Ingredientes: peça de cupim de 2 kg, vinagre, tabletes de caldo de carne, Pimenta-do-reino, Cominho, Orégano, batatas, cebola grande, alho, Água. Preparo: Se sua panela de pressão for pequena, corte a peça ao meio para caber. Coloque os dentes de alho, os tabletes de caldo de carne, pimenta-do-reino, cominho e cubra com água. Depois que levantou fervura cozinhe por 1 hora."
+}

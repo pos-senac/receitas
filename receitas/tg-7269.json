@@ -1,0 +1,59 @@
+{
+  "id": "tg-7269",
+  "titulo": "Pipoca doce",
+  "url": "https://www.tudogostoso.com.br/receita/7269-pipoca-doce.html",
+  "nota": 3.9,
+  "n_avaliacoes": 2269,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pipoca doce",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "milho para pipoca",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de milho para pipoca"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de água"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de chocolate em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, adicione todos os ingredientes e misture delicadamente.",
+      "Desligue o fogo quando o intervalo de tempo entre os estouros da pipoca diminuírem.",
+      "Está pronta para comer."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espátula de silicone",
+    "Pipoqueira"
+  ],
+  "texto_para_embedding": "Pipoca doce. Ingredientes: óleo, milho para pipoca, açúcar, água, chocolate em pó. Preparo: Em uma panela, adicione todos os ingredientes e misture delicadamente. Desligue o fogo quando o intervalo de tempo entre os estouros da pipoca diminuírem. Está pronta para comer."
+}

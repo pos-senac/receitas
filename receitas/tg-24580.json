@@ -1,0 +1,67 @@
+{
+  "id": "tg-24580",
+  "titulo": "Bolo de cenoura simples",
+  "url": "https://www.tudogostoso.com.br/receita/24580-bolo-de-cenoura-simples.html",
+  "nota": 4.3,
+  "n_avaliacoes": 186,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura simples",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de fermento em pó"
+    },
+    {
+      "nome": "cenouras grandes",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cenouras grandes"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador, bata as cenouras descascadas e picadas, o óleo e os ovos.",
+      "Depois, reúna com a farinha de trigo, o açúcar e o fermento em pó.",
+      "Leve a mistura para assar em forno médio (180º C) preaquecido por cerca de 35 a 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Copo medidor",
+    "Descascador de legumes",
+    "Formo de bolo",
+    "Forno elétrico",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de cenoura simples. Ingredientes: farinha de trigo, açúcar, fermento em pó, cenouras grandes, óleo, ovos. Preparo: Em um liquidificador, bata as cenouras descascadas e picadas, o óleo e os ovos. Depois, reúna com a farinha de trigo, o açúcar e o fermento em pó. Leve a mistura para assar em forno médio (180º C) preaquecido por cerca de 35 a 40 minutos."
+}

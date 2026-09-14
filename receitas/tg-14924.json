@@ -1,0 +1,82 @@
+{
+  "id": "tg-14924",
+  "titulo": "Cebola do outback",
+  "url": "https://www.tudogostoso.com.br/receita/14924-cebola-do-outback.html",
+  "nota": 4.2,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas petiscos",
+  "subcategoria": "Cebola do outback",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "cebola grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande"
+    },
+    {
+      "nome": "Água o suficiente",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Água o suficiente"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "chá de pimenta caiena",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de pimenta caiena"
+    },
+    {
+      "nome": "paprica",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de paprica"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de rosca"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Retire a casca da cebola, tomando cuidado para não retirar muita casca.",
+      "Usando uma faca afiada, dividir a cebola em 4 partes, começando do alto para a raiz, deixando aproximadamente 1 cm de raiz.",
+      "Repita esse processo ate chegar em 16 partes.",
+      "Coloque a cebola em um recipiente e cubra com água fervente, reserve ate as pétalas começarem a abrir.",
+      "Em seguida mergulhe em água gelada e reserve ate a cebola se abrir em flor e depois leve a mesma para uma peneira ate escorrer toda água.",
+      "Bata os ovos com o leite, junte sal, pimenta e páprica.",
+      "Passe a cebola na farinha de trigo na batida de ovos, empane na farinha e rosca, e frite em óleo quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cebola do outback. Ingredientes: cebola grande, Água o suficiente, farinha de trigo, ovos, chá de leite, chá de pimenta caiena, paprica, farinha de rosca, Óleo para fritar. Preparo: Retire a casca da cebola, tomando cuidado para não retirar muita casca. Usando uma faca afiada, dividir a cebola em 4 partes, começando do alto para a raiz, deixando aproximadamente 1 cm de raiz. Repita esse processo ate chegar em 16 partes."
+}

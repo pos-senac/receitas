@@ -1,0 +1,80 @@
+{
+  "id": "tg-122699",
+  "titulo": "Bolo de banana integral",
+  "url": "https://www.tudogostoso.com.br/receita/122699-bolo-de-banana-integral.html",
+  "nota": 4.7,
+  "n_avaliacoes": 203,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana integral",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "bananas",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 bananas"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite desnatado",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de leite desnatado"
+    },
+    {
+      "nome": "(chá) de óleo de milho",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de (chá) de óleo de milho"
+    },
+    {
+      "nome": "açúcar mascavo ou demerara",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar mascavo ou demerara"
+    },
+    {
+      "nome": "farinha de trigo integral",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "nome": "aveia",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de aveia"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "canela em pó a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador 1 banana, os ovos, o leite e o óleo.",
+      "Depois, acrescente o açúcar e bata mais um pouco.",
+      "Em uma vasilha coloque a farinha de trigo, a aveia e o fermento e acrescente a mistura do liquidificador, mexendo bem com uma colher de pau.",
+      "Em uma forma média quadrada, untada e enfarinhada, coloque metade da massa, as 5 bananas restantes cortadas em rodelas finas e salpique a canela.",
+      "Coloque o restante da massa e leve ao forno quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de banana integral. Ingredientes: bananas, ovos, leite desnatado, (chá) de óleo de milho, açúcar mascavo ou demerara, farinha de trigo integral, aveia, fermento, canela em pó a gosto. Preparo: Bata no liquidificador 1 banana, os ovos, o leite e o óleo. Depois, acrescente o açúcar e bata mais um pouco. Em uma vasilha coloque a farinha de trigo, a aveia e o fermento e acrescente a mistura do liquidificador, mexendo bem com uma colher de pau."
+}

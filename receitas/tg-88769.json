@@ -1,0 +1,84 @@
+{
+  "id": "tg-88769",
+  "titulo": "Pão de batata",
+  "url": "https://www.tudogostoso.com.br/receita/88769-pao-de-batata.html",
+  "nota": 4.4,
+  "n_avaliacoes": 375,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de batata",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 90,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "batatas grandes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 batatas grandes"
+    },
+    {
+      "nome": "tabletes de fermento (15 g)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de fermento (15 g)"
+    },
+    {
+      "nome": "óleo (sobremesa)",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de óleo (sobremesa)"
+    },
+    {
+      "nome": "margarina (sopa)",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina (sopa)"
+    },
+    {
+      "nome": "sal (sobremesa)",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de sal (sobremesa)"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "farinha de trigo (colocar até não grudar as mãos)",
+      "quantidade": "700",
+      "unidade": "g",
+      "texto_original": "700 g de farinha de trigo (colocar até não grudar as mãos)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador (menos a farinha).",
+      "Acrescente farinha e misture em uma vasilha até não grudar nas mãos.",
+      "Faça pequenas bolinhas e deixe descansar por 30 minutos embaixo de uma lâmpada acesa.",
+      "Leve ao forno médio por 30 a 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Pincel de silicone",
+    "Bowl",
+    "Forma"
+  ],
+  "texto_para_embedding": "Pão de batata. Ingredientes: ovos, batatas grandes, tabletes de fermento (15 g), óleo (sobremesa), margarina (sopa), sal (sobremesa), leite, açúcar, farinha de trigo (colocar até não grudar as mãos). Preparo: Bata todos os ingredientes no liquidificador (menos a farinha). Acrescente farinha e misture em uma vasilha até não grudar nas mãos. Faça pequenas bolinhas e deixe descansar por 30 minutos embaixo de uma lâmpada acesa."
+}

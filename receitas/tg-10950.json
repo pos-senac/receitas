@@ -1,0 +1,79 @@
+{
+  "id": "tg-10950",
+  "titulo": "Bauru de forno",
+  "url": "https://www.tudogostoso.com.br/receita/10950-bauru-de-forno.html",
+  "nota": 4.5,
+  "n_avaliacoes": 182,
+  "categoria": "Receitas sanduíches",
+  "subcategoria": "Bauru de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "pão de forma sem casca",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pão de forma sem casca"
+    },
+    {
+      "nome": "mussarela em fatias",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de mussarela em fatias"
+    },
+    {
+      "nome": "presunto em fatias",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de presunto em fatias"
+    },
+    {
+      "nome": "tomate grande em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate grande em rodelas"
+    },
+    {
+      "nome": "Sal, orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal, orégano"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sopa de mrgarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de mrgarina"
+    },
+    {
+      "nome": "sopa de queijo ralado",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte um pirex.",
+      "Camadas: fatias de pão de forma, mussarela fatiada, rodelas de tomate temperadas com sal e orégano, presunto fatiado, outra camada de pão de forma.",
+      "Bater no liquidificador o leite, os ovos, a margarina, o queijo ralado e jogar por cima do sanduichão.",
+      "Polvilhar queijo ralado e levar ao forno quente até gratinar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bauru de forno. Ingredientes: pão de forma sem casca, mussarela em fatias, presunto em fatias, tomate grande em rodelas, Sal, orégano, chá de leite, ovos, sopa de mrgarina, sopa de queijo ralado. Preparo: Unte um pirex. Camadas: fatias de pão de forma, mussarela fatiada, rodelas de tomate temperadas com sal e orégano, presunto fatiado, outra camada de pão de forma. Bater no liquidificador o leite, os ovos, a margarina, o queijo ralado e jogar por cima do sanduichão."
+}

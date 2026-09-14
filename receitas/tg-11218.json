@@ -1,0 +1,92 @@
+{
+  "id": "tg-11218",
+  "titulo": "Torta de legumes",
+  "url": "https://www.tudogostoso.com.br/receita/11218-torta-de-legumes.html",
+  "nota": 4.6,
+  "n_avaliacoes": 108,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de legumes",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 11,
+  "ingredientes": [
+    {
+      "nome": "chá de azeitonas picadas",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de azeitonas picadas"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "chá de maizena",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de maizena"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de óleo"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de leite"
+    },
+    {
+      "nome": "seleta de legumes escorrida",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de seleta de legumes escorrida"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Margarina e farinha de trigo para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Margarina e farinha de trigo para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, misture todos os ingredientes.",
+      "Coloque em uma fôrma unta­da e enfarinhada.",
+      "Leve ao forno por 30 minutos.",
+      "Retire e sirva.",
+      "Obs: Se desejar, decore com rodelas de cenoura e orégano."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de legumes. Ingredientes: chá de azeitonas picadas, sopa de fermento em pó, chá de maizena, chá de óleo, chá de farinha de trigo, chá de leite, seleta de legumes escorrida, ovos, queijo parmesão ralado, Sal a gosto, Margarina e farinha de trigo para untar. Preparo: Em uma tigela, misture todos os ingredientes. Coloque em uma fôrma unta­da e enfarinhada. Leve ao forno por 30 minutos."
+}

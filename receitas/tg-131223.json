@@ -1,0 +1,115 @@
+{
+  "id": "tg-131223",
+  "titulo": "Torta de frango com creme de leite e mussarela",
+  "url": "https://www.tudogostoso.com.br/receita/131223-torta-de-frango-com-creme-de-leite-e-mussarela.html",
+  "nota": 4.6,
+  "n_avaliacoes": 285,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de frango com creme de leite e mussarela",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "fermento em pó químico",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó químico"
+    },
+    {
+      "nome": "caldo caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo caldo de galinha"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    },
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "Alho a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Alho a gosto"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "tempero a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tempero a gosto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de mussarela"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela refogue a cebola o alho, coloque o peito de frango desfiado, refogue o frango com a água do milho, refogue ele a seu gosto.",
+      "Acrescente o milho, depois de tudo refogado, desligue o fogo e coloque o creme de leite.",
+      "Faça a massa batendo os 7 primeiros ingredientes no liquidificador, unte uma asadeira, coloque uma parte da massa, o frango refogado, a mussarela, depois a outra parte da massa.",
+      "Coloque  em forno médio em por cerca de 30 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de frango com creme de leite e mussarela. Ingredientes: farinha de trigo, ovos, leite, óleo, fermento em pó químico, caldo caldo de galinha, chá de sal, peito de frango cozido e desfiado, tomates, cebola, Alho a gosto, milho verde, creme de leite, tempero a gosto, mussarela. Preparo: Em uma panela refogue a cebola o alho, coloque o peito de frango desfiado, refogue o frango com a água do milho, refogue ele a seu gosto. Acrescente o milho, depois de tudo refogado, desligue o fogo e coloque o creme de leite. Faça a massa batendo os 7 primeiros ingredientes no liquidificador, unte uma asadeira, coloque uma parte da massa, o frango refogado, a mussarela, depois a outra parte da massa."
+}

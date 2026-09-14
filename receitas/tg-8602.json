@@ -1,0 +1,79 @@
+{
+  "id": "tg-8602",
+  "titulo": "Rosquinha frita",
+  "url": "https://www.tudogostoso.com.br/receita/8602-rosquinha-frita.html",
+  "nota": 4.4,
+  "n_avaliacoes": 473,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Rosquinha frita",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo ou até o ponto",
+      "quantidade": "4",
+      "unidade": "xícaras (chá)",
+      "texto_original": "4 xícaras (chá) de farinha de trigo ou até o ponto"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar refinado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse todos os ingredientes, colocando a farinha de trigo por último, aos poucos, até o ponto de enrolar.",
+      "Deixe descansar um pouquinho.",
+      "Enrole e frite em óleo com fogo baixo até ficar douradinha.",
+      "Depois, passe no açúcar refinado com um pouquinho de canela em pó.",
+      "Guarde em lata de alumínio."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Escumadeira",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Rosquinha frita. Ingredientes: farinha de trigo ou até o ponto, açúcar refinado, óleo, leite, ovos, fermento em pó, sal, canela em pó. Preparo: Amasse todos os ingredientes, colocando a farinha de trigo por último, aos poucos, até o ponto de enrolar. Deixe descansar um pouquinho. Enrole e frite em óleo com fogo baixo até ficar douradinha."
+}

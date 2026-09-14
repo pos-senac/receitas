@@ -1,0 +1,70 @@
+{
+  "id": "tg-21",
+  "titulo": "Bolinhas de queijo",
+  "url": "https://www.tudogostoso.com.br/receita/21-bolinhas-de-queijo.html",
+  "nota": 4.4,
+  "n_avaliacoes": 168,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Bolinhas de queijo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "chá de queijo parmesão ralado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de queijo parmesão ralado"
+    },
+    {
+      "nome": "chá de queijo-de-minas ou prato ralado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de queijo-de-minas ou prato ralado"
+    },
+    {
+      "nome": "chá de pimenta-do-reino",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de chá de pimenta-do-reino"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "chá de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture os queijos, os ovos, a pimenta-do-reino e o creme de leite e, em seguida, a farinha de trigo e o fermento. Com o auxílio de duas colheres pequenas, dê o formato de bolinhas e frite em gordura quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolinhas de queijo. Ingredientes: chá de queijo parmesão ralado, chá de queijo-de-minas ou prato ralado, chá de pimenta-do-reino, creme de leite, farinha de trigo, chá de fermento em pó, ovos, Sal a gosto. Preparo: Misture os queijos, os ovos, a pimenta-do-reino e o creme de leite e, em seguida, a farinha de trigo e o fermento. Com o auxílio de duas colheres pequenas, dê o formato de bolinhas e frite em gordura quente."
+}

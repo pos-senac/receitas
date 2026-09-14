@@ -1,0 +1,64 @@
+{
+  "id": "tg-32417",
+  "titulo": "Mingau de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/32417-mingau-de-chocolate.html",
+  "nota": 4.5,
+  "n_avaliacoes": 113,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Mingau de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "sopa, bem cheias, do achocolatado em pó de sua preferência",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa, bem cheias, do achocolatado em pó de sua preferência"
+    },
+    {
+      "nome": "leite integral",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite integral"
+    },
+    {
+      "nome": "sopa de maizena",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de maizena"
+    },
+    {
+      "nome": "rasa de sobremesa de canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de sobremesa de canela em pó"
+    },
+    {
+      "nome": "Açúcar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha de alumínio adicione a maizena e o leite.",
+      "Misture até dissolver a maizena.",
+      "Ligue o fogo em uma temperatura de 150ºc e mexa bem por um minuto.",
+      "Adicione o chocolate e posteriormente o açúcar.",
+      "Mexa por aproximadamente cinco minutos, até adquirir uma textura mais cremosa.",
+      "Por último, junte a canela e mexa por 10 segundos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Colher para sobremesa",
+    "Prato fundo",
+    "Fogão",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Mingau de chocolate. Ingredientes: sopa, bem cheias, do achocolatado em pó de sua preferência, leite integral, sopa de maizena, rasa de sobremesa de canela em pó, Açúcar a gosto. Preparo: Em uma vasilha de alumínio adicione a maizena e o leite. Misture até dissolver a maizena. Ligue o fogo em uma temperatura de 150ºc e mexa bem por um minuto."
+}

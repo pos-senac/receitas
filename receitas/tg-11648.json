@@ -1,0 +1,114 @@
+{
+  "id": "tg-11648",
+  "titulo": "Torta de maçã",
+  "url": "https://www.tudogostoso.com.br/receita/11648-torta-de-maca.html",
+  "nota": 4.4,
+  "n_avaliacoes": 186,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de maçã",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "100g de manteiga em temperatura ambiente",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "100g de manteiga em temperatura ambiente"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "açúcar cristal ou refinado",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar cristal ou refinado"
+    },
+    {
+      "nome": "farinha de trigo (aproximadamente)",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo (aproximadamente)"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de amido de milho"
+    },
+    {
+      "nome": "Gotas de essência de baunilha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Gotas de essência de baunilha"
+    },
+    {
+      "nome": "maçãs sem casca cortadas em fatias finas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 maçãs sem casca cortadas em fatias finas"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "gelatina de abacaxi",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina de abacaxi"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "misture a manteiga, as gemas e o açúcar.",
+      "Junte a farinha aos poucos, até formar uma massa que não grude nas mãos.",
+      "Forre com a massa uma forma de torta redonda untada levemente com manteiga e fure toda a superfície com um garfo e leve ao forno pré-aquecido em temperatura média/baixa para a massa dourar, aproximadamente 15 minutos."
+    ],
+    "Creme:": [
+      "leve todos os ingredientes ao fogo.",
+      "Mexendo até engrossar."
+    ],
+    "Cobertura:": [
+      "numa panela, coloque a água e o açúcar e leve ao fogo.",
+      "Ao ferver, junte as fatias de maçãs para cozinhar levemente sem deixar desmanchar, apenas uns 2 minutos.",
+      "Retire as maçãs com uma escumadeira e acrescente a gelatina à água que sobrou na panela, mexendo bem.",
+      "Deixe esfriar.",
+      "Leve à geladeira por 10 minutos."
+    ],
+    "Montagem:": [
+      "coloque o creme frio sobre a massa assada.",
+      "Decore com a maçã.",
+      "Espalhe a gelatina.",
+      "Leve para a geladeira.",
+      "Sirva gelado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de maçã. Ingredientes: 100g de manteiga em temperatura ambiente, gemas, açúcar cristal ou refinado, farinha de trigo (aproximadamente), leite, leite condensado, sopa de amido de milho, Gotas de essência de baunilha, maçãs sem casca cortadas em fatias finas, água, açúcar, gelatina de abacaxi. Preparo: misture a manteiga, as gemas e o açúcar. Junte a farinha aos poucos, até formar uma massa que não grude nas mãos. Forre com a massa uma forma de torta redonda untada levemente com manteiga e fure toda a superfície com um garfo e leve ao forno pré-aquecido em temperatura média/baixa para a massa dourar, aproximadamente 15 minutos."
+}

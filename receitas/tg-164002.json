@@ -1,0 +1,76 @@
+{
+  "id": "tg-164002",
+  "titulo": "Bolo de fubá com goiabada e queijo",
+  "url": "https://www.tudogostoso.com.br/receita/164002-bolo-de-fuba-com-goiabada-e-queijo.html",
+  "nota": 4.7,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá com goiabada e queijo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de fubá"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "goiabada em cubos",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de goiabada em cubos"
+    },
+    {
+      "nome": "queijo minas em cubos",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo minas em cubos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o óleo, o leite, o fubá a farinha e o açúcar. Com o liquidificador desligado, coloque o fermento e mexa com a colher. Unte e enfarinhe uma forma de buraco no meio, coloque a massa dentro e pique pedaços de goiabada e queijo por cima. Asse em forno médio por 40 minutos. Desenforme e coloque canela e açúcar por cima. A goiabada e o queijo derretem. Fica uma delícia."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de fubá com goiabada e queijo. Ingredientes: ovos inteiros, óleo, leite, fubá, farinha de trigo, açúcar, fermento em pó, goiabada em cubos, queijo minas em cubos. Preparo: Bata no liquidificador os ovos, o óleo, o leite, o fubá a farinha e o açúcar. Com o liquidificador desligado, coloque o fermento e mexa com a colher. Unte e enfarinhe uma forma de buraco no meio, coloque a massa dentro e pique pedaços de goiabada e queijo por cima. Asse em forno médio por 40 minutos. Desenforme e coloque canela e açúcar por cima. A goiabada e o queijo derretem. Fica uma delícia."
+}

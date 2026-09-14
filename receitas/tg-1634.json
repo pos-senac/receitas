@@ -1,0 +1,69 @@
+{
+  "id": "tg-1634",
+  "titulo": "Pudim de leite em pó",
+  "url": "https://www.tudogostoso.com.br/receita/1634-pudim-de-leite-em-po.html",
+  "nota": 4.2,
+  "n_avaliacoes": 837,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pudim de leite em pó",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "leite em pó",
+      "quantidade": "16",
+      "unidade": "colheres (sopa)",
+      "texto_original": "16 colheres (sopa) de leite em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "10",
+      "unidade": "colheres (sopa)",
+      "texto_original": "10 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador e reserve."
+    ],
+    "Calda": [
+      "Misture em uma panela o açúcar e a água e leve ao fogo.",
+      "Não volte a mexer até que a calda chegue no ponto de caramelo, desligue o fogo.",
+      "Unte uma forma (com a calda) própria para pudim em microondas.",
+      "Coloque a mistura que foi batida no liquidificador, levando ao forno até dourar."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Bowl",
+    "Espátula para bolo"
+  ],
+  "texto_para_embedding": "Pudim de leite em pó. Ingredientes: ovos inteiros, leite em pó, açúcar, água, açúcar, água. Preparo: Bata todos os ingredientes no liquidificador e reserve. Misture em uma panela o açúcar e a água e leve ao fogo. Não volte a mexer até que a calda chegue no ponto de caramelo, desligue o fogo."
+}

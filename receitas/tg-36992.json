@@ -1,0 +1,61 @@
+{
+  "id": "tg-36992",
+  "titulo": "Salsicha ao molho simples e fácil",
+  "url": "https://www.tudogostoso.com.br/receita/36992-salsicha-ao-molho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Salsicha ao molho simples e fácil",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "salsicha de sua preferência (cortadas em rodelas fininhas)",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de salsicha de sua preferência (cortadas em rodelas fininhas)"
+    },
+    {
+      "nome": "cebolas cortadas em rodelas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas cortadas em rodelas"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de extrato de tomate"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de água"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo em uma panela, a margarina e a cebola.",
+      "Frite por 1 minuto e coloque as salsichas.",
+      "Frite por 1 minuto e coloque o extrato de tomate e a água.",
+      "Deixe ferver por 3 a 4 minutos, se desejar um molho mais fininho acrescente mais um pouco de água.",
+      "Acrescente sal a gosto.",
+      "Ótimo para servir com pão ou com arroz branco."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca"
+  ],
+  "texto_para_embedding": "Salsicha ao molho simples e fácil. Ingredientes: salsicha de sua preferência (cortadas em rodelas fininhas), cebolas cortadas em rodelas, extrato de tomate, água, margarina. Preparo: Leve ao fogo em uma panela, a margarina e a cebola. Frite por 1 minuto e coloque as salsichas. Frite por 1 minuto e coloque o extrato de tomate e a água."
+}

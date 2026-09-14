@@ -1,0 +1,91 @@
+{
+  "id": "tg-27",
+  "titulo": "Peru assado simples",
+  "url": "https://www.tudogostoso.com.br/receita/27-peru-assado-simples.html",
+  "nota": 4.5,
+  "n_avaliacoes": 145,
+  "categoria": "Receitas peru",
+  "subcategoria": "Peru assado simples",
+  "nivel": "facil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 210,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "peru limpo com cerca de 4 Kg",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peru limpo com cerca de 4 Kg"
+    },
+    {
+      "nome": "cebolas grandes cortadas em pedaços pequenos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas grandes cortadas em pedaços pequenos"
+    },
+    {
+      "nome": "molho de pimenta",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de molho de pimenta"
+    },
+    {
+      "nome": "mostarda tipo francesa",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de mostarda tipo francesa"
+    },
+    {
+      "nome": "garrafa de vinho branco seco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafa de vinho branco seco"
+    },
+    {
+      "nome": "caldo de galinha",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de caldo de galinha"
+    },
+    {
+      "nome": "manteiga derretida",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de manteiga derretida"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "manteiga derretida para injetar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manteiga derretida para injetar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pré-aqueça o forno em temperatura média (180º C).",
+      "Coloque num liquidificador as cebolas, os alhos, o molho de pimenta, a mostarda, 1 xícara de vinho, 1 xícara de caldo de galinha, a manteiga, o sal e bata bem em seguida.",
+      "Passe para uma vasilha, juntando o vinho e o caldo de galinha restantes e misture bem.",
+      "Recheie o peru e coloque-o numa assadeira sem untar.",
+      "Segure a pele do peito do peru com uma mão e, com a outra, empurre-a para soltar da carne.",
+      "Fure a carne com um garfo e, com o auxílio de um injetor de tempero, injete a manteiga derretida em vários pontos do peito do peru.",
+      "Esfregue o tempero preparado na superfície do peru e injete um pouco na carne.",
+      "Puxe a pele de volta, cobrindo novamente o peru, e costure com linha grossa.",
+      "Cubra com papel alumínio e leve ao forno por cerca de 3 horas, regando o peru a cada 20 minutos com o molho que cair na assadeira.",
+      "Quando o papel já estiver escurecido, retire-o e deixe o peru no forno até dourar."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Pincel de silicone",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Peru assado simples. Ingredientes: peru limpo com cerca de 4 Kg, cebolas grandes cortadas em pedaços pequenos, molho de pimenta, mostarda tipo francesa, garrafa de vinho branco seco, caldo de galinha, manteiga derretida, sal a gosto, manteiga derretida para injetar. Preparo: Pré-aqueça o forno em temperatura média (180º C). Coloque num liquidificador as cebolas, os alhos, o molho de pimenta, a mostarda, 1 xícara de vinho, 1 xícara de caldo de galinha, a manteiga, o sal e bata bem em seguida. Passe para uma vasilha, juntando o vinho e o caldo de galinha restantes e misture bem."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "tg-2477",
+  "titulo": "Pastel de forno",
+  "url": "https://www.tudogostoso.com.br/receita/2477-pastel-de-forno.html",
+  "nota": 4.3,
+  "n_avaliacoes": 1050,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Pastel de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de margarina"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "vinagre",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de vinagre"
+    },
+    {
+      "nome": "gema para pincelar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema para pincelar"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água morna"
+    },
+    {
+      "nome": "recheio de sua preferência",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "recheio de sua preferência"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha, misture a farinha, a margarina, o ovo, o sal e o vinagre.",
+      "Amasse bem até a massa obter uma massa homogênea.",
+      "Envolva a massa em papel filme ou saco plástico e leve à geladeira por 30 minutos.",
+      "Abra a massa com o rolo em uma superfície plana e enfarinhada, corte-a em 20 pedaços, distribua o recheio, feche os pastéis e pincele com a gema.",
+      "Asse em forno médio (180° C), preaquecido, por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Plástico-filme",
+    "Pincel de silicone",
+    "Bowl",
+    "Forma",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Pastel de forno. Ingredientes: farinha de trigo, margarina, ovo, sal, vinagre, gema para pincelar, água morna, recheio de sua preferência. Preparo: Em uma vasilha, misture a farinha, a margarina, o ovo, o sal e o vinagre. Amasse bem até a massa obter uma massa homogênea. Envolva a massa em papel filme ou saco plástico e leve à geladeira por 30 minutos."
+}

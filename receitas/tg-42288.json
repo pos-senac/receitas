@@ -1,0 +1,66 @@
+{
+  "id": "tg-42288",
+  "titulo": "Molho béchamel",
+  "url": "https://www.tudogostoso.com.br/receita/42288-molho-bechamel.html",
+  "nota": 4.5,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Molho béchamel",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite (250ml)",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite (250ml)"
+    },
+    {
+      "nome": "sopa cheia de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa cheia de manteiga"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "noz-moscada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "noz-moscada a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Derreta a manteiga e aos poucos misture a farinha de trigo, deixando formar um creminho levemente dourado.",
+      "A seguir, coloque o leite, também aos poucos, e mexa até engrossar.",
+      "Acrescente os temperos e está pronto.",
+      "Todo o processo deve ser feito em fogo baixo.",
+      "Se tiver, utilize um batedor (fouet) para facilitar o preparo."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Molho béchamel. Ingredientes: leite (250ml), sopa cheia de manteiga, sopa de farinha de trigo, sal a gosto, pimenta-do-reino a gosto, noz-moscada a gosto. Preparo: Derreta a manteiga e aos poucos misture a farinha de trigo, deixando formar um creminho levemente dourado. A seguir, coloque o leite, também aos poucos, e mexa até engrossar. Acrescente os temperos e está pronto."
+}

@@ -1,0 +1,70 @@
+{
+  "id": "tg-91543",
+  "titulo": "Moela de frango acebolada",
+  "url": "https://www.tudogostoso.com.br/receita/91543-moela-de-frango-acebolada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 111,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Moela de frango acebolada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "moela de frango",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de moela de frango"
+    },
+    {
+      "nome": "caldos de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caldos de carne"
+    },
+    {
+      "nome": "cabeças de cebola",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cabeças de cebola"
+    },
+    {
+      "nome": "molho shoyu",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de molho shoyu"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe bem as moelas.",
+      "Em uma panela de pressão, coloque a manteiga e os dentes de alho picados e deixe fritar.",
+      "Em seguida, adicione as moelas, deixando fritar um pouco.",
+      "Adicione os caldos de carne e complete com água até quase cobrir as moelas.",
+      "Deixe cozinhar na pressão por cerca de 15 minutos em fogo baixo.",
+      "Retire da pressão, levando ao fogo novamente para cozinhar, adicionando as cebolas picadas em rodelas e o molho shoyu.",
+      "Deixe cozinhar até secar a água.",
+      "Retire do fogo e sirva em seguida como prato principal ou aperitivo."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Moela de frango acebolada. Ingredientes: moela de frango, caldos de carne, cabeças de cebola, molho shoyu, margarina, alho. Preparo: Limpe bem as moelas. Em uma panela de pressão, coloque a manteiga e os dentes de alho picados e deixe fritar. Em seguida, adicione as moelas, deixando fritar um pouco."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tg-10592",
+  "titulo": "Arroz doce cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/10592-arroz-doce-cremoso.html",
+  "nota": 4.7,
+  "n_avaliacoes": 438,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Arroz doce cremoso",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "e 1/2 de arroz",
+      "quantidade": "1",
+      "unidade": "xícaras",
+      "texto_original": "1 xícaras e 1/2 de arroz"
+    },
+    {
+      "nome": "e 1/2 de água",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras e 1/2 de água"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "5",
+      "unidade": "xícaras",
+      "texto_original": "5 xícaras de leite"
+    },
+    {
+      "nome": "baunilha",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de baunilha"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "açúcar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar a gosto"
+    },
+    {
+      "nome": "canela em pó ou em lascas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó ou em lascas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a água o arroz e a canela e deixe ferver até secar a água.",
+      "Após coloque o leite, a baunilha, o açúcar e o leite condensado, mexendo sempre.",
+      "Deixe ferver por 15 minutos e coloque o creme de leite, mexa.",
+      "Ferva por mais 5 minutos e pronto.",
+      "Polvilhe com canela.",
+      "Pode ser servido quente ou frio conforme o gosto."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de silicone",
+    "Colher para sobremesa",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Arroz doce cremoso. Ingredientes: e 1/2 de arroz, e 1/2 de água, leite, baunilha, leite condensado, creme de leite, açúcar a gosto, canela em pó ou em lascas. Preparo: Coloque a água o arroz e a canela e deixe ferver até secar a água. Após coloque o leite, a baunilha, o açúcar e o leite condensado, mexendo sempre. Deixe ferver por 15 minutos e coloque o creme de leite, mexa."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "tg-70",
+  "titulo": "Bolo de Iogurte",
+  "url": "https://www.tudogostoso.com.br/receita/70-bolo-de-iogurte.html",
+  "nota": 4.5,
+  "n_avaliacoes": 504,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de Iogurte",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "pote de iogurte natural",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de iogurte natural"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater todos os ingredientes no liquidificador, primeiro os líquidos e ovos por 4 minutos. Acrecentar os outros ingredientes, menos o fermento, bater por 2 ou 3 minutos. Colocar fermento e bater por 30 segundos. Despejar numa forma untada. Assar em temperatura média em forno pré aquecido por aproximadamente 40 minutos ou até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de Iogurte. Ingredientes: pote de iogurte natural, óleo, açúcar, farinha de trigo, ovos, fermento. Preparo: Bater todos os ingredientes no liquidificador, primeiro os líquidos e ovos por 4 minutos. Acrecentar os outros ingredientes, menos o fermento, bater por 2 ou 3 minutos. Colocar fermento e bater por 30 segundos. Despejar numa forma untada. Assar em temperatura média em forno pré aquecido por aproximadamente 40 minutos ou até dourar."
+}

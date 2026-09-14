@@ -1,0 +1,88 @@
+{
+  "id": "tg-100853",
+  "titulo": "Carne Moída com Batatas Rapidinha",
+  "url": "https://www.tudogostoso.com.br/receita/100853-carne-moida-com-batatas-rapidinha.html",
+  "nota": 4.8,
+  "n_avaliacoes": 124,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Carne Moída com Batatas Rapidinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de óleo"
+    },
+    {
+      "nome": "carne de primeira moída",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de carne de primeira moída"
+    },
+    {
+      "nome": "cubo de caldo de legumes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de legumes"
+    },
+    {
+      "nome": "batatas médias cortadas em cubos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 batatas médias cortadas em cubos"
+    },
+    {
+      "nome": "tomates maduros picados",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates maduros picados"
+    },
+    {
+      "nome": "cebola granulada",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de cebola granulada"
+    },
+    {
+      "nome": "alho granulado",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de alho granulado"
+    },
+    {
+      "nome": "Pimenta do reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta do reino"
+    },
+    {
+      "nome": "Salsinha picada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha picada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Fritar a carne moída no óleo, mexendo sempre.",
+      "Depois de fritar a carne, acrescentar a cebola e o alho e deixar dourar.",
+      "Colocar os tomates, a salsinha, a pimenta e o cubo de caldo.",
+      "Acrescentar ½ xícara (chá) de água.",
+      "Assim que começar a ferver, deixar mais 2 minutos e colocar as batatas.",
+      "Tampar e deixar em fogo baixo até que as batatas fiquem macias."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Colher de silicone",
+    "Faca",
+    "Fogão",
+    "Moedor de pimenta"
+  ],
+  "texto_para_embedding": "Carne Moída com Batatas Rapidinha. Ingredientes: sopa de óleo, carne de primeira moída, cubo de caldo de legumes, batatas médias cortadas em cubos, tomates maduros picados, cebola granulada, alho granulado, Pimenta do reino, Salsinha picada. Preparo: Fritar a carne moída no óleo, mexendo sempre. Depois de fritar a carne, acrescentar a cebola e o alho e deixar dourar. Colocar os tomates, a salsinha, a pimenta e o cubo de caldo."
+}

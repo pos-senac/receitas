@@ -1,0 +1,94 @@
+{
+  "id": "tg-5019",
+  "titulo": "Antepasto de Berinjela",
+  "url": "https://www.tudogostoso.com.br/receita/5019-antepasto-de-berinjela.html",
+  "nota": 4.6,
+  "n_avaliacoes": 221,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Antepasto de Berinjela",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 120,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "berinjelas grandes cortadas em tirinhas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 berinjelas grandes cortadas em tirinhas"
+    },
+    {
+      "nome": "pimentão verde cortado em tirinhas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde cortado em tirinhas"
+    },
+    {
+      "nome": "pimentão amarelo cortado em tirinhas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão amarelo cortado em tirinhas"
+    },
+    {
+      "nome": "pimentão vermelho cortado em tirinhas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão vermelho cortado em tirinhas"
+    },
+    {
+      "nome": "cebolas grandes cortada em tirinhas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas grandes cortada em tirinhas"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de azeite"
+    },
+    {
+      "nome": "vinagre de vinho tinto",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de vinagre de vinho tinto"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    },
+    {
+      "nome": "vidro pequeno de azeitonas sem caroço",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de azeitonas sem caroço"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte as berinjelas, os pimentões e as cebolas e arrume em camadas a berinjela, o pimentão e por cima a cebola, em placa de alumínio.",
+      "Coloque por cima o azeite, o vinagre, o sal, o orégano cubra com papel alumínio e leve ao forno pré-aquecido bem quente (mais ou menos 150º graus) por 15 minutos.",
+      "Tire do forno, acrescente as azeitonas fatiadas dê uma ligeira misturada e leve novamente ao forno (continua com o papel alumínio) até que a berinjela seque e fique escura (mais ou menos 1 hora e meia).",
+      "Tire do forno, espere esfriar e leve à geladeira.",
+      "Se puder esperar que fique marinando 2 ou 3 dias na geladeira, fica bem mais gostoso.",
+      "Sirva com pão italiano, com carnes."
+    ]
+  },
+  "utensilios": [
+    "Papel-alumínio",
+    "Espátula de silicone",
+    "Faca",
+    "Forma",
+    "Forno elétrico",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Antepasto de Berinjela. Ingredientes: berinjelas grandes cortadas em tirinhas, pimentão verde cortado em tirinhas, pimentão amarelo cortado em tirinhas, pimentão vermelho cortado em tirinhas, cebolas grandes cortada em tirinhas, azeite, vinagre de vinho tinto, orégano a gosto, vidro pequeno de azeitonas sem caroço, sal a gosto. Preparo: Corte as berinjelas, os pimentões e as cebolas e arrume em camadas a berinjela, o pimentão e por cima a cebola, em placa de alumínio. Coloque por cima o azeite, o vinagre, o sal, o orégano cubra com papel alumínio e leve ao forno pré-aquecido bem quente (mais ou menos 150º graus) por 15 minutos. Tire do forno, acrescente as azeitonas fatiadas dê uma ligeira misturada e leve novamente ao forno (continua com o papel alumínio) até que a berinjela seque e fique escura (mais ou menos 1 hora e meia)."
+}

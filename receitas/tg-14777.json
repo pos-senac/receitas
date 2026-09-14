@@ -1,0 +1,101 @@
+{
+  "id": "tg-14777",
+  "titulo": "Bolo cuca de maçã",
+  "url": "https://www.tudogostoso.com.br/receita/14777-bolo-cuca-de-maca.html",
+  "nota": 4.5,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo cuca de maçã",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "tablete de margarina",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de margarina"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "Raspas de casca de limão opcional",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Raspas de casca de limão opcional"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sobremesa de fermento",
+      "quantidade": "1",
+      "unidade": "colhere",
+      "texto_original": "1 colhere de sobremesa de fermento"
+    },
+    {
+      "nome": "maçãs com casca",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 maçãs com casca"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de farinha de trigo"
+    },
+    {
+      "nome": "Canela em pó a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pó a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Farofa:": [
+      "Misture todos os ingredientes com um garfo até se formar uma farofa.",
+      "Reserve."
+    ],
+    "Bolo:": [
+      "Bata a margarina com o açúcar até obter um creme.",
+      "Junte os ovos e bata bem acrescente a farinha de trigo as raspas de limão, o fermento e mexa delicadamente.",
+      "Coloque a massa em assadeira de 26 cm de fundo falso, untada e polvilhada com farinha.",
+      "Distribua a maçã em fatias e a farofa leve para assar por 30 minutos mais ou menos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo cuca de maçã. Ingredientes: açúcar, tablete de margarina, ovos, Raspas de casca de limão opcional, farinha de trigo, sobremesa de fermento, maçãs com casca, leite, sopa de margarina, açúcar, farinha de trigo, Canela em pó a gosto. Preparo: Misture todos os ingredientes com um garfo até se formar uma farofa. Reserve. Bata a margarina com o açúcar até obter um creme."
+}

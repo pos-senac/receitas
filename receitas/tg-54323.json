@@ -1,0 +1,66 @@
+{
+  "id": "tg-54323",
+  "titulo": "Bolo de laranja",
+  "url": "https://www.tudogostoso.com.br/receita/54323-bolo-de-laranja.html",
+  "nota": 4.7,
+  "n_avaliacoes": 438,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de laranja",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de óleo"
+    },
+    {
+      "nome": "suco de laranja",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de suco de laranja"
+    },
+    {
+      "nome": "pedaço de casca de laranja, mais ou menos o tamanho de uma moeda",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pedaço de casca de laranja, mais ou menos o tamanho de uma moeda"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó para bolo",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de fermento em pó para bolo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque os ingredientes na ordem acima no liquidificador.",
+      "Bata um pouco e coloque em uma forma com furo no meio.",
+      "Leve para assar em forno médio, pré-aquecido, por cerca de 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de laranja. Ingredientes: ovos, chá de óleo, suco de laranja, pedaço de casca de laranja, mais ou menos o tamanho de uma moeda, açúcar, farinha de trigo, fermento em pó para bolo. Preparo: Coloque os ingredientes na ordem acima no liquidificador. Bata um pouco e coloque em uma forma com furo no meio. Leve para assar em forno médio, pré-aquecido, por cerca de 40 minutos, ou até dourar."
+}

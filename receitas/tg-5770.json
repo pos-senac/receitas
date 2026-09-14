@@ -1,0 +1,79 @@
+{
+  "id": "tg-5770",
+  "titulo": "Pão de minuto",
+  "url": "https://www.tudogostoso.com.br/receita/5770-pao-de-minuto.html",
+  "nota": 4.0,
+  "n_avaliacoes": 184,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de minuto",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente coloque a farinha, a margarina, o açúcar, o sal e o ovo levemente batido.",
+      "Misture a cada ingrediente adicionado.",
+      "Junte o leite e mexa (neste momento, se necessário, adicione mais farinha).",
+      "Coloque o fermento.",
+      "Sove sobre superfície lisa.",
+      "Deixe a massa descansar por aproximadamente 10 minutos coberta com um pano.",
+      "A seguir, enrole uma bolinha e achate no fundo.",
+      "Coloque em assadeira retangular (não precisa untar).",
+      "Leve ao forno pré-aquecido 180°c a 200°c por 20 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Colher de silicone",
+    "Copo medidor",
+    "Forno elétrico",
+    "Tigela",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Pão de minuto. Ingredientes: farinha de trigo, margarina, açúcar, ovo, sal, leite, fermento em pó. Preparo: Em um recipiente coloque a farinha, a margarina, o açúcar, o sal e o ovo levemente batido. Misture a cada ingrediente adicionado. Junte o leite e mexa (neste momento, se necessário, adicione mais farinha)."
+}

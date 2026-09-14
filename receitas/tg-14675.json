@@ -1,0 +1,74 @@
+{
+  "id": "tg-14675",
+  "titulo": "Enroladinho de salsicha",
+  "url": "https://www.tudogostoso.com.br/receita/14675-enroladinho-de-salsicha.html",
+  "nota": 4.4,
+  "n_avaliacoes": 681,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Enroladinho de salsicha",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 35,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de água"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de óleo"
+    },
+    {
+      "nome": "sachê de tempero pronto",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 sachê de tempero pronto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "salsicha",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de salsicha"
+    },
+    {
+      "nome": "farinha de rosca para empanar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca para empanar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture tudo da massa e leve ao fogo.",
+      "Mexa bastante (o ponto é a massa desgrudar da panela). Quando der o ponto, retire do fogo e reserve.",
+      "Corte todas as salsichas pela metade.",
+      "Unte as mãos com óleo e enrole as salsichas na massa.",
+      "Passe na farinha de rosca e frite em óleo novo e bem quente. Dica: Jogue um fósforo no óleo. Se o fósforo acender, o óleo está quente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Escumadeira",
+    "Espátula de silicone",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Enroladinho de salsicha. Ingredientes: água, farinha de trigo, óleo, sachê de tempero pronto, sal a gosto, salsicha, farinha de rosca para empanar. Preparo: Misture tudo da massa e leve ao fogo. Mexa bastante (o ponto é a massa desgrudar da panela). Quando der o ponto, retire do fogo e reserve. Corte todas as salsichas pela metade."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tg-456",
+  "titulo": "Brigadeiro de micro-ondas",
+  "url": "https://www.tudogostoso.com.br/receita/456-brigadeiro-de-micro-ondas.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1049,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Brigadeiro de micro-ondas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 60,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 leite condensado"
+    },
+    {
+      "nome": "chocolate em pó ou achocolatado",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de chocolate em pó ou achocolatado"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "chocolate granulado ou granulado colorido",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate granulado ou granulado colorido"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente próprio para microondas, de preferência redondo e de borda alta, misture todos os ingredientes.",
+      "Leve ao microondas por 6 minutos em potência alta ou na tecla brigadeiro do próprio microondas. Mexendo a mistura na metade do tempo.",
+      "Depois de pronto, retire do forno e mexa até ficar uma massa lisa e brilhante.",
+      "Leve à geladeira para esfriar, depois enrole os docinhos, passe no granulado e coloque nas forminhas."
+    ]
+  },
+  "utensilios": [
+    "Micro-ondas",
+    "Ramequim"
+  ],
+  "texto_para_embedding": "Brigadeiro de micro-ondas. Ingredientes: leite condensado, chocolate em pó ou achocolatado, manteiga, chocolate granulado ou granulado colorido. Preparo: Em um recipiente próprio para microondas, de preferência redondo e de borda alta, misture todos os ingredientes. Leve ao microondas por 6 minutos em potência alta ou na tecla brigadeiro do próprio microondas. Mexendo a mistura na metade do tempo. Depois de pronto, retire do forno e mexa até ficar uma massa lisa e brilhante."
+}

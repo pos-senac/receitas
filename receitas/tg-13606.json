@@ -1,0 +1,81 @@
+{
+  "id": "tg-13606",
+  "titulo": "Macarronada de carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/13606-macarronada-de-carne-moida.html",
+  "nota": 4.7,
+  "n_avaliacoes": 113,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarronada de carne moída",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "macarrão para macarronada",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de macarrão para macarronada"
+    },
+    {
+      "nome": "extrato de tomate (grande)",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de extrato de tomate (grande)"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne moída"
+    },
+    {
+      "nome": "Cebolinha, pimentaõ, cheiro verde, alho, tomate (para temperar carne) knnor",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebolinha, pimentaõ, cheiro verde, alho, tomate (para temperar carne) knnor"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 creme de leite"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de queijo mussarela"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de presunto"
+    }
+  ],
+  "modo_preparo": {
+    "Carne moída:": [
+      "Cozinhe a carne moída temperada com sal, cebolinha, pimentão, cheiro verde, tomate, knnor (ou ao seu gosto) deixe a carne com pouca água.",
+      "Após cozida junte o extrato de tomate até levantar fervura, a consistência deve estar bem grossa, apague o fogo e acrescente o creme de leite (reserve).",
+      "Corte o queijo e o presunto em tirinhas."
+    ],
+    "Montagem:": [
+      "Em uma travessa (retangular), espalhe parte do macarrão.",
+      "Em seguida acrescente parte da carne.",
+      "Depois coloque o restante do macarrão e em seguida o restante do molho.",
+      "Espalhe o queijo e o presunto em cima depois leve ao forno por 10 minutos apenas para derreter um pouco o queijo.",
+      "Cubra com papel alumínio para não ressecar o macarrão.",
+      "Depois retire e sirva para melhorar pode servir com catchup."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Papel-alumínio",
+    "Colher de silicone",
+    "Expremedor de alho",
+    "Faca",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Macarronada de carne moída. Ingredientes: macarrão para macarronada, extrato de tomate (grande), carne moída, Cebolinha, pimentaõ, cheiro verde, alho, tomate (para temperar carne) knnor, creme de leite, queijo mussarela, presunto. Preparo: Cozinhe a carne moída temperada com sal, cebolinha, pimentão, cheiro verde, tomate, knnor (ou ao seu gosto) deixe a carne com pouca água. Após cozida junte o extrato de tomate até levantar fervura, a consistência deve estar bem grossa, apague o fogo e acrescente o creme de leite (reserve). Corte o queijo e o presunto em tirinhas."
+}

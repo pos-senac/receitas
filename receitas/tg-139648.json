@@ -1,0 +1,56 @@
+{
+  "id": "tg-139648",
+  "titulo": "Pudim de leite (que não vai ao forno)",
+  "url": "https://www.tudogostoso.com.br/receita/139648-pudim-de-leite-que-nao-vai-ao-forno.html",
+  "nota": 4.3,
+  "n_avaliacoes": 363,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de leite (que não vai ao forno)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "caixinhas de creme de leite",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caixinhas de creme de leite"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "envelope de gelatina em pó sem sabor",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de gelatina em pó sem sabor"
+    },
+    {
+      "nome": "açúcar para caramelizar a fôrma",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar para caramelizar a fôrma"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Hidrate e dissolva a gelatina em pó sem sabor em 1 xícara (chá) de leite.",
+      "No liquidificador coloque leite condensado, creme de leite e a gelatina  dissolvida no leite e bata bem até formar uma mistura homogênea.",
+      "Coloque a açúcar em uma forma de buraco em fogo baixo ate formar um caramelo e despeje o liquido e leve a geladeira. Deixe na geladeira de um dia para outro.",
+      "Retire da forma e coloque em um refratário de vidro e sirva em seguida.",
+      "Bom Apetite!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim de leite (que não vai ao forno). Ingredientes: leite condensado, caixinhas de creme de leite, leite, envelope de gelatina em pó sem sabor, açúcar para caramelizar a fôrma. Preparo: Hidrate e dissolva a gelatina em pó sem sabor em 1 xícara (chá) de leite. No liquidificador coloque leite condensado, creme de leite e a gelatina  dissolvida no leite e bata bem até formar uma mistura homogênea. Coloque a açúcar em uma forma de buraco em fogo baixo ate formar um caramelo e despeje o liquido e leve a geladeira. Deixe na geladeira de um dia para outro."
+}

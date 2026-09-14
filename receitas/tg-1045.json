@@ -1,0 +1,51 @@
+{
+  "id": "tg-1045",
+  "titulo": "Pudim de leite moça",
+  "url": "https://www.tudogostoso.com.br/receita/1045-pudim-de-leite-moca.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1026,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de leite moça",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite moça",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite moça"
+    },
+    {
+      "nome": "medida da lata de leite moça de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 medida da lata de leite moça de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Ligue o forno para aquecer por 10 minutos em fogo baixo.",
+      "Bata no liquidificador os ovos, o leite moça e o leite por 3 minutos.",
+      "Faça uma calda com o açúcar, deixe esfriar um pouco.",
+      "Coloque a calda numa forma com furo no meio, coloque o pudim sobre a calda.",
+      "Leve ao forno, não precisa ser em banho-maria, espere ficar dourado em cima, em torno de 40 minutos.",
+      "Aguarde esfriar e leve à geladeira (é bom fazer de um dia para o outro)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim de leite moça. Ingredientes: ovos, leite moça, medida da lata de leite moça de leite, açúcar. Preparo: Ligue o forno para aquecer por 10 minutos em fogo baixo. Bata no liquidificador os ovos, o leite moça e o leite por 3 minutos. Faça uma calda com o açúcar, deixe esfriar um pouco."
+}

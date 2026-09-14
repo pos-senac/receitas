@@ -1,0 +1,90 @@
+{
+  "id": "tg-2040",
+  "titulo": "Macarrão ao molho branco",
+  "url": "https://www.tudogostoso.com.br/receita/2040-macarrao-ao-molho-branco.html",
+  "nota": 4.6,
+  "n_avaliacoes": 355,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão ao molho branco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "macarrão tipo talharim",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de macarrão tipo talharim"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de maizena"
+    },
+    {
+      "nome": "tabletes de caldo de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de galinha"
+    },
+    {
+      "nome": "folhas de manjericão fresco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "folhas de manjericão fresco"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite"
+    },
+    {
+      "nome": "cebolas médias picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas médias picadas"
+    },
+    {
+      "nome": "água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "água"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o macarrão em muita água até ficar macio.",
+      "Reserve.",
+      "Refogue a cebola no azeite e acrescente água o suficiente para o molho.",
+      "Coloque o caldo de galinha e deixe dissolver.",
+      "Quando a água estiver fervendo, dissolva a maisena em um pouco de água e acrescente.",
+      "Coloque o manjericão.",
+      "Assim que levantar fervura, coloque o creme de leite.",
+      "Deixe ferver novamente, sempre mexendo.",
+      "Despeje em cima do macarrão e polvilhe o queijo ralado.",
+      "Sirva quente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Escorredor de massa",
+    "Pegador de macarrão"
+  ],
+  "texto_para_embedding": "Macarrão ao molho branco. Ingredientes: macarrão tipo talharim, creme de leite, maizena, tabletes de caldo de galinha, folhas de manjericão fresco, azeite, cebolas médias picadas, água, queijo ralado. Preparo: Cozinhe o macarrão em muita água até ficar macio. Reserve. Refogue a cebola no azeite e acrescente água o suficiente para o molho."
+}

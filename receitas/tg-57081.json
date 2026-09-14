@@ -1,0 +1,59 @@
+{
+  "id": "tg-57081",
+  "titulo": "Bolinho de arroz sequinho",
+  "url": "https://www.tudogostoso.com.br/receita/57081-bolinho-de-arroz-sequinho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 178,
+  "categoria": "Receitas petiscos",
+  "subcategoria": "Bolinho de arroz sequinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "arroz cozido",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de arroz cozido"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "Sal e cheiro verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e cheiro verde a gosto"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g queijo ralado"
+    },
+    {
+      "nome": "Farinha de trigo para dar liga",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo para dar liga"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um tigela misture todos os ingredientes.",
+      "Com a ajuda de 2 colheres, modele os bolinhos e coloque para fritar em óleo quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolinho de arroz sequinho. Ingredientes: arroz cozido, ovos, Sal e cheiro verde a gosto, queijo ralado, Farinha de trigo para dar liga, Óleo para fritar. Preparo: Em um tigela misture todos os ingredientes. Com a ajuda de 2 colheres, modele os bolinhos e coloque para fritar em óleo quente."
+}

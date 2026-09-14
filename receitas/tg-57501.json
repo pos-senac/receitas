@@ -1,0 +1,108 @@
+{
+  "id": "tg-57501",
+  "titulo": "Bolo de chocolate sem ovo",
+  "url": "https://www.tudogostoso.com.br/receita/57501-bolo-de-chocolate-sem-ovo.html",
+  "nota": 4.3,
+  "n_avaliacoes": 227,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate sem ovo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "2 e 1/2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de achocolatado em pó"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "rasa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) rasa de fermento em pó"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de achocolatado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) manteiga"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de maizena"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de leite condensado"
+    },
+    {
+      "nome": "Leite o quanto baste",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite o quanto baste"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Coloque no liquidificador primeiro os ingrediente líquidos e bata.",
+      "Acrescente o restante deixando o fermento para o final. Auxilie o batimento com uma colher se necessário.",
+      "Leve ao forno em forma redonda (com buraco) untada por aproximadamente 25 a 30 minutos.",
+      "Desenforme depois de frio e jogue a cobertura por cima (se preferir passe antes um pouco de doce de leite no bolo)"
+    ],
+    "Cobertura:": [
+      "Leve ao fogo em uma leiteira a manteiga e acrescente o chocolate em pó, açúcar e o leite condensado.",
+      "À parte dissolva a maizena em um pouco de leite e acrescente ao restante na leiteira (assim ela não empelota).",
+      "Acrescente o leite o quanto baste (até que ela fique consistente o bastante como uma calda).",
+      "Despeje sobre o bolo já frio."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de chocolate sem ovo. Ingredientes: farinha de trigo, açúcar, achocolatado em pó, óleo, leite, rasa de fermento em pó, achocolatado, açúcar, manteiga, maizena, leite condensado, Leite o quanto baste. Preparo: Coloque no liquidificador primeiro os ingrediente líquidos e bata. Acrescente o restante deixando o fermento para o final. Auxilie o batimento com uma colher se necessário. Leve ao forno em forma redonda (com buraco) untada por aproximadamente 25 a 30 minutos."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "tg-7271",
+  "titulo": "Cuscuz de tapioca",
+  "url": "https://www.tudogostoso.com.br/receita/7271-cuscuz-de-tapioca.html",
+  "nota": 4.2,
+  "n_avaliacoes": 212,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Cuscuz de tapioca",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "tapioca",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de tapioca"
+    },
+    {
+      "nome": "litro e 300 ml de água ou leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro e 300 ml de água ou leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "coco médio ralado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 coco médio ralado"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a tapioca junto com o açúcar em uma travessa.",
+      "Ferva a água ou o leite e despeje por cima dessa mistura.",
+      "Quando começar a formar uma pasta, coloque metade do coco ralado.",
+      "Tampe e abafe embrulhando em uma pano de prato ou toalha de cozinha.",
+      "Quando esfriar, espalhe o restante do coco ralado por cima e sirva com leite condensado."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espátula de silicone",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Cuscuz de tapioca. Ingredientes: tapioca, litro e 300 ml de água ou leite, açúcar, coco médio ralado, leite condensado. Preparo: Coloque a tapioca junto com o açúcar em uma travessa. Ferva a água ou o leite e despeje por cima dessa mistura. Quando começar a formar uma pasta, coloque metade do coco ralado."
+}

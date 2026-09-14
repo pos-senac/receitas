@@ -1,0 +1,89 @@
+{
+  "id": "tg-4899",
+  "titulo": "Torta de Limão",
+  "url": "https://www.tudogostoso.com.br/receita/4899-torta-de-limao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 340,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de Limão",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 10,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de margarina"
+    },
+    {
+      "nome": "sopa de leite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de leite"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "farinha o suficiente para desgrudar das mãos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha o suficiente para desgrudar das mãos"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "café de suco de limão",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de café de suco de limão"
+    },
+    {
+      "nome": "claras batidas em neve",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 claras batidas em neve"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um refratário próprio para forno coloque, as gemas, o açúcar , a margarina e o leite. Misture e coloque o fermento e por último a farinha, aos poucos até dar o ponto de soltar das mãos.",
+      "Abra a massa na própria forma com as mãos, delicadamente, deixando alta as laterais. Leve ao forno para assar.",
+      "Á parte bata o leite condensado e o suco de limão ate ficar durinho.",
+      "Reserve.",
+      "Bata as claras em neve com 4 colheres de açúcar.",
+      "Quando a massa estiver assada ( fica meio enfarinhada quando assada).",
+      "Coloque o recheio e por último as claras.",
+      "Leve ao forno até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de Limão. Ingredientes: gemas, sopa de açúcar, sopa de margarina, sopa de leite, sopa de fermento em pó, farinha o suficiente para desgrudar das mãos, leite condensado, café de suco de limão, claras batidas em neve, sopa de açúcar. Preparo: Em um refratário próprio para forno coloque, as gemas, o açúcar , a margarina e o leite. Misture e coloque o fermento e por último a farinha, aos poucos até dar o ponto de soltar das mãos. Abra a massa na própria forma com as mãos, delicadamente, deixando alta as laterais. Leve ao forno para assar. Á parte bata o leite condensado e o suco de limão ate ficar durinho."
+}

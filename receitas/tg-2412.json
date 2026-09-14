@@ -1,0 +1,59 @@
+{
+  "id": "tg-2412",
+  "titulo": "Pizza na frigideira",
+  "url": "https://www.tudogostoso.com.br/receita/2412-pizza-na-frigideira.html",
+  "nota": 4.2,
+  "n_avaliacoes": 183,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Pizza na frigideira",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "2 e 1/2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "pequena de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher pequena de sal"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite morno"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture tudo em uma travessa com as mãos.",
+      "Caso não encontre o ponto certo, adicione mais farinha até desgrudar a massa das mãos.",
+      "Separar 4 bolinhas de massa. Abra-as separadamente na frigideira.",
+      "Asse somente um lado até o ponto desejado.Vire a massa.",
+      "Desligue o fogo.",
+      "Coloque molho de tomate.",
+      "Cubra o molho com mussarela, rodelas de tomate e orégano.",
+      "Asse agora o outro lado.",
+      "Tampe para que o queijo derreta."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Bowl",
+    "Colher de pau",
+    "Espatula"
+  ],
+  "texto_para_embedding": "Pizza na frigideira. Ingredientes: farinha de trigo, manteiga, pequena de sal, leite morno. Preparo: Misture tudo em uma travessa com as mãos. Caso não encontre o ponto certo, adicione mais farinha até desgrudar a massa das mãos. Separar 4 bolinhas de massa. Abra-as separadamente na frigideira."
+}

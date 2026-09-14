@@ -1,0 +1,116 @@
+{
+  "id": "tg-28749",
+  "titulo": "Cachorro-quente de forno",
+  "url": "https://www.tudogostoso.com.br/receita/28749-cachorro-quente-de-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 649,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Cachorro-quente de forno",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1 e 1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 e 1/2 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "salsichas cozidas e picadas",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 salsichas cozidas e picadas"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "tomate picado sem sementes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado sem sementes"
+    },
+    {
+      "nome": "pimentão picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão picado"
+    },
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilha"
+    },
+    {
+      "nome": "azeitonas a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitonas a gosto"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de molho de tomate"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Bata no liquidificador a farinha, os ovos, o leite e metade do queijo ralado.",
+      "Acrescente por último o fermento e misture delicadamente com uma colher."
+    ],
+    "Recheio": [
+      "Em uma panela, leve todos os ingredientes ao fogo médio e deixe cozinhar por alguns minutos."
+    ],
+    "Montagem": [
+      "Unte uma forma e polvilhe com farinha de trigo.",
+      "Despeje a metade da massa, o recheio e cubra com o restante da massa.",
+      "Polvilhe com o resto do queijo.",
+      "Leve ao forno médio (180° C), preaquecido, por aproximadamente 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Bowl",
+    "Colher de silicone",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Cachorro-quente de forno. Ingredientes: farinha de trigo, leite, ovos, fermento em pó, queijo parmesão ralado, salsichas cozidas e picadas, cebola picada, tomate picado sem sementes, pimentão picado, milho, ervilha, azeitonas a gosto, molho de tomate. Preparo: Bata no liquidificador a farinha, os ovos, o leite e metade do queijo ralado. Acrescente por último o fermento e misture delicadamente com uma colher. Em uma panela, leve todos os ingredientes ao fogo médio e deixe cozinhar por alguns minutos."
+}

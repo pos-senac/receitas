@@ -1,0 +1,86 @@
+{
+  "id": "tg-10580",
+  "titulo": "Sanduíche de forno",
+  "url": "https://www.tudogostoso.com.br/receita/10580-sanduiche-de-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 238,
+  "categoria": "Receitas sanduíches",
+  "subcategoria": "Sanduíche de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "manteiga para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manteiga para untar"
+    },
+    {
+      "nome": "pão de forma",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de pão de forma"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "queijo prato",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de queijo prato"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de queijo mussarela"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de presunto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite"
+    },
+    {
+      "nome": "tomate em rodela (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tomate em rodela (opcional)"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "manjericão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manjericão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte o refratário com manteiga, acrescente uma camada com pão de forma e cubra com requeijão.",
+      "Em seguida, coloque uma camada de queijo prato, uma de presunto e mais uma de mussarela.",
+      "Acrescente mais uma camada de pão, requeijão, os queijos e o presunto, o tomate e os temperos.",
+      "Por fim, adicione mais uma camada de pão e, sobre esta última camada, coloque o queijo mussarela e o orégano.",
+      "Espalhe o leite nas laterais do sanduíche (com o auxílio de uma colher) e leve ao forno até dourar (10 minutos)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sanduíche de forno. Ingredientes: manteiga para untar, pão de forma, requeijão, queijo prato, queijo mussarela, presunto, leite, tomate em rodela (opcional), orégano, manjericão. Preparo: Unte o refratário com manteiga, acrescente uma camada com pão de forma e cubra com requeijão. Em seguida, coloque uma camada de queijo prato, uma de presunto e mais uma de mussarela. Acrescente mais uma camada de pão, requeijão, os queijos e o presunto, o tomate e os temperos."
+}

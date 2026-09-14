@@ -1,0 +1,95 @@
+{
+  "id": "tg-139574",
+  "titulo": "Pavê de Morango da Thaís",
+  "url": "https://www.tudogostoso.com.br/receita/139574-pave-de-morango-da-thais.html",
+  "nota": 4.6,
+  "n_avaliacoes": 519,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Pavê de Morango da Thaís",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "bolacha maizena ou bolacha champagne",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de bolacha maizena ou bolacha champagne"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "leite comum",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite comum"
+    },
+    {
+      "nome": "gemas peneiradas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas peneiradas"
+    },
+    {
+      "nome": "farinha de trigo ou maisena",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de farinha de trigo ou maisena"
+    },
+    {
+      "nome": "morango",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de morango"
+    },
+    {
+      "nome": "baunilha",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de baunilha"
+    },
+    {
+      "nome": "morango para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "morango para decorar"
+    },
+    {
+      "nome": "chantilly para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chantilly para decorar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, coloque o leite condensado, o leite (reserve um pouco para dissolver o trigo), as gemas peneiradas levemente batidas, a baunilha e a farinha misturada no leite reservado.",
+      "Mexa até engrossar (engrossou em 15 minutinhos, mas não pode parar de mexer).",
+      "Desligue o fogo e junte o creme de leite com o soro.",
+      "Se necessário, bata o creme no liquidificador para desmanchar possíveis bolinhas que se formam no creme.",
+      "Em um refratário, coloque na seguinte ordem: uma camada de bolacha (passe as bolachas no leite com açúcar rapidamente), uma camada de morangos picados, metade do creme.",
+      "Repita as camadas terminando com o creme.",
+      "Decore a seu gosto, com morangos e chantilly."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Refratário",
+    "Colher para sobremesa",
+    "Fouet",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Pavê de Morango da Thaís. Ingredientes: bolacha maizena ou bolacha champagne, leite condensado, caixinha de creme de leite, leite comum, gemas peneiradas, farinha de trigo ou maisena, morango, baunilha, morango para decorar, chantilly para decorar. Preparo: Em uma panela, coloque o leite condensado, o leite (reserve um pouco para dissolver o trigo), as gemas peneiradas levemente batidas, a baunilha e a farinha misturada no leite reservado. Mexa até engrossar (engrossou em 15 minutinhos, mas não pode parar de mexer). Desligue o fogo e junte o creme de leite com o soro."
+}

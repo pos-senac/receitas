@@ -1,0 +1,122 @@
+{
+  "id": "tg-17523",
+  "titulo": "Esfirra fofinha da mamãe",
+  "url": "https://www.tudogostoso.com.br/receita/17523-esfirra-fofinha-da-mamae.html",
+  "nota": 4.6,
+  "n_avaliacoes": 419,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Esfirra fofinha da mamãe",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 70,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "fermento biológico",
+      "quantidade": "30",
+      "unidade": "g",
+      "texto_original": "30 g de fermento biológico"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite morno"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de sal"
+    },
+    {
+      "nome": "farinha de trigo (aproximadamente)",
+      "quantidade": "600",
+      "unidade": "g",
+      "texto_original": "600 g de farinha de trigo (aproximadamente)"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "patinho moído",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de patinho moído"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "cheiro-verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde"
+    },
+    {
+      "nome": "tomates sem semente",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates sem semente"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio:": [
+      "Frite no azeite, a cebola e o alho até que dourem, coloque a carne e o sal, deixe refogar.",
+      "Acrescente o tomate, cheiro-verde e a pimenta, cozinhe por mais 5 minutos.",
+      "Deixe esfriar para utilizar como recheio."
+    ],
+    "Massa:": [
+      "Coloque em uma tigela, o fermento (dissolvido no leite morno), o sal, açúcar e 2 xícaras de farinha de trigo, misture e deixe dobrar de volume.",
+      "Logo, acrescente o ovo, o óleo e o restante da farinha, até a massa se desprender da mão, deixando-a macia.",
+      "Sove um pouco.",
+      "Divida a massa em bolinhas do mesmo tamanho, abra uma a uma, recheie e modele.",
+      "Coloque as esfirras em uma assadeira, pincele com gema de ovo.",
+      "Deixe crescer.",
+      "Asse em forno médio."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Esfirra fofinha da mamãe. Ingredientes: fermento biológico, leite morno, açúcar, sal, farinha de trigo (aproximadamente), óleo, ovo, patinho moído, azeite, cebola, alho, cheiro-verde, tomates sem semente, pimenta a gosto. Preparo: Frite no azeite, a cebola e o alho até que dourem, coloque a carne e o sal, deixe refogar. Acrescente o tomate, cheiro-verde e a pimenta, cozinhe por mais 5 minutos. Deixe esfriar para utilizar como recheio."
+}

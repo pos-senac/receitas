@@ -1,0 +1,89 @@
+{
+  "id": "tg-1511",
+  "titulo": "Pão segura marido",
+  "url": "https://www.tudogostoso.com.br/receita/1511-pao-segura-marido.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1593,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão segura marido",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite morno"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de óleo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de mussarela"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "molho de tomate"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "requeijão"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, misture o leite, o óleo, o fermento, o sal e um pouco de farinha.",
+      "Acrescente mais farinha aos poucos, misturando sempre até que a massa solte das mãos.",
+      "Deixe a massa descansar por 15 minutos.",
+      "Divida a massa e abra uma das partes em uma superfície limpa e seca.",
+      "Despeje uma camada de molho de tomate, cubra com presunto, mussarela, requeijão e orégano.",
+      "Dobre as beiradas da massa e enrole como um rocambole.",
+      "Faça o mesmo com a outra parte da massa.",
+      "Leve ao forno médio (180° C), preaquecido, por cerca de 20 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão segura marido. Ingredientes: farinha de trigo, leite morno, óleo, fermento, sal a gosto, presunto, mussarela, molho de tomate, requeijão, orégano. Preparo: Em um recipiente, misture o leite, o óleo, o fermento, o sal e um pouco de farinha. Acrescente mais farinha aos poucos, misturando sempre até que a massa solte das mãos. Deixe a massa descansar por 15 minutos."
+}

@@ -1,0 +1,87 @@
+{
+  "id": "tg-109467",
+  "titulo": "Risoto de funghi secchi",
+  "url": "https://www.tudogostoso.com.br/receita/109467-risoto-de-funghi-secchi.html",
+  "nota": 4.8,
+  "n_avaliacoes": 117,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Risoto de funghi secchi",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "Receita para 2 pessoas, para mais aumente a quantidade na proporção",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Receita para 2 pessoas, para mais aumente a quantidade na proporção"
+    },
+    {
+      "nome": "arroz arbóreo",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de arroz arbóreo"
+    },
+    {
+      "nome": "caldo de galinha (pode fazer o seu caldo ou dissolver 1 caldo knorr em 700 ml de água quente - não use mais caldo knorr para não ficar muito forte)",
+      "quantidade": "700",
+      "unidade": "ml",
+      "texto_original": "700 ml de caldo de galinha (pode fazer o seu caldo ou dissolver 1 caldo knorr em 700 ml de água quente - não use mais caldo knorr para não ficar muito forte)"
+    },
+    {
+      "nome": "funghi secchi",
+      "quantidade": "15",
+      "unidade": "g",
+      "texto_original": "15 g de funghi secchi"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "25",
+      "unidade": "g",
+      "texto_original": "25 g de manteiga"
+    },
+    {
+      "nome": "queijo parmesão ralado na hora",
+      "quantidade": "70",
+      "unidade": "g",
+      "texto_original": "70 g de queijo parmesão ralado na hora"
+    },
+    {
+      "nome": "vinho branco de boa qualidade (eu usei sauvignon blanc)",
+      "quantidade": "60",
+      "unidade": "ml",
+      "texto_original": "60 ml de vinho branco de boa qualidade (eu usei sauvignon blanc)"
+    },
+    {
+      "nome": "cebola pequena picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena picada"
+    },
+    {
+      "nome": "sopa de salsinha",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de salsinha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixe o funghi de molho em 1 xícara de água quente por uns 20 minutos.",
+      "Coe em uma peneira bem fina.",
+      "A água coada do funghi misture ao caldo de galinha.",
+      "Pique o funghi bem pequeno.",
+      "Mantenha o caldo quente.",
+      "Refogue a cebola na manteiga, reserve um pedacinho apenas de manteiga.",
+      "Não deixe a cebola dourar, acrescente o arroz e mexa sem parar até que ele fique trasnparente.",
+      "Coloque eo vinho, sempre mexendo, até evaporar.",
+      "Adicione o funghi e mexa.",
+      "Com uma concha, coloque um pouco do caldo e mexa. Faça isso até que o arroz esteja cozido, mas al dente, e cremoso, sempre colocando o caldo aos poucos e mexendo até o arroz absorver.",
+      "Desligue o fogo, misture o pedacinho de manteiga reservado e o queijo.",
+      "Misture bem, acrescente a salsinha e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Risoto de funghi secchi. Ingredientes: Receita para 2 pessoas, para mais aumente a quantidade na proporção, arroz arbóreo, caldo de galinha (pode fazer o seu caldo ou dissolver 1 caldo knorr em 700 ml de água quente - não use mais caldo knorr para não ficar muito forte), funghi secchi, manteiga, queijo parmesão ralado na hora, vinho branco de boa qualidade (eu usei sauvignon blanc), cebola pequena picada, sopa de salsinha. Preparo: Deixe o funghi de molho em 1 xícara de água quente por uns 20 minutos. Coe em uma peneira bem fina. A água coada do funghi misture ao caldo de galinha."
+}

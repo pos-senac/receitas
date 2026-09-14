@@ -1,0 +1,56 @@
+{
+  "id": "tg-97391",
+  "titulo": "Curau de milho verde tradicional",
+  "url": "https://www.tudogostoso.com.br/receita/97391-curau-de-milho-verde-tradicional.html",
+  "nota": 4.7,
+  "n_avaliacoes": 177,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Curau de milho verde tradicional",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "espigas de milho duras",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 espigas de milho duras"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "1/2 xícaras de açúcar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícaras de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata o milho com o leite no liquidificador por 3 minutos, passe a mistura em uma peneira bem fina.",
+      "Coloque em uma panela junto com açúcar e a pitada de sal.",
+      "Mexe até começar a engrossar, deixe cozinhar por cerca de 10 minutos em fogo baixo.",
+      "Coloque em um refratario e se preferir acrescente canela em po por cima.",
+      "Deixe na geladeira."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Espatula",
+    "Peneira",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Curau de milho verde tradicional. Ingredientes: espigas de milho duras, litro de leite, 1/2 xícaras de açúcar, sal. Preparo: Bata o milho com o leite no liquidificador por 3 minutos, passe a mistura em uma peneira bem fina. Coloque em uma panela junto com açúcar e a pitada de sal. Mexe até começar a engrossar, deixe cozinhar por cerca de 10 minutos em fogo baixo."
+}

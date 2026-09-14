@@ -1,0 +1,81 @@
+{
+  "id": "tg-11500",
+  "titulo": "Verdadeiro tiramisù italiano",
+  "url": "https://www.tudogostoso.com.br/receita/11500-verdadeiro-tiramisu-italiano.html",
+  "nota": 3.9,
+  "n_avaliacoes": 137,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Verdadeiro tiramisù italiano",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 300,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "claras em neve",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 claras em neve"
+    },
+    {
+      "nome": "gemas peneiradas",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 gemas peneiradas"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de leite condensado"
+    },
+    {
+      "nome": "queijo tipo mascarpone (pode ser trocado por cream cheese ou outro queijo cremoso, exceto ricota)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de queijo tipo mascarpone (pode ser trocado por cream cheese ou outro queijo cremoso, exceto ricota)"
+    },
+    {
+      "nome": "biscoito tipo champagne (sem açúcar em cima)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de biscoito tipo champagne (sem açúcar em cima)"
+    },
+    {
+      "nome": "café bem forte (sem açúcar)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de café bem forte (sem açúcar)"
+    },
+    {
+      "nome": "dose pequena de licor (chocolate, café, amêndoa, ou conhaque)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 dose pequena de licor (chocolate, café, amêndoa, ou conhaque)"
+    },
+    {
+      "nome": "chocolate em pó para polvillhar por cima",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate em pó para polvillhar por cima"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha grande, misture gentilmente o queijo e o leite condensado, acrescente as gemas peneiradas até formar um creme meio amarelado claro.",
+      "Em seguida acrescente as claras, mas não misture muito.",
+      "O segredo da receita é a paciência, misture bem suave e reserve este creme.",
+      "Em outra vasilha coloque o café e o licor de sua preferência e molhe o biscoito bem rapidamente no café. O biscoito não pode estar muito molhado.",
+      "Disponha em um refratário retangular.",
+      "1 camada de biscoito, 1 camada de creme, a última camada tem que ser de creme, por último polvilhe o chocolate em pó por cima.",
+      "Leve à geladeira coberta com plástico filme por mais ou menos 6 horas."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Prato de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Verdadeiro tiramisù italiano. Ingredientes: claras em neve, gemas peneiradas, leite condensado, queijo tipo mascarpone (pode ser trocado por cream cheese ou outro queijo cremoso, exceto ricota), biscoito tipo champagne (sem açúcar em cima), café bem forte (sem açúcar), dose pequena de licor (chocolate, café, amêndoa, ou conhaque), chocolate em pó para polvillhar por cima. Preparo: Em uma vasilha grande, misture gentilmente o queijo e o leite condensado, acrescente as gemas peneiradas até formar um creme meio amarelado claro. Em seguida acrescente as claras, mas não misture muito. O segredo da receita é a paciência, misture bem suave e reserve este creme."
+}

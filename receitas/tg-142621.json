@@ -1,0 +1,82 @@
+{
+  "id": "tg-142621",
+  "titulo": "Bolo de Laranja Simples",
+  "url": "https://www.tudogostoso.com.br/receita/142621-bolo-de-laranja-simples.html",
+  "nota": 4.6,
+  "n_avaliacoes": 241,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de Laranja Simples",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 35,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "Suco de 2 laranjas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 2 laranjas"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "Suco de 1 laranja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1 laranja"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador ou na batedeira os ovos, o suco da laranja, o óleo e o açúcar.",
+      "Depois despeje em uma tigela e junte com a farinha e o fermento, bata tudo junto até a massa ficar homogênea.",
+      "Coloque em uma assadeira com furo untada com manteiga e farinha e leve para o forno.",
+      "Asse em forno médio, preaquecido, por cerca de 40 minutos ou até dourar."
+    ],
+    "Calda:": [
+      "Fervente o suco da laranja com o açúcar em uma panela pequena, depois é só derramar em cima do bolo desenformado.",
+      "Bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Bowl",
+    "Espátula para bolo",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de Laranja Simples. Ingredientes: ovos, Suco de 2 laranjas, óleo, açúcar, farinha de trigo, fermento em pó, Suco de 1 laranja, açúcar. Preparo: Bata no liquidificador ou na batedeira os ovos, o suco da laranja, o óleo e o açúcar. Depois despeje em uma tigela e junte com a farinha e o fermento, bata tudo junto até a massa ficar homogênea. Coloque em uma assadeira com furo untada com manteiga e farinha e leve para o forno."
+}

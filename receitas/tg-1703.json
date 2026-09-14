@@ -1,0 +1,64 @@
+{
+  "id": "tg-1703",
+  "titulo": "Salpicão",
+  "url": "https://www.tudogostoso.com.br/receita/1703-salpicao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 489,
+  "categoria": "Receitas saladas",
+  "subcategoria": "Salpicão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "cenouras cozidas e picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras cozidas e picadas"
+    },
+    {
+      "nome": "uvas passas",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de uvas passas"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "presunto picado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de presunto picado"
+    },
+    {
+      "nome": "frango desfiado, se for assado antes fica mais gostoso",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de frango desfiado, se for assado antes fica mais gostoso"
+    },
+    {
+      "nome": "maçã verde picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maçã verde picada"
+    },
+    {
+      "nome": "pote grande de maionese",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pote grande de maionese"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um refratário, misture todos os ingredientes."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Salpicão. Ingredientes: cenouras cozidas e picadas, uvas passas, milho verde, presunto picado, frango desfiado, se for assado antes fica mais gostoso, maçã verde picada, pote grande de maionese. Preparo: Em um refratário, misture todos os ingredientes."
+}

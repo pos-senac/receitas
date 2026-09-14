@@ -1,0 +1,104 @@
+{
+  "id": "tg-19882",
+  "titulo": "Kibe de forno",
+  "url": "https://www.tudogostoso.com.br/receita/19882-kibe-de-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 146,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Kibe de forno",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "carne moída",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne moída"
+    },
+    {
+      "nome": "alho moídos",
+      "quantidade": "5",
+      "unidade": "dentes",
+      "texto_original": "5 dentes de alho moídos"
+    },
+    {
+      "nome": "cebolas raladas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cebolas raladas"
+    },
+    {
+      "nome": "salsinha picadinha",
+      "quantidade": "1/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/4 xícara (chá) de salsinha picadinha"
+    },
+    {
+      "nome": "hortelã",
+      "quantidade": "1/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/4 xícara (chá) de hortelã"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Pimenta-do-reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino"
+    },
+    {
+      "nome": "Um pouquinho de vinagre",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Um pouquinho de vinagre"
+    },
+    {
+      "nome": "trigo para quibe, que deve ficar 1 hora de molho",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de trigo para quibe, que deve ficar 1 hora de molho"
+    },
+    {
+      "nome": "creme de cebola",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de creme de cebola"
+    },
+    {
+      "nome": "1/2kg de carne moída refogada a seu gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "1/2kg de carne moída refogada a seu gosto"
+    },
+    {
+      "nome": "pote de queijo catupiry",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de queijo catupiry"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Escorra o trigo e misture todos os ingredientes da massa muito bem.",
+      "Eles devem estar bem picadinhos ou ralados.",
+      "Coloque metade em uma assadeira ou refratário, espalhe o recheio e tampe com o restante da massa.",
+      "Regue com bastante azeite de oliva.",
+      "Leve ao forno regular por, aproximadamente, 30 a 40 minutos ou até estar bem assado.",
+      "Corte ainda na assadeira e sirva."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Espatula",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Kibe de forno. Ingredientes: carne moída, alho moídos, cebolas raladas, salsinha picadinha, hortelã, Sal, Pimenta-do-reino, Um pouquinho de vinagre, trigo para quibe, que deve ficar 1 hora de molho, creme de cebola, 1/2kg de carne moída refogada a seu gosto, pote de queijo catupiry. Preparo: Escorra o trigo e misture todos os ingredientes da massa muito bem. Eles devem estar bem picadinhos ou ralados. Coloque metade em uma assadeira ou refratário, espalhe o recheio e tampe com o restante da massa."
+}

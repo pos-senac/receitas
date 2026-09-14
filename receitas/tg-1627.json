@@ -1,0 +1,73 @@
+{
+  "id": "tg-1627",
+  "titulo": "Bolo de maçã",
+  "url": "https://www.tudogostoso.com.br/receita/1627-bolo-de-maca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 262,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de maçã",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 28,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "e meia de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e meia de açúcar"
+    },
+    {
+      "nome": "maçãs",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 maçãs"
+    },
+    {
+      "nome": "passas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "passas"
+    },
+    {
+      "nome": "e meia de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras e meia de farinha de trigo"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater no liquidificador o óleo e os ovos. Acrescentar o açúcar, as cascas das maçãs e bater.",
+      "Num recipiente separado peneirar a farinha de trigo, acrescentar o fermento, as maçãs picadas em cubos e as passas.",
+      "Misturar as duas misturas. Coloque em uma assadeira untada e enfarinhada, levar ao forno.",
+      "Depois de pronto, polvilhar com açúcar de confeiteiro e canela."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de maçã. Ingredientes: óleo, ovos, e meia de açúcar, maçãs, passas, e meia de farinha de trigo, canela em pó, fermento. Preparo: Bater no liquidificador o óleo e os ovos. Acrescentar o açúcar, as cascas das maçãs e bater. Num recipiente separado peneirar a farinha de trigo, acrescentar o fermento, as maçãs picadas em cubos e as passas. Misturar as duas misturas. Coloque em uma assadeira untada e enfarinhada, levar ao forno."
+}

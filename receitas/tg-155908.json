@@ -1,0 +1,76 @@
+{
+  "id": "tg-155908",
+  "titulo": "Bolo de fubá cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/155908-bolo-de-fuba-cremoso.html",
+  "nota": 4.5,
+  "n_avaliacoes": 126,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá cremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de farinha de trigo"
+    },
+    {
+      "nome": "e meia de fubá",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e meia de fubá"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "queijo ralado tipo parmesão",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo ralado tipo parmesão"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte tudo em um liquidificador e bata os ovos, o açúcar, o leite, a farinha de trigo,o fubá, a margarina, o queijo e o fermento em pó.",
+      "Untar uma forma grande com orifício central com manteiga e farinha de trigo.",
+      "Despejar a massa na forma.",
+      "Deixe por 10 minutos forno preaquecido na temperatura de 180ºC.",
+      "Coloque no forno a forma com a massa do bolo, aumente a temperatura para 260ºC e deixe assar de 30 a 40 minutos.",
+      "Retire do forno e deixe esfriar.",
+      "Desenforme e sirva tudo gostoso."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de fubá cremoso. Ingredientes: ovos, leite, açúcar, farinha de trigo, e meia de fubá, margarina, queijo ralado tipo parmesão, fermento em pó. Preparo: Junte tudo em um liquidificador e bata os ovos, o açúcar, o leite, a farinha de trigo,o fubá, a margarina, o queijo e o fermento em pó. Untar uma forma grande com orifício central com manteiga e farinha de trigo. Despejar a massa na forma."
+}

@@ -1,0 +1,75 @@
+{
+  "id": "tg-146012",
+  "titulo": "Pão caseiro de leite",
+  "url": "https://www.tudogostoso.com.br/receita/146012-pao-caseiro-de-leite.html",
+  "nota": 4.4,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pão caseiro de leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "fermento biologico",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de fermento biologico"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de margarina"
+    },
+    {
+      "nome": "sopa rasa sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa rasa sal"
+    },
+    {
+      "nome": "sopa cheia de açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa cheia de açúcar"
+    },
+    {
+      "nome": "Farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um pote fundo e grande coloque o leite morno dissolva o fermento.",
+      "Acrescente a margarina, o sal, o açúcar e os ovos, mexa bem, até que todos os ingredientes fiquem bem misturados.",
+      "Acrescente a farinha de trigo aos poucos e misture com as mãos até que a massa solte das mãos.",
+      "Faça pãezinhos de mais ou menos 10 cm.",
+      "Coloque na forma untada e enfarinhada espaçando um do outro.",
+      "Deixe descansar por cerca de 20 minutos para crescer a massa depois bata o ovo que sobrou para pincelar o pão.",
+      "Pincele e asse em forno quente até que doure."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Forma",
+    "Fouet",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Pão caseiro de leite. Ingredientes: ovos, leite, fermento biologico, margarina, sopa rasa sal, sopa cheia de açúcar, Farinha de trigo. Preparo: Em um pote fundo e grande coloque o leite morno dissolva o fermento. Acrescente a margarina, o sal, o açúcar e os ovos, mexa bem, até que todos os ingredientes fiquem bem misturados. Acrescente a farinha de trigo aos poucos e misture com as mãos até que a massa solte das mãos."
+}

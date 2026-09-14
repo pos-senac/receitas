@@ -1,0 +1,66 @@
+{
+  "id": "tg-14836",
+  "titulo": "Frapê de café",
+  "url": "https://www.tudogostoso.com.br/receita/14836-frape-de-cafe.html",
+  "nota": 4.6,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas drinks e Coquetéis não alcoólicos",
+  "subcategoria": "Frapê de café",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "café solúvel",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de café solúvel"
+    },
+    {
+      "nome": "bolas de sorvete de creme",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 bolas de sorvete de creme"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água"
+    },
+    {
+      "nome": "forma de gelo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 forma de gelo"
+    },
+    {
+      "nome": "chantilly para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chantilly para decorar"
+    },
+    {
+      "nome": "café solúvel para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "café solúvel para decorar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o leite condensado com o café-solúvel, o gelo e 1/2 xícara de água.",
+      "Coloque as bolas de sorvete em copos altos.",
+      "Cubra-as com a mistura batida e decore decore com o chantilly e o café-solúvel reservado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frapê de café. Ingredientes: leite condensado, café solúvel, bolas de sorvete de creme, água, forma de gelo, chantilly para decorar, café solúvel para decorar. Preparo: Bata no liquidificador o leite condensado com o café-solúvel, o gelo e 1/2 xícara de água. Coloque as bolas de sorvete em copos altos. Cubra-as com a mistura batida e decore decore com o chantilly e o café-solúvel reservado."
+}

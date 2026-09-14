@@ -1,0 +1,89 @@
+{
+  "id": "tg-36352",
+  "titulo": "Bolo de cenoura",
+  "url": "https://www.tudogostoso.com.br/receita/36352-bolo-de-cenoura.html",
+  "nota": 4.8,
+  "n_avaliacoes": 166,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "cenoura picada",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de cenoura picada"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de farinha de trigo"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte no liquidificador a cenoura, os ovos, o açúcar e o óleo e bata por uns 5 minutos.",
+      "Despeje este conteúdo em um recipiente, acrescente a farinha e o fermento e misture bem.",
+      "Unte com óleo uma forma de buraco central.",
+      "Leve ao forno em temperatura baixa, por mais ou menos, 40 minutos.",
+      "Para fazer a cobertura, utilize 1 lata de leite condensado, junte 4 colheres de sopa de chocolate em pó e uma colher de margarina.",
+      "Quando engrossar (mas um pouco antes de começar a aparecer o fundo da panela) está pronto.",
+      "É só se deliciar."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Colher de silicone",
+    "Copo medidor",
+    "Faca",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo de cenoura. Ingredientes: cenoura picada, ovos, açúcar, óleo, fermento em pó, farinha de trigo, leite condensado, chocolate em pó, margarina. Preparo: Junte no liquidificador a cenoura, os ovos, o açúcar e o óleo e bata por uns 5 minutos. Despeje este conteúdo em um recipiente, acrescente a farinha e o fermento e misture bem. Unte com óleo uma forma de buraco central."
+}

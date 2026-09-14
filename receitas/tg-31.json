@@ -1,0 +1,58 @@
+{
+  "id": "tg-31",
+  "titulo": "Camarão à Moda Baiana",
+  "url": "https://www.tudogostoso.com.br/receita/31-camarao-a-moda-baiana.html",
+  "nota": 4.5,
+  "n_avaliacoes": 138,
+  "categoria": "Receitas camarão",
+  "subcategoria": "Camarão à Moda Baiana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "camarões",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de camarões"
+    },
+    {
+      "nome": "sal, pimenta limão, cheiro verde ao seu gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal, pimenta limão, cheiro verde ao seu gosto"
+    },
+    {
+      "nome": "tomates (sem pele e sem sementes)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de tomates (sem pele e sem sementes)"
+    },
+    {
+      "nome": "sopa de óleo de soja",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de óleo de soja"
+    },
+    {
+      "nome": "ou 3 colheres de sopa de azeite de dendê",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ou 3 colheres de sopa de azeite de dendê"
+    },
+    {
+      "nome": "leite de coco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "leite de coco"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe os camarões, retirando as cascas e as tripas, e lavando-os a seguir. Tempere com sal, pimenta, suco de limão e cheiros-verdes. Leve ao fogo uma panela com um pouco de óleo. Quando o o óleo estiver quente, coloque os camarões e deixe dourar bem, junte os tomates formando um molho bem consistente. Acrescente o leite de coco, e deixe no fogo com panela bem tapada, por mais 10 minutos. Por fim, junte o azeite de dendê. Pimenta a gosto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Camarão à Moda Baiana. Ingredientes: camarões, sal, pimenta limão, cheiro verde ao seu gosto, tomates (sem pele e sem sementes), sopa de óleo de soja, ou 3 colheres de sopa de azeite de dendê, leite de coco. Preparo: Limpe os camarões, retirando as cascas e as tripas, e lavando-os a seguir. Tempere com sal, pimenta, suco de limão e cheiros-verdes. Leve ao fogo uma panela com um pouco de óleo. Quando o o óleo estiver quente, coloque os camarões e deixe dourar bem, junte os tomates formando um molho bem consistente. Acrescente o leite de coco, e deixe no fogo com panela bem tapada, por mais 10 minutos. Por fim, junte o azeite de dendê. Pimenta a gosto."
+}

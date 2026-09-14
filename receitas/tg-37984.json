@@ -1,0 +1,83 @@
+{
+  "id": "tg-37984",
+  "titulo": "Bolo de fubá (milho) com goiabada",
+  "url": "https://www.tudogostoso.com.br/receita/37984-bolo-de-fuba-milho-com-goiabada.html",
+  "nota": 4.8,
+  "n_avaliacoes": 142,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá (milho) com goiabada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de fubá"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "Goiabada em cubos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Goiabada em cubos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o óleo, o leite, o fubá (farinha de milho), a farinha e o açúcar.",
+      "Com o liquidificador desligado, coloque o fermento e mexa com a colher.",
+      "Unte e enfarinhe uma forma de buraco no meio, coloque a massa dentro e pique pedaços de goiabada por cima.",
+      "Asse em forno médio por 40 minutos.",
+      "Desenforme.",
+      "Pode ser colocado canela e açúcar por cima.",
+      "A goiabada derrete."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Forno elétrico",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Bolo de fubá (milho) com goiabada. Ingredientes: ovos, óleo, leite, fubá, farinha de trigo, açúcar, fermento em pó, Goiabada em cubos. Preparo: Bata no liquidificador os ovos, o óleo, o leite, o fubá (farinha de milho), a farinha e o açúcar. Com o liquidificador desligado, coloque o fermento e mexa com a colher. Unte e enfarinhe uma forma de buraco no meio, coloque a massa dentro e pique pedaços de goiabada por cima."
+}

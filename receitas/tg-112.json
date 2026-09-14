@@ -1,0 +1,119 @@
+{
+  "id": "tg-112",
+  "titulo": "Bobó de camarão",
+  "url": "https://www.tudogostoso.com.br/receita/112-bobo-de-camarao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1118,
+  "categoria": "Receitas peixes e frutos do mar",
+  "subcategoria": "Bobó de camarão",
+  "nivel": "medio",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "camarão fresco",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de camarão fresco"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "alho picados e amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho picados e amassados"
+    },
+    {
+      "nome": "suco de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1 limão"
+    },
+    {
+      "nome": "pimenta-do-reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino"
+    },
+    {
+      "nome": "mandioca (prefira as que já vem embaladas e descascadas, é mais prático)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de mandioca (prefira as que já vem embaladas e descascadas, é mais prático)"
+    },
+    {
+      "nome": "cebolas (1 cortada em rodelas e 2 raladas)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cebolas (1 cortada em rodelas e 2 raladas)"
+    },
+    {
+      "nome": "folha de louro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 folha de louro"
+    },
+    {
+      "nome": "azeite de oliva",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de azeite de oliva"
+    },
+    {
+      "nome": "vidros de leite de coco",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 vidros de leite de coco"
+    },
+    {
+      "nome": "maço de cheiro-verde picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de cheiro-verde picado"
+    },
+    {
+      "nome": "molho pronto de tomate",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de molho pronto de tomate"
+    },
+    {
+      "nome": "pimentões verdes bem picadinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pimentões verdes bem picadinhos"
+    },
+    {
+      "nome": "azeite de dendê",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite de dendê"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave os camarões e tempere com sal, alho, pimenta e limão, deixe marinar.",
+      "Pegue uma panela com água e cozinhe a mandioca em pedacinhos, com louro e a cebola em rodelas.",
+      "Quando estiver mole, acrescente um vidro de leite de coco.",
+      "Deixe esfriar um pouco e bata no liquidificador.",
+      "Esquente o azeite de oliva, junte a cebola ralada e deixe dourar.",
+      "Acrescente os camarões e frite.",
+      "Adicione as 2 latas de pomarola, o cheiro-verde, o pimentão e deixe cozinhar por alguns minutos.",
+      "Junte na mesma panela, a mandioca batida no liquidificador, outro vidro de leite de coco e o azeite de dendê.",
+      "Deixe levantar fervura e está pronto."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Concha"
+  ],
+  "texto_para_embedding": "Bobó de camarão. Ingredientes: camarão fresco, sal, alho picados e amassados, suco de 1 limão, pimenta-do-reino, mandioca (prefira as que já vem embaladas e descascadas, é mais prático), cebolas (1 cortada em rodelas e 2 raladas), folha de louro, azeite de oliva, vidros de leite de coco, maço de cheiro-verde picado, molho pronto de tomate, pimentões verdes bem picadinhos, azeite de dendê. Preparo: Lave os camarões e tempere com sal, alho, pimenta e limão, deixe marinar. Pegue uma panela com água e cozinhe a mandioca em pedacinhos, com louro e a cebola em rodelas. Quando estiver mole, acrescente um vidro de leite de coco."
+}

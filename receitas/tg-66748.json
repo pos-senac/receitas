@@ -1,0 +1,67 @@
+{
+  "id": "tg-66748",
+  "titulo": "Pão de minuto",
+  "url": "https://www.tudogostoso.com.br/receita/66748-pao-de-minuto.html",
+  "nota": 4.6,
+  "n_avaliacoes": 180,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de minuto",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    },
+    {
+      "nome": "sal rasa",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sal rasa"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "fermento fresco",
+      "quantidade": "60",
+      "unidade": "g",
+      "texto_original": "60 g de fermento fresco"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de leite morno"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador por alguns minutos.",
+      "Coloque em uma vasilha grande e acrescente aos poucos a farinha de trigo peneirada, até desgrudar da mão.",
+      "Deixe crescer por 30 minutos.",
+      "Enrole e leve ao forno preaquecido."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de minuto. Ingredientes: ovos, açúcar, sal rasa, óleo, fermento fresco, farinha de trigo, leite morno. Preparo: Bata tudo no liquidificador por alguns minutos. Coloque em uma vasilha grande e acrescente aos poucos a farinha de trigo peneirada, até desgrudar da mão. Deixe crescer por 30 minutos."
+}

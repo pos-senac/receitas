@@ -1,0 +1,80 @@
+{
+  "id": "tg-13110",
+  "titulo": "Panqueca americana",
+  "url": "https://www.tudogostoso.com.br/receita/13110-panqueca-americana.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1932,
+  "categoria": "Receitas massas",
+  "subcategoria": "Panqueca americana",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/4 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "3",
+      "unidade": "colheres (chá)",
+      "texto_original": "3 colheres (chá) de fermento em pó"
+    },
+    {
+      "nome": "ovos levemente batidos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos levemente batidos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "manteiga derretida",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "nome": "pitada de sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pitada de sal"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture em um recipiente: a farinha, o açúcar, o fermento e o sal.",
+      "Em outro recipiente, misture os ovos, o leite e a manteiga.",
+      "Acrescente os líquidos aos secos, sem misturar em excesso.",
+      "O ponto da massa não deve ser muito líquido, deve escorrer lentamente.",
+      "Aqueça e unte a frigideira com óleo, coloque a massa no centro, cerca de 1/4 xícara por panqueca.",
+      "Vire a massa para assar do outro lado e está pronto!"
+    ]
+  },
+  "utensilios": [
+    "Espatula",
+    "Jarra medidora",
+    "Panquequeira",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Panqueca americana. Ingredientes: farinha de trigo, açúcar, fermento em pó, ovos levemente batidos, leite, manteiga derretida, pitada de sal, óleo. Preparo: Misture em um recipiente: a farinha, o açúcar, o fermento e o sal. Em outro recipiente, misture os ovos, o leite e a manteiga. Acrescente os líquidos aos secos, sem misturar em excesso."
+}

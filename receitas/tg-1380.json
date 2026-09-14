@@ -1,0 +1,64 @@
+{
+  "id": "tg-1380",
+  "titulo": "Trufas",
+  "url": "https://www.tudogostoso.com.br/receita/1380-trufas.html",
+  "nota": 4.2,
+  "n_avaliacoes": 163,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Trufas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "chocolate meio amargo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de chocolate meio amargo"
+    },
+    {
+      "nome": "chocolate ao leite",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de chocolate ao leite"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "rasa de margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de margarina"
+    },
+    {
+      "nome": "mel",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de mel"
+    },
+    {
+      "nome": "chocolate em pó a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate em pó a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao micro-ondas os chocolates e derreta por 3 minutos, na potência alta.",
+      "Acrescente a margarina, o creme de leite e o mel.",
+      "Mexa bem e acrescente o que mais desejar.",
+      "Leve para à geladeira até ficarem firmes.",
+      "Modele as trufas da maneira desejada e se quiser pode rechear com pedaços de cerejas, gotas de licor, coco, nozes, etc (também pode misturar na massa)",
+      "Se desejar passe as trufas em chocolate em pó para decorar.",
+      "Coloque em forminhas de papel."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Trufas. Ingredientes: chocolate meio amargo, chocolate ao leite, caixinha de creme de leite, rasa de margarina, mel, chocolate em pó a gosto. Preparo: Leve ao micro-ondas os chocolates e derreta por 3 minutos, na potência alta. Acrescente a margarina, o creme de leite e o mel. Mexa bem e acrescente o que mais desejar."
+}

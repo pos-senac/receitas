@@ -1,0 +1,90 @@
+{
+  "id": "tg-2260",
+  "titulo": "Sopa de mandioca",
+  "url": "https://www.tudogostoso.com.br/receita/2260-sopa-de-mandioca.html",
+  "nota": 4.6,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de mandioca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "½ kg de mandioca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ kg de mandioca"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "2",
+      "unidade": "colheres(sopa)",
+      "texto_original": "2 colheres(sopa) de manteiga ou margarina"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "2",
+      "unidade": "colheres(sopa)",
+      "texto_original": "2 colheres(sopa) de cebola picadinha"
+    },
+    {
+      "nome": "tomates grandes, sem pele, picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates grandes, sem pele, picados"
+    },
+    {
+      "nome": "água",
+      "quantidade": "8",
+      "unidade": "xícaras",
+      "texto_original": "8 xícaras de água"
+    },
+    {
+      "nome": "cubinhos de caldo de galinha",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 cubinhos de caldo de galinha"
+    },
+    {
+      "nome": "Sal à gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal à gosto"
+    },
+    {
+      "nome": "salsinha e cebolinha verde picada",
+      "quantidade": "1",
+      "unidade": "colher(sopa)",
+      "texto_original": "1 colher(sopa) de salsinha e cebolinha verde picada"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque a mandioca e corte em pedaços.",
+      "Coloque 1 colher(sopa) de manteiga numa panela e leve ao fogo médio.",
+      "Adicione a cebola, o tomate e a cebolinha verde e cozinhe durante 10 minutos.",
+      "Acrescente a água e os cubinhos de caldo de galinha, tampe e cozinhe em fogo baixo até que a mandioca fique macia.",
+      "Bata tudo no liquidificador.",
+      "Tempere com sal e pimenta do reino à gosto.",
+      "Cozinhe em fogo baixo, sem tampa, até que engrosse.",
+      "Adicione a colher(sopa) de manteiga restante, a salsinha e sirva a seguir."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Fogão",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Sopa de mandioca. Ingredientes: ½ kg de mandioca, manteiga ou margarina, cebola picadinha, tomates grandes, sem pele, picados, água, cubinhos de caldo de galinha, Sal à gosto, salsinha e cebolinha verde picada, Pimenta a gosto. Preparo: Descasque a mandioca e corte em pedaços. Coloque 1 colher(sopa) de manteiga numa panela e leve ao fogo médio. Adicione a cebola, o tomate e a cebolinha verde e cozinhe durante 10 minutos."
+}

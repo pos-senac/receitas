@@ -1,0 +1,73 @@
+{
+  "id": "tg-14308",
+  "titulo": "Pão caseiro de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/14308-pao-caseiro-de-liquidificador.html",
+  "nota": 4.5,
+  "n_avaliacoes": 176,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão caseiro de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 80,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de farinha de trigo"
+    },
+    {
+      "nome": "fermento biológico",
+      "quantidade": "15",
+      "unidade": "g",
+      "texto_original": "15 g de fermento biológico"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "copo (tipo requeijão)",
+      "texto_original": "1/2 copo (tipo requeijão) de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo (tipo requeijão)",
+      "texto_original": "1/2 copo (tipo requeijão) de óleo"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite morno"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador, deixando a farinha por último (fica uma massa mole).",
+      "Unte duas formas para pão e despeje a massa igualmente em cada forma.",
+      "Deixe crescer por 40 minutos.",
+      "Preaqueça o forno por 15 minutos.",
+      "Asse os pães por 40 minutos, a 200°C."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Faca de pão",
+    "Forma",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Pão caseiro de liquidificador. Ingredientes: farinha de trigo, fermento biológico, açúcar, óleo, leite morno, sal, ovos. Preparo: Bata tudo no liquidificador, deixando a farinha por último (fica uma massa mole). Unte duas formas para pão e despeje a massa igualmente em cada forma. Deixe crescer por 40 minutos."
+}

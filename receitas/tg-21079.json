@@ -1,0 +1,101 @@
+{
+  "id": "tg-21079",
+  "titulo": "Torta de morango",
+  "url": "https://www.tudogostoso.com.br/receita/21079-torta-de-morango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 154,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de morango",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "biscoito maisena",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de biscoito maisena"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "700",
+      "unidade": "ml",
+      "texto_original": "700 ml de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "essência de baunilha",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de essência de baunilha"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de amido de milho"
+    },
+    {
+      "nome": "gemas peneiradas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas peneiradas"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "morangos",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de morangos"
+    },
+    {
+      "nome": "gelatina de morango",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina de morango"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Passe os biscoitos pelo processador até formar uma farofa fina.",
+      "Coloque em uma tigela e vá misturando margarina até formar uma massa lisa.",
+      "Forre uma forma de aro removível asse por mais ou menos 15 minutos.",
+      "Reserve."
+    ],
+    "Recheio": [
+      "Leve ao fogo o leite, leite condensado, essência de baunilha , amido de milho e as gemas peneiradas.",
+      "Misture bem, mexa até formar um creme deixe amornar e junte o creme de leite.",
+      "Coloque o creme na forma por cima da massa já assada.",
+      "Lave bem os morangos e pique em fatias no sentido do comprimento.",
+      "Arrume por cima do creme, reserve.",
+      "Faça a gelatina com 350 ml de água deixe gelar até que fique num aspecto grossa, que escorra ainda da colher e coloque devagar por cima dos morangos.",
+      "Leve à geladeira para acabar de endurecer.",
+      "Desenforme.",
+      "Sirva gelada."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Espátula para bolo",
+    "Forma com fundo removível",
+    "Processador de alimentos"
+  ],
+  "texto_para_embedding": "Torta de morango. Ingredientes: biscoito maisena, margarina, leite, leite condensado, essência de baunilha, amido de milho, gemas peneiradas, creme de leite, morangos, gelatina de morango. Preparo: Passe os biscoitos pelo processador até formar uma farofa fina. Coloque em uma tigela e vá misturando margarina até formar uma massa lisa. Forre uma forma de aro removível asse por mais ou menos 15 minutos."
+}

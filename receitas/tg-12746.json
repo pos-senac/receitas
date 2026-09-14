@@ -1,0 +1,76 @@
+{
+  "id": "tg-12746",
+  "titulo": "Bolo de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/12746-bolo-de-chocolate.html",
+  "nota": 4.7,
+  "n_avaliacoes": 139,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 18,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "chá de achocolatado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de achocolatado"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de açúcar"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o leite, o óleo e os ovos até a massa ficar homogênea.",
+      "Reserve.",
+      "A parte, misture a farinha o achocolatado e o açúcar.",
+      "Acrescente essa mistura aos poucos no liquidificador e bata bem.",
+      "Junte o fermento e mexa novamente.",
+      "Despeje a massa em uma forma untada e enfarinhada e asse em forno médio, já aquecido."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula de silicone",
+    "Fogão",
+    "Formo de bolo",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de chocolate. Ingredientes: chá de leite, chá de óleo, ovos, chá de farinha de trigo, chá de achocolatado, chá de açúcar, sopa de fermento em pó. Preparo: Bata no liquidificador o leite, o óleo e os ovos até a massa ficar homogênea. Reserve. A parte, misture a farinha o achocolatado e o açúcar."
+}

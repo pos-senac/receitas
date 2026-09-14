@@ -1,0 +1,100 @@
+{
+  "id": "tg-39314",
+  "titulo": "Hambúrguer assado",
+  "url": "https://www.tudogostoso.com.br/receita/39314-hamburguer-assado.html",
+  "nota": 4.5,
+  "n_avaliacoes": 151,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Hambúrguer assado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 80,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "fermento para pão",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de fermento para pão"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite morno"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1/2 colher (sobremesa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de sal"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo (aproximadamente)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo (aproximadamente)"
+    },
+    {
+      "nome": "hambúrgueres bovino ou de frango",
+      "quantidade": "12",
+      "unidade": null,
+      "texto_original": "12 hambúrgueres bovino ou de frango"
+    },
+    {
+      "nome": "Rodelas de tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Rodelas de tomate"
+    },
+    {
+      "nome": "Requeijão cremoso",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Requeijão cremoso"
+    },
+    {
+      "nome": "Gema para pincelar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Gema para pincelar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ingredientes do pão.",
+      "Vire em uma bacia e coloque farinha de trigo, aos poucos, até soltar das mãos, não deixe a massa dura, sove bem a massa.",
+      "Deixe descansar por 15 minutos tampada com um pano.",
+      "Abra a massa com um rolo, recheie com 1 rodela de tomate, 1 hamburger, requeijão cremoso e outra rodela de tomate.",
+      "Coloque em uma assadeira untada e enfarinhada, pincele com gema e deixe crescer até dobrar de volume em média 1 hora.",
+      "Leve para assar em forno alto nos primeiros 15 minutos, abaixe o fogo e deixe até corar e assar."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Pincel de silicone",
+    "Bowl",
+    "Forno elétrico",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Hambúrguer assado. Ingredientes: fermento para pão, leite morno, óleo, açúcar, sal, ovos, farinha de trigo (aproximadamente), hambúrgueres bovino ou de frango, Rodelas de tomate, Requeijão cremoso, Gema para pincelar. Preparo: Bata no liquidificador os ingredientes do pão. Vire em uma bacia e coloque farinha de trigo, aos poucos, até soltar das mãos, não deixe a massa dura, sove bem a massa. Deixe descansar por 15 minutos tampada com um pano."
+}

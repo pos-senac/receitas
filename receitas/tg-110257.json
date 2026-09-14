@@ -1,0 +1,110 @@
+{
+  "id": "tg-110257",
+  "titulo": "Pernil assado com batata",
+  "url": "https://www.tudogostoso.com.br/receita/110257-pernil-assado-com-batata.html",
+  "nota": 4.7,
+  "n_avaliacoes": 144,
+  "categoria": "Receitas porco",
+  "subcategoria": "Pernil assado com batata",
+  "nivel": "medio",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 730,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "pernil desossado",
+      "quantidade": "2,5",
+      "unidade": "kg",
+      "texto_original": "2,5 kg de pernil desossado"
+    },
+    {
+      "nome": "vinagre branco",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de vinagre branco"
+    },
+    {
+      "nome": "pimentão verde",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde"
+    },
+    {
+      "nome": "suco de limão",
+      "quantidade": "1/2",
+      "unidade": "xicara",
+      "texto_original": "1/2 xicara de suco de limão"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de azeite"
+    },
+    {
+      "nome": "cebolas médias",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas médias"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "6",
+      "unidade": "dentes",
+      "texto_original": "6 dentes de alho"
+    },
+    {
+      "nome": "cubos de caldo de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubos de caldo de carne"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "batatas médias",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 batatas médias"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o pernil em uma vasilha onde as bordas sejam maiores que a altura do mesmo.",
+      "Jogue o vinagre sobre o pernil, reserve.",
+      "Bata no liquidificador o pimentão, o limão, o azeite, a cebola, o caldo de carne, o sal, a pimenta-do-reino e a água, bata até formar uma pasta.",
+      "Reserve.",
+      "Lave o pernil com água corrente para retirar o vinagre. Dê diversos furos com faca no pernil.",
+      "Jogue a pasta sobre o pernil, o tempero deverá cobrir toda a peça da carne.",
+      "Reserve por 12 horas em geladeira com a vasilha coberta, de preferência com filme plástico.",
+      "Leve ao forno por 1 hora com papel-alumínio a carne com um pouco do tempero usado (a carne já deve estar no ponto de cozimento e com um pouco de caldo).",
+      "Depois desse tempo, coloque as batatas e leve para assar por mais 30 minutos, ainda com papel alumínio.",
+      "Após, retire o papel-alumínio e deixe no forno para dourar por, mais ou menos, mais 1 hora. O tempo de cozimento pode variar de acordo com a potência do forno."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Papel-alumínio",
+    "Faca",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Pernil assado com batata. Ingredientes: pernil desossado, vinagre branco, pimentão verde, suco de limão, azeite, cebolas médias, alho, cubos de caldo de carne, água, batatas médias, Pimenta-do-reino a gosto, sal a gosto. Preparo: Coloque o pernil em uma vasilha onde as bordas sejam maiores que a altura do mesmo. Jogue o vinagre sobre o pernil, reserve. Bata no liquidificador o pimentão, o limão, o azeite, a cebola, o caldo de carne, o sal, a pimenta-do-reino e a água, bata até formar uma pasta."
+}

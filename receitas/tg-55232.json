@@ -1,0 +1,55 @@
+{
+  "id": "tg-55232",
+  "titulo": "Torresmo sequinho sem estouro",
+  "url": "https://www.tudogostoso.com.br/receita/55232-torresmo-sequinho-sem-estouro.html",
+  "nota": 4.7,
+  "n_avaliacoes": 114,
+  "categoria": "Receitas porco",
+  "subcategoria": "Torresmo sequinho sem estouro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "barriga (panceta)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de barriga (panceta)"
+    },
+    {
+      "nome": "Sal e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e pimenta a gosto"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "limão",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 limão"
+    },
+    {
+      "nome": "litro de óleo para fritar",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pique a barriga em pedaços pequenos, tempere com sal e a pimenta e o limão, reserve por uns 15 minutos.",
+      "Coloque no recipiente com tampa, coloque a farinha, tampe e faça movimentos bruscos para que a farinha misture bem e forme uma camada bem fina de cobertura.",
+      "Coloque o óleo para aquecer e quando estiver quente, coloque as barrigas deixe que fique cobertas pelo óleo, mexa de vez em quando até ficarem sequinhos.",
+      "Fique tranquilo(a) não vai estourar e vai ficar uma delicia."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torresmo sequinho sem estouro. Ingredientes: barriga (panceta), Sal e pimenta a gosto, farinha de trigo, limão, litro de óleo para fritar. Preparo: Pique a barriga em pedaços pequenos, tempere com sal e a pimenta e o limão, reserve por uns 15 minutos. Coloque no recipiente com tampa, coloque a farinha, tampe e faça movimentos bruscos para que a farinha misture bem e forme uma camada bem fina de cobertura. Coloque o óleo para aquecer e quando estiver quente, coloque as barrigas deixe que fique cobertas pelo óleo, mexa de vez em quando até ficarem sequinhos."
+}

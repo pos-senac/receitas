@@ -1,0 +1,78 @@
+{
+  "id": "tg-5263",
+  "titulo": "Berinjela refogada simples",
+  "url": "https://www.tudogostoso.com.br/receita/5263-berinjela-refogada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 334,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Berinjela refogada simples",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "berinjela",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 berinjela"
+    },
+    {
+      "nome": "cabeça de alho picada e amassada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cabeça de alho picada e amassada"
+    },
+    {
+      "nome": "tomate picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimentão verde cortado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde cortado"
+    },
+    {
+      "nome": "azeite de oliva a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite de oliva a gosto"
+    },
+    {
+      "nome": "água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte a berinjela em pedacinhos pequenos, mantendo as sementes e a casca, coloque em uma vasilha com água e sal para não ficar escura e reserve.",
+      "Em uma panela, ponha o tomate, a cebola, o pimentão, o alho e o sal e deixe refogando no azeite por 10 minutos.",
+      "Adicione um pouco de água para não ficar muito seco.",
+      "Por último acrescente a berinjela, deixe mais 10 minutos no fogo e está pronta para servir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Berinjela refogada simples. Ingredientes: berinjela, cabeça de alho picada e amassada, tomate picado, cebola picada, sal a gosto, pimentão verde cortado, azeite de oliva a gosto, água. Preparo: Corte a berinjela em pedacinhos pequenos, mantendo as sementes e a casca, coloque em uma vasilha com água e sal para não ficar escura e reserve. Em uma panela, ponha o tomate, a cebola, o pimentão, o alho e o sal e deixe refogando no azeite por 10 minutos. Adicione um pouco de água para não ficar muito seco."
+}

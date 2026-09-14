@@ -1,0 +1,82 @@
+{
+  "id": "tg-3894",
+  "titulo": "Waffle para a criançada",
+  "url": "https://www.tudogostoso.com.br/receita/3894-waffle-para-a-criancada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 364,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Waffle para a criançada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1/2",
+      "unidade": "colher (chá)",
+      "texto_original": "1/2 colher (chá) de sal"
+    },
+    {
+      "nome": "manteiga derretida",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga derretida"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "gema",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema"
+    },
+    {
+      "nome": "clara",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 clara"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Peneire todos os ingredientes secos.",
+      "Acrescente a gema, o leite, a manteiga derretida aos ingredientes secos e misture-os bem.",
+      "Junte a clara batida em neve, incorporando delicadamente.",
+      "Despeje aproximadamente 1/2 xícara de chá de massa na forma de Waffle quente.",
+      "A luz do indicador deverá estar apagada, quando a massa for colocada a luz acenderá.",
+      "Quando a luz apagar novamente, o Waffle está pronto.",
+      "Você poderá servir estes Waffles com geleia ou até mesmo requeijão.",
+      "O único inconveniente desta receita é que você tem que ter a máquina de waffle (nunca tive a experiência de fazê-lo sem a máquina)."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Fouet",
+    "Peneira",
+    "Máquina de waffle"
+  ],
+  "texto_para_embedding": "Waffle para a criançada. Ingredientes: farinha de trigo, fermento em pó, sal, manteiga derretida, açúcar, leite, gema, clara. Preparo: Peneire todos os ingredientes secos. Acrescente a gema, o leite, a manteiga derretida aos ingredientes secos e misture-os bem. Junte a clara batida em neve, incorporando delicadamente."
+}

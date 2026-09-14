@@ -1,0 +1,61 @@
+{
+  "id": "tg-89973",
+  "titulo": "Bolo sem ovos",
+  "url": "https://www.tudogostoso.com.br/receita/89973-bolo-sem-ovos.html",
+  "nota": 4.3,
+  "n_avaliacoes": 114,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo sem ovos",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 35,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "leite de coco ou leite de vaca (200ml)",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite de coco ou leite de vaca (200ml)"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina ou manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater o açúcar com a manteiga ou margarina até ficar homogênea.",
+      "Misturar a farinha e o leite de coco ou o leite de vaca.",
+      "Por último, adicione o fermento mexendo delicadamente.",
+      "Untar uma forma redonda e polvilhar de farinha.",
+      "Colocar no forno preaquecido por uns 15 minutos em fogo médio."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo sem ovos. Ingredientes: farinha de trigo, açúcar, fermento, leite de coco ou leite de vaca (200ml), margarina ou manteiga. Preparo: Bater o açúcar com a manteiga ou margarina até ficar homogênea. Misturar a farinha e o leite de coco ou o leite de vaca. Por último, adicione o fermento mexendo delicadamente."
+}

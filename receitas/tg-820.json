@@ -1,0 +1,46 @@
+{
+  "id": "tg-820",
+  "titulo": "Mousse de manga",
+  "url": "https://www.tudogostoso.com.br/receita/820-mousse-de-manga.html",
+  "nota": 3.9,
+  "n_avaliacoes": 152,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de manga",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "mangas maduras",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 mangas maduras"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite de vaca",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite de vaca"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador e leve à geladeira por 2 horas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Mousse de manga. Ingredientes: mangas maduras, leite condensado, creme de leite, leite de vaca. Preparo: Bata tudo no liquidificador e leve à geladeira por 2 horas."
+}

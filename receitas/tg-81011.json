@@ -1,0 +1,99 @@
+{
+  "id": "tg-81011",
+  "titulo": "Panetone caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/81011-panetone-caseiro.html",
+  "nota": 3.8,
+  "n_avaliacoes": 206,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Panetone caseiro",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 90,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo peneirada",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo peneirada"
+    },
+    {
+      "nome": "ovos (grandes)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos (grandes)"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga ou margarina"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite morno"
+    },
+    {
+      "nome": "fermento biológico",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de fermento biológico"
+    },
+    {
+      "nome": "frutas cristalizadas (ou cubos de chocolate)",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de frutas cristalizadas (ou cubos de chocolate)"
+    },
+    {
+      "nome": "uva passa (de preferência sem sementes)",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de uva passa (de preferência sem sementes)"
+    },
+    {
+      "nome": "essência de panetone (opcional)",
+      "quantidade": "20",
+      "unidade": "ml",
+      "texto_original": "20 ml de essência de panetone (opcional)"
+    },
+    {
+      "nome": "raspas de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas de 1 limão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o açúcar, a manteiga (ou margarina), o leite, o fermento e a essência, por aproximadamente 30 segundos.",
+      "Em um recipiente grande, coloque a farinha peneirada, abra um furo no centro e acrescente os ingredientes batidos.",
+      "Amasse bem até que a massa se solte das mãos.",
+      "Em seguida, adicione as frutas, uvas passas e raspas do limão.",
+      "Distribua a massa em formas para pudim com furo central, untadas com margarina, até a metade da assadeira.",
+      "Deixe crescer até dobrar de volume.",
+      "Faça um corte em x em cima da massa, pincele gemas batidas e leve para assar até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Espátula para bolo",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Panetone caseiro. Ingredientes: farinha de trigo peneirada, ovos (grandes), açúcar, sal, manteiga ou margarina, leite morno, fermento biológico, frutas cristalizadas (ou cubos de chocolate), uva passa (de preferência sem sementes), essência de panetone (opcional), raspas de 1 limão. Preparo: Bata no liquidificador os ovos, o açúcar, a manteiga (ou margarina), o leite, o fermento e a essência, por aproximadamente 30 segundos. Em um recipiente grande, coloque a farinha peneirada, abra um furo no centro e acrescente os ingredientes batidos. Amasse bem até que a massa se solte das mãos."
+}

@@ -1,0 +1,74 @@
+{
+  "id": "tg-35829",
+  "titulo": "Pão caseiro rápido e fofo",
+  "url": "https://www.tudogostoso.com.br/receita/35829-pao-caseiro-rapido-e-fofo.html",
+  "nota": 4.5,
+  "n_avaliacoes": 2175,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão caseiro rápido e fofo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite morno",
+      "quantidade": "1 e 1/4",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/4 xícara de leite morno"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "tabletes de fermento para pão",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de fermento para pão"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/4",
+      "unidade": "xícara",
+      "texto_original": "1/4 xícara de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o leite, o óleo, os ovos e os tabletes de fermento, reserve.",
+      "Em uma vasilha, misture a farinha, o sal e o açúcar e despeje sobre mistura do liquidificador.",
+      "Bata até borbulhar e deixe crescer por 20 minutos.",
+      "Despeje a massa em uma forma untada e polvilhada e leve para assar em forno médio-alto (220° C), preaquecido, por 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula de silicone",
+    "Fogão",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Pão caseiro rápido e fofo. Ingredientes: leite morno, óleo, ovos, tabletes de fermento para pão, farinha de trigo, sal, açúcar. Preparo: Bata no liquidificador o leite, o óleo, os ovos e os tabletes de fermento, reserve. Em uma vasilha, misture a farinha, o sal e o açúcar e despeje sobre mistura do liquidificador. Bata até borbulhar e deixe crescer por 20 minutos."
+}

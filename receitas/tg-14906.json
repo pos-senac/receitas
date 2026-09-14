@@ -1,0 +1,67 @@
+{
+  "id": "tg-14906",
+  "titulo": "Danete caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/14906-danete-caseiro.html",
+  "nota": 4.5,
+  "n_avaliacoes": 706,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Danete caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "sopa de maisena",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de maisena"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "gema",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "l",
+      "texto_original": "1 l de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture a maisena, o chocolate, a gema e acrescente ao poucos o leite mexendo sempre.",
+      "Adicione o leite condensado e mexa bem.",
+      "Leve ao fogo mexendo sempre até engrossar.",
+      "Retire do fogo junte o creme de leite e misture até homogeneizar o creme.",
+      "Leve para a geladeira por 1 hora."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Colher para sobremesa",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Danete caseiro. Ingredientes: sopa de maisena, sopa de chocolate em pó, gema, leite, leite condensado, creme de leite. Preparo: Misture a maisena, o chocolate, a gema e acrescente ao poucos o leite mexendo sempre. Adicione o leite condensado e mexa bem. Leve ao fogo mexendo sempre até engrossar."
+}

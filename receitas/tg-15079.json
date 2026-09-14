@@ -1,0 +1,43 @@
+{
+  "id": "tg-15079",
+  "titulo": "Limonada Suíça",
+  "url": "https://www.tudogostoso.com.br/receita/15079-limonada-suica.html",
+  "nota": 3.9,
+  "n_avaliacoes": 238,
+  "categoria": "Receitas drinks e Coquetéis não alcoólicos",
+  "subcategoria": "Limonada Suíça",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "limões taiti ou siciliano",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 limões taiti ou siciliano"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "l",
+      "texto_original": "1 l de água"
+    },
+    {
+      "nome": "Açúcar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cortar os limões em 4, retirar as sementes.",
+      "Bater no liquidificador com água e açúcar.",
+      "Coar.",
+      "Servir imediatamente, pois pode amargar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Limonada Suíça. Ingredientes: limões taiti ou siciliano, água, Açúcar a gosto. Preparo: Cortar os limões em 4, retirar as sementes. Bater no liquidificador com água e açúcar. Coar."
+}

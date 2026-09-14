@@ -1,0 +1,62 @@
+{
+  "id": "tg-52166",
+  "titulo": "Gelatina em Mosaico",
+  "url": "https://www.tudogostoso.com.br/receita/52166-gelatina-em-mosaico.html",
+  "nota": 4.6,
+  "n_avaliacoes": 134,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina em Mosaico",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "gelatina (sabor de sua escolha)",
+      "quantidade": "4",
+      "unidade": "pacotes",
+      "texto_original": "4 pacotes de gelatina (sabor de sua escolha)"
+    },
+    {
+      "nome": "gelatina sem sabor",
+      "quantidade": "10",
+      "unidade": "g",
+      "texto_original": "10 g de gelatina sem sabor"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "água",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare os 4 sabores de gelatina com a metade da água que o fabricante recomenda, em vasilhas do mesmo tamanho.",
+      "Coloque na geladeira.",
+      "Hidrate 10 g ou 1 colher (sopa) de gelatina sem sabor em 5 colheres (sopa) de água.",
+      "Reserve.",
+      "Corte a gelatina em jardineira e coloque em uma bacia.",
+      "Se preferir, volte a vasilha para a geladeira para não derreter.",
+      "Coloque no copo do liquidificador o leite condensado e o creme de leite.",
+      "Derreta a gelatina sem sabor (hidratada) em banho-maria, ligue o liquidificador e despeje no centro do copo.",
+      "Despeje sobre os cubos que encontram-se na bacia e misture bem rápido",
+      "Coloque em forma untada com uma camada bem fina de óleo.",
+      "Leve para a geladeira por no mínimo 4 horas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Gelatina em Mosaico. Ingredientes: gelatina (sabor de sua escolha), gelatina sem sabor, creme de leite, leite condensado, água. Preparo: Prepare os 4 sabores de gelatina com a metade da água que o fabricante recomenda, em vasilhas do mesmo tamanho. Coloque na geladeira. Hidrate 10 g ou 1 colher (sopa) de gelatina sem sabor em 5 colheres (sopa) de água."
+}

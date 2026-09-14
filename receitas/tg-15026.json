@@ -1,0 +1,76 @@
+{
+  "id": "tg-15026",
+  "titulo": "Bolo mesclado",
+  "url": "https://www.tudogostoso.com.br/receita/15026-bolo-mesclado.html",
+  "nota": 4.8,
+  "n_avaliacoes": 115,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo mesclado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de margarina"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "fermento químico",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento químico"
+    },
+    {
+      "nome": "chocolate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de chocolate"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Peneire a farinha em uma vasilha e reserve.",
+      "Separe as gemas e bata com o açúcar e a margarina, acrescente na farinha e trigo, mexendo sempre, coloque o leite sempre batendo.",
+      "Bata as claras em neve, bem firme e coloque o fermento e acrescente a massa.",
+      "Bata mais um pouco.",
+      "Untar a forma redonda e esfarinhar.",
+      "Coloque mais de metade da massa, o restante coloca o chocolate misture bem e acrescente sobre a massa branca, mexer com um garfo, delicado, para mesclar.",
+      "Assar em forno médio, 180º C, por aproximadamente 30 a 40 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo mesclado. Ingredientes: farinha de trigo, açúcar, margarina, ovos, sal, leite, fermento químico, chocolate. Preparo: Peneire a farinha em uma vasilha e reserve. Separe as gemas e bata com o açúcar e a margarina, acrescente na farinha e trigo, mexendo sempre, coloque o leite sempre batendo. Bata as claras em neve, bem firme e coloque o fermento e acrescente a massa."
+}

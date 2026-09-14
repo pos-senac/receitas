@@ -1,0 +1,65 @@
+{
+  "id": "tg-310",
+  "titulo": "Macarrão com presunto e molho branco",
+  "url": "https://www.tudogostoso.com.br/receita/310-macarrao-com-presunto-e-molho-branco.html",
+  "nota": 4.6,
+  "n_avaliacoes": 365,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão com presunto e molho branco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "macarrão",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de macarrão"
+    },
+    {
+      "nome": "presunto picado",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de presunto picado"
+    },
+    {
+      "nome": "Sal, pimenta, cheiro verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal, pimenta, cheiro verde"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "sopa de maizena",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de maizena"
+    },
+    {
+      "nome": "sopa de queijo ralado",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de queijo ralado"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o macarrão em água e sal.",
+      "Escorra e lave em água fria. Guarde. Pique o presunto e refogue com 1 colher de manteiga, com sal, pimenta, cheiro verde picado. Faça um molho branco com a maizena dissolvida no leite, a manteiga, queijo ralado e 1 pitada de sal. Deixe engrossar e arrume em um prato, da seguinte maneira: uma camada de macarrão, uma camada de presunto, uma camada de molho branco. Assim por diante, ficando o presunto no fim. Polvilhe de queijo ralado e leve ao forno moderado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão com presunto e molho branco. Ingredientes: macarrão, presunto picado, Sal, pimenta, cheiro verde, leite, sopa de maizena, sopa de queijo ralado, sopa de manteiga. Preparo: Cozinhe o macarrão em água e sal. Escorra e lave em água fria. Guarde. Pique o presunto e refogue com 1 colher de manteiga, com sal, pimenta, cheiro verde picado. Faça um molho branco com a maizena dissolvida no leite, a manteiga, queijo ralado e 1 pitada de sal. Deixe engrossar e arrume em um prato, da seguinte maneira: uma camada de macarrão, uma camada de presunto, uma camada de molho branco. Assim por diante, ficando o presunto no fim. Polvilhe de queijo ralado e leve ao forno moderado."
+}

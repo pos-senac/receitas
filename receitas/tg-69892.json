@@ -1,0 +1,54 @@
+{
+  "id": "tg-69892",
+  "titulo": "Pudim de Leite Ninho",
+  "url": "https://www.tudogostoso.com.br/receita/69892-pudim-de-leite-ninho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 223,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pudim de Leite Ninho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite ninho",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de leite ninho"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "9",
+      "unidade": "colheres",
+      "texto_original": "9 colheres de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2 e 1/2",
+      "unidade": "copos",
+      "texto_original": "2 e 1/2 copos de leite"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de coco ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque em uma forma caramelizada.",
+      "Leve para assar em banho-maria."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim de Leite Ninho. Ingredientes: leite ninho, açúcar, ovos, leite, coco ralado. Preparo: Bata todos os ingredientes no liquidificador. Coloque em uma forma caramelizada. Leve para assar em banho-maria."
+}

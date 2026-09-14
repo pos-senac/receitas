@@ -1,0 +1,61 @@
+{
+  "id": "tg-154286",
+  "titulo": "Pudim sem Leite Condensado",
+  "url": "https://www.tudogostoso.com.br/receita/154286-pudim-sem-leite-condensado.html",
+  "nota": 4.3,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pudim sem Leite Condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 75,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "Quando fiz a primeira vez, confesso que não acreditava que o resultado final seria tão bom e parecido com o tradicional pudim com leite condensado.",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Quando fiz a primeira vez, confesso que não acreditava que o resultado final seria tão bom e parecido com o tradicional pudim com leite condensado."
+    },
+    {
+      "nome": "Experimentem, siga a receita corretamente, você vai se surpreender com o resultado!",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Experimentem, siga a receita corretamente, você vai se surpreender com o resultado!"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "cheia de açúcar",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) cheia de açúcar"
+    },
+    {
+      "nome": "ovos inteiros (sugiro que peneire as gemas para não ficar com cheiro forte de ovo)",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 ovos inteiros (sugiro que peneire as gemas para não ficar com cheiro forte de ovo)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque em uma forma caramelizada e leve ao forno alto, preaquecido em banho-maria até que espetando um palito o mesmo saia limpo (isso vai variar de forno para forno, o meu ficou 1 hora no forno).",
+      "A água do banho-maria já deve estar quente, assim o cozimento será mais rápido.",
+      "Deixe esfriar completamente para desenformar.",
+      "Se fizer um dia antes de servir, fica muito mais gostoso e parecido com o pudim de leite condensado!"
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espátula para bolo",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Pudim sem Leite Condensado. Ingredientes: Quando fiz a primeira vez, confesso que não acreditava que o resultado final seria tão bom e parecido com o tradicional pudim com leite condensado., Experimentem, siga a receita corretamente, você vai se surpreender com o resultado!, litro de leite, cheia de açúcar, ovos inteiros (sugiro que peneire as gemas para não ficar com cheiro forte de ovo). Preparo: Bata todos os ingredientes no liquidificador. Coloque em uma forma caramelizada e leve ao forno alto, preaquecido em banho-maria até que espetando um palito o mesmo saia limpo (isso vai variar de forno para forno, o meu ficou 1 hora no forno). A água do banho-maria já deve estar quente, assim o cozimento será mais rápido."
+}

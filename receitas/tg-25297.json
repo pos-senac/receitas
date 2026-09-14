@@ -1,0 +1,47 @@
+{
+  "id": "tg-25297",
+  "titulo": "Brigadeiro de leite em pó",
+  "url": "https://www.tudogostoso.com.br/receita/25297-brigadeiro-de-leite-em-po.html",
+  "nota": 4.4,
+  "n_avaliacoes": 210,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Brigadeiro de leite em pó",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "leite em pó",
+      "quantidade": "10",
+      "unidade": "colheres (sopa)",
+      "texto_original": "10 colheres (sopa) de leite em pó"
+    },
+    {
+      "nome": "açucar",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) de açucar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes em uma panela grande.",
+      "Leve ao fogo, mexa bem até que desgrude do fundo da panela e fique em ponto de enrolar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Brigadeiro de leite em pó. Ingredientes: leite em pó, açucar, chocolate em pó, água. Preparo: Coloque todos os ingredientes em uma panela grande. Leve ao fogo, mexa bem até que desgrude do fundo da panela e fique em ponto de enrolar."
+}

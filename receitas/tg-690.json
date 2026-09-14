@@ -1,0 +1,85 @@
+{
+  "id": "tg-690",
+  "titulo": "Quentão",
+  "url": "https://www.tudogostoso.com.br/receita/690-quentao.html",
+  "nota": 4.3,
+  "n_avaliacoes": 214,
+  "categoria": "Receitas drinks e Coquetéis alcoólicos",
+  "subcategoria": "Quentão",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "garrafa de cachaça (600 ml)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafa de cachaça (600 ml)"
+    },
+    {
+      "nome": "água",
+      "quantidade": "600",
+      "unidade": "ml",
+      "texto_original": "600 ml de água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de açúcar"
+    },
+    {
+      "nome": "casca de 2 laranjas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "casca de 2 laranjas"
+    },
+    {
+      "nome": "casca de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "casca de 1 limão"
+    },
+    {
+      "nome": "gengibre em pedacinhos",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de gengibre em pedacinhos"
+    },
+    {
+      "nome": "cravo-da-índia a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cravo-da-índia a gosto"
+    },
+    {
+      "nome": "canela em pau a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pau a gosto"
+    },
+    {
+      "nome": "maçã cortada em pedacinhos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maçã cortada em pedacinhos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Colocar em uma panela grande o açúcar, as cascas de laranja, as cascas de limão, o gengibre, o cravo e a canela.",
+      "Quando o açúcar estiver derretendo, colocar a cachaça e a água, deixando cozinhar por 20 a 25 minutos em fogo médio.",
+      "Filtre e, após, coloque a maçã picadinha.",
+      "Manter no fogo, após o preparo."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Colher de silicone",
+    "Concha",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Quentão. Ingredientes: garrafa de cachaça (600 ml), água, açúcar, casca de 2 laranjas, casca de 1 limão, gengibre em pedacinhos, cravo-da-índia a gosto, canela em pau a gosto, maçã cortada em pedacinhos. Preparo: Colocar em uma panela grande o açúcar, as cascas de laranja, as cascas de limão, o gengibre, o cravo e a canela. Quando o açúcar estiver derretendo, colocar a cachaça e a água, deixando cozinhar por 20 a 25 minutos em fogo médio. Filtre e, após, coloque a maçã picadinha."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "tg-183595",
+  "titulo": "Crepioca fit",
+  "url": "https://www.tudogostoso.com.br/receita/183595-crepioca-fit.html",
+  "nota": 4.8,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas alimentação saudável",
+  "subcategoria": "Crepioca fit",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "goma de tapioca",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de goma de tapioca"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "Para crepioca doce, adicione adoçante a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Para crepioca doce, adicione adoçante a gosto"
+    },
+    {
+      "nome": "Para crepioca salgada, adicione uma pitada de sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Para crepioca salgada, adicione uma pitada de sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, bata bem o ovo.",
+      "Adicione a goma de tapioca e bata novamente (pode bater com um garfo mesmo), até obter uma mistura homogênea.",
+      "Coloque todo o conteúdo em uma frigideira antiaderente levemente quente e mantenha em fogo baixo.",
+      "Deixe por alguns segundos e vire para dourar do outro lado.",
+      "Não é necessário untar com óleo, azeite ou manteiga."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espatula",
+    "Fouet",
+    "Frigideira funda",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Crepioca fit. Ingredientes: goma de tapioca, ovo, Para crepioca doce, adicione adoçante a gosto, Para crepioca salgada, adicione uma pitada de sal a gosto. Preparo: Em um recipiente, bata bem o ovo. Adicione a goma de tapioca e bata novamente (pode bater com um garfo mesmo), até obter uma mistura homogênea. Coloque todo o conteúdo em uma frigideira antiaderente levemente quente e mantenha em fogo baixo."
+}

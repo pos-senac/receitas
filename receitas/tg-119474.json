@@ -1,0 +1,80 @@
+{
+  "id": "tg-119474",
+  "titulo": "Bolo de abacaxi caramelizado muito simples",
+  "url": "https://www.tudogostoso.com.br/receita/119474-bolo-de-abacaxi-caramelizado-muito-simples.html",
+  "nota": 4.2,
+  "n_avaliacoes": 257,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de abacaxi caramelizado muito simples",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "1 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "leite ou 1 copo pequeno",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de leite ou 1 copo pequeno"
+    },
+    {
+      "nome": "fermento para bolo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento para bolo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "1 e 1/2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "abacaxi cortadinho ou em rodelas grossas ou picado, como preferir",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abacaxi cortadinho ou em rodelas grossas ou picado, como preferir"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o açúcar, a margarina, o leite e depois adicione a farinha aos poucos.",
+      "Por último coloque o fermento, bata bem até ficar uma massa lisa sem bolinhas.",
+      "Na forma de bolo coloque o açúcar direto na forma e derreta até virar um caramelo.",
+      "Espere esfriar, coloque o abacaxi que cortou e acrescente toda a massa e coloque para assar.",
+      "No forno a 200°C asse por 50 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espátula de silicone",
+    "Forma",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo de abacaxi caramelizado muito simples. Ingredientes: açúcar, ovos inteiros, margarina, farinha de trigo, leite ou 1 copo pequeno, fermento para bolo, açúcar, abacaxi cortadinho ou em rodelas grossas ou picado, como preferir. Preparo: Bata no liquidificador os ovos, o açúcar, a margarina, o leite e depois adicione a farinha aos poucos. Por último coloque o fermento, bata bem até ficar uma massa lisa sem bolinhas. Na forma de bolo coloque o açúcar direto na forma e derreta até virar um caramelo."
+}

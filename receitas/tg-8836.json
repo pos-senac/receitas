@@ -1,0 +1,115 @@
+{
+  "id": "tg-8836",
+  "titulo": "Carne de panela",
+  "url": "https://www.tudogostoso.com.br/receita/8836-carne-de-panela.html",
+  "nota": 4.7,
+  "n_avaliacoes": 360,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Carne de panela",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 50,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "coxão mole cortado em bifes",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de coxão mole cortado em bifes"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola ralada"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho amassado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "tempero em pó sabor umami (opcional)",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de tempero em pó sabor umami (opcional)"
+    },
+    {
+      "nome": "salsinha picada",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de salsinha picada"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de água quente"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de extrato de tomate"
+    },
+    {
+      "nome": "pimentão verde picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde picado"
+    },
+    {
+      "nome": "tomate sem sementes picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate sem sementes picado"
+    },
+    {
+      "nome": "cenoura pequena picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura pequena picada"
+    },
+    {
+      "nome": "Orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela de pressão, coloque o óleo junte a cebola, alho e refogue bem.",
+      "Acrescente a carne e frite por 5 minutos mexendo bem.",
+      "Depois coloque o tempero em pó sabor umami (opcional), o tomate, o pimentão, o extrato de tomate, a cenoura e a seguir acrescente a água e o orégano.",
+      "Deixe cozinhar por 30 minutos contando o inicio da fervura, assim que a carne estiver cozida retire do fogo.",
+      "Misture a salsinha e sirva em seguida com arroz branco."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Carne de panela. Ingredientes: coxão mole cortado em bifes, cebola ralada, alho amassado, óleo, Sal a gosto, Pimenta-do-reino a gosto, tempero em pó sabor umami (opcional), salsinha picada, água quente, extrato de tomate, pimentão verde picado, tomate sem sementes picado, cenoura pequena picada, Orégano a gosto. Preparo: Em uma panela de pressão, coloque o óleo junte a cebola, alho e refogue bem. Acrescente a carne e frite por 5 minutos mexendo bem. Depois coloque o tempero em pó sabor umami (opcional), o tomate, o pimentão, o extrato de tomate, a cenoura e a seguir acrescente a água e o orégano."
+}

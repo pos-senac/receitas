@@ -1,0 +1,60 @@
+{
+  "id": "tg-23665",
+  "titulo": "Chantilly caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/23665-chantilly-caseiro.html",
+  "nota": 3.4,
+  "n_avaliacoes": 249,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Chantilly caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "essência de baunilha",
+      "quantidade": "1/2",
+      "unidade": "colher (café)",
+      "texto_original": "1/2 colher (café) de essência de baunilha"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma batedeira, bata o açúcar, a manteiga e a essência de baunilha até obter uma consistência cremosa.",
+      "Acrescente o creme de leite e o fermento e bata por mais 5 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Colher de silicone",
+    "Espátula de silicone",
+    "Fouet",
+    "Tigela",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Chantilly caseiro. Ingredientes: manteiga, açúcar, essência de baunilha, creme de leite sem soro, fermento em pó. Preparo: Em uma batedeira, bata o açúcar, a manteiga e a essência de baunilha até obter uma consistência cremosa. Acrescente o creme de leite e o fermento e bata por mais 5 minutos."
+}

@@ -1,0 +1,142 @@
+{
+  "id": "tg-74231",
+  "titulo": "Bolo salgado de pão de forma e frango",
+  "url": "https://www.tudogostoso.com.br/receita/74231-bolo-salgado-de-pao-de-forma-e-frango.html",
+  "nota": 4.7,
+  "n_avaliacoes": 651,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolo salgado de pão de forma e frango",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 80,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "pão de forma",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de pão de forma"
+    },
+    {
+      "nome": "peitos de frango",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 peitos de frango"
+    },
+    {
+      "nome": "tomate picado sem semente",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado sem semente"
+    },
+    {
+      "nome": "cebola grande picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho picado"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de galinha"
+    },
+    {
+      "nome": "salsinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "cenoura ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura ralada"
+    },
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "azeitonas picadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitonas picadas"
+    },
+    {
+      "nome": "champignon picado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "champignon picado"
+    },
+    {
+      "nome": "pote de maionese",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pote de maionese"
+    },
+    {
+      "nome": "pote de maionese",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pote de maionese"
+    },
+    {
+      "nome": "batata palha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "batata palha"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio": [
+      "Cozinhe os peitos de frango com água, sal e o caldo de galinha na panela de pressão por 30 minutos.",
+      "Escorra a água e desfie todo o frango.",
+      "Em uma panela, refogue o azeite, a cebola, o alho e o tomate.",
+      "Acrescente o frango, corrija o sal se necessário, mexa por alguns minutos e desligue o fogo.",
+      "Coloque o milho, as azeitonas, o champignon, o creme de leite e 1/2 pote de maionese."
+    ],
+    "Montagem": [
+      "Retire as cascas dos pães e reserve.",
+      "Forre com papel-alumínio uma forma ou um refratário e forre a primeira camada de pão de forma.",
+      "Despeje um pouco de maionese, acrescente metade do recheio e metade da cenoura ralada.",
+      "Coloque a segunda camada de pão de forma e repita o processo até preencher todo o refratário.",
+      "Leve à geladeira por 30 minutos.",
+      "Após o tempo determinado, retire da geladeira e desenforme.",
+      "Passe a maionese restante em volta do bolo e cubra com a batata palha."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Faca",
+    "Forma"
+  ],
+  "texto_para_embedding": "Bolo salgado de pão de forma e frango. Ingredientes: pão de forma, peitos de frango, tomate picado sem semente, cebola grande picada, alho picado, tablete de caldo de galinha, salsinha, sal, azeite, creme de leite, cenoura ralada, milho, azeitonas picadas, champignon picado, pote de maionese, pote de maionese, batata palha. Preparo: Cozinhe os peitos de frango com água, sal e o caldo de galinha na panela de pressão por 30 minutos. Escorra a água e desfie todo o frango. Em uma panela, refogue o azeite, a cebola, o alho e o tomate."
+}

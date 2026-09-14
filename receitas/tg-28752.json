@@ -1,0 +1,72 @@
+{
+  "id": "tg-28752",
+  "titulo": "Bolo flocão",
+  "url": "https://www.tudogostoso.com.br/receita/28752-bolo-flocao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 244,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo flocão",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 45,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "flocão de milho",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de flocão de milho"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (rasa)",
+      "texto_original": "1/2 xícara (rasa) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos inteiros"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque no liquidificador todos os ingredientes, bata por 3 minutos.",
+      "Unte uma forma redonda com buraco no meio com margarina e açúcar.",
+      "Asse por 40 minutos.",
+      "Espete com um palito para testar se o bolo está pronto. Se ele sair limpo, desligue o forno e retire o bolo. Se não, deixe assando até o palito sair limpo."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo flocão. Ingredientes: flocão de milho, leite, óleo, açúcar, ovos inteiros, farinha de trigo, fermento em pó. Preparo: Coloque no liquidificador todos os ingredientes, bata por 3 minutos. Unte uma forma redonda com buraco no meio com margarina e açúcar. Asse por 40 minutos."
+}

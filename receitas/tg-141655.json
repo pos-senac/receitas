@@ -1,0 +1,77 @@
+{
+  "id": "tg-141655",
+  "titulo": "Paixão cremosa",
+  "url": "https://www.tudogostoso.com.br/receita/141655-paixao-cremosa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 557,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Paixão cremosa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 150,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de maisena"
+    },
+    {
+      "nome": "leite (medida de leite condensado)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (medida de leite condensado)"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de creme de leite"
+    },
+    {
+      "nome": "chocolate meio amargo derretido",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de chocolate meio amargo derretido"
+    },
+    {
+      "nome": "castanha de caju picada",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de castanha de caju picada"
+    },
+    {
+      "nome": "chocolate ao leite picado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chocolate ao leite picado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite condensado, a maisena dissolvida no leite, bata as gemas e passe-as na peneirinha, coloque junto e leve ao fogo médio até engrossar o creme branco.",
+      "Deixe este creme esfriar e misture o creme de leite.",
+      "Separe 1/3 dessa mistura e no restante coloque o chocolate meio amargo derretido e ficará um creme escuro",
+      "Coloque em um refratário a metade deste creme de chocolate e leve ao congelador por 20 minutos.",
+      "Retire e cubra com o restante do creme amarelo que ficou sem o chocolate, salpique com a castanha picada e volte ao congelador por mais 10 minutos.",
+      "Retire do congelador e cubra com o restante do creme de chocolate.",
+      "Derreta o chocolate ao leite e espalhe em cima da torta.",
+      "Deixe na geladeira por 2 horas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Paixão cremosa. Ingredientes: leite condensado, maisena, leite (medida de leite condensado), gemas, creme de leite, chocolate meio amargo derretido, castanha de caju picada, chocolate ao leite picado. Preparo: Coloque o leite condensado, a maisena dissolvida no leite, bata as gemas e passe-as na peneirinha, coloque junto e leve ao fogo médio até engrossar o creme branco. Deixe este creme esfriar e misture o creme de leite. Separe 1/3 dessa mistura e no restante coloque o chocolate meio amargo derretido e ficará um creme escuro"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "tg-61518",
+  "titulo": "Bacalhau com natas da Drika - direto de Portugal",
+  "url": "https://www.tudogostoso.com.br/receita/61518-bacalhau-com-natas-da-drika-direto-de-portugal.html",
+  "nota": 4.6,
+  "n_avaliacoes": 186,
+  "categoria": "Receitas bacalhau",
+  "subcategoria": "Bacalhau com natas da Drika - direto de Portugal",
+  "nivel": "medio",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "bacalhau",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg bacalhau"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "batatas medias",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 batatas medias"
+    },
+    {
+      "nome": "talo de alho poró (alho francês em Portugal)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 talo de alho poró (alho francês em Portugal)"
+    },
+    {
+      "nome": "litro de natas (3 latas creme de leite sem soro)",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de natas (3 latas creme de leite sem soro)"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "Queijo parmesão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo parmesão"
+    },
+    {
+      "nome": "Coentro (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Coentro (opcional)"
+    },
+    {
+      "nome": "Azeite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite"
+    },
+    {
+      "nome": "Azeitona preta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeitona preta"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Demolhe o bacalhau em água até o sal ficar ao gosto, cerca de 24 horas.",
+      "Em uma panela coloque o azeite, doure o alho, cebola, o alho francês, em seguida coloque o bacalhau deixe dourar.",
+      "Pegue as batatas corte em cubos e frite à parte.",
+      "Depois coloque as batas juntamente com o bacalhau já dourado, só nessa hora coloque os coentros a seu gosto juntamente com as natas ou creme de leite.",
+      "Misture tudo.",
+      "Bata 1 ovo inteiro e pincele o bacalhau, espalhe um pouquinho de parmesão por cima e decore com azeitonas pretas.",
+      "Coloque para gratinar no forno durante 30 minutos, até virar uma casquinha bem crocante.",
+      "Sirva com uma bela salada de alface, nada mais."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Bowl",
+    "Faca"
+  ],
+  "texto_para_embedding": "Bacalhau com natas da Drika - direto de Portugal. Ingredientes: bacalhau, cebola picada, alho, batatas medias, talo de alho poró (alho francês em Portugal), litro de natas (3 latas creme de leite sem soro), ovo, Queijo parmesão, Coentro (opcional), Azeite, Azeitona preta. Preparo: Demolhe o bacalhau em água até o sal ficar ao gosto, cerca de 24 horas. Em uma panela coloque o azeite, doure o alho, cebola, o alho francês, em seguida coloque o bacalhau deixe dourar. Pegue as batatas corte em cubos e frite à parte."
+}

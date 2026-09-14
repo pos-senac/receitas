@@ -1,0 +1,97 @@
+{
+  "id": "tg-134965",
+  "titulo": "Frango cremoso com batata",
+  "url": "https://www.tudogostoso.com.br/receita/134965-frango-cremoso-com-batata.html",
+  "nota": 4.5,
+  "n_avaliacoes": 115,
+  "categoria": "Receitas aves",
+  "subcategoria": "Frango cremoso com batata",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "filé de frango",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de frango"
+    },
+    {
+      "nome": "sopa de cebola",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de sopa de cebola"
+    },
+    {
+      "nome": "batatas média cortadas em rodelas finas",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 batatas média cortadas em rodelas finas"
+    },
+    {
+      "nome": "cebolas cortadas em rodelas finas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas cortadas em rodelas finas"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de leite"
+    },
+    {
+      "nome": "mussarela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "mussarela a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "margarina para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "margarina para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe as batatas no leite com sal (não deixe que fiquem muito cozidas) e reserve.",
+      "No mesmo leite de cozimento da batata, cozinhe as cebolas até perderem o aspecto de cruas.",
+      "Reserve o leite do cozimento.",
+      "Tempere o frango com o pó da sopa de cebola e frite em uma panela de fundo largo até ficarem morenos.",
+      "No leite reservado, misture o creme de leite, o requeijão e o sal.",
+      "Reserve.",
+      "Agora é só montar o prato numa forma untada com margarina.",
+      "Alterne camadas de batatas, cebolas, mussarela e frango .",
+      "Jogue por cima o molho branco reservado e leve ao forno para derreter a mussarela."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Faca",
+    "Forno elétrico",
+    "Tigela",
+    "Manteigueira"
+  ],
+  "texto_para_embedding": "Frango cremoso com batata. Ingredientes: filé de frango, sopa de cebola, batatas média cortadas em rodelas finas, cebolas cortadas em rodelas finas, creme de leite, requeijão, litro de leite, mussarela a gosto, sal a gosto, margarina para untar. Preparo: Cozinhe as batatas no leite com sal (não deixe que fiquem muito cozidas) e reserve. No mesmo leite de cozimento da batata, cozinhe as cebolas até perderem o aspecto de cruas. Reserve o leite do cozimento."
+}

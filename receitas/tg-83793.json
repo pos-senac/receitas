@@ -1,0 +1,96 @@
+{
+  "id": "tg-83793",
+  "titulo": "Macarrão com requeijão",
+  "url": "https://www.tudogostoso.com.br/receita/83793-macarrao-com-requeijao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 513,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão com requeijão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "penne cozido al dente",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de penne cozido al dente"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "alho picados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picados"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "requeijão de sua preferência",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de requeijão de sua preferência"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "presunto picado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de presunto picado"
+    },
+    {
+      "nome": "mussarela picada",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de mussarela picada"
+    },
+    {
+      "nome": "Queijo parmesão ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo parmesão ralado"
+    },
+    {
+      "nome": "Sal e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela aqueça o azeite e doure o alho.",
+      "Junte o molho de tomate, o requeijão e o creme de leite.",
+      "Tempere com sal e pimenta.",
+      "Deixe no fogo brando até o requeijão derreter.",
+      "Desligue o fogo e misture a mussarela e o presunto picados.",
+      "Em um refratário coloque o macarrão, despeje o molho e polvilhe o queijo ralado.",
+      "Deixe por 20 minutos em forno pré-aquecido.",
+      "Sirva em seguida."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Expremedor de alho",
+    "Faca",
+    "Fogão",
+    "Panela de macarrão"
+  ],
+  "texto_para_embedding": "Macarrão com requeijão. Ingredientes: penne cozido al dente, azeite, alho picados, molho de tomate, requeijão de sua preferência, creme de leite, presunto picado, mussarela picada, Queijo parmesão ralado, Sal e pimenta a gosto. Preparo: Em uma panela aqueça o azeite e doure o alho. Junte o molho de tomate, o requeijão e o creme de leite. Tempere com sal e pimenta."
+}

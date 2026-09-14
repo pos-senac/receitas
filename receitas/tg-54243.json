@@ -1,0 +1,66 @@
+{
+  "id": "tg-54243",
+  "titulo": "Bolo de micro-ondas de chocolate da Angélica",
+  "url": "https://www.tudogostoso.com.br/receita/54243-bolo-de-micro-ondas-de-chocolate-da-angelica.html",
+  "nota": 4.7,
+  "n_avaliacoes": 474,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de micro-ondas de chocolate da Angélica",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "½ xícara de óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ xícara de óleo"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de açúcar"
+    },
+    {
+      "nome": "chá de chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de chocolate em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater tudo na batedeira.",
+      "Unte um pirex e coloque a massa.",
+      "Leve ao forno micro-ondas por 10 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de micro-ondas de chocolate da Angélica. Ingredientes: ½ xícara de óleo, chá de açúcar, chá de chocolate em pó, ovos, chá de leite, chá de farinha de trigo, sopa de fermento em pó. Preparo: Bater tudo na batedeira. Unte um pirex e coloque a massa. Leve ao forno micro-ondas por 10 minutos."
+}

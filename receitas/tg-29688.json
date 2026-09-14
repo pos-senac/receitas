@@ -1,0 +1,83 @@
+{
+  "id": "tg-29688",
+  "titulo": "Rabada",
+  "url": "https://www.tudogostoso.com.br/receita/29688-rabada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Rabada",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "rabada fresca",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de rabada fresca"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebola"
+    },
+    {
+      "nome": "alho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alho"
+    },
+    {
+      "nome": "Pimenta - do - reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta - do - reino a gosto"
+    },
+    {
+      "nome": "Cheiro verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro verde"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de molho de tomate"
+    },
+    {
+      "nome": "sopa azeite",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa azeite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave primeiramente a rabada com vinagre.",
+      "Depois tempere com sal, pimenta - do - reino e cheiro verde.",
+      "Numa panela de pressão de 7 litros, junte o azeite.",
+      "Depois, acrescente a cebola picada e o alho.",
+      "Quando estiver dourado, jogue a rabada e mexa para agregar o tempero.",
+      "Adicione água até que cubra a rabada, tampe e deixe cozinhando, após pegar pressão por 30 minutos.",
+      "Em seguida, quando a rabada estiver mole, despeje o molho de tomate, verifique o sal e a pimenta.",
+      "Deixe ferver mais um pouco e desligue.",
+      "Deixe esfriar um pouco até que o óleo suba todo.",
+      "Com uma concha retire todo o óleo que fica por cima, deixando o prato mais suave."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Concha"
+  ],
+  "texto_para_embedding": "Rabada. Ingredientes: rabada fresca, Sal a gosto, Cebola, alho, Pimenta - do - reino a gosto, Cheiro verde, molho de tomate, sopa azeite. Preparo: Lave primeiramente a rabada com vinagre. Depois tempere com sal, pimenta - do - reino e cheiro verde. Numa panela de pressão de 7 litros, junte o azeite."
+}

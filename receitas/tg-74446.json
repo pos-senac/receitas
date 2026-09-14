@@ -1,0 +1,79 @@
+{
+  "id": "tg-74446",
+  "titulo": "Gelatina Mosaico",
+  "url": "https://www.tudogostoso.com.br/receita/74446-gelatina-mosaico.html",
+  "nota": 4.8,
+  "n_avaliacoes": 109,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina Mosaico",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "gelatina sabor morango",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina sabor morango"
+    },
+    {
+      "nome": "gelatina sabor uva",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina sabor uva"
+    },
+    {
+      "nome": "gelatina sabor limão",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina sabor limão"
+    },
+    {
+      "nome": "gelatina sabor abacaxi",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina sabor abacaxi"
+    },
+    {
+      "nome": "gelatina sabor framboesa",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina sabor framboesa"
+    },
+    {
+      "nome": "envelope de gelatina em pó sem sabor",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de gelatina em pó sem sabor"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite com soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite com soro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare cada gelatina separadamente, dissolvendo cada uma em 250 ml de água fervente.",
+      "Dissolva bem cada gelatina, coloque cada gelatina em uma fôrma separada, de preferência em fôrmas quadradas, leve para gelar até ficar bem consistente ou de um dia para o outro.",
+      "Retire as gelatinas da geladeira e corte em cubos, coloque todas juntas em uma travessa e reserve.",
+      "No liquidificador adicione o creme de leite com o soro, o leite condensado e bata bem, em seguida com o liquidificador ainda ligado adicione a gelatina sem sabor incolor dissolvida conforme as instruções do fabricante bata somente para misturar.",
+      "Despeje o liquido sobre a gelatina reservada e misture delicadamente, depois leve para gelar até ficar consistente."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Colher de silicone",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Gelatina Mosaico. Ingredientes: gelatina sabor morango, gelatina sabor uva, gelatina sabor limão, gelatina sabor abacaxi, gelatina sabor framboesa, envelope de gelatina em pó sem sabor, leite condensado, creme de leite com soro. Preparo: Prepare cada gelatina separadamente, dissolvendo cada uma em 250 ml de água fervente. Dissolva bem cada gelatina, coloque cada gelatina em uma fôrma separada, de preferência em fôrmas quadradas, leve para gelar até ficar bem consistente ou de um dia para o outro. Retire as gelatinas da geladeira e corte em cubos, coloque todas juntas em uma travessa e reserve."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "tg-82681",
+  "titulo": "Massa de panqueca",
+  "url": "https://www.tudogostoso.com.br/receita/82681-massa-de-panqueca.html",
+  "nota": 4.8,
+  "n_avaliacoes": 1347,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa de panqueca",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador por 2 minutos.",
+      "Em seguida desligue e, com uma colher, misture a farinha que grudou no copo do liquidificador.",
+      "Bata novamente só para misturar e reserve.",
+      "Unte a frigideira com um fio de óleo e leve ao fogo até aquecer.",
+      "Com o auxílio de uma concha, pegue uma porção de massa e coloque na frigideira, gire a frigideira para espalhar bem a massa.",
+      "Abaixe o fogo e deixe dourar por baixo, em seguida vire do outro lado e deixe dourar, repita o processo com toda a massa."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Concha",
+    "Espatula",
+    "Frigideira funda",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Massa de panqueca. Ingredientes: farinha de trigo, leite, ovos, sal. Preparo: Bata todos os ingredientes no liquidificador por 2 minutos. Em seguida desligue e, com uma colher, misture a farinha que grudou no copo do liquidificador. Bata novamente só para misturar e reserve."
+}

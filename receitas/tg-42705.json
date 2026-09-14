@@ -1,0 +1,42 @@
+{
+  "id": "tg-42705",
+  "titulo": "Glacê para bolo",
+  "url": "https://www.tudogostoso.com.br/receita/42705-glace-para-bolo.html",
+  "nota": 4.4,
+  "n_avaliacoes": 162,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Glacê para bolo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 claras"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela coloque o açúcar e a água, cozinhe sem mexer até formar uma calda em ponto de fio.",
+      "Teste pegando um pouco de calda morna no polegar e o indicador, se formar um fio que não se quebra com facilidade está pronto.",
+      "Bata as claras em neve e derrame a calda sem parar de bater, até esfriar bem, em velocidade máxima na batedeira."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Glacê para bolo. Ingredientes: açúcar, água, claras. Preparo: Em uma panela coloque o açúcar e a água, cozinhe sem mexer até formar uma calda em ponto de fio. Teste pegando um pouco de calda morna no polegar e o indicador, se formar um fio que não se quebra com facilidade está pronto. Bata as claras em neve e derrame a calda sem parar de bater, até esfriar bem, em velocidade máxima na batedeira."
+}

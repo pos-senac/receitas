@@ -1,0 +1,67 @@
+{
+  "id": "tg-6303",
+  "titulo": "Frango assado inteiro e descomplicado",
+  "url": "https://www.tudogostoso.com.br/receita/6303-frango-assado-inteiro-e-descomplicado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 338,
+  "categoria": "Receitas aves",
+  "subcategoria": "Frango assado inteiro e descomplicado",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 120,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "frango inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 frango inteiro"
+    },
+    {
+      "nome": "margarina ou manteiga com sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "margarina ou manteiga com sal"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "cebola grande descascada inteira",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande descascada inteira"
+    },
+    {
+      "nome": "alecrim e manjericão ou ervas finas desidratadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alecrim e manjericão ou ervas finas desidratadas"
+    },
+    {
+      "nome": "Limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Limão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pegue o frango, retire os miúdos.",
+      "Lave-o por dentro e por fora com água e limão, escorra.",
+      "Secar com um guardanapo de pano dentro e fora, em seguida passar sal por dentro e por fora, fazer o mesmo com a margarina ou manteiga.",
+      "Colocar em uma assadeira, adicionar a cebola inteira e os galhos de alecrim e manjericão no interior do frango Seara com um cubinho de margarina.",
+      "Levar para assar em forno médio até começar a dourar mais ou menos 40 minutos, aumentar o forno para o máximo para dourar e ficar crocante."
+    ]
+  },
+  "utensilios": [
+    "Barbante",
+    "Pincel de silicone",
+    "Faca",
+    "Forma"
+  ],
+  "texto_para_embedding": "Frango assado inteiro e descomplicado. Ingredientes: frango inteiro, margarina ou manteiga com sal, sal, cebola grande descascada inteira, alecrim e manjericão ou ervas finas desidratadas, Limão. Preparo: Pegue o frango, retire os miúdos. Lave-o por dentro e por fora com água e limão, escorra. Secar com um guardanapo de pano dentro e fora, em seguida passar sal por dentro e por fora, fazer o mesmo com a margarina ou manteiga."
+}

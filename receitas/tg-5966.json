@@ -1,0 +1,63 @@
+{
+  "id": "tg-5966",
+  "titulo": "Arroz doce verdadeiro",
+  "url": "https://www.tudogostoso.com.br/receita/5966-arroz-doce-verdadeiro.html",
+  "nota": 4.2,
+  "n_avaliacoes": 1776,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Arroz doce verdadeiro",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "litro de leite",
+      "quantidade": "1 e 1/2",
+      "unidade": null,
+      "texto_original": "1 e 1/2 litro de leite"
+    },
+    {
+      "nome": "arroz branco (já lavado)",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de arroz branco (já lavado)"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de açúcar"
+    },
+    {
+      "nome": "canela em pau a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pau a gosto"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o arroz no leite, juntamente com a canela (utilize uma panela grande para que o leite ferva e não derrame).",
+      "Após 20 minutos, mexa de tempos em tempos.",
+      "Acrescente o açúcar e deixe por 20 minutos.",
+      "Logo em seguida, acrescente o leite condensado e deixe por mais 20 minutos.",
+      "Coloque em uma linda travessa."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor",
+    "Fogão",
+    "Panela de cerâmica",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Arroz doce verdadeiro. Ingredientes: litro de leite, arroz branco (já lavado), açúcar, canela em pau a gosto, leite condensado. Preparo: Cozinhe o arroz no leite, juntamente com a canela (utilize uma panela grande para que o leite ferva e não derrame). Após 20 minutos, mexa de tempos em tempos. Acrescente o açúcar e deixe por 20 minutos."
+}

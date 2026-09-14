@@ -1,0 +1,55 @@
+{
+  "id": "tg-70713",
+  "titulo": "Geleia de morango",
+  "url": "https://www.tudogostoso.com.br/receita/70713-geleia-de-morango.html",
+  "nota": 4.8,
+  "n_avaliacoes": 144,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Geleia de morango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "morango (2 caixinhas)",
+      "quantidade": "600",
+      "unidade": "g",
+      "texto_original": "600 g de morango (2 caixinhas)"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "suco de limão",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de suco de limão"
+    },
+    {
+      "nome": "cravos-da-índia (opcional)",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 cravos-da-índia (opcional)"
+    },
+    {
+      "nome": "amido de milho dissolvido em um pouquinho de água",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de amido de milho dissolvido em um pouquinho de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Colocar em uma  panela o açúcar, depois os morangos com o suco de limão e os cravos-da-índia.",
+      "Levar ao fogo alto até ferver, depois fogo médio até o final, mexendo de vez em quando.",
+      "Cozinhar até que os morangos estejam molinhos, o que leva uns 15 minutos.",
+      "Passado esse tempo acrescente o amido de milho, mexa mais um pouco e desligue."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Geleia de morango. Ingredientes: morango (2 caixinhas), açúcar, suco de limão, cravos-da-índia (opcional), amido de milho dissolvido em um pouquinho de água. Preparo: Colocar em uma  panela o açúcar, depois os morangos com o suco de limão e os cravos-da-índia. Levar ao fogo alto até ferver, depois fogo médio até o final, mexendo de vez em quando. Cozinhar até que os morangos estejam molinhos, o que leva uns 15 minutos."
+}

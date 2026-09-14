@@ -1,0 +1,67 @@
+{
+  "id": "tg-15191",
+  "titulo": "Quindim de coco bem fácil",
+  "url": "https://www.tudogostoso.com.br/receita/15191-quindim-de-coco-bem-facil.html",
+  "nota": 4.5,
+  "n_avaliacoes": 134,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Quindim de coco bem fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "gemas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 gemas"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "margarina derretida",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina derretida"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado"
+    },
+    {
+      "nome": "sopa de água",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de água"
+    },
+    {
+      "nome": "sobremesa de baunilha",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de baunilha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Vá misturando tudo numa tigela na seqüência com uma colher de pau.",
+      "Unte uma forma de 26 cm com margarina e polvilhe açúcar ou 20 forminhas para empadinhas.",
+      "Coloque a mistura e leve para assar em banho-maria por 40 minutos mais ou menos.",
+      "Desenforme e sirva morno ou frio."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Quindim de coco bem fácil. Ingredientes: gemas, ovos inteiros, açúcar, margarina derretida, coco ralado, sopa de água, sobremesa de baunilha. Preparo: Vá misturando tudo numa tigela na seqüência com uma colher de pau. Unte uma forma de 26 cm com margarina e polvilhe açúcar ou 20 forminhas para empadinhas. Coloque a mistura e leve para assar em banho-maria por 40 minutos mais ou menos."
+}

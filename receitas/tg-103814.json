@@ -1,0 +1,49 @@
+{
+  "id": "tg-103814",
+  "titulo": "Doce de leite condensado da Raquel",
+  "url": "https://www.tudogostoso.com.br/receita/103814-doce-de-leite-condensado-da-raquel.html",
+  "nota": 4.2,
+  "n_avaliacoes": 167,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Doce de leite condensado da Raquel",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "A mesma medida da lata de açúcar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "A mesma medida da lata de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo até desgrudar da panela.",
+      "Normalmente fica com cor de doce de leite.",
+      "Coloque em uma travessa para esfriar e corte em pedaços."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Colher de silicone",
+    "Colher para sobremesa",
+    "Fogão",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Doce de leite condensado da Raquel. Ingredientes: leite condensado, A mesma medida da lata de açúcar, margarina. Preparo: Leve ao fogo até desgrudar da panela. Normalmente fica com cor de doce de leite. Coloque em uma travessa para esfriar e corte em pedaços."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "tg-8955",
+  "titulo": "Falso danoninho",
+  "url": "https://www.tudogostoso.com.br/receita/8955-falso-danoninho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 159,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Falso danoninho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condesando",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condesando"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite"
+    },
+    {
+      "nome": "tang de morango. (ou de sua preferência)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tang de morango. (ou de sua preferência)"
+    },
+    {
+      "nome": "Obs: Já fiz com limão, maracujá, pêssego e morango",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Obs: Já fiz com limão, maracujá, pêssego e morango"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata o leite condesando com o creme de leite, e por último acrescente o tang,",
+      "já fica encorpado na hora. É só levar para gelar e está pronto.",
+      "Fica muito bom, rápido e fácil."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Falso danoninho. Ingredientes: leite condesando, creme de leite, tang de morango. (ou de sua preferência), Obs: Já fiz com limão, maracujá, pêssego e morango. Preparo: Bata o leite condesando com o creme de leite, e por último acrescente o tang, já fica encorpado na hora. É só levar para gelar e está pronto. Fica muito bom, rápido e fácil."
+}

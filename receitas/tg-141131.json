@@ -1,0 +1,79 @@
+{
+  "id": "tg-141131",
+  "titulo": "Autêntico pudim de padaria",
+  "url": "https://www.tudogostoso.com.br/receita/141131-autentico-pudim-de-padaria.html",
+  "nota": 4.8,
+  "n_avaliacoes": 131,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Autêntico pudim de padaria",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 90,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "chá de leite",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de chá de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de margarina"
+    },
+    {
+      "nome": "cha de acucar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de cha de acucar"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de farinha de trigo"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de coco ralado"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare a calda derretendo o açúcar na própria forma, reserve para esfriar.",
+      "Enquanto a calda esfria coloque no liquidificador o leite, os ovos, a margarina, o açúcar e a farinha de trigo, bata por 4 minutos.",
+      "Desligue o liquidificador e acrescente o coco e o queijo ralado, misture com uma colher sem bater.",
+      "Coloque a mistura na forma com a calda e leve para assar em banho maria por 1 hora e meia.",
+      "Deixe esfriar e desenforme."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espátula para bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Autêntico pudim de padaria. Ingredientes: chá de leite, ovos, sopa de margarina, cha de acucar, chá de farinha de trigo, queijo ralado, coco ralado, chá de açúcar. Preparo: Prepare a calda derretendo o açúcar na própria forma, reserve para esfriar. Enquanto a calda esfria coloque no liquidificador o leite, os ovos, a margarina, o açúcar e a farinha de trigo, bata por 4 minutos. Desligue o liquidificador e acrescente o coco e o queijo ralado, misture com uma colher sem bater."
+}

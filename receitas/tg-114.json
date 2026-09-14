@@ -1,0 +1,53 @@
+{
+  "id": "tg-114",
+  "titulo": "Brigadeiro",
+  "url": "https://www.tudogostoso.com.br/receita/114-brigadeiro.html",
+  "nota": 4.7,
+  "n_avaliacoes": 3296,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Brigadeiro",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 25,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de leite condensado"
+    },
+    {
+      "nome": "margarina sem sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina sem sal"
+    },
+    {
+      "nome": "achocolatado ou 4 colheres (sopa) de chocolate em pó",
+      "quantidade": "7",
+      "unidade": "colheres (sopa)",
+      "texto_original": "7 colheres (sopa) de achocolatado ou 4 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "chocolate granulado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate granulado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela funda, acrescente o leite condensado, a margarina e o chocolate em pó.",
+      "Cozinhe em fogo médio e mexa até que o brigadeiro comece a desgrudar da panela.",
+      "Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Copo medidor",
+    "Espatula",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Brigadeiro. Ingredientes: leite condensado, margarina sem sal, achocolatado ou 4 colheres (sopa) de chocolate em pó, chocolate granulado. Preparo: Em uma panela funda, acrescente o leite condensado, a margarina e o chocolate em pó. Cozinhe em fogo médio e mexa até que o brigadeiro comece a desgrudar da panela. Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado."
+}

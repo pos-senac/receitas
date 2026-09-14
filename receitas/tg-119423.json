@@ -1,0 +1,55 @@
+{
+  "id": "tg-119423",
+  "titulo": "Ovos mexidos de café da manhã",
+  "url": "https://www.tudogostoso.com.br/receita/119423-ovos-mexidos-de-cafe-da-manha.html",
+  "nota": 4.7,
+  "n_avaliacoes": 118,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Ovos mexidos de café da manhã",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml de leite"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Passe toda a manteiga no fundo de uma frigideira e coloque os ovos sobre a manteiga.",
+      "Em seguida, quebre as gemas sem mexer os ovos.",
+      "Só depois deste passo, leve a frigideira para o fogo com fogo baixo.",
+      "A clara vai cozinhar primeiro que a gema.",
+      "Quando a gema começar a ficar cozida, acrescente o leite e mexa vigorosamente para misturar a manteiga do fundo da frigideira e o leite.",
+      "Não frite demais, pois o mexido deve ficar úmido e cremoso."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Espátula de silicone",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Ovos mexidos de café da manhã. Ingredientes: ovos, manteiga, leite, sal. Preparo: Passe toda a manteiga no fundo de uma frigideira e coloque os ovos sobre a manteiga. Em seguida, quebre as gemas sem mexer os ovos. Só depois deste passo, leve a frigideira para o fogo com fogo baixo."
+}

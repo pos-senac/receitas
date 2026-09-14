@@ -1,0 +1,82 @@
+{
+  "id": "tg-32427",
+  "titulo": "Rabanada tradicional",
+  "url": "https://www.tudogostoso.com.br/receita/32427-rabanada-tradicional.html",
+  "nota": 4.8,
+  "n_avaliacoes": 288,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Rabanada tradicional",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 15,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "baguete de pão francês ou 4 pães franceses",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 baguete de pão francês ou 4 pães franceses"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos batidos"
+    },
+    {
+      "nome": "canela",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de canela"
+    },
+    {
+      "nome": "canela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela a gosto"
+    },
+    {
+      "nome": "açúcar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar a gosto"
+    },
+    {
+      "nome": "óleo de girassol para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo de girassol para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte a baguete em fatias médias.",
+      "Em um refratário, misture o leite de vaca com o leite condensado e mergulhe as fatias de pão até que elas estejam bem molhadinhas.",
+      "Em outro refratário, bata os ovos e adicione a canela.",
+      "Passe as fatias de pão molhadas de leite nos ovos batidos.",
+      "Frite em óleo quente e escorra as rabanadas em papel-toalha.",
+      "Em seguida, passe em um refratário com canela e açúcar a gosto.",
+      "Sirva quente ou coloque na geladeira para servir gelada."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Faca",
+    "Fouet",
+    "Tábua de corte",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Rabanada tradicional. Ingredientes: baguete de pão francês ou 4 pães franceses, leite, leite condensado, ovos batidos, canela, canela a gosto, açúcar a gosto, óleo de girassol para fritar. Preparo: Corte a baguete em fatias médias. Em um refratário, misture o leite de vaca com o leite condensado e mergulhe as fatias de pão até que elas estejam bem molhadinhas. Em outro refratário, bata os ovos e adicione a canela."
+}

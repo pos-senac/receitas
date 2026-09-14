@@ -1,0 +1,66 @@
+{
+  "id": "tg-114002",
+  "titulo": "Pão de queijo de liquidificador (com polvilho azedo)",
+  "url": "https://www.tudogostoso.com.br/receita/114002-pao-de-queijo-de-liquidificador-com-polvilho-azedo.html",
+  "nota": 4.6,
+  "n_avaliacoes": 110,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de queijo de liquidificador (com polvilho azedo)",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 25,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "polvilho azedo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de polvilho azedo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "50 g de queijo ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de 50 g de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Em seguida, coloque em forminhas e leve ao forno pré-aquecido por cerca de 20 minutos."
+    ]
+  },
+  "utensilios": [
+    "Forminha de empada",
+    "Liquidificador",
+    "Espátula de silicone",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Pão de queijo de liquidificador (com polvilho azedo). Ingredientes: polvilho azedo, leite, óleo, ovo, sal, 50 g de queijo ralado. Preparo: Bata todos os ingredientes no liquidificador. Em seguida, coloque em forminhas e leve ao forno pré-aquecido por cerca de 20 minutos."
+}

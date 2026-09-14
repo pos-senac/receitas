@@ -1,0 +1,59 @@
+{
+  "id": "tg-2717",
+  "titulo": "Biscoitos amanteigados",
+  "url": "https://www.tudogostoso.com.br/receita/2717-biscoitos-amanteigados.html",
+  "nota": 4.4,
+  "n_avaliacoes": 298,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoitos amanteigados",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "¼ xícara (chá) de açúcar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "¼ xícara (chá) de açúcar"
+    },
+    {
+      "nome": "½ xícara (chá) de manteiga",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ xícara (chá) de manteiga"
+    },
+    {
+      "nome": "essência de baunilha",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de essência de baunilha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Ligue o forno em temperatura média (180 graus).",
+      "Coloque a farinha, o açúcar, a manteiga e a essência de baunilha numa tigela e amasse bem com as mãos até formar uma massa uniforme.",
+      "Separe a massa em 3 porções.",
+      "Faça um rolinho com cada porção.",
+      "Corte cada rolinho em rodelas de 1cm de espessura.",
+      "Com os dentes de um garfo, aperte levemente cada rodelinha, formando um desenho.",
+      "Unte uma assadeira grande com manteiga e farinha.",
+      "Distribua os biscoitos sobre a assadeira, deixando uma distância entre eles.",
+      "Leve ao forno preaquecido por 25 minutos ou até os biscoitos ficarem levemente dourados.",
+      "Retire do forno, espere esfriar e sirva."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espátula de silicone",
+    "Forma"
+  ],
+  "texto_para_embedding": "Biscoitos amanteigados. Ingredientes: farinha de trigo, ¼ xícara (chá) de açúcar, ½ xícara (chá) de manteiga, essência de baunilha. Preparo: Ligue o forno em temperatura média (180 graus). Coloque a farinha, o açúcar, a manteiga e a essência de baunilha numa tigela e amasse bem com as mãos até formar uma massa uniforme. Separe a massa em 3 porções."
+}

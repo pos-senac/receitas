@@ -1,0 +1,79 @@
+{
+  "id": "tg-1786",
+  "titulo": "Bolo de mandioca simples e fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/1786-bolo-de-mandioca.html",
+  "nota": 4.4,
+  "n_avaliacoes": 118,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de mandioca simples e fofinho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "mandioca ralada grosso",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de mandioca ralada grosso"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de manteiga"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de coco ralado"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata a manteiga com o açúcar e os ovos.",
+      "Misture a mandioca ralada.",
+      "Junte a farinha e o fermento.",
+      "Por último, acrescente o coco e o queijo ralado.",
+      "Asse em forma untada em forno preaquecido por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher de pau",
+    "Espátula para bolo",
+    "Forma com fundo removível"
+  ],
+  "texto_para_embedding": "Bolo de mandioca simples e fofinho. Ingredientes: mandioca ralada grosso, açúcar, manteiga, farinha de trigo, ovos, coco ralado, queijo ralado, fermento em pó. Preparo: Bata a manteiga com o açúcar e os ovos. Misture a mandioca ralada. Junte a farinha e o fermento."
+}

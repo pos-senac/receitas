@@ -1,0 +1,81 @@
+{
+  "id": "tg-2098",
+  "titulo": "Bolo de coco prático",
+  "url": "https://www.tudogostoso.com.br/receita/2098-bolo-de-coco-pratico.html",
+  "nota": 4.7,
+  "n_avaliacoes": 159,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de coco prático",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xicaras",
+      "texto_original": "2 xicaras de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xicaras",
+      "texto_original": "2 xicaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "gotas de essência de baunilha",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 gotas de essência de baunilha"
+    },
+    {
+      "nome": "leite condenssado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condenssado"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare a massa batendo as gemas com o açúcar e a margarina.",
+      "Acrescente aos poucos o leite, a farinha e o fermento, alternadamente.",
+      "Por último, coloque a essência e as claras em neve.",
+      "Leve para assar em forno baixo em forma untada e enfarinhada.",
+      "Retire do forno, e ainda quente e na forma, fure-o com um garfo e espalhe por cima todo o leite condensado e depois o coco ralado.",
+      "Corte em quadrados e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de coco prático. Ingredientes: ovos, açúcar, margarina, leite, farinha de trigo, fermento em pó, gotas de essência de baunilha, leite condenssado, coco ralado. Preparo: Prepare a massa batendo as gemas com o açúcar e a margarina. Acrescente aos poucos o leite, a farinha e o fermento, alternadamente. Por último, coloque a essência e as claras em neve."
+}

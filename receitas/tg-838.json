@@ -1,0 +1,135 @@
+{
+  "id": "tg-838",
+  "titulo": "Torta de bacalhau",
+  "url": "https://www.tudogostoso.com.br/receita/838-torta-de-bacalhau.html",
+  "nota": 4.6,
+  "n_avaliacoes": 225,
+  "categoria": "Receitas bacalhau",
+  "subcategoria": "Torta de bacalhau",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "bacalhau",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de bacalhau"
+    },
+    {
+      "nome": "cebola média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média"
+    },
+    {
+      "nome": "batatas",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batatas"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates"
+    },
+    {
+      "nome": "pimentões",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 pimentões"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de extrato de tomate"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "xícara (chá) de maisena",
+      "quantidade": "3/4",
+      "unidade": null,
+      "texto_original": "3/4 de xícara (chá) de maisena"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento em pó"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de queijo ralado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "azeitonas sem caroço",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitonas sem caroço"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixe o bacalhau de molho na água de um dia para o outro.",
+      "Escorra, retire a pele e as espinhas e desfie.",
+      "Misture com a cebola, o tomate e os pimentões, todos picados.",
+      "Acrescente o extrato de tomate e o sal e misture.",
+      "Leve ao fogo, refogue no óleo e reserve.",
+      "À parte cozinhe as batatas com as cascas.",
+      "Depois escorra e descasque ainda quente. Passe no espremedor e reserve.",
+      "Bata as claras em neve, junte as gemas, a maisena, a margarina, o fermento, o queijo, o bacalhau e a batata.",
+      "Por último, adicione o leite e mexa bem.",
+      "Espalhe azeitonas.",
+      "Asse em forno médio por 25 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Bowl",
+    "Fogão",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Torta de bacalhau. Ingredientes: bacalhau, cebola média, batatas, tomates, pimentões, extrato de tomate, sal a gosto, óleo, claras, gemas, xícara (chá) de maisena, margarina, fermento em pó, queijo ralado, leite, azeitonas sem caroço. Preparo: Deixe o bacalhau de molho na água de um dia para o outro. Escorra, retire a pele e as espinhas e desfie. Misture com a cebola, o tomate e os pimentões, todos picados."
+}

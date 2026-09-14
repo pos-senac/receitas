@@ -1,0 +1,56 @@
+{
+  "id": "tg-120415",
+  "titulo": "Massa básica pastel mais fácil do mundo",
+  "url": "https://www.tudogostoso.com.br/receita/120415-massa-basica-pastel-mais-facil-do-mundo.html",
+  "nota": 4.7,
+  "n_avaliacoes": 112,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa básica pastel mais fácil do mundo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "óleo ou azeite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de óleo ou azeite"
+    },
+    {
+      "nome": "água morna (mais ou menos 250 ml)",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água morna (mais ou menos 250 ml)"
+    },
+    {
+      "nome": "rasa de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a farinha em uma vasilha.",
+      "Adicione a água morna e o óleo aos poucos mexendo sempre, o sal pode ser colocado no início da receita.",
+      "Sove a massa até que fique bem homogênea.",
+      "Importante deixar a massa descansar por 30 minutos, senão a receita não funciona.",
+      "Abra a massa com rolo de macarrão ou cilindro, recheie e frite normalmente.",
+      "Fica uma delícia, igual a qualquer outra massa de pastel."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Fouet",
+    "Frigideira funda",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Massa básica pastel mais fácil do mundo. Ingredientes: farinha de trigo, óleo ou azeite, água morna (mais ou menos 250 ml), rasa de sal. Preparo: Coloque a farinha em uma vasilha. Adicione a água morna e o óleo aos poucos mexendo sempre, o sal pode ser colocado no início da receita. Sove a massa até que fique bem homogênea."
+}

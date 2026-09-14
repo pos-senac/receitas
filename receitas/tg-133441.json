@@ -1,0 +1,99 @@
+{
+  "id": "tg-133441",
+  "titulo": "Bolo cremoso de milho em lata",
+  "url": "https://www.tudogostoso.com.br/receita/133441-bolo-cremoso-de-milho-em-lata.html",
+  "nota": 4.7,
+  "n_avaliacoes": 152,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo cremoso de milho em lata",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "Use a lata de milho para medir os outros ingredientes",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Use a lata de milho para medir os outros ingredientes"
+    },
+    {
+      "nome": "milho verde com a própria água",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde com a própria água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite"
+    },
+    {
+      "nome": "milharina ou flocão",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milharina ou flocão"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "margarina da sua preferencia",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina da sua preferencia"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "queijo ralado ou uma fatia de queijo minas",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de queijo ralado ou uma fatia de queijo minas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Colocando primeiro os líquidos.",
+      "Por aproximadamente um a dois minutos.",
+      "Coloque a massa em uma forma untada e enfarinhada de burraco no meio (pudim).",
+      "Leve ao forno preaquecido 180Cº por 45 minutos.",
+      "Ou ate que ao enfiar um palito ele saia limpo.",
+      "Não abra o forno antes de 20 minutos.",
+      "Retire da forma ainda quente, pois se esperar esfriar ele não vai sair direito da forma.",
+      "Sirva em seguida.",
+      "Você verá que tem o gosto parecido ao de pamonha.",
+      "O bolo fica muito bem acompanhado no lanche da tarde com um cafézinho quentinho."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Espátula de silicone",
+    "Forno elétrico",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo cremoso de milho em lata. Ingredientes: Use a lata de milho para medir os outros ingredientes, milho verde com a própria água, açúcar, leite, milharina ou flocão, óleo, ovos, margarina da sua preferencia, fermento em pó, queijo ralado ou uma fatia de queijo minas. Preparo: Bata todos os ingredientes no liquidificador. Colocando primeiro os líquidos. Por aproximadamente um a dois minutos."
+}

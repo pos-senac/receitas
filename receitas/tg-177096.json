@@ -1,0 +1,158 @@
+{
+  "id": "tg-177096",
+  "titulo": "Bolo no pote",
+  "url": "https://www.tudogostoso.com.br/receita/177096-bolo-no-pote.html",
+  "nota": 4.7,
+  "n_avaliacoes": 119,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo no pote",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 120,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "copos (americano)",
+      "texto_original": "3 copos (americano) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de açúcar"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de chocolate em pó"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite de coco para molhar o bolo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "leite de coco para molhar o bolo"
+    },
+    {
+      "nome": "coco ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coco ralado para polvilhar"
+    },
+    {
+      "nome": "chocolate granulado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate granulado para polvilhar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de coco ralado"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Na batedeira, bata os ovos, o açúcar e a manteiga até ficar um creme fofo.",
+      "Adicione o leite e a farinha de trigo, misture bem e acrescente o chocolate em pó.",
+      "Por último, adicione o fermento.",
+      "Misture bem e despeje sobre uma forma retangular untada e enfarinhada e leve ao forno preaquecido a 180º C até que esteja assado.",
+      "Retire do forno, espere esfriar, corte o bolo ao meio e reserve."
+    ],
+    "Recheio e cobertura de brigadeiro de colher": [
+      "Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.",
+      "Misture bem e leve ao fogo baixo mexendo sempre até desgrudar do fundo da panela.",
+      "Retire do fogo e adicione o creme de leite misturando bem.",
+      "Deixe esfriar e reserve."
+    ],
+    "Recheio e cobertura de beijinho de colher": [
+      "Em uma panela, coloque o leite condensado, a manteiga e o coco ralado.",
+      "Misture bem e leve ao fogo baixo mexendo sempre até desgrudar do fundo da panela.",
+      "Retire do fogo, adicione o creme de leite, misture bem e reserve."
+    ],
+    "Montagem": [
+      "Depois de cortar o bolo ao meio com um cortador ou a boca de um copo, corte rodelas do tamanho que cabe na embalagem.",
+      "Vá cortando até terminar o bolo todo.",
+      "Dentro da embalagem, coloque um pouco de beijinho de colher, uma rodela de bolo, molhe com leite de coco, adicione o beijinho de colher, outra rodela de bolo, molhe e coloque o brigadeiro de colher.",
+      "Por fim, polvilhe o coco ou chocolate granulado.",
+      "Tampe a embalagem e leve a geladeira.",
+      "Faça isso até que terminem todas as rodelas de bolo."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Espátula de silicone",
+    "Forma"
+  ],
+  "texto_para_embedding": "Bolo no pote. Ingredientes: ovos, farinha de trigo, açúcar, manteiga, leite, chocolate em pó, fermento em pó, leite de coco para molhar o bolo, coco ralado para polvilhar, chocolate granulado para polvilhar, leite condensado, manteiga, chocolate em pó, creme de leite sem soro, leite condensado, manteiga, coco ralado, creme de leite sem soro. Preparo: Na batedeira, bata os ovos, o açúcar e a manteiga até ficar um creme fofo. Adicione o leite e a farinha de trigo, misture bem e acrescente o chocolate em pó. Por último, adicione o fermento."
+}

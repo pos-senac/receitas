@@ -1,0 +1,69 @@
+{
+  "id": "tg-1132",
+  "titulo": "Delícia de chocolate e morango",
+  "url": "https://www.tudogostoso.com.br/receita/1132-delicia-de-chocolate-e-morango.html",
+  "nota": 4.7,
+  "n_avaliacoes": 401,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Delícia de chocolate e morango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "leite (medida da lata de leite condensado)",
+      "quantidade": "4",
+      "unidade": "latas",
+      "texto_original": "4 latas de leite (medida da lata de leite condensado)"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 gemas"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de maisena"
+    },
+    {
+      "nome": "morango",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de morango"
+    },
+    {
+      "nome": "barra de chocolate ao leite",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de barra de chocolate ao leite"
+    }
+  ],
+  "modo_preparo": {
+    "1° Passo:": [
+      "Leve ao fogo o leite condensado, o leite, a maisena, as gemas e mexa bem para não empelotar.",
+      "Depois do creme pronto colocar numa travessa para esfriar e colocar 1 caixa de morango lavados e picados por cima do creme branco e reserve."
+    ],
+    "2° Passo:": [
+      "Derreta o chocolate em banho-maria, misture bem com o creme de leite com soro, depois jogar por cima do creme branco reservado.",
+      "Colocar a outra caixa de morangos picados, se quiser raspe uma barrinha de 50g do chocolate por cima para decorar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Delícia de chocolate e morango. Ingredientes: leite condensado, leite (medida da lata de leite condensado), gemas, creme de leite, maisena, morango, barra de chocolate ao leite. Preparo: Leve ao fogo o leite condensado, o leite, a maisena, as gemas e mexa bem para não empelotar. Depois do creme pronto colocar numa travessa para esfriar e colocar 1 caixa de morango lavados e picados por cima do creme branco e reserve. Derreta o chocolate em banho-maria, misture bem com o creme de leite com soro, depois jogar por cima do creme branco reservado."
+}

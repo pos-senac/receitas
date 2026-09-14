@@ -1,0 +1,61 @@
+{
+  "id": "tg-147402",
+  "titulo": "Molho de alho caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/147402-molho-de-alho-caseiro.html",
+  "nota": 4.4,
+  "n_avaliacoes": 305,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Molho de alho caseiro",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "leite bem gelado",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite bem gelado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite gelado no liquidificador e ligue no modo lento.",
+      "Coloque o óleo de modo que vai saindo um fio e misturando com o leite com o liquidificador ligado.",
+      "Continue colocando o óleo ate ficar um creme homogêneo.",
+      "Depois coloque o orégano a gosto,sal a gosto e 3 dentes de alho bata por alguns segundos e esta pronto.",
+      "Se quiser fazer um molho rose é só substituir o alho por catchup ou outros sabores a seu gosto."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Copo medidor",
+    "Ramequim"
+  ],
+  "texto_para_embedding": "Molho de alho caseiro. Ingredientes: leite bem gelado, óleo, orégano, sal, alho. Preparo: Coloque o leite gelado no liquidificador e ligue no modo lento. Coloque o óleo de modo que vai saindo um fio e misturando com o leite com o liquidificador ligado. Continue colocando o óleo ate ficar um creme homogêneo."
+}

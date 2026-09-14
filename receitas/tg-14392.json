@@ -1,0 +1,70 @@
+{
+  "id": "tg-14392",
+  "titulo": "Massa para torta (doce ou salgada)",
+  "url": "https://www.tudogostoso.com.br/receita/14392-massa-para-torta-doce-ou-salgada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Massa para torta (doce ou salgada)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 12,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "margarina ou gordura vegetal",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de margarina ou gordura vegetal"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "sopa de fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento"
+    },
+    {
+      "nome": "e 1/2 de sopa de açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres e 1/2 de sopa de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amassar tudo com as mãos.",
+      "Levar à geladeira por uns 30 minutos.",
+      "Forre o fundo de uma forma, faça furos com o garfo para não estufar.",
+      "Asse por aproximadamente 12 minutos.",
+      "Deixe esfriar para colocar o recheio de sua preferência.",
+      "Depois que aprendi essa massa não faço outra."
+    ]
+  },
+  "utensilios": [
+    "Refratário",
+    "Bowl",
+    "Copo medidor",
+    "Forma",
+    "Forno elétrico",
+    "Manteigueira"
+  ],
+  "texto_para_embedding": "Massa para torta (doce ou salgada). Ingredientes: farinha de trigo, ovo, margarina ou gordura vegetal, sal, sopa de fermento, e 1/2 de sopa de açúcar. Preparo: Amassar tudo com as mãos. Levar à geladeira por uns 30 minutos. Forre o fundo de uma forma, faça furos com o garfo para não estufar."
+}

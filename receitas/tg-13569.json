@@ -1,0 +1,157 @@
+{
+  "id": "tg-13569",
+  "titulo": "Quiche de alho poró",
+  "url": "https://www.tudogostoso.com.br/receita/13569-quiche-de-alho-poro.html",
+  "nota": 4.8,
+  "n_avaliacoes": 242,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Quiche de alho poró",
+  "nivel": "dificil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "e 1/2 de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e 1/2 de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de margarina"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    },
+    {
+      "nome": "chá de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de fermento em pó"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de manteiga"
+    },
+    {
+      "nome": "sopa de cebola",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de cebola"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "300",
+      "unidade": "ml",
+      "texto_original": "300 ml de leite"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1/2",
+      "unidade": "pacote",
+      "texto_original": "1/2 pacote de queijo ralado"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "alhos poró",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 alhos poró"
+    },
+    {
+      "nome": "cebolinha verde",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de cebolinha verde"
+    },
+    {
+      "nome": "Temperos a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Temperos a gosto"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 claras"
+    },
+    {
+      "nome": "sopa de queijo ralado",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de queijo ralado"
+    },
+    {
+      "nome": "Queijo para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, coloque a farinha (reserve um pouco), a margarina ou manteiga, creme de leite (sem soro), o sal e o fermento.",
+      "Misture com as mãos (neste momento, se necessário, utilize a farinha reservada).",
+      "Sove sobre superfície levemente enfarinhada.",
+      "Deixe descansar por 10 minutos (opcional).",
+      "Distribua a massa em uma assadeira redonda n°25 (não precisa untar).",
+      "Fure com auxílio de um garfo toda a superfície.",
+      "Leve ao forno 200° graus por 10 minutos (pré-asse a massa).",
+      "Retire do forno e espalhe o recheio e sobre ele a cobertura.",
+      "Polvilhe com queijo ralado.",
+      "Leve novamente ao forno pré-aquecido 200° graus por aproximadamente 15 a 20 minutos."
+    ],
+    "Recheio:": [
+      "Em uma panela, derreta a manteiga e refogue a cebola.",
+      "Coloque a farinha e mexa.",
+      "Junte o leite aos poucos, sempre mexendo, até engrossar.",
+      "A seguir, adicione o sal, pimenta, gemas, creme de leite, queijo ralado, cebolinha ou salsinha e o alho poro fatiado e aferventado previamente.",
+      "Misture."
+    ],
+    "Cobertura:": [
+      "Na vasilha da batedeira coloque as claras e bata em neve.",
+      "Desligue.",
+      "Adicione o queijo ralado e misture com auxílio de uma colher.",
+      "Dica: Substitua o alho poro por abobrinha, palmito ou escarola."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espátula para bolo",
+    "Espátula de silicone",
+    "Forma com fundo removível"
+  ],
+  "texto_para_embedding": "Quiche de alho poró. Ingredientes: e 1/2 de farinha de trigo, margarina, creme de leite sem soro, chá de sal, chá de fermento em pó, sopa de manteiga, sopa de cebola, sopa de farinha de trigo, leite, gemas, queijo ralado, creme de leite sem soro, alhos poró, cebolinha verde, Temperos a gosto, claras, sopa de queijo ralado, Queijo para polvilhar. Preparo: Em um recipiente, coloque a farinha (reserve um pouco), a margarina ou manteiga, creme de leite (sem soro), o sal e o fermento. Misture com as mãos (neste momento, se necessário, utilize a farinha reservada). Sove sobre superfície levemente enfarinhada."
+}

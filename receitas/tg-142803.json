@@ -1,0 +1,68 @@
+{
+  "id": "tg-142803",
+  "titulo": "Bolo pão-de-ló tradicional",
+  "url": "https://www.tudogostoso.com.br/receita/142803-bolo-pao-de-lo-tradicional.html",
+  "nota": 4.0,
+  "n_avaliacoes": 234,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo pão-de-ló tradicional",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "leite quente",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite quente"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "claras em neve",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras em neve"
+    },
+    {
+      "nome": "fermento em pó químico",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó químico"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as claras em neve até ficar bem consistente.",
+      "Acrescente o açúcar e as gemas, bata bem.",
+      "Juntamente coloque a farinha de trigo e o fermento continue batendo.",
+      "Aos poucos acrescente o leite quente até ficar uma massa homogênea.",
+      "Despeje a massa em uma forma untada e enfarinhada, depois leve para assar ao forno 180 °C por 30 a 40 minutos, aproximadamente."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Copo medidor",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo pão-de-ló tradicional. Ingredientes: leite quente, farinha de trigo, açúcar, gemas, claras em neve, fermento em pó químico. Preparo: Bata as claras em neve até ficar bem consistente. Acrescente o açúcar e as gemas, bata bem. Juntamente coloque a farinha de trigo e o fermento continue batendo."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "tg-5519",
+  "titulo": "Berinjela à parmegiana",
+  "url": "https://www.tudogostoso.com.br/receita/5519-berinjela-a-parmegiana.html",
+  "nota": 4.8,
+  "n_avaliacoes": 124,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Berinjela à parmegiana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "beringelas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 beringelas"
+    },
+    {
+      "nome": "mussarela fatiada",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de mussarela fatiada"
+    },
+    {
+      "nome": "molho de tomate temperado com ervas finas",
+      "quantidade": "300",
+      "unidade": "ml",
+      "texto_original": "300 ml de molho de tomate temperado com ervas finas"
+    },
+    {
+      "nome": "ovo ligeiramente batido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo ligeiramente batido"
+    },
+    {
+      "nome": "farinha de rosca e de trigo para empanar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca e de trigo para empanar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte as beringelas em fatias no sentido do comprimento e coloque sal.",
+      "Passe as fatias da beringela na farinha de trigo, depois no ovo e depois na farinha de rosca, frite em óleo bem quente e reserve.",
+      "Forre um refratário com o molho e coloque as fatias de beringelas.",
+      "Cubra com o queijo e leve ao forno para derreter.",
+      "Sirva a seguir."
+    ]
+  },
+  "utensilios": [
+    "Refratário",
+    "Bowl",
+    "Prato fundo",
+    "Faca",
+    "Forno elétrico",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Berinjela à parmegiana. Ingredientes: beringelas, mussarela fatiada, molho de tomate temperado com ervas finas, ovo ligeiramente batido, farinha de rosca e de trigo para empanar. Preparo: Corte as beringelas em fatias no sentido do comprimento e coloque sal. Passe as fatias da beringela na farinha de trigo, depois no ovo e depois na farinha de rosca, frite em óleo bem quente e reserve. Forre um refratário com o molho e coloque as fatias de beringelas."
+}

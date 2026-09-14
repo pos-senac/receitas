@@ -1,0 +1,118 @@
+{
+  "id": "tg-117094",
+  "titulo": "Empanada de sardinha em lata",
+  "url": "https://www.tudogostoso.com.br/receita/117094-empanada-de-sardinha-em-lata.html",
+  "nota": 4.6,
+  "n_avaliacoes": 168,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Empanada de sardinha em lata",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 15,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de óleo"
+    },
+    {
+      "nome": "leite líquido",
+      "quantidade": "1 e 1/2",
+      "unidade": "copo",
+      "texto_original": "1 e 1/2 copo de leite líquido"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "copos (americano)",
+      "texto_original": "3 copos (americano) de farinha de trigo"
+    },
+    {
+      "nome": "sardinhas em lata",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 sardinhas em lata"
+    },
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilha"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo ralado"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tomate"
+    },
+    {
+      "nome": "Cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebola"
+    },
+    {
+      "nome": "Pimentão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimentão"
+    },
+    {
+      "nome": "Cheiro-verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro-verde"
+    },
+    {
+      "nome": "tablete de caldo em cubo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo em cubo"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio": [
+      "Coloque a sardinha na panela, amasse com o garfo.",
+      "Depois coloque o tomate picado, a cebola, pimentão, o cheiro-verde, o milho, a ervilha e o caldo em cubo.",
+      "Deixe ferver um pouco, quando ferver desligue e vai para a massa.",
+      "Bata tudo no liquidificador, os ovos, o leite, a farinha de trigo, o óleo e o queijo ralado, até a massa ficar leve.",
+      "Unte a assadeira com óleo e a farinha de trigo.",
+      "Despeje metade da massa, adicione o recheio por cima e cubra com a outra metade da massa.",
+      "Leve para o forno preaquecido a 180°C por 35 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Espatula",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Empanada de sardinha em lata. Ingredientes: ovos, óleo, leite líquido, farinha de trigo, sardinhas em lata, milho, ervilha, queijo ralado, Sal a gosto, Tomate, Cebola, Pimentão, Cheiro-verde, tablete de caldo em cubo. Preparo: Coloque a sardinha na panela, amasse com o garfo. Depois coloque o tomate picado, a cebola, pimentão, o cheiro-verde, o milho, a ervilha e o caldo em cubo. Deixe ferver um pouco, quando ferver desligue e vai para a massa."
+}

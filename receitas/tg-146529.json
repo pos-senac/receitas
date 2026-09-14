@@ -1,0 +1,74 @@
+{
+  "id": "tg-146529",
+  "titulo": "Bolo Sorvete",
+  "url": "https://www.tudogostoso.com.br/receita/146529-bolo-sorvete.html",
+  "nota": 4.6,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo Sorvete",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 1,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "medida para leite comum de caixinha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de medida para leite comum de caixinha"
+    },
+    {
+      "nome": "gemas de ovo",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 gemas de ovo"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "claras em neve",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 claras em neve"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de açúcar refinado"
+    },
+    {
+      "nome": "Ferver 1 xícara de nescau e 1/2 xícara de água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Ferver 1 xícara de nescau e 1/2 xícara de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Para o preparo do primeiro creme,misture o leite condensado com o leite comum, coe as 4 gemas e deixe ferver tudo até soltar do fundo da panela.",
+      "No segundo creme misture as claras em neve, o açúcar refinado, o creme de leite, sem levar ao fogo.",
+      "Na calda misture o chocolate com a água e deixe ferver até pegar uma consistência.",
+      "Misture os dois cremes e coloque na forma juntamente com a calda, leve no congelador por 1 hora e meia."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Forma de pudim",
+    "Panela",
+    "Colher de silicone",
+    "Espátula de silicone",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo Sorvete. Ingredientes: leite condensado, medida para leite comum de caixinha, gemas de ovo, creme de leite, claras em neve, açúcar refinado, Ferver 1 xícara de nescau e 1/2 xícara de água. Preparo: Para o preparo do primeiro creme,misture o leite condensado com o leite comum, coe as 4 gemas e deixe ferver tudo até soltar do fundo da panela. No segundo creme misture as claras em neve, o açúcar refinado, o creme de leite, sem levar ao fogo. Na calda misture o chocolate com a água e deixe ferver até pegar uma consistência."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "tg-1742",
+  "titulo": "Suspiro caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/1742-suspiro-caseiro.html",
+  "nota": 4.1,
+  "n_avaliacoes": 287,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Suspiro caseiro",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 25,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "claras",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 claras"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "xícaras (chá)",
+      "texto_original": "4 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "limão (aqueles bem verdes e grandes)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 limão (aqueles bem verdes e grandes)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Faça a sua neve com as claras de ovos, deixando bem consistente.",
+      "Na batedeira, vá acrescentando o açúcar, aos poucos.",
+      "Coloque em uma refratária de vidro (ou algo assim) e rale um pouco de casquinha de limão só para dar o toquinho final.",
+      "Leve ao forno a 100º C.",
+      "Deixe por, aproximadamente, 10 minutos e se não crescer, pode aumentar para uns 15 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Papel-manteiga",
+    "Bowl",
+    "Forma",
+    "Saco de confeiteiro"
+  ],
+  "texto_para_embedding": "Suspiro caseiro. Ingredientes: claras, açúcar, limão (aqueles bem verdes e grandes). Preparo: Faça a sua neve com as claras de ovos, deixando bem consistente. Na batedeira, vá acrescentando o açúcar, aos poucos. Coloque em uma refratária de vidro (ou algo assim) e rale um pouco de casquinha de limão só para dar o toquinho final."
+}

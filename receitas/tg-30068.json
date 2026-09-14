@@ -1,0 +1,69 @@
+{
+  "id": "tg-30068",
+  "titulo": "Filé de frango empanado",
+  "url": "https://www.tudogostoso.com.br/receita/30068-file-de-frango-empanado.html",
+  "nota": 4.7,
+  "n_avaliacoes": 133,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Filé de frango empanado",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 7,
+  "ingredientes": [
+    {
+      "nome": "peito de frango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de farinha de rosca"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "alho com sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alho com sal a gosto"
+    },
+    {
+      "nome": "vinagre",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "vinagre"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pegue o peito de frango, limpe e corte em forma de filé.",
+      "Fure os filés com a faca para entrar o tempero.",
+      "Tempere com pimenta, alho e vinagre a gosto.",
+      "Deixe no tempero por 2 minutos para ficar mais saboroso.",
+      "Despeje os ovos em um prato e a farinha de rosca em outro.",
+      "Passe os filés primeiro no ovo de depois na farinha de rosca.",
+      "Depois de passar todos é só fritar."
+    ]
+  },
+  "utensilios": [
+    "Faca",
+    "Frigideira funda",
+    "Prato raso",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Filé de frango empanado. Ingredientes: peito de frango, ovos, farinha de rosca, Pimenta-do-reino a gosto, alho com sal a gosto, vinagre. Preparo: Pegue o peito de frango, limpe e corte em forma de filé. Fure os filés com a faca para entrar o tempero. Tempere com pimenta, alho e vinagre a gosto."
+}

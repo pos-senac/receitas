@@ -1,0 +1,97 @@
+{
+  "id": "tg-1998",
+  "titulo": "Brownie de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/1998-brownie-de-chocolate.html",
+  "nota": 4.5,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Brownie de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "tabletes de margarina",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "(chá) chocolate em pó",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de (chá) chocolate em pó"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "xícar (chá) de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 xícar (chá) de leite"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Separe as gemas das claras e bata as claras em neve, reserve.",
+      "Bata na batedeira (velocidade alta) a margarina e o açúcar até formarem um creme.",
+      "Aos poucos, junte o restante dos ingredientes  e continue batendo até formar uma massa homogênea.",
+      "Por fim, misture com uma colher, as claras em neve.",
+      "Despeje a massa em uma forma retangular untada e enfarinhada.",
+      "Leve para assar em forno médio, preaquecido, por mais ou menos 35 minutos."
+    ],
+    "Cobertura:": [
+      "Coloque todos os ingredientes em uma panela, leve para o fogão em temperatura média e vá mexendo até ferver.",
+      "Com o bolo ainda quente, despeje a cobertura sobre ele. Se quiser, decore com amêndoas ou castanha-do-pará"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Brownie de chocolate. Ingredientes: tabletes de margarina, açúcar, ovos inteiros, (chá) chocolate em pó, farinha de trigo, fermento, xícar (chá) de leite, creme de leite, açúcar, chocolate em pó, margarina. Preparo: Separe as gemas das claras e bata as claras em neve, reserve. Bata na batedeira (velocidade alta) a margarina e o açúcar até formarem um creme. Aos poucos, junte o restante dos ingredientes  e continue batendo até formar uma massa homogênea."
+}

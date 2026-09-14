@@ -1,0 +1,125 @@
+{
+  "id": "tg-55710",
+  "titulo": "Bolo de prestigio",
+  "url": "https://www.tudogostoso.com.br/receita/55710-bolo-de-prestigio.html",
+  "nota": 4.5,
+  "n_avaliacoes": 179,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de prestigio",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "e 1/2 de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e 1/2 de açúcar"
+    },
+    {
+      "nome": "leite quente",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite quente"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de trigo"
+    },
+    {
+      "nome": "e 1/2 de nescau",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e 1/2 de nescau"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "fermento em pó químico",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó químico"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de leite"
+    },
+    {
+      "nome": "leite moça",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite moça"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "4",
+      "unidade": "colher",
+      "texto_original": "4 colher de sopa de açúcar"
+    },
+    {
+      "nome": "maizena dissolvida em 1/2 xícara de água",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de maizena dissolvida em 1/2 xícara de água"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de coco ralado"
+    },
+    {
+      "nome": "nescau",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de nescau"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colher",
+      "texto_original": "2 colher de margarina"
+    },
+    {
+      "nome": "leite moça",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite moça"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Misture todos os ingredientes da massa em um recipiente, mexa com uma colher para misturar um pouco e bata na batedeira por 5 minutos.",
+      "Pré-aqueça o forno a 180° graus durante 10 min",
+      "Unte uma forma media com margarina e trigo, despeje a massa e asse por cerca de 40 minutos.",
+      "Espere esfriar e vire o bolo sobre um pano de prato.",
+      "Passe no meio do bolo uma linha de costura dupla para cortá-lo, como de estivesse serrando, tenha muito cuidado principalmente nos 4 cantinhos do bolo se preferir passe uma faca.",
+      "Retire a parte de cima da massa e reserve, volte a parte de baixo para a forma."
+    ],
+    "Recheio:": [
+      "Faca um mingau com os ingredientes, quando estiver quase durinho despeje o coco ralado e deixe ferver mas um pouco, desligue.",
+      "Despeje todo o mingau sobre a parte do bolo que voltou para a forma, até que cubra tudo e encha as laterais da forma. Após volte a parte de cima. Reserve."
+    ],
+    "Cobertura:": [
+      "Misture todos os ingredientes, mexendo até quase ponto de brigadeiro.",
+      "Despeje sobre o bolo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de prestigio. Ingredientes: ovos, e 1/2 de açúcar, leite quente, trigo, e 1/2 de nescau, óleo, fermento em pó químico, litro de leite, leite moça, sopa de açúcar, maizena dissolvida em 1/2 xícara de água, coco ralado, nescau, margarina, leite moça. Preparo: Misture todos os ingredientes da massa em um recipiente, mexa com uma colher para misturar um pouco e bata na batedeira por 5 minutos. Pré-aqueça o forno a 180° graus durante 10 min Unte uma forma media com margarina e trigo, despeje a massa e asse por cerca de 40 minutos."
+}

@@ -1,0 +1,51 @@
+{
+  "id": "tg-8311",
+  "titulo": "Patê de alho liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/8311-pate-de-alho-liquidificador.html",
+  "nota": 4.3,
+  "n_avaliacoes": 186,
+  "categoria": "Receitas patês",
+  "subcategoria": "Patê de alho liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho"
+    },
+    {
+      "nome": "leite desnatado",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de leite desnatado"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Óleo de soja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo de soja"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite e o dente de alho descascado no liquidificar, ligue-o na velocidade máxima e vá adicionando óleo até dar liga.",
+      "Em seguida, reserve em vasilha plástica e acrescente sal a gosto.",
+      "É fácil e muito gostoso para acompanhar churrascos, torradas, etc."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Ramequim"
+  ],
+  "texto_para_embedding": "Patê de alho liquidificador. Ingredientes: alho, leite desnatado, Sal, Óleo de soja. Preparo: Coloque o leite e o dente de alho descascado no liquidificar, ligue-o na velocidade máxima e vá adicionando óleo até dar liga. Em seguida, reserve em vasilha plástica e acrescente sal a gosto. É fácil e muito gostoso para acompanhar churrascos, torradas, etc."
+}

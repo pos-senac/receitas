@@ -1,0 +1,94 @@
+{
+  "id": "tg-32418",
+  "titulo": "Lentilha",
+  "url": "https://www.tudogostoso.com.br/receita/32418-lentilha.html",
+  "nota": 4.7,
+  "n_avaliacoes": 224,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Lentilha",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "sopa de bacon picados",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres sopa de bacon picados"
+    },
+    {
+      "nome": "lingüiça calabresa grossa picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 lingüiça calabresa grossa picada"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "alho grandes picados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes alho grandes picados"
+    },
+    {
+      "nome": "cenoura picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura picada"
+    },
+    {
+      "nome": "lentilha",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras lentilha"
+    },
+    {
+      "nome": "água",
+      "quantidade": "5",
+      "unidade": "xícaras",
+      "texto_original": "5 xícaras água"
+    },
+    {
+      "nome": "folhas louro",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 folhas louro"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Óleo de girassol",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo de girassol"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela de pressão coloque o óleo.",
+      "Depois que esquentar, junte o bacon e a lingüiça.",
+      "Qunado estiverem dourados, acrescente a cebola e o alho.",
+      "Refogue até dourar.",
+      "Coloque a lentilha, a cenoura, a água e tampe a panela.",
+      "Deixe cozinhar por 5 minutos após o início do chiado.",
+      "Depois tire a pressão da panela, abra, experimente o sal e coloque o sal que faltar a gosto.",
+      "Deixe cozinhar mais 1 minuto e pronto."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Copo medidor",
+    "Faca"
+  ],
+  "texto_para_embedding": "Lentilha. Ingredientes: sopa de bacon picados, lingüiça calabresa grossa picada, cebola média picada, alho grandes picados, cenoura picada, lentilha, água, folhas louro, Sal a gosto, Óleo de girassol. Preparo: Em uma panela de pressão coloque o óleo. Depois que esquentar, junte o bacon e a lingüiça. Qunado estiverem dourados, acrescente a cebola e o alho."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tg-15366",
+  "titulo": "Rabanada de forno",
+  "url": "https://www.tudogostoso.com.br/receita/15366-rabanada-de-forno.html",
+  "nota": 4.3,
+  "n_avaliacoes": 117,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Rabanada de forno",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 35,
+  "ingredientes": [
+    {
+      "nome": "pão para rabanada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pão para rabanada"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "latas (usar lata de leite condensado como medida)",
+      "texto_original": "2 latas (usar lata de leite condensado como medida) de leite"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manteiga"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de canela",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de canela"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte o pão em fatias de um dedo de largura e molhe-os na mistura do leite condensado com o leite.",
+      "Unte bem um tabuleiro antiaderente coloque as fatias distantes uma das outras e por cima de cada uma coloque uma colher de café de manteiga mais ou menos uns 15 minutos depois vire as de lado e deixe mais por uns 10 minutos.",
+      "Então passe no açúcar e canela.",
+      "Importante : as fatias dos pães tem que ficar bem molhadas e o tempo depende de cada forno pois se passarem do tempo viram torradas."
+    ]
+  },
+  "utensilios": [
+    "Faca de pão",
+    "Forma",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Rabanada de forno. Ingredientes: pão para rabanada, leite condensado, leite, manteiga, sopa de açúcar, sopa de canela. Preparo: Corte o pão em fatias de um dedo de largura e molhe-os na mistura do leite condensado com o leite. Unte bem um tabuleiro antiaderente coloque as fatias distantes uma das outras e por cima de cada uma coloque uma colher de café de manteiga mais ou menos uns 15 minutos depois vire as de lado e deixe mais por uns 10 minutos. Então passe no açúcar e canela."
+}

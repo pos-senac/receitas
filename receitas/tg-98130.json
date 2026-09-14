@@ -1,0 +1,86 @@
+{
+  "id": "tg-98130",
+  "titulo": "Omelete Recheado Especial",
+  "url": "https://www.tudogostoso.com.br/receita/98130-omelete-recheado-especial.html",
+  "nota": 4.6,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Omelete Recheado Especial",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "1",
+      "unidade": "colheres",
+      "texto_original": "1 colheres de queijo parmesão ralado"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Margarina para fritar o omelete",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Margarina para fritar o omelete"
+    },
+    {
+      "nome": "sobremesa de requeijão cremoso",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de requeijão cremoso"
+    },
+    {
+      "nome": "mussarela picada",
+      "quantidade": "2",
+      "unidade": "fatias",
+      "texto_original": "2 fatias de mussarela picada"
+    },
+    {
+      "nome": "presunto ou apresuntado picado",
+      "quantidade": "2",
+      "unidade": "fatias",
+      "texto_original": "2 fatias de presunto ou apresuntado picado"
+    },
+    {
+      "nome": "tomate seco picado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de tomate seco picado"
+    },
+    {
+      "nome": "mussarela de búfala picada",
+      "quantidade": "2",
+      "unidade": "fatias",
+      "texto_original": "2 fatias de mussarela de búfala picada"
+    },
+    {
+      "nome": "bacon frito picado",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de bacon frito picado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela bata bem os ovos, o sal e o queijo ralado, não coloque muito sal, pois o parmesão ralado é salgado, eu utilizo duas pitadas apenas.",
+      "Utilize uma frigideira própria para omeletes, passe a margarina com um papel toalha nas 2 partes da frigideira, o suficiente para não grudar na frigideira.",
+      "Coloque a frigideira no fogo e quando estiver quente despeje o omelete, diminua o fogo e tampe. Deixe fritar até a parte de cima estiver seca e o omelete soltar da frigideira.",
+      "Vire o omelete, passe o requeijão cremoso sobre o omelete e acrescente o recheio de sua preferência.",
+      "Dobre o omelete com cuidado para não quebrar e cair o recheio, virando até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Omelete Recheado Especial. Ingredientes: ovos, queijo parmesão ralado, Sal a gosto, Margarina para fritar o omelete, sobremesa de requeijão cremoso, mussarela picada, presunto ou apresuntado picado, tomate seco picado, mussarela de búfala picada, bacon frito picado. Preparo: Em uma tigela bata bem os ovos, o sal e o queijo ralado, não coloque muito sal, pois o parmesão ralado é salgado, eu utilizo duas pitadas apenas. Utilize uma frigideira própria para omeletes, passe a margarina com um papel toalha nas 2 partes da frigideira, o suficiente para não grudar na frigideira. Coloque a frigideira no fogo e quando estiver quente despeje o omelete, diminua o fogo e tampe. Deixe fritar até a parte de cima estiver seca e o omelete soltar da frigideira."
+}

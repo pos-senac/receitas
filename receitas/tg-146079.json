@@ -1,0 +1,68 @@
+{
+  "id": "tg-146079",
+  "titulo": "Cebola empanada do Carandina (Onion Rings - tipo Burguer King)",
+  "url": "https://www.tudogostoso.com.br/receita/146079-cebola-empanada-do-carandina-onion-rings-tipo-burguer-king.html",
+  "nota": 4.8,
+  "n_avaliacoes": 112,
+  "categoria": "Receitas petiscos",
+  "subcategoria": "Cebola empanada do Carandina (Onion Rings - tipo Burguer King)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "cebola média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de rosca"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "300",
+      "unidade": "ml",
+      "texto_original": "300 ml de leite"
+    },
+    {
+      "nome": "sal e tempero a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e tempero a gosto"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque a cebola.",
+      "Corte tem tiras(anéis), com um pouco menos de 1 cm de espessura.",
+      "Deixar de molho os anéis na água, por pelo menos 1 hora, para tirar a acidez da cebola.",
+      "Coloque sal e tempero a gosto na farinha de rosca.",
+      "Primeiro passe a cebola no leite.",
+      "Depois na farinha de trigo.",
+      "Depois no leite.",
+      "Depois na farinha de rosca.",
+      "Depois no leite novamente.",
+      "E por final passe na farinha de rosca.",
+      "Esquente bem o óleo e frite."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cebola empanada do Carandina (Onion Rings - tipo Burguer King). Ingredientes: cebola média, farinha de trigo, farinha de rosca, leite, sal e tempero a gosto, óleo para fritar. Preparo: Descasque a cebola. Corte tem tiras(anéis), com um pouco menos de 1 cm de espessura. Deixar de molho os anéis na água, por pelo menos 1 hora, para tirar a acidez da cebola."
+}

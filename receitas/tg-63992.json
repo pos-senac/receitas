@@ -1,0 +1,168 @@
+{
+  "id": "tg-63992",
+  "titulo": "Polenta cremosa ao molho",
+  "url": "https://www.tudogostoso.com.br/receita/63992-polenta-cremosa-ao-molho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 260,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Polenta cremosa ao molho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "litro de água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de água"
+    },
+    {
+      "nome": "folha de louro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 folha de louro"
+    },
+    {
+      "nome": "envelope de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de caldo de carne"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de cebola picada"
+    },
+    {
+      "nome": "manteiga com sal",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de manteiga com sal"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de fubá"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    },
+    {
+      "nome": "Noz-moscada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Noz-moscada a gosto"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de carne moída"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "300",
+      "unidade": "ml",
+      "texto_original": "300 ml de molho de tomate"
+    },
+    {
+      "nome": "Queijo ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo ralado para polvilhar"
+    },
+    {
+      "nome": "Tomilho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tomilho"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    },
+    {
+      "nome": "Salsa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsa"
+    },
+    {
+      "nome": "Pimenta-do-reino branca moída",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino branca moída"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, refogue o alho e a cebola junto com a manteiga.",
+      "Acrescente a água, a folha de louro, o caldo de carne, o sal e a noz-moscada.",
+      "Deixe ferver.",
+      "Após levantar fervura, acrescente o fubá dissolvido em um pouco de água para não empelotar e mexa.",
+      "Abaixe o fogo, tampe a panela e cozinhe por aproximadamente 20 a 25 minutos.",
+      "Desligue e retire a folha de louro.",
+      "Agregue o creme de leite.",
+      "Coloque em um refratário e regue com o molho.",
+      "Com a ponta de uma faca, espete a polenta para o molho penetrar (opcional).",
+      "Polvilhe com queijo ralado.",
+      "Leve ao forno para derreter o queijo."
+    ],
+    "Molho": [
+      "Em uma panela, aqueça o azeite e refogue o alho e a cebola.",
+      "Frite a carne moída e coloque o tomilho, o orégano, a salsa e a pimenta-do-reino branca moída.",
+      "Adicione o molho de tomate e o sal.",
+      "Cozinhe por alguns minutos até o molho criar consistência (não ficar aguado)."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Polenta cremosa ao molho. Ingredientes: alho, litro de água, folha de louro, envelope de caldo de carne, cebola picada, manteiga com sal, fubá, Sal a gosto, creme de leite, Noz-moscada a gosto, azeite, cebola picada, alho amassados, carne moída, Sal a gosto, molho de tomate, Queijo ralado para polvilhar, Tomilho, Orégano, Salsa, Pimenta-do-reino branca moída. Preparo: Em uma panela, refogue o alho e a cebola junto com a manteiga. Acrescente a água, a folha de louro, o caldo de carne, o sal e a noz-moscada. Deixe ferver."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tg-18071",
+  "titulo": "Mousse de tang",
+  "url": "https://www.tudogostoso.com.br/receita/18071-mousse-de-tang.html",
+  "nota": 4.7,
+  "n_avaliacoes": 138,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de tang",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "1copo de leite gelado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "1copo de leite gelado"
+    },
+    {
+      "nome": "Tang (suco Tang) de maracujá ou outro sabor de sua preferência",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de Tang (suco Tang) de maracujá ou outro sabor de sua preferência"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater tudo no liquidificador, por uns 5 minutos, até ficar consistente.",
+      "Depois leve à geladeira."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Taça de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Mousse de tang. Ingredientes: leite condensado, creme de leite, 1copo de leite gelado, Tang (suco Tang) de maracujá ou outro sabor de sua preferência. Preparo: Bater tudo no liquidificador, por uns 5 minutos, até ficar consistente. Depois leve à geladeira."
+}

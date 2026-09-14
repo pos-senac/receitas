@@ -1,0 +1,107 @@
+{
+  "id": "tg-16251",
+  "titulo": "Costelinha com molho barbecue (outback)",
+  "url": "https://www.tudogostoso.com.br/receita/16251-costelinha-com-molho-barbecue-outback.html",
+  "nota": 4.8,
+  "n_avaliacoes": 508,
+  "categoria": "Receitas porco",
+  "subcategoria": "Costelinha com molho barbecue (outback)",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 70,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "costelinhas de porco aferventadas em água quente",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de costelinhas de porco aferventadas em água quente"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de cebola picada"
+    },
+    {
+      "nome": "açúcar mascavo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de açúcar mascavo"
+    },
+    {
+      "nome": "vinagre branco",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de vinagre branco"
+    },
+    {
+      "nome": "molho inglês",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de molho inglês"
+    },
+    {
+      "nome": "ketchup",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de ketchup"
+    },
+    {
+      "nome": "folha de louro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 folha de louro"
+    },
+    {
+      "nome": "chilli em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de chilli em pó"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de água"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Espalhe sal por toda a carne e coloque para ferver por 10 minutos em um panela com bastante água quente.",
+      "Escorra a água, arrume as costelinhas em uma assadeira, cubra com papel-alumínio e leve ao forno baixo ( 180º) por 40 minutos.",
+      "Em uma panela, refogue a cebola no óleo, acrescente o açúcar mascavo e o vinagre e deixe o açúcar dissolver.",
+      "Acrescente o molho inglês, o ketchup, o louro, o chilli em pó e a água e cozinhe por 30 minutos em fogo baixo ou até o molho engrossar.",
+      "Tempere com sal e pimenta-do-reino, coe e reserve.",
+      "Após os 40 minutos retire as costelinhas do forno, retire o papel alumínio e pincele com o molho.",
+      "Aumente a temperatura do forno, asse as costelinhas por mais 10 minutos, pincele novamente com o molho, asse mais 5 minutos e repita mais uma vez esta operação.",
+      "Sirva com mais molho à parte."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Papel-alumínio",
+    "Colher de silicone",
+    "Forma",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Costelinha com molho barbecue (outback). Ingredientes: costelinhas de porco aferventadas em água quente, óleo, cebola picada, açúcar mascavo, vinagre branco, molho inglês, ketchup, folha de louro, chilli em pó, água, Sal a gosto, Pimenta-do-reino a gosto. Preparo: Espalhe sal por toda a carne e coloque para ferver por 10 minutos em um panela com bastante água quente. Escorra a água, arrume as costelinhas em uma assadeira, cubra com papel-alumínio e leve ao forno baixo ( 180º) por 40 minutos. Em uma panela, refogue a cebola no óleo, acrescente o açúcar mascavo e o vinagre e deixe o açúcar dissolver."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tg-985",
+  "titulo": "Bombonzão",
+  "url": "https://www.tudogostoso.com.br/receita/985-bombonzao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 325,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Bombonzão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "toddy ou nescau",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de toddy ou nescau"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela o leite condensado, o coco ralado e manteiga, mexa até desgrudar da panela. Coloque-o num pirex.",
+      "Coloque numa panela o creme de leite, manteiga, e o toddy ou nescau, mexa até engrossar, coloque por cima da massa anterior.",
+      "Leve à geladeira de um dia para o outro."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bombonzão. Ingredientes: leite condensado, coco ralado, manteiga, creme de leite, manteiga, toddy ou nescau. Preparo: Coloque em uma panela o leite condensado, o coco ralado e manteiga, mexa até desgrudar da panela. Coloque-o num pirex. Coloque numa panela o creme de leite, manteiga, e o toddy ou nescau, mexa até engrossar, coloque por cima da massa anterior. Leve à geladeira de um dia para o outro."
+}

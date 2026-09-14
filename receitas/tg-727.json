@@ -1,0 +1,59 @@
+{
+  "id": "tg-727",
+  "titulo": "Pudim de sorvete",
+  "url": "https://www.tudogostoso.com.br/receita/727-pudim-de-sorvete.html",
+  "nota": 4.6,
+  "n_avaliacoes": 327,
+  "categoria": "Receitas sorvetes",
+  "subcategoria": "Pudim de sorvete",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite líquido (use a lata de leite condensado como medida)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite líquido (use a lata de leite condensado como medida)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, coloque o leite condensado, o leite e as gemas.",
+      "Leve ao fogo sem levantar fervura.",
+      "Quando esfriar, acrescente o creme de leite sem o soro, reserve.",
+      "Bata as claras com o açúcar, na batedeira, em ponto de suspiro.",
+      "Acrescente esse suspiro no creme reservado.",
+      "Coloque em forma para pudim untada com uma calda de chocolate de sua preferência.",
+      "Leve ao freezer por 6 horas ou mais dependendo do seu freezer, retire e espere uns minutinhos para desenformar.",
+      "Se quiser, acrescente mais calda, sirva a seguir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim de sorvete. Ingredientes: leite condensado, leite líquido (use a lata de leite condensado como medida), ovos, creme de leite, açúcar. Preparo: Em uma panela, coloque o leite condensado, o leite e as gemas. Leve ao fogo sem levantar fervura. Quando esfriar, acrescente o creme de leite sem o soro, reserve."
+}

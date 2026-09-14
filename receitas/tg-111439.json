@@ -1,0 +1,121 @@
+{
+  "id": "tg-111439",
+  "titulo": "Torta fria de salpicão diferente",
+  "url": "https://www.tudogostoso.com.br/receita/111439-torta-fria-de-salpicao-diferente.html",
+  "nota": 4.6,
+  "n_avaliacoes": 109,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta fria de salpicão diferente",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "peito de frango (cozido e desfiado)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango (cozido e desfiado)"
+    },
+    {
+      "nome": "cenora (ralada em ralo fino, tipo tirinhas)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenora (ralada em ralo fino, tipo tirinhas)"
+    },
+    {
+      "nome": "pimentão verde (bem picadinho)",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão verde (bem picadinho)"
+    },
+    {
+      "nome": "pepinos em conserva (bem picadinho)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pepinos em conserva (bem picadinho)"
+    },
+    {
+      "nome": "tomates (picadinho, sem pele)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates (picadinho, sem pele)"
+    },
+    {
+      "nome": "cebolas pequena (uma cortada bem fininha para o molho e a outa em rodelas para cozinhar o peito)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas pequena (uma cortada bem fininha para o molho e a outa em rodelas para cozinhar o peito)"
+    },
+    {
+      "nome": "batata palha (para decorar)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote batata palha (para decorar)"
+    },
+    {
+      "nome": "sachê grande de maionese",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 sachê grande de maionese"
+    },
+    {
+      "nome": "alho (para cozinhar o peito)",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho (para cozinhar o peito)"
+    },
+    {
+      "nome": "Salsa (a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsa (a gosto)"
+    },
+    {
+      "nome": "Cebolinha verde (a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebolinha verde (a gosto)"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de extrato de tomate"
+    },
+    {
+      "nome": "caldos de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caldos de galinha"
+    },
+    {
+      "nome": "chá de arisco",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de chá de arisco"
+    },
+    {
+      "nome": "pão de forma ou pão de torta fria (tire as casquinhas)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pão de forma ou pão de torta fria (tire as casquinhas)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte uma das cebolas em rodelas e o alho, coloque bastante água e cozinhe o peito de frango, não deixe cozinhar muito para facilitar depois na hora de desfiar.",
+      "Enquanto isso, rale a cenoura, corte o pepino e reserve.",
+      "Pique o tomate, o pimentão e a outra cebola, em uma panela coloque um pouquinho de óleo ou azeite, o tomate e uma meia xícara de água, deixe cozinhar até desmanchar o tomate (pode ajudar a esmagar os tomates com um garfo).",
+      "Tire os tomates da penela, coloque em uma xícara, coloque mais óleo ou azeite na panela e frite a cebola, despeje o tomate refogado o pimentão o extrato de tomate e deixe refogar, acrescente um pouco de água, os caldos de galinha e o arisco, depois de cozinhar por uns 10 minutos coloque o frango desfiado, deixe secar bem o refogado.",
+      "Em um pote misture o refogado de frango, o pepino, cenoura, salsa, cebolinha verde, misture bem e acrescente a maionese aos poucos, mexendo para não ficar com muita maionese, reserve um pouco da maionese paa decorar.",
+      "Vai ficar tipo um salpicão, quem gosta pode colocar milho, ervilha, azeitona, uva passa, palmito etc, o que a criatividade permitir.",
+      "Em um refratário, forma ou até mesmo em potes específicos para torta fria, coloque uma camada de pão e outra de salpicão e assim sucessivamente, acabe a camada com o pão, va apertando pra acomodar bem o salpicão no pão.",
+      "Passe maionese e decore com batata palha.",
+      "O ideal é comer no dia seguinte.",
+      "Parece difícil mas é bem rápido e fácil de fazer e o resultado vale à pena."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta fria de salpicão diferente. Ingredientes: peito de frango (cozido e desfiado), cenora (ralada em ralo fino, tipo tirinhas), pimentão verde (bem picadinho), pepinos em conserva (bem picadinho), tomates (picadinho, sem pele), cebolas pequena (uma cortada bem fininha para o molho e a outa em rodelas para cozinhar o peito), batata palha (para decorar), sachê grande de maionese, alho (para cozinhar o peito), Salsa (a gosto), Cebolinha verde (a gosto), extrato de tomate, caldos de galinha, chá de arisco, pão de forma ou pão de torta fria (tire as casquinhas). Preparo: Corte uma das cebolas em rodelas e o alho, coloque bastante água e cozinhe o peito de frango, não deixe cozinhar muito para facilitar depois na hora de desfiar. Enquanto isso, rale a cenoura, corte o pepino e reserve. Pique o tomate, o pimentão e a outra cebola, em uma panela coloque um pouquinho de óleo ou azeite, o tomate e uma meia xícara de água, deixe cozinhar até desmanchar o tomate (pode ajudar a esmagar os tomates com um garfo)."
+}

@@ -1,0 +1,84 @@
+{
+  "id": "tg-744",
+  "titulo": "Pudim Surpresa da Andreinha",
+  "url": "https://www.tudogostoso.com.br/receita/744-pudim-surpresa-da-andreinha.html",
+  "nota": 4.3,
+  "n_avaliacoes": 690,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim Surpresa da Andreinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 80,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "100g de margarina",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "100g de margarina"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 ovos"
+    },
+    {
+      "nome": "1/2 xícara de açúcar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícara de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de achocolatado em pó"
+    },
+    {
+      "nome": "1/2 xícara de farinha de trigo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícara de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite (use a lata de leite condensado como medida)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite (use a lata de leite condensado como medida)"
+    }
+  ],
+  "modo_preparo": {
+    "Bolo:": [
+      "Bater bem 3 gemas com o açúcar e a margarina. Em seguida acrescente o trigo, o achocolatado em pó, a 1/2 xícara de leite e por último o fermento.",
+      "Bata as claras em neve e incorpore à massa.",
+      "Derreta açúcar numa panela e utilize para caramelizar uma forma de pudim. Coloque a massa do bolo na forma."
+    ],
+    "Pudim:": [
+      "Bata no liquidificador 3 ovos, o leite condensado e acrescente a mesma medida de leite. Coloque esta mistura bem devagar sobre a massa do bolo na forma de pudim. Leve ao forno em banho maria por cerca de 1 hora."
+    ],
+    "Dica": [
+      "Cobrir o pudim com brigadeiro mole."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim Surpresa da Andreinha. Ingredientes: 100g de margarina, ovos, 1/2 xícara de açúcar, leite, achocolatado em pó, 1/2 xícara de farinha de trigo, sopa de fermento em pó, leite condensado, leite (use a lata de leite condensado como medida). Preparo: Bater bem 3 gemas com o açúcar e a margarina. Em seguida acrescente o trigo, o achocolatado em pó, a 1/2 xícara de leite e por último o fermento. Bata as claras em neve e incorpore à massa. Derreta açúcar numa panela e utilize para caramelizar uma forma de pudim. Coloque a massa do bolo na forma."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "tg-53851",
+  "titulo": "Bolo de mandioca da Marceluce",
+  "url": "https://www.tudogostoso.com.br/receita/53851-bolo-de-mandioca-da-marceluce.html",
+  "nota": 4.7,
+  "n_avaliacoes": 160,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de mandioca da Marceluce",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo (requeijão)",
+      "texto_original": "1/2 copo (requeijão) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "copos (requeijão)",
+      "texto_original": "2 copos (requeijão) de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "mandioca ralada",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de mandioca ralada"
+    },
+    {
+      "nome": "coco ralado grosso",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado grosso"
+    },
+    {
+      "nome": "cheia de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) cheia de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o óleo, o açúcar e a margarina.",
+      "Em uma vasilha, junte a mistura à mandioca, o coco e por último o fermento em pó.",
+      "Mexa bem, coloque em uma forma untada.",
+      "Leve ao forno em fogo baixo por 30 minutos e mais 10 minutos em fogo alto, ou até que doure."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de mandioca da Marceluce. Ingredientes: ovos, óleo, açúcar, margarina, mandioca ralada, coco ralado grosso, cheia de fermento em pó. Preparo: Bata no liquidificador os ovos, o óleo, o açúcar e a margarina. Em uma vasilha, junte a mistura à mandioca, o coco e por último o fermento em pó. Mexa bem, coloque em uma forma untada."
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tg-1598",
+  "titulo": "Rocambole de carne moída maravilhoso",
+  "url": "https://www.tudogostoso.com.br/receita/1598-rocambole-de-carne-moida-maravilhoso.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1273,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Rocambole de carne moída maravilhoso",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "carne moída",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne moída"
+    },
+    {
+      "nome": "sopa de cebola",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de sopa de cebola"
+    },
+    {
+      "nome": "presunto fatiado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "presunto fatiado"
+    },
+    {
+      "nome": "queijo fatiado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo fatiado"
+    },
+    {
+      "nome": "tempero verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tempero verde"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere a carne moída com a sopa de cebola, o tempero verde e o sal.",
+      "Coloque a carne temperada sobre uma folha de papel laminado ou papel manteiga e abra a massa com um rolo, na espessura de 1 cm, mais ou menos.",
+      "Forre a carne com o presunto e o queijo, pode-se colocar também milho verde, ervilha e requeijão.",
+      "Enrole a carne, com ajuda da folha de papel laminado ou manteiga, em forma de rocambole.",
+      "Leve ao forno, em temperatura alta, por mais ou menos 30 minutos, ou no microondas por 15 minutos.",
+      "Bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Faca",
+    "Rolo de massa",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Rocambole de carne moída maravilhoso. Ingredientes: carne moída, sopa de cebola, presunto fatiado, queijo fatiado, tempero verde, sal a gosto. Preparo: Tempere a carne moída com a sopa de cebola, o tempero verde e o sal. Coloque a carne temperada sobre uma folha de papel laminado ou papel manteiga e abra a massa com um rolo, na espessura de 1 cm, mais ou menos. Forre a carne com o presunto e o queijo, pode-se colocar também milho verde, ervilha e requeijão."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tg-43613",
+  "titulo": "Cheesecake de goiaba facílimo",
+  "url": "https://www.tudogostoso.com.br/receita/43613-cheesecake-de-goiaba-facilimo.html",
+  "nota": 4.1,
+  "n_avaliacoes": 109,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cheesecake de goiaba facílimo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "cream cheese",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de cream cheese"
+    },
+    {
+      "nome": "biscoito maria ou maizena",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de biscoito maria ou maizena"
+    },
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de manteiga sem sal"
+    },
+    {
+      "nome": "vidro e 1/2 de geléia de goiaba",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro e 1/2 de geléia de goiaba"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Triture o biscoito e misture com a manteiga.",
+      "Forre o fundo e os lados uma forma de fundo falso e leve ao forno por 10 minutos.",
+      "Misture tudo, menos a geléia, na batedeira por 4 minutos.",
+      "Coloque a mistura sobre a massa e leve ao forno por 15 minutos.",
+      "Retire e deixe esfriar.",
+      "Amoleça a geléia com um pouco de água, em banho-maria.",
+      "Quando esfriar, coloque por cima da torta.",
+      "Leve para gelar por 1 hora antes de servir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cheesecake de goiaba facílimo. Ingredientes: creme de leite, leite condensado, cream cheese, biscoito maria ou maizena, manteiga sem sal, vidro e 1/2 de geléia de goiaba. Preparo: Triture o biscoito e misture com a manteiga. Forre o fundo e os lados uma forma de fundo falso e leve ao forno por 10 minutos. Misture tudo, menos a geléia, na batedeira por 4 minutos."
+}

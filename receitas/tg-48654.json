@@ -1,0 +1,54 @@
+{
+  "id": "tg-48654",
+  "titulo": "Cobertura de Chocolate Fácil (Sem leite condensado)",
+  "url": "https://www.tudogostoso.com.br/receita/48654-cobertura-de-chocolate-facil-sem-leite-condensado.html",
+  "nota": 4.5,
+  "n_avaliacoes": 206,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Cobertura de Chocolate Fácil (Sem leite condensado)",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de chocolate em pó"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina ou manteiga"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte todos os ingredientes em uma panela e coloque em fogo baixo.",
+      "Mexa sem parar até a calda engrossar.",
+      "Desligue o fogo e coloque no bolo."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Concha",
+    "Copo medidor",
+    "Panela com cabo"
+  ],
+  "texto_para_embedding": "Cobertura de Chocolate Fácil (Sem leite condensado). Ingredientes: leite, chocolate em pó, margarina ou manteiga, açúcar. Preparo: Junte todos os ingredientes em uma panela e coloque em fogo baixo. Mexa sem parar até a calda engrossar. Desligue o fogo e coloque no bolo."
+}

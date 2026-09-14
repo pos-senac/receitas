@@ -1,0 +1,77 @@
+{
+  "id": "tg-35993",
+  "titulo": "Biscoito de polvilho assado (o verdadeiro biscoito mineiro)",
+  "url": "https://www.tudogostoso.com.br/receita/35993-biscoito-de-polvilho-assado-o-verdadeiro-biscoito-mineiro.html",
+  "nota": 4.3,
+  "n_avaliacoes": 196,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de polvilho assado (o verdadeiro biscoito mineiro)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "1/2 xícaras (chá) de água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícaras (chá) de água"
+    },
+    {
+      "nome": "1/2 xícaras de chá) de óleo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícaras de chá) de óleo"
+    },
+    {
+      "nome": "rasa (sopa) de açúcar",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa (sopa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal"
+    },
+    {
+      "nome": "500 g de polvilho doce (reserve a embalagem para modelar os biscoitos)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de 500 g de polvilho doce (reserve a embalagem para modelar os biscoitos)"
+    },
+    {
+      "nome": "ou 5 ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ou 5 ovos"
+    },
+    {
+      "nome": "erva - doce",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de erva - doce"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, coloque os 4 primeiros ingrediente para ferver.",
+      "Coloque em uma tigela o polvilho.",
+      "Despeje esse líquido para escaldar o polvilho, mexa e deixe esfriar um pouco.",
+      "Leve para bater na batedeira com os ovos.",
+      "Acrescente a erva - doce e bata para misturar bem.",
+      "Despeje a massa na embalagem do polvilho, faça um furo e esprema os biscoitos, compridos ou em círculos em uma assadeira untada com óleo (só na primeira fornada).",
+      "Leva ao forno pré - aquecido, até dourar."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Batedeira",
+    "Panela",
+    "Espátula de silicone",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Biscoito de polvilho assado (o verdadeiro biscoito mineiro). Ingredientes: 1/2 xícaras (chá) de água, 1/2 xícaras de chá) de óleo, rasa (sopa) de açúcar, sal, 500 g de polvilho doce (reserve a embalagem para modelar os biscoitos), ou 5 ovos, erva - doce. Preparo: Em uma panela, coloque os 4 primeiros ingrediente para ferver. Coloque em uma tigela o polvilho. Despeje esse líquido para escaldar o polvilho, mexa e deixe esfriar um pouco."
+}

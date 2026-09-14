@@ -1,0 +1,73 @@
+{
+  "id": "tg-39978",
+  "titulo": "Pão doce caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/39978-pao-doce-caseiro.html",
+  "nota": 4.6,
+  "n_avaliacoes": 147,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão doce caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 120,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de açúcar"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "2",
+      "unidade": "copos (250 ml)",
+      "texto_original": "2 copos (250 ml) de leite morno"
+    },
+    {
+      "nome": "rasa de fermento granulado para pão",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) rasa de fermento granulado para pão"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Faça um mingau com 4 colheres de trigo, o sal, 2 colheres de açúcar, o fermento de pão e o leite morno e deixe crescer um pouco.",
+      "Coloque em uma bacia os 2 ovos, o óleo, o restante do açúcar e o mingau que foi preparado, acrescentando aos poucos o trigo, até dar o ponto.",
+      "Deixe crescer até dobrar de volume.",
+      "Enrole ou faça tranças, espere mais alguns minutos e asse.",
+      "Depois de assado passe em cima do pão um meladinho de açúcar."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Forma",
+    "Fouet",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Pão doce caseiro. Ingredientes: trigo, ovos, sal, açúcar, leite morno, rasa de fermento granulado para pão, óleo. Preparo: Faça um mingau com 4 colheres de trigo, o sal, 2 colheres de açúcar, o fermento de pão e o leite morno e deixe crescer um pouco. Coloque em uma bacia os 2 ovos, o óleo, o restante do açúcar e o mingau que foi preparado, acrescentando aos poucos o trigo, até dar o ponto. Deixe crescer até dobrar de volume."
+}

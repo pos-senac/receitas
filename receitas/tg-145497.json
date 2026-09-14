@@ -1,0 +1,63 @@
+{
+  "id": "tg-145497",
+  "titulo": "Torta fácil de limão",
+  "url": "https://www.tudogostoso.com.br/receita/145497-torta-facil-de-limao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 209,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Torta fácil de limão",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "biscoito de maizena (piraquê)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de biscoito de maizena (piraquê)"
+    },
+    {
+      "nome": "limões",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 limões"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Triture o biscoito no liquidificador.",
+      "Coloque em uma vasilha, acrescente a margarina e amasse com a mão, até o ponto de poder moldar a massa.",
+      "Coloque a massa em uma forma com o fundo removível, cobrindo o fundo e as laterais.",
+      "Coloque no forno (fogo alto) por 10 minutos, para dar uma dourada na massa, e reserve."
+    ],
+    "Recheio": [
+      "Coloque em uma vasilha o leite condensado e vá acrescentando o suco de limão ao seu gosto (caso prefira mais azedinha ou mais doce).",
+      "Despeje o recheio sobre a massa.",
+      "Para dar um toque, coloque raspas de limão sobre o recheio.",
+      "Leve à geladeira por mais ou menos 2 horas.",
+      "Depois é só desenformar e saborear."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Espátula de silicone",
+    "Forma com fundo removível",
+    "Forno elétrico",
+    "Ralador"
+  ],
+  "texto_para_embedding": "Torta fácil de limão. Ingredientes: biscoito de maizena (piraquê), limões, margarina, leite condensado. Preparo: Triture o biscoito no liquidificador. Coloque em uma vasilha, acrescente a margarina e amasse com a mão, até o ponto de poder moldar a massa. Coloque a massa em uma forma com o fundo removível, cobrindo o fundo e as laterais."
+}

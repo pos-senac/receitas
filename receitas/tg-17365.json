@@ -1,0 +1,69 @@
+{
+  "id": "tg-17365",
+  "titulo": "Coxinha de mandioca",
+  "url": "https://www.tudogostoso.com.br/receita/17365-coxinha-de-mandioca.html",
+  "nota": 4.6,
+  "n_avaliacoes": 370,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Coxinha de mandioca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "cubo de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de galinha"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de farinha de trigo"
+    },
+    {
+      "nome": "mandioca cozida",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de mandioca cozida"
+    },
+    {
+      "nome": "Carne seca refogada com cebola e cheiro verde, desfiada (retire o sal antes)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Carne seca refogada com cebola e cheiro verde, desfiada (retire o sal antes)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo: leite, margarina, caldo.",
+      "Quando ferver junte toda farinha.",
+      "Mexa até cozinhar bem.",
+      "Desligue.",
+      "Misture a mandioca e sove para agregar.",
+      "Modele as coxinhas colocando o recheio.",
+      "Passe no ovo, farinha de rosca e frite."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Escumadeira",
+    "Espátula de silicone",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Coxinha de mandioca. Ingredientes: leite, margarina, cubo de caldo de galinha, farinha de trigo, mandioca cozida, Carne seca refogada com cebola e cheiro verde, desfiada (retire o sal antes). Preparo: Leve ao fogo: leite, margarina, caldo. Quando ferver junte toda farinha. Mexa até cozinhar bem."
+}

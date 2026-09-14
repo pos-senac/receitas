@@ -1,0 +1,83 @@
+{
+  "id": "tg-3407",
+  "titulo": "Sardinha na panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/3407-sardinha-na-panela-de-pressao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 240,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Sardinha na panela de pressão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "filé de sardinha fresca",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de sardinha fresca"
+    },
+    {
+      "nome": "tomates maduros sem pele e sem semente (picados em cubos grandes)",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 tomates maduros sem pele e sem semente (picados em cubos grandes)"
+    },
+    {
+      "nome": "pimentão verde cortado em tiras",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde cortado em tiras"
+    },
+    {
+      "nome": "cebolas cortadas em anéis",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas cortadas em anéis"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho amassados"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de azeite"
+    },
+    {
+      "nome": "Limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Limão"
+    },
+    {
+      "nome": "Salsa picadinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsa picadinha"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere as sardinhas com limão e sal.",
+      "Comece a arrumar em camadas finas na panela de pressão: tomate, cebola, alho, salsa, pimentão e sardinha, até terminar todos os ingredientes.",
+      "Por último, derrame o azeite.",
+      "Feche a panela e acenda o fogo.",
+      "Quando começar a apitar, abaixe o fogo e desligue após 10 minutos.",
+      "Abra a panela só depois que sair toda a pressão.",
+      "Pode ser servido quente com arroz e salada.",
+      "Pode ser servido frio com torradas e pão."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sardinha na panela de pressão. Ingredientes: filé de sardinha fresca, tomates maduros sem pele e sem semente (picados em cubos grandes), pimentão verde cortado em tiras, cebolas cortadas em anéis, alho amassados, azeite, Limão, Salsa picadinha, Sal. Preparo: Tempere as sardinhas com limão e sal. Comece a arrumar em camadas finas na panela de pressão: tomate, cebola, alho, salsa, pimentão e sardinha, até terminar todos os ingredientes. Por último, derrame o azeite."
+}

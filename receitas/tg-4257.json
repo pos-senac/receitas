@@ -1,0 +1,62 @@
+{
+  "id": "tg-4257",
+  "titulo": "Creme de milho",
+  "url": "https://www.tudogostoso.com.br/receita/4257-creme-de-milho.html",
+  "nota": 4.8,
+  "n_avaliacoes": 124,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Creme de milho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "medida (da caixinha de creme de leite) de leite de vaca",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 medida (da caixinha de creme de leite) de leite de vaca"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de amido de milho"
+    },
+    {
+      "nome": "Alho e sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Alho e sal a gosto"
+    },
+    {
+      "nome": "fio de óleo para dourar o alho",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 fio de óleo para dourar o alho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata bem o milho no liquidificador.",
+      "Dissolva o amido de milho no leite e acrescente ao milho, batendo um pouco mais.",
+      "Peneire a mistura para retirar as casquinhas do milho.",
+      "Doure o alho e acrescente a mistura, deixando engrossar um pouco.",
+      "Acrescente o creme de leite por último, mexa mais uns 2 minutos e desligue o fogo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Creme de milho. Ingredientes: milho, caixinha de creme de leite, medida (da caixinha de creme de leite) de leite de vaca, sopa de amido de milho, Alho e sal a gosto, fio de óleo para dourar o alho. Preparo: Bata bem o milho no liquidificador. Dissolva o amido de milho no leite e acrescente ao milho, batendo um pouco mais. Peneire a mistura para retirar as casquinhas do milho."
+}

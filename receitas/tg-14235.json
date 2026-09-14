@@ -1,0 +1,61 @@
+{
+  "id": "tg-14235",
+  "titulo": "Pudim de tapioca",
+  "url": "https://www.tudogostoso.com.br/receita/14235-pudim-de-tapioca.html",
+  "nota": 4.8,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de tapioca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "tapioca granulada",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de tapioca granulada"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "l",
+      "texto_original": "1/2 l de leite"
+    },
+    {
+      "nome": "garrafa pequena de leite de coco",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 garrafa pequena de leite de coco"
+    },
+    {
+      "nome": "50 g de coco ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de 50 g de coco ralado"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Levar ao fogo o leite e a tapioca, fazer um mingau e deixar esfriar por completo (ficará como se fosse um grude, mas é normal).",
+      "Acrescentar o leite condensado e o coco ralado.",
+      "Bater os ovos no liquidificador com o leite de coco e misturar com o restante.",
+      "Caramelar a forma e assar em banho-maria por aproximadamente 40 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim de tapioca. Ingredientes: tapioca granulada, leite, garrafa pequena de leite de coco, 50 g de coco ralado, leite condensado, ovos. Preparo: Levar ao fogo o leite e a tapioca, fazer um mingau e deixar esfriar por completo (ficará como se fosse um grude, mas é normal). Acrescentar o leite condensado e o coco ralado. Bater os ovos no liquidificador com o leite de coco e misturar com o restante."
+}

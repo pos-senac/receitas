@@ -1,0 +1,59 @@
+{
+  "id": "tg-13205",
+  "titulo": "Fondue de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/13205-fondue-de-chocolate.html",
+  "nota": 4.5,
+  "n_avaliacoes": 262,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Fondue de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "400g de chocolate ao leite em barra",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "400g de chocolate ao leite em barra"
+    },
+    {
+      "nome": "100g de chocolate meio-amargo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "100g de chocolate meio-amargo"
+    },
+    {
+      "nome": "creme de leite light",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite light"
+    },
+    {
+      "nome": "cálice de licor de Amarula",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cálice de licor de Amarula"
+    },
+    {
+      "nome": "frutas picadas (banana, morango, kiwi)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "frutas picadas (banana, morango, kiwi)"
+    },
+    {
+      "nome": "marshmallow",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "marshmallow"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Derreta no microondas o chocolate, colocando num recepiente de vidro, próprio para microondas. Deixe em potência alta por 1 minuto, retire e veja se dá para mexer o chocolate até ficar bem derretido. Caso não dê, leve ao microondas por mais 30 segundos, vá repetindo o procedimento até que o chocolete derreta.",
+      "Leve ao fogo médio ( do fogão) o chocolate e misture o licor e o creme de leite. Mexa até ficar com uma consistência cremosa. O importante é mexer sempre para não empelotar. Quando estiver pronto é só levar para o richaud e servir-se, espetando as frutas, marshmallow e molhando na mistura."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Fondue de chocolate. Ingredientes: 400g de chocolate ao leite em barra, 100g de chocolate meio-amargo, creme de leite light, cálice de licor de Amarula, frutas picadas (banana, morango, kiwi), marshmallow. Preparo: Derreta no microondas o chocolate, colocando num recepiente de vidro, próprio para microondas. Deixe em potência alta por 1 minuto, retire e veja se dá para mexer o chocolate até ficar bem derretido. Caso não dê, leve ao microondas por mais 30 segundos, vá repetindo o procedimento até que o chocolete derreta. Leve ao fogo médio ( do fogão) o chocolate e misture o licor e o creme de leite. Mexa até ficar com uma consistência cremosa. O importante é mexer sempre para não empelotar. Quando estiver pronto é só levar para o richaud e servir-se, espetando as frutas, marshmallow e molhando na mistura."
+}

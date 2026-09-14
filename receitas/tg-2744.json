@@ -1,0 +1,87 @@
+{
+  "id": "tg-2744",
+  "titulo": "Estrogonofe da casa",
+  "url": "https://www.tudogostoso.com.br/receita/2744-estrogonofe-da-casa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 388,
+  "categoria": "Receitas aves",
+  "subcategoria": "Estrogonofe da casa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cortado em tirinhas",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de peito de frango cortado em tirinhas"
+    },
+    {
+      "nome": "cubinhos de caldo de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubinhos de caldo de galinha"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "amido de milho dissolvido no leite",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho dissolvido no leite"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "mostarda amarela",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de mostarda amarela"
+    },
+    {
+      "nome": "ketchup",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de ketchup"
+    },
+    {
+      "nome": "creme de leite sem soro ou light",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro ou light"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "champignon",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de champignon"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Frite a cebola no óleo até quase começar a dourar.",
+      "Coloque o frango e deixe fritar.",
+      "Acrescente o champignon, o caldo de galinha picadinho, o ketchup, a mostarda e cozinhe por 3 minutos.",
+      "Coloque o amido dissolvido no leite e mexa até engrossar o molho.",
+      "Baixe o fogo e coloque o creme de leite, mexa bem e sirva a seguir.",
+      "Para acompanhar a batata palha é o ideal."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Estrogonofe da casa. Ingredientes: peito de frango cortado em tirinhas, cubinhos de caldo de galinha, cebola picadinha, amido de milho dissolvido no leite, leite, mostarda amarela, ketchup, creme de leite sem soro ou light, óleo, champignon. Preparo: Frite a cebola no óleo até quase começar a dourar. Coloque o frango e deixe fritar. Acrescente o champignon, o caldo de galinha picadinho, o ketchup, a mostarda e cozinhe por 3 minutos."
+}

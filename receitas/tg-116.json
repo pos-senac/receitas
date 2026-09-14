@@ -1,0 +1,80 @@
+{
+  "id": "tg-116",
+  "titulo": "Gratinado de frango simples",
+  "url": "https://www.tudogostoso.com.br/receita/116-gratinado-de-frango.html",
+  "nota": 4.5,
+  "n_avaliacoes": 973,
+  "categoria": "Receitas aves",
+  "subcategoria": "Gratinado de frango simples",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "peito de frango desfiado",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de peito de frango desfiado"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "cubinhos de caldo de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubinhos de caldo de galinha"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de água"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "queijo ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado a gosto"
+    },
+    {
+      "nome": "manteiga derretida",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de manteiga derretida"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a água em uma panela e derreta os cubinhos de caldo de galinha.",
+      "Acrescente o molho de tomate e o frango, mexa até começar a ferver.",
+      "Coloque a farinha de trigo e mexa até engrossar.",
+      "Acrescente o creme de leite, misture bem.",
+      "Despeje tudo em uma travessa e espalhe por cima a manteiga e o queijo ralado.",
+      "Leve ao forno para gratinar por mais ou menos 20 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Espatula",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Gratinado de frango simples. Ingredientes: peito de frango desfiado, molho de tomate, cubinhos de caldo de galinha, água, farinha de trigo, creme de leite, queijo ralado a gosto, manteiga derretida. Preparo: Coloque a água em uma panela e derreta os cubinhos de caldo de galinha. Acrescente o molho de tomate e o frango, mexa até começar a ferver. Coloque a farinha de trigo e mexa até engrossar."
+}

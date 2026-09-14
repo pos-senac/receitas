@@ -1,0 +1,49 @@
+{
+  "id": "tg-87290",
+  "titulo": "Pipoca Doce Caseira",
+  "url": "https://www.tudogostoso.com.br/receita/87290-pipoca-doce-caseira.html",
+  "nota": 4.6,
+  "n_avaliacoes": 178,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pipoca Doce Caseira",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "rasa de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) rasa de açúcar"
+    },
+    {
+      "nome": "½ xícara (chá) de milho para pipoca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ xícara (chá) de milho para pipoca"
+    },
+    {
+      "nome": "½ xícara (café) de água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ xícara (café) de água"
+    },
+    {
+      "nome": "½ xícara (café) de óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ xícara (café) de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Numa pipoqueira grande, coloque o milho e o óleo, leve ao fogo alto sempre mexendo.",
+      "Quando estourar a 1ª pipoca retire a panela do fogo e COM MUITO CUIDADO, abra a tampa,  coloque a água rapidamente e feche a tampa.",
+      "Depois de uns segundos abra novamente e coloque o açúcar e feche de novo, volte a pipoqueira para o fogo alto e sem parar de misturar espere estourar, mas quando começar a diminuir a frequência do estouro, desligue o fogo e continue mexendo até parar de estourar, pois se não fizer assim, queima.",
+      "Coloque em pirex de vidro ou cerâmica, não coloque em plástico porque pode derreter com o calor."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pipoca Doce Caseira. Ingredientes: rasa de açúcar, ½ xícara (chá) de milho para pipoca, ½ xícara (café) de água, ½ xícara (café) de óleo. Preparo: Numa pipoqueira grande, coloque o milho e o óleo, leve ao fogo alto sempre mexendo. Quando estourar a 1ª pipoca retire a panela do fogo e COM MUITO CUIDADO, abra a tampa,  coloque a água rapidamente e feche a tampa. Depois de uns segundos abra novamente e coloque o açúcar e feche de novo, volte a pipoqueira para o fogo alto e sem parar de misturar espere estourar, mas quando começar a diminuir a frequência do estouro, desligue o fogo e continue mexendo até parar de estourar, pois se não fizer assim, queima."
+}

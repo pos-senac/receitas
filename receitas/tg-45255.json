@@ -1,0 +1,135 @@
+{
+  "id": "tg-45255",
+  "titulo": "Torta fácil de carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/45255-torta-facil-de-carne-moida.html",
+  "nota": 4.8,
+  "n_avaliacoes": 200,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta fácil de carne moída",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne moída"
+    },
+    {
+      "nome": "cebola pequena",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena"
+    },
+    {
+      "nome": "tomate",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate"
+    },
+    {
+      "nome": "calabresa pequena picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 calabresa pequena picada"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilha"
+    },
+    {
+      "nome": "azeitonas sem caroço",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitonas sem caroço"
+    },
+    {
+      "nome": "cheiro-verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "pimenta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado"
+    },
+    {
+      "nome": "margarina ou manteiga para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "margarina ou manteiga para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes da massa no liquidificador.",
+      "Para o recheio, frite a carne como de costume.",
+      "Em outra panela, frite a cebola, o tomate, a calabresa, a ervilha e as azeitonas, cortados bem pequenos.",
+      "Misture com a carne moída e, ainda com o fogo aceso, coloque o cheiro-verde picado, o orégano, a pimenta e o queijo ralado a seu gosto.",
+      "Unte uma assadeira média com margarina ou manteiga e farinha de trigo.",
+      "Coloque metade da massa, por cima o recheio e depois o restante da massa.",
+      "Leve ao forno preaquecido a 180°C por aproximadamente 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Panela",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Torta fácil de carne moída. Ingredientes: leite, óleo, ovos, farinha de trigo, fermento em pó, sal a gosto, carne moída, cebola pequena, tomate, calabresa pequena picada, ervilha, azeitonas sem caroço, cheiro-verde, orégano, pimenta, queijo ralado, margarina ou manteiga para untar. Preparo: Misture todos os ingredientes da massa no liquidificador. Para o recheio, frite a carne como de costume. Em outra panela, frite a cebola, o tomate, a calabresa, a ervilha e as azeitonas, cortados bem pequenos."
+}

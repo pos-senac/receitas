@@ -1,0 +1,97 @@
+{
+  "id": "tg-27684",
+  "titulo": "Bolo chocolate fácil",
+  "url": "https://www.tudogostoso.com.br/receita/27684-bolo-chocolate-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 184,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo chocolate fácil",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 50,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícara (chá)",
+      "texto_original": "2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "chocolate ou achocolatado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de chocolate ou achocolatado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "chocolate ou achocolatado",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de chocolate ou achocolatado"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar refinado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos por 5 minutos.",
+      "Acrescente aos poucos os demais ingredientes, exceto o fermento.",
+      "Depois de bater acrescente então o fermento.",
+      "Coloque em uma forma média untada e enfarinhada.",
+      "Leve para assar em forno médio, pré-aquecido por 45 minutos, ou até dourar."
+    ],
+    "Cobertura": [
+      "Leve ao fogo baixo, a margariana com açúcar.",
+      "Acrescentando aos pouco o chocolate.",
+      "Deixe ferver e despeje sobre o bolo ainda quente."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Espátula de silicone",
+    "Formo de bolo",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolo chocolate fácil. Ingredientes: leite, óleo, farinha de trigo, chocolate ou achocolatado, açúcar, ovos, fermento em pó, margarina, chocolate ou achocolatado, açúcar refinado. Preparo: Bata no liquidificador os ovos por 5 minutos. Acrescente aos poucos os demais ingredientes, exceto o fermento. Depois de bater acrescente então o fermento."
+}

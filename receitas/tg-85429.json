@@ -1,0 +1,80 @@
+{
+  "id": "tg-85429",
+  "titulo": "Bolo de laranja de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/85429-bolo-de-laranja-de-liquidificador.html",
+  "nota": 4.7,
+  "n_avaliacoes": 956,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de laranja de liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "Suco de 2 laranjas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 2 laranjas"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "Suco de 1 laranja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1 laranja"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os 4 primeiros ingredientes (exceto farinha e fermento), despeje em uma tigela, acrescente a farinha de trigo aos poucos e por último o fermento.",
+      "Coloque em uma assadeira redonda de buraco no centro untada e enfarinhada.",
+      "Leve ao forno médio pré-aquecido por 35 minutos, ou até que esteja assado."
+    ],
+    "Calda": [
+      "Leve o suco de laranja e o açúcar ao fogo, dando uma aquecida e despeje no bolo ainda quente."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Formo de bolo",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo de laranja de liquidificador. Ingredientes: ovos, Suco de 2 laranjas, óleo, açúcar, farinha de trigo, fermento em pó, Suco de 1 laranja, açúcar. Preparo: Bata no liquidificador os 4 primeiros ingredientes (exceto farinha e fermento), despeje em uma tigela, acrescente a farinha de trigo aos poucos e por último o fermento. Coloque em uma assadeira redonda de buraco no centro untada e enfarinhada. Leve ao forno médio pré-aquecido por 35 minutos, ou até que esteja assado."
+}

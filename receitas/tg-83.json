@@ -1,0 +1,72 @@
+{
+  "id": "tg-83",
+  "titulo": "Pão de batata",
+  "url": "https://www.tudogostoso.com.br/receita/83-pao-de-batata.html",
+  "nota": 4.4,
+  "n_avaliacoes": 637,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pão de batata",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": null,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "tabletes de fermento para pão",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de fermento para pão"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de margarina"
+    },
+    {
+      "nome": "batatas cozidas e amassadas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 batatas cozidas e amassadas"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "farinha de trigo suficiente para deixar em ponto de amassar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo suficiente para deixar em ponto de amassar"
+    },
+    {
+      "nome": "queijo prato para rechear",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo prato para rechear"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Faça a massa do pão juntando os ingredientes amassando até ficar macia.",
+      "Deixe crescer, forme os pãezinhos e recheie com queijo prato.",
+      "Deixe crescer novamente, pincele com gema e asse em forno quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de batata. Ingredientes: tabletes de fermento para pão, leite, margarina, batatas cozidas e amassadas, ovos, sal, farinha de trigo suficiente para deixar em ponto de amassar, queijo prato para rechear. Preparo: Faça a massa do pão juntando os ingredientes amassando até ficar macia. Deixe crescer, forme os pãezinhos e recheie com queijo prato. Deixe crescer novamente, pincele com gema e asse em forno quente."
+}

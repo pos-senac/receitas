@@ -1,0 +1,52 @@
+{
+  "id": "tg-170262",
+  "titulo": "Cobertura de chocolate durinha (para bolos)",
+  "url": "https://www.tudogostoso.com.br/receita/170262-cobertura-de-chocolate-durinha-para-bolos.html",
+  "nota": 4.6,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cobertura de chocolate durinha (para bolos)",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de açúcar"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de achocolatado"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina ou manteiga"
+    },
+    {
+      "nome": "sopa de leite",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes na panela.",
+      "Leve ao fogo baixo por aproximadamente 10 minutos, até ferver e que fique com a consistência grossa.",
+      "Retire do fogo e jogue por cima do bolo, não espere esfriar para não endurecer."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Cobertura de chocolate durinha (para bolos). Ingredientes: açúcar, achocolatado, margarina ou manteiga, sopa de leite. Preparo: Misture todos os ingredientes na panela. Leve ao fogo baixo por aproximadamente 10 minutos, até ferver e que fique com a consistência grossa. Retire do fogo e jogue por cima do bolo, não espere esfriar para não endurecer."
+}

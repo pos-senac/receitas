@@ -1,0 +1,63 @@
+{
+  "id": "tg-3006",
+  "titulo": "Macarrão da panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/3006-macarrao-da-panela-de-pressao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 211,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão da panela de pressão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "carne moída",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne moída"
+    },
+    {
+      "nome": "macarrão parafuso",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de macarrão parafuso"
+    },
+    {
+      "nome": "molho de tomate tradicional",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate tradicional"
+    },
+    {
+      "nome": "tablete de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne"
+    },
+    {
+      "nome": "tablete de caldo de tomate",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de tomate"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere a carne a gosto e deixe que ela cozinhe com a própria água.",
+      "Adicione o caldo de carne e o de tomate, deixe a carne cozinhar até secar toda a água e acrescente o molho de tomate.",
+      "Aguarde levantar fervura, despeje o macarrão e misture bem.",
+      "Despeje água até cobrir todo o macarrão e coloque a tampa na panela de pressão.",
+      "Após o início da pressão, desligue a panela, tire a pressão, misture o creme de leite e coloque em um refratário.",
+      "Está pronto para servir!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão da panela de pressão. Ingredientes: carne moída, macarrão parafuso, molho de tomate tradicional, tablete de caldo de carne, tablete de caldo de tomate, creme de leite. Preparo: Tempere a carne a gosto e deixe que ela cozinhe com a própria água. Adicione o caldo de carne e o de tomate, deixe a carne cozinhar até secar toda a água e acrescente o molho de tomate. Aguarde levantar fervura, despeje o macarrão e misture bem."
+}

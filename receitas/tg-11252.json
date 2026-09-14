@@ -1,0 +1,65 @@
+{
+  "id": "tg-11252",
+  "titulo": "Bolo de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/11252-bolo-de-liquidificador.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1401,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de liquidificador",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 35,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "copos (requeijão)",
+      "texto_original": "2 copos (requeijão) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "copos (requeijão)",
+      "texto_original": "2 copos (requeijão) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo (requeijão)",
+      "texto_original": "1 copo (requeijão) de leite"
+    },
+    {
+      "nome": "rasa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o açúcar e a margarina.",
+      "Depois acrescente a farinha, o leite e o fermento em pó, bata novamente.",
+      "Coloque em uma forma untada com margarina e farinha de trigo, leve ao forno."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de liquidificador. Ingredientes: ovos, margarina, açúcar, farinha de trigo, leite, rasa de fermento em pó. Preparo: Bata no liquidificador os ovos, o açúcar e a margarina. Depois acrescente a farinha, o leite e o fermento em pó, bata novamente. Coloque em uma forma untada com margarina e farinha de trigo, leve ao forno."
+}

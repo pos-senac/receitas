@@ -1,0 +1,46 @@
+{
+  "id": "tg-1599",
+  "titulo": "Mousse de maracujá",
+  "url": "https://www.tudogostoso.com.br/receita/1599-mousse-de-maracuja.html",
+  "nota": 4.5,
+  "n_avaliacoes": 2335,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Mousse de maracujá",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "suco de maracujá (medida pela lata de leite condensado)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de suco de maracujá (medida pela lata de leite condensado)"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador, bata o creme de leite, o leite condensado e o suco concentrado de maracujá.",
+      "Em uma tigela, despeje a mistura e leve à geladeira por, no mínimo, 4 horas."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Copo medidor",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Mousse de maracujá. Ingredientes: leite condensado, suco de maracujá (medida pela lata de leite condensado), creme de leite sem soro. Preparo: Em um liquidificador, bata o creme de leite, o leite condensado e o suco concentrado de maracujá. Em uma tigela, despeje a mistura e leve à geladeira por, no mínimo, 4 horas."
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tg-155609",
+  "titulo": "Bolo de fubá de liquidificador super fofo",
+  "url": "https://www.tudogostoso.com.br/receita/155609-bolo-de-fuba-de-liquidificador-super-fofo.html",
+  "nota": 4.7,
+  "n_avaliacoes": 278,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá de liquidificador super fofo",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "(chá) de fubá",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de (chá) de fubá"
+    },
+    {
+      "nome": "(chá) de farinha de trigo sem fermento",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de (chá) de farinha de trigo sem fermento"
+    },
+    {
+      "nome": "e 1/2 de (chá) de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e 1/2 de (chá) de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "(chá) de óleo de milho",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de (chá) de óleo de milho"
+    },
+    {
+      "nome": "(chá) de leite de vaca integral",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de (chá) de leite de vaca integral"
+    },
+    {
+      "nome": "(sopa) de fermento em pó químico",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de (sopa) de fermento em pó químico"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiro colocar no liquidificador o leite, o óleo e os ovos.",
+      "Bater pra misturar, depois colocar o açúcar e bater mais um pouco.",
+      "Desligue o liquidificador e acrescente o fubá e bata mais um pouco.",
+      "Desligue o liquidificador e acrescente a farinha de trigo e o sal.",
+      "Bater tudo muito bem, desligar o liquidificador e colocar o fermento.",
+      "Misturar com uma colher, depois despeje na forma que já deve estar untada com margarina e enfarinhada com farinha de trigo.",
+      "Leve ao forno já preaquecido em uma temperatura de 160 a 180 ºC.",
+      "Deixar assar por mais ou menos 35 minutos ."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de fubá de liquidificador super fofo. Ingredientes: (chá) de fubá, (chá) de farinha de trigo sem fermento, e 1/2 de (chá) de açúcar, ovos, (chá) de óleo de milho, (chá) de leite de vaca integral, (sopa) de fermento em pó químico, sal. Preparo: Primeiro colocar no liquidificador o leite, o óleo e os ovos. Bater pra misturar, depois colocar o açúcar e bater mais um pouco. Desligue o liquidificador e acrescente o fubá e bata mais um pouco."
+}

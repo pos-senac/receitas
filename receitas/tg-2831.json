@@ -1,0 +1,94 @@
+{
+  "id": "tg-2831",
+  "titulo": "Moqueca de peixe",
+  "url": "https://www.tudogostoso.com.br/receita/2831-moqueca-de-peixe.html",
+  "nota": 4.6,
+  "n_avaliacoes": 477,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Moqueca de peixe",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 70,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "postas de cação ou garoupa (700 gramas)",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 postas de cação ou garoupa (700 gramas)"
+    },
+    {
+      "nome": "suco de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1 limão"
+    },
+    {
+      "nome": "cebola grande cortada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande cortada em rodelas"
+    },
+    {
+      "nome": "pimentão vermelho cortado em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão vermelho cortado em rodelas"
+    },
+    {
+      "nome": "pimentão verde cortado em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde cortado em rodelas"
+    },
+    {
+      "nome": "tomates maduros cortados em rodelas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates maduros cortados em rodelas"
+    },
+    {
+      "nome": "coentro",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de coentro"
+    },
+    {
+      "nome": "leite de coco",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de leite de coco"
+    },
+    {
+      "nome": "azeite de dendê",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de azeite de dendê"
+    },
+    {
+      "nome": "tabletes de caldo de camarão",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de camarão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem o peixe, regue com o suco de limão e deixe descansar por cerca de 1 hora.",
+      "Em uma panela grande, coloque o peixe, a cebola, os pimentões, os tomates e polvilhe coentro.",
+      "Esfarele os tabletes de caldo de camarão, misture-os ao leite de coco e regue o peixe.",
+      "Leve ao fogo baixo, com a panela parcialmente tampada, por 20 minutos.",
+      "Mexa algumas vezes até que esteja cozido.",
+      "Junte o azeite de dendê e adicione sal.",
+      "Retire do fogo e sirva."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Moqueca de peixe. Ingredientes: postas de cação ou garoupa (700 gramas), suco de 1 limão, cebola grande cortada em rodelas, pimentão vermelho cortado em rodelas, pimentão verde cortado em rodelas, tomates maduros cortados em rodelas, coentro, leite de coco, azeite de dendê, tabletes de caldo de camarão. Preparo: Lave bem o peixe, regue com o suco de limão e deixe descansar por cerca de 1 hora. Em uma panela grande, coloque o peixe, a cebola, os pimentões, os tomates e polvilhe coentro. Esfarele os tabletes de caldo de camarão, misture-os ao leite de coco e regue o peixe."
+}

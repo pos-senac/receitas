@@ -1,0 +1,71 @@
+{
+  "id": "tg-129739",
+  "titulo": "Rosquinha frita super fácil para o café",
+  "url": "https://www.tudogostoso.com.br/receita/129739-rosquinha-frita-super-facil-para-o-cafe.html",
+  "nota": 4.5,
+  "n_avaliacoes": 222,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Rosquinha frita super fácil para o café",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de óleo"
+    },
+    {
+      "nome": "vinagre ou cachaça",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de vinagre ou cachaça"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes manualmente ou na batedeira.",
+      "Se a massa estiver mole e grudenta, adicione um pouco mais de farinha.",
+      "Se estiver um pouco dura, adicione um pouco de água.",
+      "Polvilhe um pouco de farinha sobre a mesa e faça uma \"tripinha\" com a massa, corte em pedaços e junte as pontas para formar as rosquinha.",
+      "Se preferir pode deixar em formato de palitos.",
+      "Frite em oleo quente e escorra em papel absorvente.",
+      "Depois de fritas polvilhe com açúcar e canela.",
+      "Fica uma delícia!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Rosquinha frita super fácil para o café. Ingredientes: ovos, óleo, vinagre ou cachaça, sal, fermento, açúcar, farinha de trigo. Preparo: Misture todos os ingredientes manualmente ou na batedeira. Se a massa estiver mole e grudenta, adicione um pouco mais de farinha. Se estiver um pouco dura, adicione um pouco de água."
+}

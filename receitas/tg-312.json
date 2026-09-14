@@ -1,0 +1,52 @@
+{
+  "id": "tg-312",
+  "titulo": "Arroz doce",
+  "url": "https://www.tudogostoso.com.br/receita/312-arroz-doce.html",
+  "nota": 4.5,
+  "n_avaliacoes": 225,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Arroz doce",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "arroz",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de arroz"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de água"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "Canela em pó para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pó para decorar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture o arroz e a água fria em uma panela grande e leve ao fogo até ferver, abaixe o fogo e deixe até que fique cozido.",
+      "Junte o leite condensado, mexa bem e retire do fogo. Sirva polvilhado com canela."
+    ],
+    "Microondas": [
+      "Em um recipiente refratário com bordas altas, coloque o arroz e 3 xícaras (chá) de água, deixe semitampado e cozinhe por cerca de 15 minutos, potência alta.",
+      "Acrescente o Leite Moça e deixe por cerca de mais 2 minutos, potência alta.",
+      "Retire e deixe por cerca de 5 minutos, em tempo de espera. Polvilhe a canela em pó e leve para gelar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Arroz doce. Ingredientes: arroz, água, leite condensado, Canela em pó para decorar. Preparo: Misture o arroz e a água fria em uma panela grande e leve ao fogo até ferver, abaixe o fogo e deixe até que fique cozido. Junte o leite condensado, mexa bem e retire do fogo. Sirva polvilhado com canela. Em um recipiente refratário com bordas altas, coloque o arroz e 3 xícaras (chá) de água, deixe semitampado e cozinhe por cerca de 15 minutos, potência alta."
+}

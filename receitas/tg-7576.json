@@ -1,0 +1,74 @@
+{
+  "id": "tg-7576",
+  "titulo": "Costela assada no forno",
+  "url": "https://www.tudogostoso.com.br/receita/7576-costela-assada-no-forno.html",
+  "nota": 4.5,
+  "n_avaliacoes": 150,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Costela assada no forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 150,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "costela não muito gordurosa",
+      "quantidade": "3",
+      "unidade": "kg",
+      "texto_original": "3 kg de costela não muito gordurosa"
+    },
+    {
+      "nome": "Alho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Alho"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta bode agosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta bode agosto"
+    },
+    {
+      "nome": "Cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebola"
+    },
+    {
+      "nome": "sachês sazon para carne (em balagem vermelha)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 sachês sazon para carne (em balagem vermelha)"
+    },
+    {
+      "nome": "Papel alumínio",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Papel alumínio"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse o alho, juntamente com o sal, pimenta, cebola e sazon, passe esse tempero muito bem na costela.",
+      "Envolva a costela já temperada no papel alumínio por três vezes (três folhas de papel alumínio). Deixando a costela em contato com o lado mais brilhante do papel, lembrando de apertar bem as bordas para ficar bem lacrado.",
+      "Leve ao forno quente por 2 horas.",
+      "Depois deste tempo retire o papel alumínio e deixe no forno para dar uma douradinha.",
+      "Fica uma delícia.",
+      "Lembrete: É melhor quando temperada de véspera."
+    ]
+  },
+  "utensilios": [
+    "Papel-alumínio",
+    "Forma",
+    "Prato raso",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Costela assada no forno. Ingredientes: costela não muito gordurosa, Alho, Sal a gosto, Pimenta bode agosto, Cebola, sachês sazon para carne (em balagem vermelha), Papel alumínio. Preparo: Amasse o alho, juntamente com o sal, pimenta, cebola e sazon, passe esse tempero muito bem na costela. Envolva a costela já temperada no papel alumínio por três vezes (três folhas de papel alumínio). Deixando a costela em contato com o lado mais brilhante do papel, lembrando de apertar bem as bordas para ficar bem lacrado. Leve ao forno quente por 2 horas."
+}

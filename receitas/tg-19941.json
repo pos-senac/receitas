@@ -1,0 +1,107 @@
+{
+  "id": "tg-19941",
+  "titulo": "Cookies maravilhosos de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/19941-cookies-maravilhosos-de-chocolate.html",
+  "nota": 4.6,
+  "n_avaliacoes": 246,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Cookies maravilhosos de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "chá de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de fermento em pó"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    },
+    {
+      "nome": "chá de manteiga (preferencialmente) s/ sal derretida ou margarina (aprox. 275 grs.)",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de chá de manteiga (preferencialmente) s/ sal derretida ou margarina (aprox. 275 grs.)"
+    },
+    {
+      "nome": "açúcar mascavo escuro",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar mascavo escuro"
+    },
+    {
+      "nome": "açúcar branco",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar branco"
+    },
+    {
+      "nome": "sopa de essência de baunilha",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de essência de baunilha"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "chocolate ao leite picado em quadradinhos(aprox. 2 barras de 180 grs) (não use gotas, elas são duras)",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chocolate ao leite picado em quadradinhos(aprox. 2 barras de 180 grs) (não use gotas, elas são duras)"
+    },
+    {
+      "nome": "aveia em flocos grossos",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de aveia em flocos grossos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Reserve alguns pedacinhos de chocolate picado e da aveia, para enfeitar o cook antes de assar.",
+      "Em uma tigela grande, coloque os açúcares, os ovos inteiros, as duas gemas e a baunilha.",
+      "Misture bem.",
+      "Derreta a manteiga e acrescente na mistura de açúcar e ovos.",
+      "Mexa bem, até ficar homogêneo.",
+      "Peneire sobre a mistura a farinha juntamente com o sal e o fermento.",
+      "Junte a aveia e o chocolate picado.",
+      "Misture, tampe e leve à geladeira por no mínimo 3 horas, pois a massa deve ficar bem dura.",
+      "Você pode fazer na noite anterior e assar pela manhã.",
+      "Não guarde a massa mais do que 1 dia na geladeira, pode estragar.",
+      "Depois de bem dura, unte 2 formas grandes com manteiga e farinha, faça bolas de 4 a 5 cm de diâmetro e dê uma leve pressionada nela, para fica mais num formato de disco, não de bola.",
+      "Deixe um espaço de 2 dedos de distância um cook do outro.",
+      "Coloque 2 a 3 quadradinhos de chocolate em cima e salpique com os flocos de aveia pra decorar.",
+      "Rende de 28 a 32 cooks grandes.",
+      "Asse em forno pré aquecido 190 graus por 12-13 minutos apenas.",
+      "Vão parecer que não estão prontos mas confie, estarão prontos.",
+      "Aos poucos vc descobrirá o ponto exato do cook, pois a diferença de calor dos fornos pode influenciar.",
+      "Deixe amornar, pois o cozimento ainda continua depois de tirado do forno.",
+      "Por fora ele fica levemente crocante e dentro macio e com chocolate derretido.",
+      "Desfrute com um cafezinho ou leite puro gelado!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cookies maravilhosos de chocolate. Ingredientes: farinha de trigo, chá de fermento em pó, chá de sal, chá de manteiga (preferencialmente) s/ sal derretida ou margarina (aprox. 275 grs.), açúcar mascavo escuro, açúcar branco, sopa de essência de baunilha, ovos inteiros, gemas, chocolate ao leite picado em quadradinhos(aprox. 2 barras de 180 grs) (não use gotas, elas são duras), aveia em flocos grossos. Preparo: Reserve alguns pedacinhos de chocolate picado e da aveia, para enfeitar o cook antes de assar. Em uma tigela grande, coloque os açúcares, os ovos inteiros, as duas gemas e a baunilha. Misture bem."
+}

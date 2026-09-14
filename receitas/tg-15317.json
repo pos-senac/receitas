@@ -1,0 +1,69 @@
+{
+  "id": "tg-15317",
+  "titulo": "Bolo mármore para lanche",
+  "url": "https://www.tudogostoso.com.br/receita/15317-bolo-marmore-para-lanche.html",
+  "nota": 4.6,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo mármore para lanche",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as gemas com açúcar e a margarina.",
+      "Acrescente o leite, a farinha de trigo.",
+      "Por último coloque as claras em neve e o fermento.",
+      "Coloque a massa numa forma de furo central untada, deixando um pouco da massa para misturar o chocolate.",
+      "Coloque essa mistura sobre a massa que já está na forma.",
+      "Forno por 40 a 50 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo mármore para lanche. Ingredientes: ovos, açúcar, sopa de margarina, leite, farinha de trigo, sopa de chocolate em pó, sopa de fermento em pó. Preparo: Bata as gemas com açúcar e a margarina. Acrescente o leite, a farinha de trigo. Por último coloque as claras em neve e o fermento."
+}

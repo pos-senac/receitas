@@ -1,0 +1,63 @@
+{
+  "id": "tg-38",
+  "titulo": "Molho branco",
+  "url": "https://www.tudogostoso.com.br/receita/38-molho-branco.html",
+  "nota": 4.5,
+  "n_avaliacoes": 901,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Molho branco",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "noz-moscada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "noz-moscada a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino branca a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino branca a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Ferva o leite. Derreta a manteiga, junte a farinha e mexa bem até obter uma pasta homogênea. Aos poucos, acrescente o leite e bata, constantemente, para não empelotar. Deixe cozinhar por alguns minutos e tempere com sal, noz-moscada e pimenta."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Molho branco. Ingredientes: leite, manteiga, farinha de trigo, sal a gosto, noz-moscada a gosto, pimenta-do-reino branca a gosto. Preparo: Ferva o leite. Derreta a manteiga, junte a farinha e mexa bem até obter uma pasta homogênea. Aos poucos, acrescente o leite e bata, constantemente, para não empelotar. Deixe cozinhar por alguns minutos e tempere com sal, noz-moscada e pimenta."
+}

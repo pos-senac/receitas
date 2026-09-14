@@ -1,0 +1,65 @@
+{
+  "id": "tg-592",
+  "titulo": "Brigadeirão",
+  "url": "https://www.tudogostoso.com.br/receita/592-brigadeirao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1436,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Brigadeirão",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "leite de vaca (use a lata de leite condensado como medida)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite de vaca (use a lata de leite condensado como medida)"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de chocolate em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar suficiente para polvilhar a forma",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar suficiente para polvilhar a forma"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata o leite condensado, o leite de vaca, a manteiga, o chocolate em pó e os ovos no liquidificador.",
+      "Unte uma forma com buraco no meio e polvilhe com açúcar.",
+      "Coloque a mistura liquidificada na forma e leve ao forno para assar em banho-maria por mais ou menos 1 hora, a 150°C."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Pincel de silicone",
+    "Copo medidor",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Brigadeirão. Ingredientes: leite condensado, leite de vaca (use a lata de leite condensado como medida), manteiga, chocolate em pó, ovos, açúcar suficiente para polvilhar a forma. Preparo: Bata o leite condensado, o leite de vaca, a manteiga, o chocolate em pó e os ovos no liquidificador. Unte uma forma com buraco no meio e polvilhe com açúcar. Coloque a mistura liquidificada na forma e leve ao forno para assar em banho-maria por mais ou menos 1 hora, a 150°C."
+}

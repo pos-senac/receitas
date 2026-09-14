@@ -1,0 +1,77 @@
+{
+  "id": "tg-97187",
+  "titulo": "Bolo de leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/97187-bolo-de-leite-condensado.html",
+  "nota": 3.9,
+  "n_avaliacoes": 185,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de leite condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "Mesma medida da lata de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Mesma medida da lata de leite"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros"
+    },
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga sem sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pré-aqueça o forno a 180ºC.",
+      "Em um liquidificador, bata todos os ingredientes, começando pelos líquidos e depois os secos.",
+      "Transfira para uma forma untada e enfarinhada, leve ao forno por aproximadamente 40 minutos, ou até que esteja dourado."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espatula",
+    "Espátula para bolo",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de leite condensado. Ingredientes: leite condensado, Mesma medida da lata de leite, ovos inteiros, manteiga sem sal, açúcar, farinha de trigo, fermento em pó, sal. Preparo: Pré-aqueça o forno a 180ºC. Em um liquidificador, bata todos os ingredientes, começando pelos líquidos e depois os secos. Transfira para uma forma untada e enfarinhada, leve ao forno por aproximadamente 40 minutos, ou até que esteja dourado."
+}

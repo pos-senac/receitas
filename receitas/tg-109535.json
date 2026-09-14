@@ -1,0 +1,82 @@
+{
+  "id": "tg-109535",
+  "titulo": "Bolo de maçã de liquidificador - o melhor do mundo",
+  "url": "https://www.tudogostoso.com.br/receita/109535-bolo-de-maca-de-liquidificador-o-melhor-do-mundo.html",
+  "nota": 4.8,
+  "n_avaliacoes": 1292,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de maçã de liquidificador - o melhor do mundo",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "sopa de canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de canela em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "maçãs grandes",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 maçãs grandes"
+    },
+    {
+      "nome": "óleo vegetal",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo vegetal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte e polvilhe com farinha um tabuleiro médio (23×35), ou uma fôrma de buraco no meio.",
+      "Em uma tigela grande, peneirar a farinha e o açúcar. Juntar os demais ingredientes secos. Reservar.",
+      "Descascar as maçãs, reservando as cascas. Picar em cubinhos.",
+      "Bater no liquidificador os ovos, o óleo e as cascas da maçã.",
+      "Juntar essa mistura na tigela com os ingredientes secos e misturar delicadamente.",
+      "Junte as maçãs picadas, misture e despeje na assadeira.",
+      "Asse por cerca de 40 a 50 minutos em forno médio.",
+      "Depois de pronto polvilhar açúcar e canela."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Assadeira redonda",
+    "Bowl",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Bolo de maçã de liquidificador - o melhor do mundo. Ingredientes: farinha de trigo, açúcar, sopa de fermento em pó, sopa de canela em pó, sal, ovos, maçãs grandes, óleo vegetal. Preparo: Unte e polvilhe com farinha um tabuleiro médio (23×35), ou uma fôrma de buraco no meio. Em uma tigela grande, peneirar a farinha e o açúcar. Juntar os demais ingredientes secos. Reservar. Descascar as maçãs, reservando as cascas. Picar em cubinhos."
+}

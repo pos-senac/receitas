@@ -1,0 +1,62 @@
+{
+  "id": "tg-22680",
+  "titulo": "Arroz de leite (arroz doce)",
+  "url": "https://www.tudogostoso.com.br/receita/22680-arroz-de-leite-arroz-doce.html",
+  "nota": 4.6,
+  "n_avaliacoes": 215,
+  "categoria": "Receitas arroz",
+  "subcategoria": "Arroz de leite (arroz doce)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "arroz branco",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de arroz branco"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "gema",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema"
+    },
+    {
+      "nome": "Açúcar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o arroz com uma xícara de água.",
+      "Antes de secar completamente, adicione o leite e o leite condensado.",
+      "Deixe em fogo alto até ferver, após mantenha em fogo baixo até o final.",
+      "Mexa de vez em quando, e retire a nata que se formar.",
+      "Antes de retirar do fogo, bata uma gemada com açúcar a gosto e adicione a panela.",
+      "Mexa bem.",
+      "Coloque em um prato e polvilhe com canela."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Prato fundo"
+  ],
+  "texto_para_embedding": "Arroz de leite (arroz doce). Ingredientes: arroz branco, litro de leite, leite condensado, gema, Açúcar. Preparo: Cozinhe o arroz com uma xícara de água. Antes de secar completamente, adicione o leite e o leite condensado. Deixe em fogo alto até ferver, após mantenha em fogo baixo até o final."
+}

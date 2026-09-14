@@ -1,0 +1,93 @@
+{
+  "id": "tg-60429",
+  "titulo": "Bolo de caneca micro-ondas",
+  "url": "https://www.tudogostoso.com.br/receita/60429-bolo-de-caneca-micro-ondas.html",
+  "nota": 4.4,
+  "n_avaliacoes": 1795,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de caneca micro-ondas",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de achocolatado em pó"
+    },
+    {
+      "nome": "rasas de açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) rasas de açúcar"
+    },
+    {
+      "nome": "rasas de farinha de trigo",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) rasas de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "rasa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) rasa de fermento em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de leite"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de achocolatado em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes dentro de uma caneca de aproximadamente 300 ml ou mais.",
+      "Mexa até obter uma massa homogênea e leve ao micro-ondas por 3 minutos."
+    ],
+    "Calda": [
+      "Coloque todos os ingredientes em uma panela, leve ao fogo médio e misture até obter uma consistência grossa.",
+      "Despeje a calda sobre o bolo assim que retirá-lo do microondas."
+    ]
+  },
+  "utensilios": [
+    "Caneca",
+    "Panela",
+    "Colher para sobremesa",
+    "Luva térmica",
+    "Micro-ondas"
+  ],
+  "texto_para_embedding": "Bolo de caneca micro-ondas. Ingredientes: ovo, achocolatado em pó, rasas de açúcar, rasas de farinha de trigo, óleo, rasa de fermento em pó, leite, achocolatado em pó, margarina, leite. Preparo: Coloque todos os ingredientes dentro de uma caneca de aproximadamente 300 ml ou mais. Mexa até obter uma massa homogênea e leve ao micro-ondas por 3 minutos. Coloque todos os ingredientes em uma panela, leve ao fogo médio e misture até obter uma consistência grossa."
+}

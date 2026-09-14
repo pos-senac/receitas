@@ -1,0 +1,123 @@
+{
+  "id": "tg-3279",
+  "titulo": "Macarrão de verão Tudo Gostoso",
+  "url": "https://www.tudogostoso.com.br/receita/3279-macarrao-de-verao-tudo-gostoso.html",
+  "nota": 4.6,
+  "n_avaliacoes": 146,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão de verão Tudo Gostoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "espaguete integral fininho (pode utilizar o normal)",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de espaguete integral fininho (pode utilizar o normal)"
+    },
+    {
+      "nome": "bem cheia de margarina light sem sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher bem cheia de margarina light sem sal"
+    },
+    {
+      "nome": "alho picado bem miudinho",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho picado bem miudinho"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "abobrinhas pequenas picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 abobrinhas pequenas picadas"
+    },
+    {
+      "nome": "azeitonas picadas",
+      "quantidade": "7",
+      "unidade": null,
+      "texto_original": "7 azeitonas picadas"
+    },
+    {
+      "nome": "cenoura pequena ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura pequena ralada"
+    },
+    {
+      "nome": "carne de sobrecoxa de frango cortada em cubinhos",
+      "quantidade": "600",
+      "unidade": "g",
+      "texto_original": "600 g de carne de sobrecoxa de frango cortada em cubinhos"
+    },
+    {
+      "nome": "cubinhos de caldo de frango",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubinhos de caldo de frango"
+    },
+    {
+      "nome": "colorau",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de colorau"
+    },
+    {
+      "nome": "tomates médios picados, se desejar tire a pele",
+      "quantidade": "7",
+      "unidade": null,
+      "texto_original": "7 tomates médios picados, se desejar tire a pele"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "louro em pó a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "louro em pó a gosto"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de orégano"
+    },
+    {
+      "nome": "água",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o espague al dente.",
+      "Cozinhe a abobrinha (também al dente e, de preferência, no vapor) e reserve.",
+      "Coloque numa panela grande, de preferência wok, a margarina.",
+      "Deixe derreter, acrescente a cebola, deixe dar uma douradinha e coloque o alho.",
+      "Acrescente o frango e deixe dourar.",
+      "Pique os cubinhos de caldo sobre o frango, mexa.",
+      "Coloque os tomates, a pimenta-do-reino, o louro e a cenoura ralada.",
+      "Cozinhe por aproximadamente 10 minutos.",
+      "Acrescente a água e o orégano e deixe ferver em fogo médio até dar uma encorpada.",
+      "Então coloque a abobrinha, as azeitonas e em seguida o macarrão e mexa bem.",
+      "Tampe a panela e deixe cozinhar por mais 1 minuto.",
+      "Desligue e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão de verão Tudo Gostoso. Ingredientes: espaguete integral fininho (pode utilizar o normal), bem cheia de margarina light sem sal, alho picado bem miudinho, cebola média picada, abobrinhas pequenas picadas, azeitonas picadas, cenoura pequena ralada, carne de sobrecoxa de frango cortada em cubinhos, cubinhos de caldo de frango, colorau, tomates médios picados, se desejar tire a pele, pimenta-do-reino a gosto, louro em pó a gosto, orégano, água. Preparo: Cozinhe o espague al dente. Cozinhe a abobrinha (também al dente e, de preferência, no vapor) e reserve. Coloque numa panela grande, de preferência wok, a margarina."
+}

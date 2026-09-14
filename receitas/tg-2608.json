@@ -1,0 +1,61 @@
+{
+  "id": "tg-2608",
+  "titulo": "Bolo pão de ló",
+  "url": "https://www.tudogostoso.com.br/receita/2608-bolo-pao-de-lo.html",
+  "nota": 4.6,
+  "n_avaliacoes": 733,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo pão de ló",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de açúcar"
+    },
+    {
+      "nome": "leite quente",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de leite quente"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as claras em neve e acrescente o açúcar.",
+      "Depois, acrescente as gemas e misture tudo muito bem.",
+      "Coloque a farinha de trigo e, em seguida, o fermento.",
+      "Por último, acrescente o leite quente.",
+      "Coloque em uma forma untada e enfarinhada, depois leve para assar ao forno 180 °C por 30 a 40 minutos, aproximadamente."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Bowl",
+    "Formo de bolo",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo pão de ló. Ingredientes: ovos, farinha de trigo, açúcar, leite quente, fermento. Preparo: Bata as claras em neve e acrescente o açúcar. Depois, acrescente as gemas e misture tudo muito bem. Coloque a farinha de trigo e, em seguida, o fermento."
+}

@@ -1,0 +1,69 @@
+{
+  "id": "tg-128269",
+  "titulo": "Lasanha de pão de forma",
+  "url": "https://www.tudogostoso.com.br/receita/128269-lasanha-de-pao-de-forma.html",
+  "nota": 4.7,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Lasanha de pão de forma",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "pão de forma pode ser com casca",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de pão de forma pode ser com casca"
+    },
+    {
+      "nome": "queijo lanche",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de queijo lanche"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de presunto"
+    },
+    {
+      "nome": "litro de leite líquido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite líquido"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "creme de queijo arisco ou maggi",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de creme de queijo arisco ou maggi"
+    },
+    {
+      "nome": "Queijo ralado a gosto para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo ralado a gosto para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela dissolva o creme de queijo com o leite líquido e leve ao fogo até virar um mingau bem cremoso.",
+      "Desligue e coloque o creme de leite.",
+      "Em um refratario de vidro ou de sua preferência começe colocando o molho e intercale com pão, queijo e o presunto.",
+      "Quando finalizar polvilhe com o queijo ralado e leve ao forno até gratinar.",
+      "Sirva com batata palha se quiser.",
+      "Espero que gostem."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Lasanha de pão de forma. Ingredientes: pão de forma pode ser com casca, queijo lanche, presunto, litro de leite líquido, creme de leite, creme de queijo arisco ou maggi, Queijo ralado a gosto para polvilhar. Preparo: Em uma panela dissolva o creme de queijo com o leite líquido e leve ao fogo até virar um mingau bem cremoso. Desligue e coloque o creme de leite. Em um refratario de vidro ou de sua preferência começe colocando o molho e intercale com pão, queijo e o presunto."
+}

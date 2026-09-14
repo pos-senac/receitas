@@ -1,0 +1,54 @@
+{
+  "id": "tg-51310",
+  "titulo": "Biscoito de Maizena",
+  "url": "https://www.tudogostoso.com.br/receita/51310-biscoito-de-maizena.html",
+  "nota": 4.4,
+  "n_avaliacoes": 172,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de Maizena",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "Maizena",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de Maizena"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de margarina"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misturar todos os ingredientes em um bacia até formar uma bola de massa.",
+      "Faça bolinhas com as mãos.",
+      "Coloque em uma assadeira, não precisa untar, amasse com o garfo.",
+      "Asse em forno médio, pré-aquecido."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Forma",
+    "Saco de confeiteiro"
+  ],
+  "texto_para_embedding": "Biscoito de Maizena. Ingredientes: Maizena, margarina, ovo, açúcar. Preparo: Misturar todos os ingredientes em um bacia até formar uma bola de massa. Faça bolinhas com as mãos. Coloque em uma assadeira, não precisa untar, amasse com o garfo."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tg-1440",
+  "titulo": "Mousse de maracujá cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/1440-mousse-de-maracuja-cremoso.html",
+  "nota": 4.7,
+  "n_avaliacoes": 194,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de maracujá cremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 9,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite (com soro)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (com soro)"
+    },
+    {
+      "nome": "suco de maracujá fruta",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara do suco de maracujá fruta"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "gelatina incolor",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de gelatina incolor"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater no liquidificador o leite condensado, o creme de leite e o suco.",
+      "Depois dissolver a gelatina no leite quente e misturar com os demais ingredientes no liquidificador batendo por 3 minutos.",
+      "Colocar num recipiente e levar à geladeira.",
+      "Para enfeitar colocar em cima do mousse sementes do maracujá."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Mousse de maracujá cremoso. Ingredientes: leite condensado, creme de leite (com soro), suco de maracujá fruta, leite, gelatina incolor. Preparo: Bater no liquidificador o leite condensado, o creme de leite e o suco. Depois dissolver a gelatina no leite quente e misturar com os demais ingredientes no liquidificador batendo por 3 minutos. Colocar num recipiente e levar à geladeira."
+}

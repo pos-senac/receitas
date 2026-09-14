@@ -1,0 +1,64 @@
+{
+  "id": "tg-15626",
+  "titulo": "Rabanada",
+  "url": "https://www.tudogostoso.com.br/receita/15626-rabanada.html",
+  "nota": 4.7,
+  "n_avaliacoes": 219,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Rabanada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "pão tipo baguete amanhecido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pão tipo baguete amanhecido"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "Açúcar e canela em pó para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar e canela em pó para polvilhar"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte o pão em fatias.",
+      "Misture os ovos o leite condensado e o leite.",
+      "Passe as fatias nessa mistura.",
+      "Frite em óleo quente.",
+      "Escorra em papel toalha.",
+      "Polvilhe o açúcar com a canela.",
+      "Sirva a seguir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Rabanada. Ingredientes: pão tipo baguete amanhecido, ovos, leite condensado, leite, Açúcar e canela em pó para polvilhar, Óleo para fritar. Preparo: Corte o pão em fatias. Misture os ovos o leite condensado e o leite. Passe as fatias nessa mistura."
+}

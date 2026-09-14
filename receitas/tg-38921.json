@@ -1,0 +1,67 @@
+{
+  "id": "tg-38921",
+  "titulo": "Gelatina ao creme com morangos",
+  "url": "https://www.tudogostoso.com.br/receita/38921-gelatina-ao-creme-com-morangos.html",
+  "nota": 4.7,
+  "n_avaliacoes": 693,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina ao creme com morangos",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "gelatina sabor morango",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de gelatina sabor morango"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite (use a medida do leite condensado)",
+      "quantidade": "1 e 1/2",
+      "unidade": "latas",
+      "texto_original": "1 e 1/2 latas de leite (use a medida do leite condensado)"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de maizena"
+    },
+    {
+      "nome": "morangos cortados ao meio (limpos e sem folhas)",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de morangos cortados ao meio (limpos e sem folhas)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva a gelatina conforme as instruções da embalagem.",
+      "Reserve.",
+      "Em uma panela coloque o leite condensado, o creme de leite e metade do leite.",
+      "Mexa sem parar em fogo brando.",
+      "Misture a maizena no restante do leite e acrescente ao creme.",
+      "Mexa até ficar um creme consistente.",
+      "Deixe esfriar.",
+      "Em um refratário de vidro, espalhe o creme e coloque os morangos cortados ao meio, por cima.",
+      "Com uma colher coloque a gelatina por cima dos morangos.",
+      "Leve para gelar por aproximadamente 3 horas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Gelatina ao creme com morangos. Ingredientes: gelatina sabor morango, leite condensado, creme de leite, leite (use a medida do leite condensado), maizena, morangos cortados ao meio (limpos e sem folhas). Preparo: Dissolva a gelatina conforme as instruções da embalagem. Reserve. Em uma panela coloque o leite condensado, o creme de leite e metade do leite."
+}

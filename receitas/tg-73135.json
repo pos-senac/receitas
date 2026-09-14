@@ -1,0 +1,69 @@
+{
+  "id": "tg-73135",
+  "titulo": "Brigadeirão rápido e fácil",
+  "url": "https://www.tudogostoso.com.br/receita/73135-brigadeirao-rapido-e-facil.html",
+  "nota": 4.4,
+  "n_avaliacoes": 2730,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Brigadeirão rápido e fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de achocolatado em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "margarina sem sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina sem sal"
+    },
+    {
+      "nome": "chocolate granulado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate granulado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador por 5 minutos até obter uma consistência cremosa.",
+      "Despeje a massa em uma forma com furo central para micro-ondas, untada com margarina.",
+      "Leve ao forno micro-ondas por 10 minutos.",
+      "Deixe a massa esfriar por 15 minutos e leve à geladeira por 1 hora.",
+      "Desenforme e confeite com chocolate granulado."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Refratário",
+    "Colher de silicone",
+    "Forno elétrico",
+    "Micro-ondas"
+  ],
+  "texto_para_embedding": "Brigadeirão rápido e fácil. Ingredientes: leite condensado, creme de leite, achocolatado em pó, ovos, margarina sem sal, chocolate granulado. Preparo: Bata todos os ingredientes no liquidificador por 5 minutos até obter uma consistência cremosa. Despeje a massa em uma forma com furo central para micro-ondas, untada com margarina. Leve ao forno micro-ondas por 10 minutos."
+}

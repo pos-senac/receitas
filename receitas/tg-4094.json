@@ -1,0 +1,41 @@
+{
+  "id": "tg-4094",
+  "titulo": "Doce de leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/4094-doce-de-leite-condensado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 159,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Doce de leite condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "Água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela de pressão a lata de leite condensado fechada.",
+      "Coloque água até cobrir a lata.",
+      "Leve ao fogo alto e conte 30 minutos após começar a \"chiar\".",
+      "Tire a lata e deixe esfriar.",
+      "Abra a lata e estará um doce delicioso."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Abridor de lata"
+  ],
+  "texto_para_embedding": "Doce de leite condensado. Ingredientes: leite condensado, Água. Preparo: Coloque em uma panela de pressão a lata de leite condensado fechada. Coloque água até cobrir a lata. Leve ao fogo alto e conte 30 minutos após começar a \"chiar\"."
+}

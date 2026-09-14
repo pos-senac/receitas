@@ -1,0 +1,70 @@
+{
+  "id": "tg-93341",
+  "titulo": "Filé de frango à milanesa sem fritura",
+  "url": "https://www.tudogostoso.com.br/receita/93341-file-de-frango-a-milanesa-sem-fritura.html",
+  "nota": 4.4,
+  "n_avaliacoes": 105,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Filé de frango à milanesa sem fritura",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "filés de frango (4 filés)",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de filés de frango (4 filés)"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "ou 2 dentes de alho amassados",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ou 2 dentes de alho amassados"
+    },
+    {
+      "nome": "rasa de suco de limão",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de suco de limão"
+    },
+    {
+      "nome": "clara",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 clara"
+    },
+    {
+      "nome": "rasa de farinha de rosca",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) rasa de farinha de rosca"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os filés de frango com o sal, alho e o limão ou ainda, se preferir, poderá ser usado tempero pronto, a gosto.",
+      "Passe os filés pela clara batida com a ajuda de um garfo e depois pela farinha de rosca.",
+      "Coloque os filés numa assadeira pincelada com o óleo.",
+      "Leve ao forno médio (180° C) por cerca de 20 minutos, após, vire do outro lado e deixe por mais 10 minutos.",
+      "Servir com arroz e saladas.",
+      "É receita prática (pronta para ir ao forno em apenas 15 minutos), fica saborosa e muito saudável!",
+      "As crianças adoram!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Filé de frango à milanesa sem fritura. Ingredientes: filés de frango (4 filés), sal, ou 2 dentes de alho amassados, rasa de suco de limão, clara, rasa de farinha de rosca, óleo. Preparo: Tempere os filés de frango com o sal, alho e o limão ou ainda, se preferir, poderá ser usado tempero pronto, a gosto. Passe os filés pela clara batida com a ajuda de um garfo e depois pela farinha de rosca. Coloque os filés numa assadeira pincelada com o óleo."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tg-437",
+  "titulo": "Costela na panela de pressão sem água",
+  "url": "https://www.tudogostoso.com.br/receita/437-costela-na-panela-de-pressao-sem-agua.html",
+  "nota": 4.3,
+  "n_avaliacoes": 542,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Costela na panela de pressão sem água",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "costela vaca meio magra",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de costela vaca meio magra"
+    },
+    {
+      "nome": "tablete de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque  a costela e o caldo na panela de pressão, espere abrir fervura e  deixe cozinhar por 10 minutos (não precisa de água).",
+      "Abra a panela mexa, para que o caldo mistura com costela.",
+      "Feche a panela e deixa abrir fervura novamente e deixa cozinhar por 20 minutos. Pronto é so servir.",
+      "Atenção: na hora de preparar vai cheirar queimado, isso é normal.",
+      "a costela tem que ser meia magra, fica parecendo churrasco e se for gorda junta muita água fica parecendo cozida."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Costela na panela de pressão sem água. Ingredientes: costela vaca meio magra, tablete de caldo de carne. Preparo: Coloque  a costela e o caldo na panela de pressão, espere abrir fervura e  deixe cozinhar por 10 minutos (não precisa de água). Abra a panela mexa, para que o caldo mistura com costela. Feche a panela e deixa abrir fervura novamente e deixa cozinhar por 20 minutos. Pronto é so servir."
+}

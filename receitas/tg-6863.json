@@ -1,0 +1,55 @@
+{
+  "id": "tg-6863",
+  "titulo": "Molho Branco",
+  "url": "https://www.tudogostoso.com.br/receita/6863-molho-branco.html",
+  "nota": 4.6,
+  "n_avaliacoes": 150,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Molho Branco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola ralada"
+    },
+    {
+      "nome": "leite líquido",
+      "quantidade": "1 e 1/2",
+      "unidade": "copo",
+      "texto_original": "1 e 1/2 copo de leite líquido"
+    },
+    {
+      "nome": "amio de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de amio de milho"
+    },
+    {
+      "nome": "Azeite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Rale a cebola e coloque com azeite no fogo, deixe dourar.",
+      "Adicione 1 copo de leite liquido e mexa até ferver.",
+      "Dissolva o amido de milho no restante do leite e despeje no leite fervendo, mexa até ficar um creme, desligue o fogo e adicione o creme de leite com uma pitada de sal. É uma delícia pra colocar em cima de um macarrão, lasanha, pizza, e sanduíche.",
+      "Pronto super prático e ai é só saborear."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Molho Branco. Ingredientes: cebola ralada, leite líquido, amio de milho, Azeite, creme de leite. Preparo: Rale a cebola e coloque com azeite no fogo, deixe dourar. Adicione 1 copo de leite liquido e mexa até ferver. Dissolva o amido de milho no restante do leite e despeje no leite fervendo, mexa até ficar um creme, desligue o fogo e adicione o creme de leite com uma pitada de sal. É uma delícia pra colocar em cima de um macarrão, lasanha, pizza, e sanduíche."
+}

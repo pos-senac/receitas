@@ -1,0 +1,97 @@
+{
+  "id": "tg-80024",
+  "titulo": "Salada de Macarrão com Atum",
+  "url": "https://www.tudogostoso.com.br/receita/80024-salada-de-macarrao-com-atum.html",
+  "nota": 4.8,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas saladas",
+  "subcategoria": "Salada de Macarrão com Atum",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "macarrão parafuso",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de macarrão parafuso"
+    },
+    {
+      "nome": "cebola bem picadinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola bem picadinha"
+    },
+    {
+      "nome": "tomates sem sementes cortados em cubinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates sem sementes cortados em cubinhos"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "atum ralado sem o óleo da conserva",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de atum ralado sem o óleo da conserva"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de mostarda"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de maionese"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "cheiro verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro verde a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela ferva a água para cozinhar o macarrão.",
+      "Cozinhe da forma tradicional deixando o macarrão al dente.",
+      "Enquanto isso prepare a mistura para temperar o macarrão.",
+      "Coloque em uma vasilha grande as 2 latas de atum, a cebola, os tomates, o milho, a maionese, a mostarda, sal, pimenta do reino e o cheiro verde.",
+      "Cuidadosamente misture bem.",
+      "Depois que o macarrão estiver cozido, colque em um refratário e adicione a mistura mexendo levemente para não quebrar o macarrão.",
+      "Quando a mistura estiver bem incorporada ao macarrão leve para a geladeira por no mínimo 1 hora e meia.",
+      "Eu prefiro fazer com de um dia para o outro,pois o sabor fica bem mais apurado.",
+      "Sirva como prato principal em dias quentes acompanhado de um frango grelhado."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Prato fundo",
+    "Fogão",
+    "Pegador de macarrão",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Salada de Macarrão com Atum. Ingredientes: macarrão parafuso, cebola bem picadinha, tomates sem sementes cortados em cubinhos, milho verde, atum ralado sem o óleo da conserva, mostarda, maionese, sal, pimenta-do-reino a gosto, cheiro verde a gosto. Preparo: Em uma panela ferva a água para cozinhar o macarrão. Cozinhe da forma tradicional deixando o macarrão al dente. Enquanto isso prepare a mistura para temperar o macarrão."
+}

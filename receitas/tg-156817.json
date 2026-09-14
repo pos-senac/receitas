@@ -1,0 +1,70 @@
+{
+  "id": "tg-156817",
+  "titulo": "Arroz doce delicioso supercremoso",
+  "url": "https://www.tudogostoso.com.br/receita/156817-arroz-doce-delicioso-supercremoso.html",
+  "nota": 4.8,
+  "n_avaliacoes": 309,
+  "categoria": "Receitas arroz doce",
+  "subcategoria": "Arroz doce delicioso supercremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "arroz",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de arroz"
+    },
+    {
+      "nome": "água quente para cozinhar o arroz",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de água quente para cozinhar o arroz"
+    },
+    {
+      "nome": "leite quente",
+      "quantidade": "600",
+      "unidade": "ml",
+      "texto_original": "600 ml de leite quente"
+    },
+    {
+      "nome": "leite condensado (1/2 para quem não gosta do arroz muito doce)",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de leite condensado (1/2 para quem não gosta do arroz muito doce)"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de creme de leite"
+    },
+    {
+      "nome": "canela em pó a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o arroz em fogo baixo até ficar macio.",
+      "Aqueça o leite separadamente em uma panela até ferver.",
+      "Quando o arroz estiver cozido, acrescente o leite quente e vá mexendo para não grudar no fundo da panela.",
+      "Incorpore o leite condensado e a canela na quantidade de sua preferência e vá mexendo até engrossar.",
+      "Desligue o fogo, adicione o creme de leite e misture por mais alguns minutos.",
+      "Está pronto para servir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Colher para sobremesa",
+    "Copo medidor",
+    "Fogão",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Arroz doce delicioso supercremoso. Ingredientes: arroz, água quente para cozinhar o arroz, leite quente, leite condensado (1/2 para quem não gosta do arroz muito doce), creme de leite, canela em pó a gosto. Preparo: Cozinhe o arroz em fogo baixo até ficar macio. Aqueça o leite separadamente em uma panela até ferver. Quando o arroz estiver cozido, acrescente o leite quente e vá mexendo para não grudar no fundo da panela."
+}

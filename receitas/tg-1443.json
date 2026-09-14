@@ -1,0 +1,74 @@
+{
+  "id": "tg-1443",
+  "titulo": "Pão de queijo",
+  "url": "https://www.tudogostoso.com.br/receita/1443-pao-de-queijo.html",
+  "nota": 4.2,
+  "n_avaliacoes": 1060,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de queijo",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "polvilho azedo",
+      "quantidade": "800",
+      "unidade": "g",
+      "texto_original": "800 g de polvilho azedo"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, ferva a água e acrescente o leite, o óleo e o sal.",
+      "Adicione o polvilho aos poucos até dar liga. Pode ser que você não precise usar os 800g, então coloque devagar e sove a massa até soltar da mão: esse é o ponto.",
+      "Quando a massa estiver morna, acrescente o queijo parmesão, os ovos e misture bem.",
+      "Unte as mãos e enrole bolinhas de 2 cm de diâmetro.",
+      "Disponha as bolinhas em uma assadeira untada com óleo, deixando um espaço entre elas.",
+      "Asse em forno médio (180º C), preaquecido, por cerca de 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Forma",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Pão de queijo. Ingredientes: polvilho azedo, água, leite, óleo, ovos, queijo parmesão ralado, sal a gosto. Preparo: Em uma panela, ferva a água e acrescente o leite, o óleo e o sal. Adicione o polvilho aos poucos até dar liga. Pode ser que você não precise usar os 800g, então coloque devagar e sove a massa até soltar da mão: esse é o ponto. Quando a massa estiver morna, acrescente o queijo parmesão, os ovos e misture bem."
+}

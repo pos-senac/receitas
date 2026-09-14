@@ -1,0 +1,94 @@
+{
+  "id": "tg-951",
+  "titulo": "Bolo de chocolate molhadinho",
+  "url": "https://www.tudogostoso.com.br/receita/951-bolo-de-chocolate-molhadinho.html",
+  "nota": 4.3,
+  "n_avaliacoes": 6231,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate molhadinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 ovos"
+    },
+    {
+      "nome": "Cobertura",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cobertura"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Em uma batedeira, bata as claras em neve.",
+      "Acrescente as gemas, o açúcar e bata novamente.",
+      "Adicione a farinha, o chocolate em pó, o fermento, o leite e bata por mais alguns minutos.",
+      "Despeje a massa em uma forma untada e leve para assar em forno médio (180° C), preaquecido, por 40 minutos."
+    ],
+    "Cobertura:": [
+      "Em uma panela, leve a fogo médio o chocolate em pó, a manteiga e o leite, deixe até ferver.",
+      "Despeje quente sobre o bolo já assado."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Bowl",
+    "Espátula para bolo",
+    "Forma"
+  ],
+  "texto_para_embedding": "Bolo de chocolate molhadinho. Ingredientes: farinha de trigo, açúcar, leite, chocolate em pó, fermento em pó, ovos, Cobertura, manteiga, leite, chocolate em pó. Preparo: Em uma batedeira, bata as claras em neve. Acrescente as gemas, o açúcar e bata novamente. Adicione a farinha, o chocolate em pó, o fermento, o leite e bata por mais alguns minutos."
+}

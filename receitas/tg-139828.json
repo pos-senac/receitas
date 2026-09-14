@@ -1,0 +1,74 @@
+{
+  "id": "tg-139828",
+  "titulo": "Bolo de pão de queijo simples da Sandra",
+  "url": "https://www.tudogostoso.com.br/receita/139828-bolo-de-pao-de-queijo-simples-da-sandra.html",
+  "nota": 4.8,
+  "n_avaliacoes": 190,
+  "categoria": "Receitas bolo salgado",
+  "subcategoria": "Bolo de pão de queijo simples da Sandra",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "polvilho doce",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de polvilho doce"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de sal"
+    },
+    {
+      "nome": "queijo parmesão ralado (pode ser parmesão fresco, fica mais gostoso)",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de queijo parmesão ralado (pode ser parmesão fresco, fica mais gostoso)"
+    },
+    {
+      "nome": "rasa (sopa) de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Preaqueça o forno em 180ºC por 20 minutos.",
+      "Unte a forma (com furo no meio) apenas com óleo.",
+      "Bata no liquidificador os ovos, o leite, o óleo.",
+      "Em uma vasilha, misture aos poucos, o polvilho e o queijo, mais o que foi batido no liquifiicador, assim feito.",
+      "Coloque o fermento e mexa devagar.",
+      "Asse em forno a 180°C por mais ou menos 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Bowl",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Bolo de pão de queijo simples da Sandra. Ingredientes: ovos inteiros, polvilho doce, leite, óleo, sal, queijo parmesão ralado (pode ser parmesão fresco, fica mais gostoso), rasa (sopa) de fermento em pó. Preparo: Preaqueça o forno em 180ºC por 20 minutos. Unte a forma (com furo no meio) apenas com óleo. Bata no liquidificador os ovos, o leite, o óleo."
+}

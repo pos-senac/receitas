@@ -1,0 +1,71 @@
+{
+  "id": "tg-13953",
+  "titulo": "Bolo de laranja",
+  "url": "https://www.tudogostoso.com.br/receita/13953-bolo-de-laranja.html",
+  "nota": 4.6,
+  "n_avaliacoes": 741,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de laranja",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "suco de 2 laranjas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 2 laranjas"
+    },
+    {
+      "nome": "casca de 1 laranja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "casca de 1 laranja"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o açúcar, o óleo, o suco e a casca da laranja.",
+      "Passe para uma tigela e acrescente a farinha de trigo e o fermento.",
+      "Leve para assar em uma forma com furo central, untada e enfarinhada, por mais ou menos 30 minutos.",
+      "Desenforme o bolo e molhe com suco de laranja."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de laranja. Ingredientes: ovos, açúcar, óleo, suco de 2 laranjas, casca de 1 laranja, farinha de trigo, fermento. Preparo: Bata no liquidificador os ovos, o açúcar, o óleo, o suco e a casca da laranja. Passe para uma tigela e acrescente a farinha de trigo e o fermento. Leve para assar em uma forma com furo central, untada e enfarinhada, por mais ou menos 30 minutos."
+}

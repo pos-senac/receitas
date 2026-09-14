@@ -1,0 +1,123 @@
+{
+  "id": "tg-320678",
+  "titulo": "Okonomiyaki panqueca salgada japonesa recheada e finalizada com molho agridoce",
+  "url": "https://www.tudogostoso.com.br/receita/320678-okonomiyaki-panqueca-salgada-japonesa-recheada-e-finalizada-com-molho-agridoce.html",
+  "nota": 5.0,
+  "n_avaliacoes": 7,
+  "categoria": "Receitas panqueca",
+  "subcategoria": "Okonomiyaki panqueca salgada japonesa recheada e finalizada com molho agridoce",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 15,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "ketchup",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de ketchup"
+    },
+    {
+      "nome": "molho inglês",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de molho inglês"
+    },
+    {
+      "nome": "molho de ostra",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de molho de ostra"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "gengibre ralado",
+      "quantidade": "1/2",
+      "unidade": "colher (chá)",
+      "texto_original": "1/2 colher (chá) de gengibre ralado"
+    },
+    {
+      "nome": "tempero de peixe (hondashi)",
+      "quantidade": "1/2",
+      "unidade": "colher (chá)",
+      "texto_original": "1/2 colher (chá) de tempero de peixe (hondashi)"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "água",
+      "quantidade": "60",
+      "unidade": "ml",
+      "texto_original": "60 ml de água"
+    },
+    {
+      "nome": "repolho fatiado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de repolho fatiado"
+    },
+    {
+      "nome": "cebolinha picada",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "nome": "fermento químico em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "nome": "barriga de porco ou bacon em tiras a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "barriga de porco ou bacon em tiras a gosto"
+    },
+    {
+      "nome": "maionese para finalizar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "maionese para finalizar"
+    }
+  ],
+  "modo_preparo": {
+    "Molho agridoce": [
+      "Em um recipiente, misture o ketchup, o molho inglês, o molho de ostra e o açúcar e reserve."
+    ],
+    "Massa de panqueca salgada": [
+      "Em uma tigela grande, adicione a farinha de trigo, o gengibre ralado, o tempero de peixe, o sal e os ovos e mexa bem até ficar homogêneo.",
+      "Coloque a água aos poucos enquanto mistura para incorporar na massa.",
+      "Acrescente o repolho e a cebolinha e mexa para envolver a massa nos vegetais.",
+      "Adicione o fermento químico em pó e misture levemente.",
+      "Aqueça uma frigideira untada com óleo em fogo médio e despeje a massa do okonomiyaki. Se a sua frigideira for pequena, coloque apenas uma parte da massa.",
+      "Coloque as fatias de barriga de porco por cima da massa, tampe e deixe cozinhar por cerca de 4 minutos ou até dourar.",
+      "Vire para o outro lado e deixe até dourar.",
+      "Transfira o okonomiyaki para um prato com cuidado e pincele o molho agridoce por cima.",
+      "Finalize com a maionese e sirva em seguida."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Okonomiyaki panqueca salgada japonesa recheada e finalizada com molho agridoce. Ingredientes: ketchup, molho inglês, molho de ostra, açúcar, farinha de trigo, gengibre ralado, tempero de peixe (hondashi), sal a gosto, ovos, água, repolho fatiado, cebolinha picada, fermento químico em pó, barriga de porco ou bacon em tiras a gosto, maionese para finalizar. Preparo: Em um recipiente, misture o ketchup, o molho inglês, o molho de ostra e o açúcar e reserve. Em uma tigela grande, adicione a farinha de trigo, o gengibre ralado, o tempero de peixe, o sal e os ovos e mexa bem até ficar homogêneo. Coloque a água aos poucos enquanto mistura para incorporar na massa."
+}

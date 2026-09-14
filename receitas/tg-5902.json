@@ -1,0 +1,97 @@
+{
+  "id": "tg-5902",
+  "titulo": "Pão Caseiro Recheado",
+  "url": "https://www.tudogostoso.com.br/receita/5902-pao-caseiro-recheado.html",
+  "nota": 4.4,
+  "n_avaliacoes": 111,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão Caseiro Recheado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "cha de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de cha de farinha de trigo"
+    },
+    {
+      "nome": "ovo inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro"
+    },
+    {
+      "nome": "café de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de café de sal"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de óleo"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de leite"
+    },
+    {
+      "nome": "sobremesa de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de margarina"
+    },
+    {
+      "nome": "chá de fermento em pó (químico)",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de fermento em pó (químico)"
+    },
+    {
+      "nome": "tomates em rodelas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates em rodelas"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de mussarela"
+    },
+    {
+      "nome": "Orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente misture a farinha, o ovo, o sal, o óleo, a margarina, o fermento e o leite. Misture tudo com as mãos, até a massa se soltar. Abra a massa com um rolo, deixando-a bem esticada. Recheie com presunto a mussarela, os tomates em rodelas e salpique com orégano.",
+      "Enrole como um rocambole fechando as pontas.",
+      "Pincele com gema e leve ao forno por mais ou menos de 20 a 25 minutos."
+    ]
+  },
+  "utensilios": [
+    "Pincel de silicone",
+    "Bowl",
+    "Colher de pau",
+    "Forma",
+    "Forno elétrico",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Pão Caseiro Recheado. Ingredientes: cha de farinha de trigo, ovo inteiro, café de sal, sopa de óleo, chá de leite, sobremesa de margarina, chá de fermento em pó (químico), tomates em rodelas, presunto, mussarela, Orégano a gosto. Preparo: Em um recipiente misture a farinha, o ovo, o sal, o óleo, a margarina, o fermento e o leite. Misture tudo com as mãos, até a massa se soltar. Abra a massa com um rolo, deixando-a bem esticada. Recheie com presunto a mussarela, os tomates em rodelas e salpique com orégano. Enrole como um rocambole fechando as pontas. Pincele com gema e leve ao forno por mais ou menos de 20 a 25 minutos."
+}

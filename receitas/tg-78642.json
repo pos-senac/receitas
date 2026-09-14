@@ -1,0 +1,79 @@
+{
+  "id": "tg-78642",
+  "titulo": "O melhor feijão - receita caseira - prático e tempero no ponto",
+  "url": "https://www.tudogostoso.com.br/receita/78642-o-melhor-feijao-receita-caseira-pratico-e-tempero-no-ponto.html",
+  "nota": 4.7,
+  "n_avaliacoes": 176,
+  "categoria": "Receitas cozidos e ensopados",
+  "subcategoria": "O melhor feijão - receita caseira - prático e tempero no ponto",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 50,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "feijão carioca (pode ser até os mais escuros)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de feijão carioca (pode ser até os mais escuros)"
+    },
+    {
+      "nome": "uma cebola bem grande",
+      "quantidade": "3/4",
+      "unidade": null,
+      "texto_original": "3/4 de uma cebola bem grande"
+    },
+    {
+      "nome": "alho grandes",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho grandes"
+    },
+    {
+      "nome": "caldos de bacon",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 caldos de bacon"
+    },
+    {
+      "nome": "folhas pequenas de louro seco",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 folhas pequenas de louro seco"
+    },
+    {
+      "nome": "salsinha fresca",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de salsinha fresca"
+    },
+    {
+      "nome": "coentro fresco",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de coentro fresco"
+    },
+    {
+      "nome": "gomos de linguiça toscana ou 1 de linguiça calabresa",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 gomos de linguiça toscana ou 1 de linguiça calabresa"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Se o feijão carioquinha for de cor escura, escolher e deixar de molho em água morna por meia hora.",
+      "Depois escorrer a água e lavá-lo mais uma vez até sair a água escura.",
+      "Corte a celola e o alho bem miúdos (você pode usar aquele alho de pote triturado, o sabor é o mesmo e mais prático, nesse caso use 3 colheres de café cheias de alho), corte a salsinha e o coentro, reserve.",
+      "Se for usar a linguiça calabresa tire a pele e corte em rodelas não muito finas e se for usar a toscana lave-as e deixe inteiras, nenhuma das linguiças precisa de cozimento prévio.",
+      "Colocar o feijão depois do molho na panela de pressão com água 2 dedos acima do nível do feijão, acrescentar a cebola, o alho, a salsinha, o coentro, as folhas de louro, o caldo de bacon e a linguiça de sua preferência crua.",
+      "Tampar a panela e cozinhar por 15 minutos após começar a pressão, depois desse tempo desligar o fogo e colocar debaixo de um fio d'agua até finalizar a pressão, abrir a tampa e deixar cozinhar por mais 5 minutos mexendo de vêz em quando para não grudar no fundo e encorpar o caldo.",
+      "Todo cozimento é em fogo alto.",
+      "Para engrossar o caldo finalize os 5 minutos de cozimento com a panela destampada.",
+      "Não precisa colocar sal, pois o caldo de bacon já dá o ponto do sal.",
+      "Esse feijão gasta menos gás pra fazer, mesmo quando esquecemos de deixar de molho de um dia para o outro, meia hora de molho na água morna é um segredinho!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "O melhor feijão - receita caseira - prático e tempero no ponto. Ingredientes: feijão carioca (pode ser até os mais escuros), uma cebola bem grande, alho grandes, caldos de bacon, folhas pequenas de louro seco, salsinha fresca, coentro fresco, gomos de linguiça toscana ou 1 de linguiça calabresa. Preparo: Se o feijão carioquinha for de cor escura, escolher e deixar de molho em água morna por meia hora. Depois escorrer a água e lavá-lo mais uma vez até sair a água escura. Corte a celola e o alho bem miúdos (você pode usar aquele alho de pote triturado, o sabor é o mesmo e mais prático, nesse caso use 3 colheres de café cheias de alho), corte a salsinha e o coentro, reserve."
+}

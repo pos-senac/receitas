@@ -1,0 +1,88 @@
+{
+  "id": "tg-173263",
+  "titulo": "Fricassê de frango",
+  "url": "https://www.tudogostoso.com.br/receita/173263-fricasse-de-frango.html",
+  "nota": 4.8,
+  "n_avaliacoes": 176,
+  "categoria": "Receitas fricassê",
+  "subcategoria": "Fricassê de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "peito de frango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "azeitonas",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de azeitonas"
+    },
+    {
+      "nome": "requeijão cremoso",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão cremoso"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de galinha"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 alho"
+    },
+    {
+      "nome": "batata palha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "batata palha"
+    },
+    {
+      "nome": "queijo, pimenta e sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo, pimenta e sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o peito de frango para cozinhar com água e o caldo de galinha na panela de pressão.",
+      "Depois de cozido desfie o frango.",
+      "Bata no liquidificador, o creme de leite, o requeijão, o milho, as azeitonas, a pimenta e um pouco de sal.",
+      "Em uma panela, acrescente a cebola, o alho e o frango.",
+      "Logo depois, acrescente o creme do liquidificador no frango, não deixe muito tempo.",
+      "Coloque em uma travessa, coloque o queijo e as batatas palhas em cima.",
+      "Deixe no forno até o queijo derreter!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Fricassê de frango. Ingredientes: peito de frango, milho verde, azeitonas, requeijão cremoso, creme de leite, cebola, caldo de galinha, alho, batata palha, queijo, pimenta e sal a gosto. Preparo: Coloque o peito de frango para cozinhar com água e o caldo de galinha na panela de pressão. Depois de cozido desfie o frango. Bata no liquidificador, o creme de leite, o requeijão, o milho, as azeitonas, a pimenta e um pouco de sal."
+}

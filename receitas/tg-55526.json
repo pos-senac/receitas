@@ -1,0 +1,55 @@
+{
+  "id": "tg-55526",
+  "titulo": "Biscoito frito de polvilho",
+  "url": "https://www.tudogostoso.com.br/receita/55526-biscoito-frito-de-polvilho.html",
+  "nota": 4.3,
+  "n_avaliacoes": 144,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito frito de polvilho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "polvilho",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de polvilho"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Reserve o polvilho em um refratário.",
+      "Leve ao fogo em uma panela o óleo e o leite até ferver.",
+      "Jogue por cima do polvilho, acrescente os ovos e por ultimo o sal e mexa até conseguir uma massa consistente.",
+      "Enrole os biscoitos em formato de oito, palitos ou círculos e frite em óleo bem quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Biscoito frito de polvilho. Ingredientes: polvilho, óleo, leite, ovos, Sal a gosto. Preparo: Reserve o polvilho em um refratário. Leve ao fogo em uma panela o óleo e o leite até ferver. Jogue por cima do polvilho, acrescente os ovos e por ultimo o sal e mexa até conseguir uma massa consistente."
+}

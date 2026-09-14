@@ -1,0 +1,108 @@
+{
+  "id": "tg-53760",
+  "titulo": "Bolo de chocolate de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/53760-bolo-de-chocolate-de-liquidificador.html",
+  "nota": 4.2,
+  "n_avaliacoes": 188,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite morno"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "chocolate em pó (Nescau ou Quik)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó (Nescau ou Quik)"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite (usar a lata como medida)",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de leite (usar a lata como medida)"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de chocolate em pó"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata bem todos os ingredientes da massa no liquidificador, exceto o fermento em pó, que deve ser adicionado por último e misturado delicadamente.",
+      "Despeje em forma untada com margarina e polvilhada com trigo.",
+      "Asse por cerca de 45 minutos, em forno médio (180°), pré-aquecido.",
+      "O tempo no forno para assar pode variar até 50 minutos, depende de cada forno.",
+      "Espete o palito, se sair seco está pronto."
+    ],
+    "Cobertura:": [
+      "Leve todos os ingredientes ao fogo, deixe ferver ate engrossar em ponto brigadeiro. Cubra o bolo em seguida."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Copo medidor",
+    "Formo de bolo",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo de chocolate de liquidificador. Ingredientes: ovos, margarina, leite morno, óleo, açúcar, chocolate em pó (Nescau ou Quik), farinha de trigo, fermento em pó, leite condensado, leite (usar a lata como medida), margarina, chocolate em pó. Preparo: Bata bem todos os ingredientes da massa no liquidificador, exceto o fermento em pó, que deve ser adicionado por último e misturado delicadamente. Despeje em forma untada com margarina e polvilhada com trigo. Asse por cerca de 45 minutos, em forno médio (180°), pré-aquecido."
+}

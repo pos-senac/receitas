@@ -1,0 +1,66 @@
+{
+  "id": "tg-73004",
+  "titulo": "Massa de torta de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/73004-massa-de-torta-de-liquidificador.html",
+  "nota": 4.6,
+  "n_avaliacoes": 700,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Massa de torta de liquidificador",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de queijo ralado"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Unte a forma e coloque a massa.",
+      "Por último, acrescente o recheio a gosto.",
+      "Leve para assar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Faca",
+    "Forma com fundo removível",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Massa de torta de liquidificador. Ingredientes: óleo, ovos, trigo, leite, queijo ralado, fermento. Preparo: Bata todos os ingredientes no liquidificador. Unte a forma e coloque a massa. Por último, acrescente o recheio a gosto."
+}

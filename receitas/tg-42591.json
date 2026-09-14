@@ -1,0 +1,87 @@
+{
+  "id": "tg-42591",
+  "titulo": "Canja de galinha rápida",
+  "url": "https://www.tudogostoso.com.br/receita/42591-canja-de-galinha-rapida.html",
+  "nota": 4.7,
+  "n_avaliacoes": 532,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Canja de galinha rápida",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "coxinha da asa",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de coxinha da asa"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "cenoura grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura grande"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de galinha"
+    },
+    {
+      "nome": "arroz",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de arroz"
+    },
+    {
+      "nome": "salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha a gosto"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "litro de água fervente",
+      "quantidade": "1 e 1/2",
+      "unidade": null,
+      "texto_original": "1 e 1/2 litro de água fervente"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere cada pedaço de frango com sal a gosto.",
+      "Em uma panela de pressão, coloque o óleo, o frango, a cebola, o alho e o caldo de galinha.",
+      "Deixe fritar por alguns minutos e acrescente a água fervente.",
+      "Acrescente o arroz e a cenoura, corrija o sal e tampe a panela.",
+      "Abaixe o fogo assim que a panela atingir a pressão e deixe cozinhar por 20 minutos.",
+      "Finalize salpicando salsinha e sirva."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Copo medidor",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Canja de galinha rápida. Ingredientes: coxinha da asa, cebola, alho, cenoura grande, tablete de caldo de galinha, arroz, salsinha a gosto, óleo, litro de água fervente. Preparo: Tempere cada pedaço de frango com sal a gosto. Em uma panela de pressão, coloque o óleo, o frango, a cebola, o alho e o caldo de galinha. Deixe fritar por alguns minutos e acrescente a água fervente."
+}

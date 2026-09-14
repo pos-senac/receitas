@@ -1,0 +1,80 @@
+{
+  "id": "tg-10183",
+  "titulo": "Cueca virada",
+  "url": "https://www.tudogostoso.com.br/receita/10183-cueca-virada.html",
+  "nota": 4.7,
+  "n_avaliacoes": 195,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Cueca virada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "pinga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de pinga"
+    },
+    {
+      "nome": "canela",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de canela"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite morno"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o fermento no leite morno.",
+      "Coloque todos os ingrediente em uma tigela e acrescente o fermento com o leite.",
+      "Misture farinha de trigo até a consistência da massa, a pinga é para que fique mais seca sem muita gordura.",
+      "Estique a massa, e recorte em triângulos, faça um pequeno corte no centro e vire a ponta por dentro do buraco.",
+      "Depois de cortá-lo é só fritar. Polvilhe açúcar e canela."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cueca virada. Ingredientes: ovos, açúcar, margarina, pinga, canela, leite morno, fermento em pó, farinha de trigo, óleo para fritar. Preparo: Coloque o fermento no leite morno. Coloque todos os ingrediente em uma tigela e acrescente o fermento com o leite. Misture farinha de trigo até a consistência da massa, a pinga é para que fique mais seca sem muita gordura."
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tg-33467",
+  "titulo": "Bolo de chocolate de microondas",
+  "url": "https://www.tudogostoso.com.br/receita/33467-bolo-de-chocolate-de-microondas.html",
+  "nota": 4.6,
+  "n_avaliacoes": 163,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate de microondas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "massa pronta de bolo, sabor chocolate",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de massa pronta de bolo, sabor chocolate"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga ou margarina"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de achocolatado em pó"
+    },
+    {
+      "nome": "água fervente",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água fervente"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma forma refratária com o furo no meio, coloque as duas colheres de manteiga ou margarina, e derreta no microondas.",
+      "Em uma vasilha, coloque o leite condensado e o achocolatado em pó.",
+      "Misture e jogue por cima da manteiga derretida, na forma.",
+      "Em outra vasilha, junte a massa de bolo, os ovos e a água.",
+      "Misture bem e despeje na forma, junto com a outra mistura.",
+      "Leve ao microondas por 9 minutos.",
+      "Espere esfriar e bom apetite!."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de chocolate de microondas. Ingredientes: massa pronta de bolo, sabor chocolate, manteiga ou margarina, leite condensado, achocolatado em pó, água fervente, ovos. Preparo: Em uma forma refratária com o furo no meio, coloque as duas colheres de manteiga ou margarina, e derreta no microondas. Em uma vasilha, coloque o leite condensado e o achocolatado em pó. Misture e jogue por cima da manteiga derretida, na forma."
+}

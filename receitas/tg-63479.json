@@ -1,0 +1,85 @@
+{
+  "id": "tg-63479",
+  "titulo": "Bolo de maracujá de liquidificador fácil",
+  "url": "https://www.tudogostoso.com.br/receita/63479-bolo-de-maracuja-de-liquidificador-facil.html",
+  "nota": 4.7,
+  "n_avaliacoes": 150,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de maracujá de liquidificador fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chá de suco de maracujá natural",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara chá de suco de maracujá natural"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara chá de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "Polpa de 2 maracujás com semente",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Polpa de 2 maracujás com semente"
+    },
+    {
+      "nome": "açúcar para fazer uma calda grossa",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar para fazer uma calda grossa"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador coloque os ovos, o suco de maracujá, o óleo.",
+      "Bater mais ou menos uns 3 minutos.",
+      "Em uma vasilha coloque o açúcar, a farinha de trigo e o pó royal, misture bem.",
+      "Acrescente o líquido do liquidificador, mexa bem.",
+      "Leve ao forno pré-aquecido, por cerca de 30 minutos, ou até dourar por cima.",
+      "Prepare a calda e coloque por cima do bolo ainda quente."
+    ],
+    "Calda:": [
+      "Leve ao fogo a polpa de 2 maracujás e cerca de 1 xícara de açúcar, deixe ferver, mexa de vez em quando."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Copo medidor",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de maracujá de liquidificador fácil. Ingredientes: ovos, chá de suco de maracujá natural, chá de óleo, açúcar, farinha de trigo, sopa de fermento em pó, Polpa de 2 maracujás com semente, açúcar para fazer uma calda grossa. Preparo: No liquidificador coloque os ovos, o suco de maracujá, o óleo. Bater mais ou menos uns 3 minutos. Em uma vasilha coloque o açúcar, a farinha de trigo e o pó royal, misture bem."
+}

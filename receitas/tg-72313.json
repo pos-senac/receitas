@@ -1,0 +1,88 @@
+{
+  "id": "tg-72313",
+  "titulo": "Pão caseiro fácil",
+  "url": "https://www.tudogostoso.com.br/receita/72313-pao-caseiro-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 645,
+  "categoria": "Receitas massas",
+  "subcategoria": "Pão caseiro fácil",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 120,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo sem fermento (reserve 1 xícara ou 120 g, só use-a se for necessário)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo sem fermento (reserve 1 xícara ou 120 g, só use-a se for necessário)"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "400",
+      "unidade": "ml",
+      "texto_original": "400 ml de leite morno"
+    },
+    {
+      "nome": "ovos (remova a película ou pele da gema)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos (remova a película ou pele da gema)"
+    },
+    {
+      "nome": "fermento biológico fresco",
+      "quantidade": "45",
+      "unidade": "g",
+      "texto_original": "45 g de fermento biológico fresco"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml de óleo"
+    },
+    {
+      "nome": "açúcar (200 g)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar (200 g)"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador, coloque todos os ingredientes, menos o sal e a farinha (o sal mata o fermento).",
+      "Bata até obter uma consistência líquida, cremosa e espumosa (cuidado com a temperatura do leite, pois ele deve estar morno e não quente; se estiver quente, ele matará o seu fermento).",
+      "Despeje esse líquido em uma bacia e adicione metade da farinha e misture com uma colher de pau.",
+      "A massa ficará mole e grudenta.",
+      "Reserve 1 xícara de farinha e adicione o resto dela à massa junto com o sal.",
+      "A massa ficará macia e um pouco pegajosa.",
+      "Nesse momento, ligue seu forno em fogo baixo por 5 minutos e desligue-o.",
+      "Os pães serão colocados nele para que o calor os faça crescer, enquanto descansam.",
+      "Enfarinhe uma superfície e sove a massa com carinho até que ela desgrude das mãos.",
+      "Só em último caso, adicione o restante da farinha: isso deixará o pão mais leve e fofo.",
+      "Experimente e corrija o sabor da massa conforme seu paladar.",
+      "Divida a massa em duas partes iguais e abra cada uma com um rolo, enfarinhando a superfície novamente: neste momento a massa ficará macia e lisa.",
+      "Unte com um pouquinho de óleo ou margarina a uma forma de bolo média de 30 x 24 ou duas formas próprias para pão de 27 x 11 (prefiro forma para pães, pois o pão cresce bonito e para para cima)",
+      "Enrole os pães no tamanho da forma escolhida e faça pequenos cortes em “X” em cima da massa para decorar.",
+      "Leve os pães ao forno que você aqueceu por 5 minutos e desligou.",
+      "Deixe-os descansar, para que cresçam, estimulados pelo calor morno.",
+      "Cuidado: se o forno estiver muito quente, seus pães vão assar antes de crescer e a massa ficará embatumada.",
+      "Aguarde uns 20 a 30 minutos e, se tudo correr bem, ela crescerá lisa e arredondada, podendo até ultrapassar as bordas da forma.",
+      "Se ela não crescer, não se preocupe.",
+      "Mesmo que a massa não tenha crescido após esse tempo, ligue o forno em temperatura média (180º C) e deixe ela assar por uns 30, 40 ou 45 minutos (depende do seu forno).",
+      "O fermento \"preguiçoso\" poderá \"despertar\" à força nesse momento.",
+      "Quando sentir o cheirinho de pão assado, aumente um pouco chama do fogo para que a casca escureça.",
+      "Se deixar por muito tempo, ela ficará amarga.",
+      "Deixe esfriar dentro ou fora do forno.",
+      "O pão deverá estar leve, fofo, cheio de furinhos (aerado), delicado, cheiroso e quase desmanchando quando cortado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão caseiro fácil. Ingredientes: farinha de trigo sem fermento (reserve 1 xícara ou 120 g, só use-a se for necessário), leite morno, ovos (remova a película ou pele da gema), fermento biológico fresco, óleo, açúcar (200 g), sal. Preparo: Em um liquidificador, coloque todos os ingredientes, menos o sal e a farinha (o sal mata o fermento). Bata até obter uma consistência líquida, cremosa e espumosa (cuidado com a temperatura do leite, pois ele deve estar morno e não quente; se estiver quente, ele matará o seu fermento). Despeje esse líquido em uma bacia e adicione metade da farinha e misture com uma colher de pau."
+}

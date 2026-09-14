@@ -1,0 +1,103 @@
+{
+  "id": "tg-4947",
+  "titulo": "Frango com quiabo mineiro",
+  "url": "https://www.tudogostoso.com.br/receita/4947-frango-com-quiabo-mineiro.html",
+  "nota": 4.7,
+  "n_avaliacoes": 289,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango com quiabo mineiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "quilo de quiabo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 quilo de quiabo"
+    },
+    {
+      "nome": "frango inteiro, cortado em pedaços",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 frango inteiro, cortado em pedaços"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "5",
+      "unidade": "dentes",
+      "texto_original": "5 dentes de alho amassados"
+    },
+    {
+      "nome": "cebola grande bem pitadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande bem pitadinha"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "colorau",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de colorau"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "cheiro verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro verde a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere o frango com o alho amassados, sal, pimenta e colorau.",
+      "Se desejar, acrescente uma colher (sopa) de vinagre.",
+      "Deixe marinar na geladeira por aproximadamente, 30 minutos."
+    ],
+    "Preparando o quiabo:": [
+      "lave o quiabo e seque com um pano, deixando-o bem sequinho.",
+      "Pique em rodelinhas finas.",
+      "Em uma panela, aqueça uma xícara de óleo.",
+      "Acrescente o quiabo picado e deixe refogar até que não tenha mais nenhuma baba. tenha paciência, porque a baba sai! este processo leva cerca de 20 minutos.",
+      "Mexa de vez em quando, com cuidado para o quiabo não desmanchar.",
+      "Quando estiver sem baba, desligue o fogo, espere amornar e coe, para retirar o óleo.",
+      "Reserve somente o quiabo."
+    ],
+    "Preparando o frango:": [
+      "Em uma panela, aqueça duas colheres (sopa) de óleo e doure muito bem a cebola, como se estivesse queimando (isso fará com que solte um corante natural no frango).",
+      "Junte o frango e deixe -o fritar muito bem.",
+      "Quando estiver bastante dourado, junte três xícaras de água fervente, ou um tanto que quase cubra o frango.",
+      "Corrija o sal, se necessário, e deixe cozinhar em fogo médio, com a panela semi-tampada por mais ou menos 20 minutos, ou até que o frango esteja bem macio.",
+      "Junte o quiabo reservado e deixe apurar até que fique encorpado.",
+      "Se estiver com muito caldo, aumente o fogo e deixe secar um pouco mais.",
+      "Verifique se está bom de sal.",
+      "Por último, junte o cheiro-verde.",
+      "Sirva com arroz e feijão fresquinhos e angu (ou polenta sem molho)."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Frango com quiabo mineiro. Ingredientes: quilo de quiabo, frango inteiro, cortado em pedaços, alho amassados, cebola grande bem pitadinha, óleo, colorau, pimenta a gosto, sal a gosto, cheiro verde a gosto. Preparo: Tempere o frango com o alho amassados, sal, pimenta e colorau. Se desejar, acrescente uma colher (sopa) de vinagre. Deixe marinar na geladeira por aproximadamente, 30 minutos."
+}

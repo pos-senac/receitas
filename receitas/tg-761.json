@@ -1,0 +1,50 @@
+{
+  "id": "tg-761",
+  "titulo": "Nevada",
+  "url": "https://www.tudogostoso.com.br/receita/761-nevada.html",
+  "nota": 4.5,
+  "n_avaliacoes": 158,
+  "categoria": "Receitas drinks e Coquetéis alcoólicos",
+  "subcategoria": "Nevada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "Limão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 Limão"
+    },
+    {
+      "nome": "Leite Condensado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite Condensado"
+    },
+    {
+      "nome": "Vodka",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Vodka"
+    },
+    {
+      "nome": "Gelo Picado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Gelo Picado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador coloque o gelo picado, esprema o limão (não colocar o limão), acrescente o leite condensado, cerca de 50 ml, e vodka a gosto.",
+      "Bata tudo até que a consistência lembre clara em neve.",
+      "Se precisar, acrescente mais gelo ou leite condensado.",
+      "Coloque em uma taça e enfeite com meia banda de uma rodela de limão.",
+      "Coloque um canudinho e pronto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Nevada. Ingredientes: Limão, Leite Condensado, Vodka, Gelo Picado. Preparo: Em um liquidificador coloque o gelo picado, esprema o limão (não colocar o limão), acrescente o leite condensado, cerca de 50 ml, e vodka a gosto. Bata tudo até que a consistência lembre clara em neve. Se precisar, acrescente mais gelo ou leite condensado."
+}

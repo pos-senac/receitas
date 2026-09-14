@@ -1,0 +1,82 @@
+{
+  "id": "tg-120856",
+  "titulo": "Gratinado de frango",
+  "url": "https://www.tudogostoso.com.br/receita/120856-gratinado-de-frango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 113,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Gratinado de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "frango desfiado",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de frango desfiado"
+    },
+    {
+      "nome": "caixinha pequena extrato de tomate",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha pequena extrato de tomate"
+    },
+    {
+      "nome": "tablete de caldo de frango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de frango"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "caixinha pequena de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha pequena de creme de leite"
+    },
+    {
+      "nome": "milho e ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho e ervilha"
+    },
+    {
+      "nome": "queijo mussarela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo mussarela a gosto"
+    },
+    {
+      "nome": "200g de queijo ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de queijo ralado"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a água numa panela, e o frango desfiado e o tablete de caldo de galinha.",
+      "Coloque a caixinha de extrato de tomate, e a farinha de trigo, mexa até engrossar.",
+      "Coloque o milho e a ervilha e o creme de leite.",
+      "Misture bem e coloque em uma travessa.",
+      "Cubra com fatias de mussarela.",
+      "E jogue por último o queijo ralado por cima.",
+      "leve ao forno para gratinar, aproximadamente 20min."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Gratinado de frango. Ingredientes: frango desfiado, caixinha pequena extrato de tomate, tablete de caldo de frango, sopa de farinha de trigo, caixinha pequena de creme de leite, milho e ervilha, queijo mussarela a gosto, 200g de queijo ralado, água. Preparo: Coloque a água numa panela, e o frango desfiado e o tablete de caldo de galinha. Coloque a caixinha de extrato de tomate, e a farinha de trigo, mexa até engrossar. Coloque o milho e a ervilha e o creme de leite."
+}

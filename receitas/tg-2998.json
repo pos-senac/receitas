@@ -1,0 +1,135 @@
+{
+  "id": "tg-2998",
+  "titulo": "Feijoada",
+  "url": "https://www.tudogostoso.com.br/receita/2998-feijoada.html",
+  "nota": 4.3,
+  "n_avaliacoes": 319,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Feijoada",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 140,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "feijão preto",
+      "quantidade": "1",
+      "unidade": "Kg",
+      "texto_original": "1 Kg de feijão preto"
+    },
+    {
+      "nome": "carne seca",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de carne seca"
+    },
+    {
+      "nome": "orelha de porco",
+      "quantidade": "70",
+      "unidade": "g",
+      "texto_original": "70 g de orelha de porco"
+    },
+    {
+      "nome": "rabo de porco",
+      "quantidade": "70",
+      "unidade": "g",
+      "texto_original": "70 g de rabo de porco"
+    },
+    {
+      "nome": "pé de porco",
+      "quantidade": "70",
+      "unidade": "g",
+      "texto_original": "70 g de pé de porco"
+    },
+    {
+      "nome": "costelinha de porco",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de costelinha de porco"
+    },
+    {
+      "nome": "lombo de porco",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de lombo de porco"
+    },
+    {
+      "nome": "paio",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de paio"
+    },
+    {
+      "nome": "lingüiça portuguesa",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de lingüiça portuguesa"
+    },
+    {
+      "nome": "cebolas grandes picadinhas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas grandes picadinhas"
+    },
+    {
+      "nome": "maço de cebolinha verde picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de cebolinha verde picadinha"
+    },
+    {
+      "nome": "folhas de louro",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 folhas de louro"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "6",
+      "unidade": "dentes",
+      "texto_original": "6 dentes de alho"
+    },
+    {
+      "nome": "Pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta do reino a gosto"
+    },
+    {
+      "nome": "ou 2 laranjas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ou 2 laranjas"
+    },
+    {
+      "nome": "de pinga",
+      "quantidade": "40",
+      "unidade": "ml",
+      "texto_original": "40 ml de de pinga"
+    },
+    {
+      "nome": "Sal se precisar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal se precisar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque as carnes de molho por 36 horas ou mais, vá trocando a água várias vezes, se for ambiente quente ou verão, coloque gelo por cima ou em camadas frias.",
+      "Coloque para cozinhar passo a passo: as carnes duras, em seguida as carnes moles.",
+      "Quando estiver mole coloque o feijão, e retire as carnes.",
+      "Finalmente tempere o feijão."
+    ],
+    "Acompanhamentos": [
+      "Couve, arroz branco, laranja, bistecas, farofa, quibebe de abóbora, baião de dois, bacon, torresmo, lingüicinha e caldinho temperado - copinhos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Concha",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Feijoada. Ingredientes: feijão preto, carne seca, orelha de porco, rabo de porco, pé de porco, costelinha de porco, lombo de porco, paio, lingüiça portuguesa, cebolas grandes picadinhas, maço de cebolinha verde picadinha, folhas de louro, alho, Pimenta do reino a gosto, ou 2 laranjas, de pinga, Sal se precisar. Preparo: Coloque as carnes de molho por 36 horas ou mais, vá trocando a água várias vezes, se for ambiente quente ou verão, coloque gelo por cima ou em camadas frias. Coloque para cozinhar passo a passo: as carnes duras, em seguida as carnes moles. Quando estiver mole coloque o feijão, e retire as carnes."
+}

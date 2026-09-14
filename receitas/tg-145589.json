@@ -1,0 +1,90 @@
+{
+  "id": "tg-145589",
+  "titulo": "Cupcake com passo a passo de como rechear",
+  "url": "https://www.tudogostoso.com.br/receita/145589-cupcake-com-passo-a-passo-de-como-rechear.html",
+  "nota": 4.0,
+  "n_avaliacoes": 252,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cupcake com passo a passo de como rechear",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "sopa de essência de baunilha",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de essência de baunilha"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "claras em neve",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras em neve"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "3 e 1/2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "Recheio e cobertura a gosto, aqui usamos doce de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Recheio e cobertura a gosto, aqui usamos doce de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata a gema, o açúcar e a baunilha na batedeira.",
+      "Em seguida, acrescente o leite e o óleo e bata mais um pouco.",
+      "Adicione as claras em neve, a farinha de trigo e o fermento e bata mais com o auxílio de um fouet (não bata na batedeira para que o fermento possa atuar).",
+      "Disponha a massa em forminhas próprias para cupcakes (sem encher muito) e leve ao forno até dourar.",
+      "Após assado e frios, faça um buraco no centro de cada cupcake com uma faca.",
+      "Reserve a tampinha.",
+      "Coloque o recheio escolhido em um saco de confeitar e junte-o no furo, no centro do cupcake.",
+      "Coloque a tampinha e cubra o cupcake com o a cobertura desejada, aqui usamos doce de leite para rechear e para cobrir.",
+      "Coloque confeitos de sua preferência."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Forma",
+    "Fouet",
+    "Saco de confeiteiro",
+    "Forma para cupcake"
+  ],
+  "texto_para_embedding": "Cupcake com passo a passo de como rechear. Ingredientes: gemas, açúcar, sopa de essência de baunilha, leite, óleo, claras em neve, farinha de trigo, fermento, Recheio e cobertura a gosto, aqui usamos doce de leite. Preparo: Bata a gema, o açúcar e a baunilha na batedeira. Em seguida, acrescente o leite e o óleo e bata mais um pouco. Adicione as claras em neve, a farinha de trigo e o fermento e bata mais com o auxílio de um fouet (não bata na batedeira para que o fermento possa atuar)."
+}

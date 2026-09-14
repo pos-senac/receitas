@@ -1,0 +1,87 @@
+{
+  "id": "tg-86694",
+  "titulo": "Souflé delicioso de espinafre sucesso garantido",
+  "url": "https://www.tudogostoso.com.br/receita/86694-soufle-delicioso-de-espinafre-sucesso-garantido.html",
+  "nota": 4.8,
+  "n_avaliacoes": 109,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Souflé delicioso de espinafre sucesso garantido",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "cebola grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "xícara (chá) de farinha de trigo",
+      "quantidade": "1/3",
+      "unidade": null,
+      "texto_original": "1/3 de xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "espinafre refogado no azeite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de espinafre refogado no azeite"
+    },
+    {
+      "nome": "ovos (gemas e claras separados)",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos (gemas e claras separados)"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Tempero verde a gosto (salsa/cebolinha)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tempero verde a gosto (salsa/cebolinha)"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de queijo ralado"
+    },
+    {
+      "nome": "caixinhas de creme de leite",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caixinhas de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Frite a cebola na margarina até dourar.",
+      "Junte a farinha de trigo misturando bem por 3 minutos exatos no fogo baixo (segredo para o sabor), desligue e junte o leite aos poucos, mexendo sempre.",
+      "Volte a ligar em fogo baixo e continue mexendo até engrossar, retire do fogo e adicione o espinafre, as gemas uma à uma (passadas na peneira), o tempero verde, o sal  e o creme de leite.",
+      "Misture.",
+      "Bata as claras em neve e acrescente à mistura cuidadosamente com um garfo fazendo movimentos de baixo pra cima, como se fosse bater uma omelete, só que com muita delicadeza.",
+      "Coloque em um refratário untado com margarina, cubra com o queijo ralado e leve a um forno quente (200°) e deixe dourar por 20 ou 30 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Souflé delicioso de espinafre sucesso garantido. Ingredientes: cebola grande, margarina, xícara (chá) de farinha de trigo, leite, espinafre refogado no azeite, ovos (gemas e claras separados), Sal a gosto, Tempero verde a gosto (salsa/cebolinha), queijo ralado, caixinhas de creme de leite. Preparo: Frite a cebola na margarina até dourar. Junte a farinha de trigo misturando bem por 3 minutos exatos no fogo baixo (segredo para o sabor), desligue e junte o leite aos poucos, mexendo sempre. Volte a ligar em fogo baixo e continue mexendo até engrossar, retire do fogo e adicione o espinafre, as gemas uma à uma (passadas na peneira), o tempero verde, o sal  e o creme de leite."
+}

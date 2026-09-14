@@ -1,0 +1,57 @@
+{
+  "id": "tg-366",
+  "titulo": "Nhoque sem batata",
+  "url": "https://www.tudogostoso.com.br/receita/366-nhoque-sem-batata.html",
+  "nota": 4.5,
+  "n_avaliacoes": 143,
+  "categoria": "Receitas lasanha",
+  "subcategoria": "Nhoque sem batata",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 gemas"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture bem os ingredientes, mexa bem até que fique homogêneo.",
+      "Leve ao fogo até que desgrude do fundo da panela (fica igual a massa de coxinha).",
+      "Retire da panela, deixe esfriar e sove com um pouco de farinha sobre uma superfície de mármore ou granito.",
+      "Enrole, corte e mergulhe em uma panela com agua e óleo (já quente), não precisa esperar que suba à superfície.",
+      "Deixe somente por alguns segundos.",
+      "Adicione molho e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Nhoque sem batata. Ingredientes: leite, farinha de trigo, gemas, margarina, Sal a gosto. Preparo: Misture bem os ingredientes, mexa bem até que fique homogêneo. Leve ao fogo até que desgrude do fundo da panela (fica igual a massa de coxinha). Retire da panela, deixe esfriar e sove com um pouco de farinha sobre uma superfície de mármore ou granito."
+}

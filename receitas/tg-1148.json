@@ -1,0 +1,72 @@
+{
+  "id": "tg-1148",
+  "titulo": "Arroz de brócolis",
+  "url": "https://www.tudogostoso.com.br/receita/1148-arroz-de-brocolis.html",
+  "nota": 4.8,
+  "n_avaliacoes": 129,
+  "categoria": "Receitas arroz",
+  "subcategoria": "Arroz de brócolis",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "arroz refogado em alho cozido",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de arroz refogado em alho cozido"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de alho"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de azeite"
+    },
+    {
+      "nome": "maços de brócolis fresco",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 maços de brócolis fresco"
+    },
+    {
+      "nome": "bicabornato de sódio",
+      "quantidade": "20",
+      "unidade": "g",
+      "texto_original": "20 g de bicabornato de sódio"
+    },
+    {
+      "nome": "litros água fervente",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 litros água fervente"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe o brócolis descascando os talos (retirando a pele com a faca).",
+      "Aproveite talos e folhas. Cozinhe o brócolis na água com sal e o bicabornato até que o talo fique macio. Escorra e reserve.",
+      "Em uma panela frite o alho no azeite até que fique dourado. Junte o brócolis e refogue. Misture a arroz cozido em alho e misture até que fique uniforme.",
+      "O arroz fica verde por causa do bicabornato."
+    ]
+  },
+  "utensilios": [
+    "Colher de silicone",
+    "Panela com cabo",
+    "Tábua de corte",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Arroz de brócolis. Ingredientes: arroz refogado em alho cozido, alho, azeite, maços de brócolis fresco, bicabornato de sódio, litros água fervente, Sal a gosto. Preparo: Limpe o brócolis descascando os talos (retirando a pele com a faca). Aproveite talos e folhas. Cozinhe o brócolis na água com sal e o bicabornato até que o talo fique macio. Escorra e reserve. Em uma panela frite o alho no azeite até que fique dourado. Junte o brócolis e refogue. Misture a arroz cozido em alho e misture até que fique uniforme."
+}

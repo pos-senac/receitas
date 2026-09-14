@@ -1,0 +1,63 @@
+{
+  "id": "tg-12878",
+  "titulo": "Bolo de banana no liquidificador - receita vinda direto da Bahia",
+  "url": "https://www.tudogostoso.com.br/receita/12878-bolo-de-banana-no-liquidificador-receita-vinda-direto-da-bahia.html",
+  "nota": 4.6,
+  "n_avaliacoes": 208,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana no liquidificador - receita vinda direto da Bahia",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "banana nanicas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 banana nanicas"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de rosca"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, as bananas picadas, o óleo e o açúcar.",
+      "Bata por uns 5 minutos.",
+      "Em seguida, apenas misture a farinha de rosca e o fermento.",
+      "Asse em forno a 180º C.",
+      "Fique atento, pois a massa assa muito rápido, (15 a 20 minutos dependendo do seu forno).",
+      "Sirva com um cafezinho e bom apetite."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de banana no liquidificador - receita vinda direto da Bahia. Ingredientes: ovos, banana nanicas, óleo, açúcar, farinha de rosca, fermento em pó. Preparo: Bata no liquidificador os ovos, as bananas picadas, o óleo e o açúcar. Bata por uns 5 minutos. Em seguida, apenas misture a farinha de rosca e o fermento."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "tg-2114",
+  "titulo": "Omelete rápido",
+  "url": "https://www.tudogostoso.com.br/receita/2114-omelete-rapido.html",
+  "nota": 4.6,
+  "n_avaliacoes": 350,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Omelete rápido",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 4,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "1",
+      "unidade": "fatia",
+      "texto_original": "1 fatia de presunto"
+    },
+    {
+      "nome": "queijo",
+      "quantidade": "2",
+      "unidade": "fatias",
+      "texto_original": "2 fatias de queijo"
+    },
+    {
+      "nome": "tempero verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tempero verde a gosto"
+    },
+    {
+      "nome": "caldo de galinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "caldo de galinha a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os 2 ovos, pode ser na batedeira ou não.",
+      "Após ter batido bem, coloque-o na frigideira já untada com óleo, acrescente o sal, o presunto picado em quadradinhos e as duas fatias de queijo (não precisa picar o queijo).",
+      "Coloque os temperos a gosto, espere ficar firme, e vire o omelete.",
+      "Está pronto um omelete delicioso, bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espátula de silicone",
+    "Fouet",
+    "Frigideira funda",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Omelete rápido. Ingredientes: ovos, sal, presunto, queijo, tempero verde a gosto, caldo de galinha a gosto. Preparo: Bata os 2 ovos, pode ser na batedeira ou não. Após ter batido bem, coloque-o na frigideira já untada com óleo, acrescente o sal, o presunto picado em quadradinhos e as duas fatias de queijo (não precisa picar o queijo). Coloque os temperos a gosto, espere ficar firme, e vire o omelete."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tg-168455",
+  "titulo": "Crepe de tapioca (crepioca)",
+  "url": "https://www.tudogostoso.com.br/receita/168455-crepe-de-tapioca-crepioca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 133,
+  "categoria": "Receitas alimentação saudável",
+  "subcategoria": "Crepe de tapioca (crepioca)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "ovo (é melhor tirar a pele da gema)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo (é melhor tirar a pele da gema)"
+    },
+    {
+      "nome": "polvilho doce (pode ser substituído por tapioca ou polvilho azedo)",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de polvilho doce (pode ser substituído por tapioca ou polvilho azedo)"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de requeijão"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de água"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes em um mixer até obter uma consistência cremosa.",
+      "Despeje uma concha da massa numa frigideira levemente untada com margarina, tampe e deixe dourar. Recheie a gosto e dobre ao meio como um crepe."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Crepe de tapioca (crepioca). Ingredientes: ovo (é melhor tirar a pele da gema), polvilho doce (pode ser substituído por tapioca ou polvilho azedo), requeijão, água, sal. Preparo: Bata todos os ingredientes em um mixer até obter uma consistência cremosa. Despeje uma concha da massa numa frigideira levemente untada com margarina, tampe e deixe dourar. Recheie a gosto e dobre ao meio como um crepe."
+}

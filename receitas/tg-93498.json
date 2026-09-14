@@ -1,0 +1,103 @@
+{
+  "id": "tg-93498",
+  "titulo": "Pizza de liquidificador fácil",
+  "url": "https://www.tudogostoso.com.br/receita/93498-pizza-de-liquidificador-facil.html",
+  "nota": 4.4,
+  "n_avaliacoes": 3295,
+  "categoria": "Receitas massas",
+  "subcategoria": "Pizza de liquidificador fácil",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de fermento em pó"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de molho de tomate"
+    },
+    {
+      "nome": "mussarela ralada grossa",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de mussarela ralada grossa"
+    },
+    {
+      "nome": "tomates fatiados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates fatiados"
+    },
+    {
+      "nome": "azeitona picada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitona picada"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador bata o leite, o ovo, o sal, o açúcar, a margarina, a farinha de trigo e o fermento em pó até que tudo esteja encorporado.",
+      "Despeje a massa em uma assadeira para pizza untada com margarina e leve ao forno preaquecido por 20 minutos.",
+      "Retire do forno e despeje o molho de tomate.",
+      "Cubra a massa com mussarela ralada, tomate e orégano a gosto.",
+      "Leve novamente ao forno até derreter a mussarela."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Assadeira redonda",
+    "Cortador de pizza",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Pizza de liquidificador fácil. Ingredientes: leite, ovo, sal, açúcar, margarina, farinha de trigo, fermento em pó, molho de tomate, mussarela ralada grossa, tomates fatiados, azeitona picada, orégano a gosto. Preparo: No liquidificador bata o leite, o ovo, o sal, o açúcar, a margarina, a farinha de trigo e o fermento em pó até que tudo esteja encorporado. Despeje a massa em uma assadeira para pizza untada com margarina e leve ao forno preaquecido por 20 minutos. Retire do forno e despeje o molho de tomate."
+}

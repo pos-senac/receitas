@@ -1,0 +1,109 @@
+{
+  "id": "tg-10230",
+  "titulo": "Bife de panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/10230-bife-de-panela-de-pressao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 222,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Bife de panela de pressão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "bife alcatra",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de bife alcatra"
+    },
+    {
+      "nome": "tomate",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate"
+    },
+    {
+      "nome": "pimentão",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "coentro a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coentro a gosto"
+    },
+    {
+      "nome": "sopa de molho de tomate",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de molho de tomate"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo"
+    },
+    {
+      "nome": "caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de carne"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "tempero seco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tempero seco"
+    },
+    {
+      "nome": "colorau a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "colorau a gosto"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dente",
+      "texto_original": "2 dente de alho"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere com o sal, colorau, o alho e o tempero seco, deixe pegar o tempero durante mais ou menos uns 20 minutos.",
+      "Na panela de pressão, refogue o óleo e a cebola e depois coloque o molho de tomate.",
+      "Em seguida coloque os bifé e deixe refogar um pouco, coloque a água e o restante dos ingredientes.",
+      "Feche a panela quando pegar pressão e marque 20 minutos.",
+      "Retire da pressão e sirva."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Panela de pressão",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Bife de panela de pressão. Ingredientes: bife alcatra, tomate, pimentão, cebola, coentro a gosto, sopa de molho de tomate, óleo, caldo de carne, sal, tempero seco, colorau a gosto, alho, água. Preparo: Tempere com o sal, colorau, o alho e o tempero seco, deixe pegar o tempero durante mais ou menos uns 20 minutos. Na panela de pressão, refogue o óleo e a cebola e depois coloque o molho de tomate. Em seguida coloque os bifé e deixe refogar um pouco, coloque a água e o restante dos ingredientes."
+}

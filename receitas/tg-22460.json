@@ -1,0 +1,61 @@
+{
+  "id": "tg-22460",
+  "titulo": "Doce de abóbora",
+  "url": "https://www.tudogostoso.com.br/receita/22460-doce-de-abobora.html",
+  "nota": 4.7,
+  "n_avaliacoes": 226,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Doce de abóbora",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 70,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "abóbora cozida sem casca e cortada em pedaços médios",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de abóbora cozida sem casca e cortada em pedaços médios"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "canela em pau",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 canela em pau"
+    },
+    {
+      "nome": "cravos-da-Índia",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cravos-da-Índia"
+    },
+    {
+      "nome": "Coco ralado fresco ou seco a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Coco ralado fresco ou seco a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela grande colocar a abóbora, o açúcar, a canela e os cravos.",
+      "Levar para cozinhar em fogo brando com a panela tampada.",
+      "Mexa sempre e amasse com uma colher de pau para desmanchar a abóbora. Quando ela estiver bem cozida, retire a canela e os cravos, e junte o coco.",
+      "Deixe apurar mais um pouco e desligue o fogo.",
+      "O doce não pode ficar seco, tem que ficar bem úmido."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Colher para sobremesa",
+    "Pote hermético"
+  ],
+  "texto_para_embedding": "Doce de abóbora. Ingredientes: abóbora cozida sem casca e cortada em pedaços médios, açúcar, canela em pau, cravos-da-Índia, Coco ralado fresco ou seco a gosto. Preparo: Em uma panela grande colocar a abóbora, o açúcar, a canela e os cravos. Levar para cozinhar em fogo brando com a panela tampada. Mexa sempre e amasse com uma colher de pau para desmanchar a abóbora. Quando ela estiver bem cozida, retire a canela e os cravos, e junte o coco."
+}

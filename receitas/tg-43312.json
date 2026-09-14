@@ -1,0 +1,162 @@
+{
+  "id": "tg-43312",
+  "titulo": "Bolo de prestígio",
+  "url": "https://www.tudogostoso.com.br/receita/43312-bolo-de-prestigio.html",
+  "nota": 4.8,
+  "n_avaliacoes": 180,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de prestígio",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 180,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "ovos levemente batido",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos levemente batido"
+    },
+    {
+      "nome": "bicarbonato",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de bicarbonato"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento"
+    },
+    {
+      "nome": "água fervida",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água fervida"
+    },
+    {
+      "nome": "leite fervido",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite fervido"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres maizena"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "coco",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g coco"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "Leite para molhar o bolo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite para molhar o bolo"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Junte todos os ingredientes secos, depois os ovos e os líquidos ferventes.",
+      "Coloque em forma untada e enfarinhada.",
+      "Asse em forno médio, pré-aquecido, por aproximadamente 40 minutos, ou até dourar."
+    ],
+    "Recheio:": [
+      "Junte tudo e leve ao fogo mexendo ate engrossar"
+    ],
+    "Cobertura:": [
+      "Leve ao fogo, mexendo bem, até formar bolhas grandes."
+    ],
+    "Montagem:": [
+      "Corte o bolo ao meio no comprimento.",
+      "Molhe com o leite e coloque o recheio.",
+      "Coloque a outra metade e molhe novamente.",
+      "Jogue a cobertura e, se quiser, jogue chocolate granulado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de prestígio. Ingredientes: farinha de trigo, chocolate em pó, açúcar, óleo, ovos levemente batido, bicarbonato, fermento, água fervida, leite fervido, leite condensado, vidro de leite de coco, leite, gemas, maizena, margarina, coco, leite condensado, leite, chocolate em pó, margarina, Leite para molhar o bolo. Preparo: Junte todos os ingredientes secos, depois os ovos e os líquidos ferventes. Coloque em forma untada e enfarinhada. Asse em forno médio, pré-aquecido, por aproximadamente 40 minutos, ou até dourar."
+}

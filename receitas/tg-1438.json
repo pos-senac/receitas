@@ -1,0 +1,48 @@
+{
+  "id": "tg-1438",
+  "titulo": "Carne de panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/1438-carne-de-panela-de-pressao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1548,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Carne de panela de pressão",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 25,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "carne (acém, patinho ou lombo de porco)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne (acém, patinho ou lombo de porco)"
+    },
+    {
+      "nome": "cebolas grandes cortadas em rodelas",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 cebolas grandes cortadas em rodelas"
+    },
+    {
+      "nome": "ou 4 cubos de caldo de carne",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ou 4 cubos de caldo de carne"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Forre o fundo de uma panela de pressão com metade das cebolas.",
+      "Esfarele um cubo de caldo de carne por cima das cebolas, adicione a carne, adicione outro cubo de caldo de carne e cubra com o restante das cebolas.",
+      "Feche a panela de pressão, sem adicionar água, e deixe cozinhar por 25 minutos.",
+      "Se preferir, adicione batatas em rodelas e deixe cozinhar por mais 10 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Carne de panela de pressão. Ingredientes: carne (acém, patinho ou lombo de porco), cebolas grandes cortadas em rodelas, ou 4 cubos de caldo de carne. Preparo: Forre o fundo de uma panela de pressão com metade das cebolas. Esfarele um cubo de caldo de carne por cima das cebolas, adicione a carne, adicione outro cubo de caldo de carne e cubra com o restante das cebolas. Feche a panela de pressão, sem adicionar água, e deixe cozinhar por 25 minutos."
+}

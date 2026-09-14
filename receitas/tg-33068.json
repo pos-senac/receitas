@@ -1,0 +1,110 @@
+{
+  "id": "tg-33068",
+  "titulo": "Fatias húngaras",
+  "url": "https://www.tudogostoso.com.br/receita/33068-fatias-hungaras.html",
+  "nota": 4.8,
+  "n_avaliacoes": 345,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Fatias húngaras",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "tabletes de fermento para pão",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de fermento para pão"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite morno"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/4 xícara (chá) de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícaras (chá)",
+      "texto_original": "1 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "1",
+      "unidade": "pacote (100 g)",
+      "texto_original": "1 pacote (100 g) de coco ralado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture os 3 primeiros ingredientes e depois os outros 3.",
+      "Por fim coloque a farinha de trigo até que desgrude das mãos.",
+      "Deixe descansar por 30 minutos.",
+      "Em quanto isso faça o recheio.",
+      "Misture tudo até virar um creme.",
+      "Abra metade da massa com um rolo de macarrão.",
+      "Coloque a metade do recheio, espalhe bem e enrole a massa como rocambole.",
+      "Corte as fatias, coloque - as em formas untadas e leve ao forno por aproximadamente 25 minutos, ou até dourar.",
+      "Ferva o leite e o açúcar.",
+      "Com as fatias prontas e ainda quente jogue a calda por cima."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Forma",
+    "Forno elétrico",
+    "Rolo de massa",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Fatias húngaras. Ingredientes: tabletes de fermento para pão, açúcar, leite morno, ovos, margarina, óleo, farinha de trigo, margarina, açúcar, coco ralado, leite, açúcar. Preparo: Misture os 3 primeiros ingredientes e depois os outros 3. Por fim coloque a farinha de trigo até que desgrude das mãos. Deixe descansar por 30 minutos."
+}

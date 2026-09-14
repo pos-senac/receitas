@@ -1,0 +1,81 @@
+{
+  "id": "tg-71309",
+  "titulo": "Carne louca de festa",
+  "url": "https://www.tudogostoso.com.br/receita/71309-carne-louca-de-festa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 303,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Carne louca de festa",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "miolo de acém",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de miolo de acém"
+    },
+    {
+      "nome": "caldos de carne",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 caldos de carne"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "pimentão vermelho",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão vermelho"
+    },
+    {
+      "nome": "pimentão verde",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde"
+    },
+    {
+      "nome": "cebola grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho"
+    },
+    {
+      "nome": "molho de tomate pronto",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de molho de tomate pronto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe a carne com os caldos, na pressão por 1 hora.",
+      "Desfie a carne e reserve a água do cozimento.",
+      "Coloque na panela o azeite (se não tiver pode ser óleo mesmo).",
+      "Refogue a cebola e o alho.",
+      "Acrescente os pimentões picadinhos e refogue bem até murchar.",
+      "Coloque a carne desfiada e o molho de tomate misture tudo e adicione a água do cozimento reservada.",
+      "Verifique se está bom de sal e deixe ferver bem até apurar o molho."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Panela de pressão",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Carne louca de festa. Ingredientes: miolo de acém, caldos de carne, azeite, pimentão vermelho, pimentão verde, cebola grande, alho, molho de tomate pronto. Preparo: Cozinhe a carne com os caldos, na pressão por 1 hora. Desfie a carne e reserve a água do cozimento. Coloque na panela o azeite (se não tiver pode ser óleo mesmo)."
+}

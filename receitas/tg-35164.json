@@ -1,0 +1,105 @@
+{
+  "id": "tg-35164",
+  "titulo": "Bolo de chocolate no liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/35164-bolo-de-chocolate-no-liquidificador.html",
+  "nota": 4.7,
+  "n_avaliacoes": 664,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate no liquidificador",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 11,
+  "ingredientes": [
+    {
+      "nome": "achocolado ou chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de achocolado ou chocolate em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "trigo peneirado",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de trigo peneirado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "achocolatado ou chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de achocolatado ou chocolate em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte uma forma de buraco pequena com margarina e trigo.",
+      "Reserve.",
+      "Bata no liquidificador, o óleo, o leite e o ovo.",
+      "Acrescente o trigo, o açúcar e o achocolatado.",
+      "Bata novamente.",
+      "Em seguida acrescente o fermento e bata.",
+      "Despeje na forma e leve ao forno em temperatura média por cerca de 35 minutos."
+    ],
+    "Calda": [
+      "Em uma panela coloque no fogo médio a margarina para derreter.",
+      "Assim que derreter coloque o açúcar e em seguida o achocolatado, por último acrescente o leite.",
+      "Mexa de vez em quando para não gastar, espere engrossar um pouco e despeje ainda quente no bolo."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Panela",
+    "Bowl",
+    "Colher de silicone"
+  ],
+  "texto_para_embedding": "Bolo de chocolate no liquidificador. Ingredientes: achocolado ou chocolate em pó, açúcar, trigo peneirado, óleo, leite, ovos, fermento em pó, margarina, achocolatado ou chocolate em pó, açúcar, leite. Preparo: Unte uma forma de buraco pequena com margarina e trigo. Reserve. Bata no liquidificador, o óleo, o leite e o ovo."
+}

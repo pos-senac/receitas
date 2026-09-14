@@ -1,0 +1,59 @@
+{
+  "id": "tg-132260",
+  "titulo": "Pavê de chocolate branco com Negresco",
+  "url": "https://www.tudogostoso.com.br/receita/132260-pave-de-chocolate-branco-com-negresco.html",
+  "nota": 4.4,
+  "n_avaliacoes": 269,
+  "categoria": "Receitas pavês",
+  "subcategoria": "Pavê de chocolate branco com Negresco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "chocolate branco (picado)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de chocolate branco (picado)"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "3",
+      "unidade": "caixas",
+      "texto_original": "3 caixas de creme de leite"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "bolacha recheada Negresco",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de bolacha recheada Negresco"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Derreta a manteiga na panela, adicione o leite condensado e deixe ferver, mexendo sempre, até ficar com textura de branquinho.",
+      "Deixe por mais 2 minutos, mexendo.",
+      "Retire do fogo e aguarde esfriar por 1 minuto. Adicione 200 g de chocolate branco picado, misture até derreter completamente o chocolate.",
+      "Após coloque 2 caixas de creme de leite e misture bem.",
+      "Em uma travessa média e funda, coloque uma pequena camada do creme e cubra com as bolachas, que podem ser inteiras ou picadas (que rendem mais).",
+      "Cubra as bolachas com uma camada de creme e assim repetindo as camadas sucessivamente, a ultima camada deve ser de bolacha. Leve à geladeira por 15 minutos.",
+      "Com o restante do chocolate picado, derreta-o em banho maria (fogo ou micro-ondas), adicione 1 caixa de creme de leite e cubra as ultimas bolachas totalmente.",
+      "Leve à geladeira por 2 horas, ou se preferir no congelador. Das duas maneiras fica delicioso!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pavê de chocolate branco com Negresco. Ingredientes: chocolate branco (picado), leite condensado, creme de leite, sopa de manteiga, bolacha recheada Negresco. Preparo: Derreta a manteiga na panela, adicione o leite condensado e deixe ferver, mexendo sempre, até ficar com textura de branquinho. Deixe por mais 2 minutos, mexendo. Retire do fogo e aguarde esfriar por 1 minuto. Adicione 200 g de chocolate branco picado, misture até derreter completamente o chocolate."
+}

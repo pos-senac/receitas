@@ -1,0 +1,108 @@
+{
+  "id": "tg-30549",
+  "titulo": "Bolo de chocolate cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/30549-bolo-de-chocolate-cremoso.html",
+  "nota": 4.8,
+  "n_avaliacoes": 388,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate cremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de achocolatado"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícara",
+      "texto_original": "2 xícara de farinha de trigo"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite morno"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "creme de leite (com soro) ou caixinha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (com soro) ou caixinha"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de açúcar"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de achocolatado"
+    }
+  ],
+  "modo_preparo": {
+    "Creme:": [
+      "Coloque todos os ingredientes em uma vasilha.",
+      "Leve ao fogo médio, mexendo de vez em quando.",
+      "Deixe engrossar no ponto de calda para sorvete.",
+      "Reserve."
+    ],
+    "Massa:": [
+      "Em uma vasilha coloque o açúcar, o achocolatado, a farinha de trigo e o fermento em pó.",
+      "Reserve.",
+      "No liquidificador coloque os ovos, o leite, o óleo e bata por 3 minutos.",
+      "Despeje na vasilha com os ingredientes reservados.",
+      "Misture bem.",
+      "Despeje em uma forma untada e enfarinhada.",
+      "Coloque o creme reservado por cima.",
+      "Leve para assar em forno pré - aquecido por aproximadamente 40 minutos ou até dourar por cima."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Espátula de silicone",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de chocolate cremoso. Ingredientes: ovos, óleo, açúcar, achocolatado, farinha de trigo, leite morno, fermento em pó, creme de leite (com soro) ou caixinha, margarina, açúcar, achocolatado. Preparo: Coloque todos os ingredientes em uma vasilha. Leve ao fogo médio, mexendo de vez em quando. Deixe engrossar no ponto de calda para sorvete."
+}

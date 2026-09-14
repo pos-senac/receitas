@@ -1,0 +1,69 @@
+{
+  "id": "tg-90266",
+  "titulo": "Gelado de abacaxi",
+  "url": "https://www.tudogostoso.com.br/receita/90266-gelado-de-abacaxi.html",
+  "nota": 4.6,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelado de abacaxi",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 25,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "abacaxi médio cortado em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abacaxi médio cortado em cubos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de água"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "envelope de gelatina sabor abacaxi",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de gelatina sabor abacaxi"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare a gelatina sabor abacaxi como mostra no envelope, reserve.",
+      "Em uma panela coloque o abacaxi picado em cubos, a água e o açúcar.",
+      "Ferva uns 15 minutos e reserve.",
+      "No liquidificador, coloque o leite condensado, o creme de leite, a gelatina sabor abacaxi e bata bem, até ficar bem uniforme.",
+      "Incorpore o creme no abacaxi cozido, mexendo bem.",
+      "Em um refratário de vidro, coloque o creme pronto e leve ao refrigerador por 4 a 5 horas.",
+      "Retire na hora de servir."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Gelado de abacaxi. Ingredientes: abacaxi médio cortado em cubos, açúcar, água, creme de leite, leite condensado, envelope de gelatina sabor abacaxi. Preparo: Prepare a gelatina sabor abacaxi como mostra no envelope, reserve. Em uma panela coloque o abacaxi picado em cubos, a água e o açúcar. Ferva uns 15 minutos e reserve."
+}

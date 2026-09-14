@@ -1,0 +1,105 @@
+{
+  "id": "tg-90274",
+  "titulo": "Bolo formigueiro fácil e delicioso",
+  "url": "https://www.tudogostoso.com.br/receita/90274-bolo-formigueiro-facil-e-delicioso.html",
+  "nota": 4.3,
+  "n_avaliacoes": 362,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo formigueiro fácil e delicioso",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 45,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "pacotinho de 100 g de chocolate granulado",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pacotinho de 100 g de chocolate granulado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de leite"
+    },
+    {
+      "nome": "pacotinho de 100 g de chocolate granulado",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pacotinho de 100 g de chocolate granulado"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Coloque em uma vasilha a farinha, o açúcar e o fermento e mexa.",
+      "Adicione os ovos, o óleo, o leite e mexa tudo.",
+      "Adicione o chocolate granulado e mexa.",
+      "Leve ao forno em uma forma untada e enfarinhada por aproximadamente 25 minutos no forno médio (180°)."
+    ],
+    "Cobertura": [
+      "Misture o açúcar, o chocolate em pó, a margarina e o leite e leve ao fogo até levantar fervura, espere uns 3 minutinhos e desligue.",
+      "Jogue a cobertura sobre o bolo e jogue o chocolate granulado por cima."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Espátula de silicone",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo formigueiro fácil e delicioso. Ingredientes: farinha, açúcar, fermento em pó, ovos, óleo, leite, pacotinho de 100 g de chocolate granulado, açúcar, chocolate em pó, margarina, leite, pacotinho de 100 g de chocolate granulado. Preparo: Coloque em uma vasilha a farinha, o açúcar e o fermento e mexa. Adicione os ovos, o óleo, o leite e mexa tudo. Adicione o chocolate granulado e mexa."
+}

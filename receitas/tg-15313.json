@@ -1,0 +1,88 @@
+{
+  "id": "tg-15313",
+  "titulo": "Canjica com amendoim",
+  "url": "https://www.tudogostoso.com.br/receita/15313-canjica-com-amendoim.html",
+  "nota": 4.7,
+  "n_avaliacoes": 188,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Canjica com amendoim",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "milho para canjica",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de milho para canjica"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "l",
+      "texto_original": "2 l de água"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco"
+    },
+    {
+      "nome": "leite comum",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite comum"
+    },
+    {
+      "nome": "cravos da Índia",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 cravos da Índia"
+    },
+    {
+      "nome": "pauzinhos de canela",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 pauzinhos de canela"
+    },
+    {
+      "nome": "amendoim torrado e moído grosseiramente",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de amendoim torrado e moído grosseiramente"
+    },
+    {
+      "nome": "Canela em pó para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pó para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixe a canjica de molho na água de um dia para o outro.",
+      "Coloque na panela de pressão e cozinhe por 30 minutos ou até que esteja macia.",
+      "Coloque em outra panela (se necessário, maior) acrescente o leite, o leite de coco, o cravo e a canela.",
+      "Deixe ferver por 10 minutos, mexendo sempre.",
+      "Acrescente o leite condensado mexendo para não grudar, por mais 10 minutos.",
+      "Desligue estando bem cremosa e não seca.",
+      "Acrescente o amendoim passe para uma travessa e polvilhe a canela em pó.",
+      "Sirva morna ou fria."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Bowl",
+    "Colher de pau",
+    "Ramequim"
+  ],
+  "texto_para_embedding": "Canjica com amendoim. Ingredientes: milho para canjica, água, leite condensado, vidro de leite de coco, leite comum, cravos da Índia, pauzinhos de canela, amendoim torrado e moído grosseiramente, Canela em pó para polvilhar. Preparo: Deixe a canjica de molho na água de um dia para o outro. Coloque na panela de pressão e cozinhe por 30 minutos ou até que esteja macia. Coloque em outra panela (se necessário, maior) acrescente o leite, o leite de coco, o cravo e a canela."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "tg-5552",
+  "titulo": "Estrogonofe de frango básico",
+  "url": "https://www.tudogostoso.com.br/receita/5552-estrogonofe-de-frango-basico.html",
+  "nota": 4.6,
+  "n_avaliacoes": 314,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Estrogonofe de frango básico",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 7,
+  "ingredientes": [
+    {
+      "nome": "peito de frango sem osso",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de peito de frango sem osso"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de galinha"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiro corte o frango em cubinhos.",
+      "Em uma panela média, coloque o óleo, o tablete de caldo de galinha e o sal a gosto, aqueça até o ponto de fritura e coloque o frango.",
+      "Mexa bem e tampe meia panela para que crie água, espere sumir a água e começar a fritura.",
+      "Coloque o orégano e mexa o frango até dourar.",
+      "Depois coloque a lata de creme de leite e mexa até espalhar, com a mesma lata encha de água e coloque junto, mexa mais uma vez até misturar e deixe levantar fervura.",
+      "Pronto, o estrogonofe está pronto para ser servido."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Estrogonofe de frango básico. Ingredientes: peito de frango sem osso, creme de leite sem soro, tablete de caldo de galinha, orégano, óleo, sal a gosto. Preparo: Primeiro corte o frango em cubinhos. Em uma panela média, coloque o óleo, o tablete de caldo de galinha e o sal a gosto, aqueça até o ponto de fritura e coloque o frango. Mexa bem e tampe meia panela para que crie água, espere sumir a água e começar a fritura."
+}

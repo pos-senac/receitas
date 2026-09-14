@@ -1,0 +1,81 @@
+{
+  "id": "tg-42964",
+  "titulo": "Mini pizza",
+  "url": "https://www.tudogostoso.com.br/receita/42964-mini-pizza.html",
+  "nota": 4.6,
+  "n_avaliacoes": 104,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Mini pizza",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 75,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "farinha, ou até a massa soltar da mão completamente",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de farinha, ou até a massa soltar da mão completamente"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de água morna"
+    },
+    {
+      "nome": "fermento granulado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de fermento granulado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de açúcar"
+    },
+    {
+      "nome": "A seu gosto, pode fazer com bacon, presunto e mussarela, frango etc",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "A seu gosto, pode fazer com bacon, presunto e mussarela, frango etc"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva o fermento na água morna, junte o óleo, o sal e o açúcar.",
+      "Adicione farinha aos poucos, trabalhando com as mãos, até obter uma massa homogênea.",
+      "Se necessário, coloque farinha.",
+      "Trabalhe a massa por aproximadamente 15 minutos, até ficar lisa e soltando bolhas de ar.",
+      "Cubra com um pano e deixe descansar por 40 minutos.",
+      "Abra a massa não muito grossa, pois cresce bastante, deixe com cerca de 0,5 cm.",
+      "Corte com um cortador ou use uma tampa redonda pequena.",
+      "Coloque em assadeira untada.",
+      "Leve para pré-assar por cerca de 10 minutos.",
+      "Retire do forno e coloque o recheio.",
+      "Pode ser congelada, ou vai ao forno por mais uns 10 minutos, ou até o queijo derreter e a massa ficar completamente assada."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Copo medidor",
+    "Forno elétrico",
+    "Rolo de massa",
+    "Cortador de massa",
+    "Forma de pizza"
+  ],
+  "texto_para_embedding": "Mini pizza. Ingredientes: farinha, ou até a massa soltar da mão completamente, água morna, fermento granulado, óleo, sal, açúcar, A seu gosto, pode fazer com bacon, presunto e mussarela, frango etc. Preparo: Dissolva o fermento na água morna, junte o óleo, o sal e o açúcar. Adicione farinha aos poucos, trabalhando com as mãos, até obter uma massa homogênea. Se necessário, coloque farinha."
+}

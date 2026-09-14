@@ -1,0 +1,66 @@
+{
+  "id": "tg-37486",
+  "titulo": "Ambrosia fácil",
+  "url": "https://www.tudogostoso.com.br/receita/37486-ambrosia-facil.html",
+  "nota": 4.7,
+  "n_avaliacoes": 381,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Ambrosia fácil",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 50,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 ovos inteiros"
+    },
+    {
+      "nome": "casca de canela",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 casca de canela"
+    },
+    {
+      "nome": "cravos-da-índia",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 cravos-da-índia"
+    },
+    {
+      "nome": "suco de 1 limão pequeno",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1 limão pequeno"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela média 1/2 xícara de açúcar, a canela e os cravos da índia.",
+      "Deixe ferver até dourar o açúcar (cor de caramelo).",
+      "Acrescente o leite, o suco do limão o restante do açúcar e os ovos ( misture os ovos antes para estourar as gemas).",
+      "Mexa de vez em quando, com cuidado.",
+      "Depois deixe ferver até ficar quase seca."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Ambrosia fácil. Ingredientes: litro de leite, açúcar, ovos inteiros, casca de canela, cravos-da-índia, suco de 1 limão pequeno. Preparo: Coloque em uma panela média 1/2 xícara de açúcar, a canela e os cravos da índia. Deixe ferver até dourar o açúcar (cor de caramelo). Acrescente o leite, o suco do limão o restante do açúcar e os ovos ( misture os ovos antes para estourar as gemas)."
+}

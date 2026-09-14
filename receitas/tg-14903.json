@@ -1,0 +1,55 @@
+{
+  "id": "tg-14903",
+  "titulo": "Mousse de chocolate hiper fácil e mega gostoso",
+  "url": "https://www.tudogostoso.com.br/receita/14903-mousse-de-chocolate-hiper-facil-e-mega-gostoso.html",
+  "nota": 4.2,
+  "n_avaliacoes": 131,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Mousse de chocolate hiper fácil e mega gostoso",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "gelatina em pó sem sabor",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina em pó sem sabor"
+    },
+    {
+      "nome": "ou a seu gosto de chocolate em pó, achocolatado ou outro de sua preferência, fica bom com qualquer um",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres ou a seu gosto de chocolate em pó, achocolatado ou outro de sua preferência, fica bom com qualquer um"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque no liquidificador o creme de leite, o leite condensado e o chocolate em pó.",
+      "Bata por aproximadamente 2 minutos.",
+      "Derreta a gelatina conforme instruções da embalagem e acrescente a mistura, bata por 30 segundos só para misturar.",
+      "Coloque em um recipiente, cubra e leve à geladeira até endurecer."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Colher de silicone",
+    "Colher para sobremesa",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Mousse de chocolate hiper fácil e mega gostoso. Ingredientes: creme de leite, leite condensado, gelatina em pó sem sabor, ou a seu gosto de chocolate em pó, achocolatado ou outro de sua preferência, fica bom com qualquer um. Preparo: Coloque no liquidificador o creme de leite, o leite condensado e o chocolate em pó. Bata por aproximadamente 2 minutos. Derreta a gelatina conforme instruções da embalagem e acrescente a mistura, bata por 30 segundos só para misturar."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "tg-11486",
+  "titulo": "Café cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/11486-cafe-cremoso.html",
+  "nota": 4.7,
+  "n_avaliacoes": 287,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Café cremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "café solúvel",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de café solúvel"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar refinado"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte todos os ingredientes e bata na batedeira durante 15 minutos até ficar um creme.",
+      "Guarde no congelador em pote fechado.",
+      "Este creme é para ser servido do seguinte modo:",
+      "1 colher de sobremesa em 1 xícara de café quente (já pronto) ou 2 colheres de sobremesa em 1 xícara de leite fervendo.",
+      "Está pronto uma deliciosa bebida cremosa para aquecer as noites frias de inverno."
+    ]
+  },
+  "utensilios": [
+    "Xícara",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Café cremoso. Ingredientes: café solúvel, açúcar refinado, água. Preparo: Junte todos os ingredientes e bata na batedeira durante 15 minutos até ficar um creme. Guarde no congelador em pote fechado. Este creme é para ser servido do seguinte modo:"
+}

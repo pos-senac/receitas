@@ -1,0 +1,66 @@
+{
+  "id": "tg-1863",
+  "titulo": "Massa para torta salgada",
+  "url": "https://www.tudogostoso.com.br/receita/1863-massa-para-torta-salgada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 563,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa para torta salgada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "½ copo de óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ copo de óleo"
+    },
+    {
+      "nome": "½ copo de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ copo de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "queijo",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de queijo"
+    },
+    {
+      "nome": "½ colherinha de sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ colherinha de sal"
+    },
+    {
+      "nome": "½ colherinha de fermento em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ colherinha de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bate-se tudo no liquidificador.",
+      "Coloca-se uma parte num pirex untado, recheia-se a gosto e depois coloca-se a outra camada.",
+      "Forno quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa para torta salgada. Ingredientes: ½ copo de óleo, ½ copo de leite, farinha de trigo, ovos, queijo, ½ colherinha de sal, ½ colherinha de fermento em pó. Preparo: Bate-se tudo no liquidificador. Coloca-se uma parte num pirex untado, recheia-se a gosto e depois coloca-se a outra camada. Forno quente."
+}

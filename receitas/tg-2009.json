@@ -1,0 +1,50 @@
+{
+  "id": "tg-2009",
+  "titulo": "Hamburguer caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/2009-hamburguer-caseiro.html",
+  "nota": 4.6,
+  "n_avaliacoes": 218,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Hamburguer caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "carne moída (de sua preferência)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne moída (de sua preferência)"
+    },
+    {
+      "nome": "ovo inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro"
+    },
+    {
+      "nome": "creme de cebola (daqueles instantâneos)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de creme de cebola (daqueles instantâneos)"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes até formar uma massa homogênea.",
+      "se tiver a máquina de fazer hamburger faça os bifes e congele, ou pode cortar uma garrafa pet 2 litros, encher com a massa, congelar, tirar do freezer e cortar em bifes.",
+      "O rendimento depende do tamanho do bife a ser cortado.",
+      "Daí é só fritar.",
+      "Bom apetite!."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Hamburguer caseiro. Ingredientes: carne moída (de sua preferência), ovo inteiro, creme de cebola (daqueles instantâneos), Sal a gosto. Preparo: Misture todos os ingredientes até formar uma massa homogênea. se tiver a máquina de fazer hamburger faça os bifes e congele, ou pode cortar uma garrafa pet 2 litros, encher com a massa, congelar, tirar do freezer e cortar em bifes. O rendimento depende do tamanho do bife a ser cortado."
+}

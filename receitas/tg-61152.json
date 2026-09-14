@@ -1,0 +1,78 @@
+{
+  "id": "tg-61152",
+  "titulo": "Recheio de abacaxi para bolos e tortas",
+  "url": "https://www.tudogostoso.com.br/receita/61152-recheio-de-abacaxi-para-bolos-e-tortas.html",
+  "nota": 4.6,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Recheio de abacaxi para bolos e tortas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de maisena"
+    },
+    {
+      "nome": "leite (medida da lata de leite condensado)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (medida da lata de leite condensado)"
+    },
+    {
+      "nome": "gemas peneiradas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas peneiradas"
+    },
+    {
+      "nome": "abacaxi grande picadinho sem o miolo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abacaxi grande picadinho sem o miolo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o leite condensado, as gemas e o leite com a maisena dissolvida.",
+      "Misture sempre até engrossar.",
+      "Deixe esfriar e leve à geladeira.",
+      "Leve ao fogo o abacaxi com o açúcar e deixe cozinhar por 20 minutos, mexendo de vez em quando.",
+      "Deixe esfriar e reserve.",
+      "Depois de gelado bata o creme na batedeira com o creme de leite.",
+      "Acrescente o doce de abacaxi e leve para gelar mais alguns minutos antes de rechear o seu bolo ou torta.",
+      "Esse creme também é ótimo pra fazer pavê de abacaxi."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Refratário",
+    "Espátula de silicone",
+    "Faca",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Recheio de abacaxi para bolos e tortas. Ingredientes: leite condensado, creme de leite sem soro, maisena, leite (medida da lata de leite condensado), gemas peneiradas, abacaxi grande picadinho sem o miolo, açúcar. Preparo: Leve ao fogo o leite condensado, as gemas e o leite com a maisena dissolvida. Misture sempre até engrossar. Deixe esfriar e leve à geladeira."
+}

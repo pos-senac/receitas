@@ -1,0 +1,65 @@
+{
+  "id": "tg-145938",
+  "titulo": "Bolo simples de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/145938-bolo-simples-de-liquidificador.html",
+  "nota": 3.9,
+  "n_avaliacoes": 306,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo simples de liquidificador",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 35,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de açúcar"
+    },
+    {
+      "nome": "farinha de frigo",
+      "quantidade": "2",
+      "unidade": "xícara",
+      "texto_original": "2 xícara de farinha de frigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos, o açúcar e a margarina no liquidificador por cerca de 1 minuto.",
+      "Bata a farinha e o leite aos poucos, adicione o fermento em pó e bata tudo por mais 1 minuto.",
+      "Despeje a massa em uma forma untada e enfarinhada e asse em forno médio (180° C), preaquecido, por cerca de 20 minutos ou até que um palito saia limpo ao ser espetado na massa."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Formo de bolo",
+    "Fouet",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo simples de liquidificador. Ingredientes: ovos, margarina, açúcar, farinha de frigo, leite, fermento em pó. Preparo: Bata os ovos, o açúcar e a margarina no liquidificador por cerca de 1 minuto. Bata a farinha e o leite aos poucos, adicione o fermento em pó e bata tudo por mais 1 minuto. Despeje a massa em uma forma untada e enfarinhada e asse em forno médio (180° C), preaquecido, por cerca de 20 minutos ou até que um palito saia limpo ao ser espetado na massa."
+}

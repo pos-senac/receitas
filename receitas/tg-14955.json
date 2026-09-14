@@ -1,0 +1,48 @@
+{
+  "id": "tg-14955",
+  "titulo": "Costela de boi na panela de pressão cozida na cebola",
+  "url": "https://www.tudogostoso.com.br/receita/14955-costela-de-boi-na-panela-de-pressao-cozida-na-cebola.html",
+  "nota": 4.6,
+  "n_avaliacoes": 470,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Costela de boi na panela de pressão cozida na cebola",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "costela de boi inteira",
+      "quantidade": "1 e 1/2",
+      "unidade": "kg",
+      "texto_original": "1 e 1/2 kg de costela de boi inteira"
+    },
+    {
+      "nome": "cebolas grandes, cortadas em rodelas",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 cebolas grandes, cortadas em rodelas"
+    },
+    {
+      "nome": "tabletes de caldo de carne",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 tabletes de caldo de carne"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela de pressão, forre o fundo com metade da cebola e coloque a costela.",
+      "Em seguida, coloque o restante da cebola e por último os tabletes de caldo de carne.",
+      "Tampe a panela e leve ao fogo.",
+      "Quando começar a ferver, abaixe o fogo e deixe por 45 minutos.",
+      "Espere sair a pressão, retire a costela e coloque numa travessa, por cima acrescente o molho que sobrou na panela."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Refratário",
+    "Colher de pau"
+  ],
+  "texto_para_embedding": "Costela de boi na panela de pressão cozida na cebola. Ingredientes: costela de boi inteira, cebolas grandes, cortadas em rodelas, tabletes de caldo de carne. Preparo: Em uma panela de pressão, forre o fundo com metade da cebola e coloque a costela. Em seguida, coloque o restante da cebola e por último os tabletes de caldo de carne. Tampe a panela e leve ao fogo."
+}

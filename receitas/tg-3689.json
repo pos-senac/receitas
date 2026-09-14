@@ -1,0 +1,68 @@
+{
+  "id": "tg-3689",
+  "titulo": "Macarronada",
+  "url": "https://www.tudogostoso.com.br/receita/3689-macarronada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 312,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarronada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "carne moída a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "carne moída a gosto"
+    },
+    {
+      "nome": "macarrão refogado na manteiga a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "macarrão refogado na manteiga a gosto"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilha"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, leve a carne moída temperada ao fogo e adicione o milho verde e a ervilha.",
+      "Misture tudo e deixe cozinhar por 30 minutos.",
+      "Desligue o fogo e acrescente o creme de leite e o molho de tomate.",
+      "Incorpore o macarrão refogado na manteiga e misture bem."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Colher de silicone",
+    "Escorredor de massa",
+    "Expremedor de alho",
+    "Pegador de macarrão"
+  ],
+  "texto_para_embedding": "Macarronada. Ingredientes: carne moída a gosto, macarrão refogado na manteiga a gosto, milho verde, ervilha, creme de leite, molho de tomate. Preparo: Em uma panela, leve a carne moída temperada ao fogo e adicione o milho verde e a ervilha. Misture tudo e deixe cozinhar por 30 minutos. Desligue o fogo e acrescente o creme de leite e o molho de tomate."
+}

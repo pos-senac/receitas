@@ -1,0 +1,66 @@
+{
+  "id": "tg-735",
+  "titulo": "Docinho de leite ninho",
+  "url": "https://www.tudogostoso.com.br/receita/735-docinho-de-leite-ninho.html",
+  "nota": 4.4,
+  "n_avaliacoes": 858,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Docinho de leite ninho",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar refinado"
+    },
+    {
+      "nome": "leite integral em pó",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite integral em pó"
+    },
+    {
+      "nome": "leite de coco",
+      "quantidade": "50",
+      "unidade": "ml",
+      "texto_original": "50 ml de leite de coco"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar refinado"
+    },
+    {
+      "nome": "coco ralado para enfeitar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coco ralado para enfeitar"
+    },
+    {
+      "nome": "cravos-da-Índia para enfeitar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cravos-da-Índia para enfeitar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, misture bem o açúcar com o leite em pó.",
+      "Acrescente aos poucos o leite de coco e amasse bem até obter uma massa firme e homogênea.",
+      "Modele a massa em bolinhas.",
+      "Passe as bolinhas no açúcar ou coco ralado.",
+      "Enfeite com o cravo-da-índia."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Docinho de leite ninho. Ingredientes: açúcar refinado, leite integral em pó, leite de coco, açúcar refinado, coco ralado para enfeitar, cravos-da-Índia para enfeitar. Preparo: Em uma tigela, misture bem o açúcar com o leite em pó. Acrescente aos poucos o leite de coco e amasse bem até obter uma massa firme e homogênea. Modele a massa em bolinhas."
+}

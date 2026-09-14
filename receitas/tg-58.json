@@ -1,0 +1,104 @@
+{
+  "id": "tg-58",
+  "titulo": "Tabule",
+  "url": "https://www.tudogostoso.com.br/receita/58-tabule.html",
+  "nota": 4.7,
+  "n_avaliacoes": 346,
+  "categoria": "Receitas alimentação saudável",
+  "subcategoria": "Tabule",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 480,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "trigo para kibe",
+      "quantidade": "45",
+      "unidade": "g",
+      "texto_original": "45 g de trigo para kibe"
+    },
+    {
+      "nome": "tomate picado sem sementes",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de tomate picado sem sementes"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "pepinos picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pepinos picados"
+    },
+    {
+      "nome": "maço de salsinha picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de salsinha picada"
+    },
+    {
+      "nome": "suco de limão",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de suco de limão"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "noz-moscada",
+      "quantidade": "1/4",
+      "unidade": "colher (chá)",
+      "texto_original": "1/4 colher (chá) de noz-moscada"
+    },
+    {
+      "nome": "hortelã picada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "hortelã picada"
+    },
+    {
+      "nome": "salsa picada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsa picada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, deixe o trigo de molho por 2 horas.",
+      "Lave bem o trigo em água corrente, escorra e esprema nas mão para retirar o excesso de umidade.",
+      "Passe a cebola picada em água fria e escorra bem.",
+      "Junte os outros ingredientes (menos o tomate) e deixe tampado na geladeira por pelo menos 8 horas.",
+      "Acrescente os tomates na hora de servir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Faca",
+    "Prato raso",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Tabule. Ingredientes: trigo para kibe, tomate picado sem sementes, cebola picada, pepinos picados, maço de salsinha picada, suco de limão, azeite, sal a gosto, pimenta-do-reino a gosto, noz-moscada, hortelã picada, salsa picada. Preparo: Em um recipiente, deixe o trigo de molho por 2 horas. Lave bem o trigo em água corrente, escorra e esprema nas mão para retirar o excesso de umidade. Passe a cebola picada em água fria e escorra bem."
+}

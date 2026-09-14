@@ -1,0 +1,98 @@
+{
+  "id": "tg-112749",
+  "titulo": "Torta de frango com massa podre",
+  "url": "https://www.tudogostoso.com.br/receita/112749-torta-de-frango-com-massa-podre.html",
+  "nota": 4.6,
+  "n_avaliacoes": 306,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de frango com massa podre",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo sem fermento",
+      "quantidade": "4",
+      "unidade": "xícaras (chá)",
+      "texto_original": "4 xícaras (chá) de farinha de trigo sem fermento"
+    },
+    {
+      "nome": "gemas de ovo",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas de ovo"
+    },
+    {
+      "nome": "tabletes de margarina (em um pacote use 3/4 - 300 g)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tabletes de margarina (em um pacote use 3/4 - 300 g)"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "colherinha de sal",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 colherinha de sal"
+    },
+    {
+      "nome": "peito de frango temperado, cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango temperado, cozido e desfiado"
+    },
+    {
+      "nome": "salsa picada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsa picada a gosto"
+    },
+    {
+      "nome": "catupiry",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de catupiry"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Misture os ingredientes secos em um recipiente fundo.",
+      "Misture o restante dos ingrediente com as mãos limpas e reserve tampando com uma toalha de mesa por uns 15 a 20 minutos."
+    ],
+    "Recheio": [
+      "Em uma tigela, misture o frango, a salsa, o catupiry e o creme de leite."
+    ],
+    "Montagem": [
+      "Em uma forma retangular de alumínio com o fundo falso, forre o fundo e as laterais com a massa utilizando a mão mesmo. O que sobrar será feito a tampa da torta.",
+      "Adicione o recheio na forma forrada com a massa.",
+      "Depois, abra a massa que sobrou da seguinte forma: pegue um saquinho transparente de supermercado, aqueles que usamos pra colocar as verduras e frutas, e coloque a massa em cima dele.",
+      "Coloque outro saquinho transparente em cima da massa.",
+      "Abra com um rolo de abrir massa.",
+      "Esse processo tem que ser assim porque a massa é chamada de massa podre, tipo de empada. Se abrir de outra forma, ela quebra todinha.",
+      "Com a massa aberta, tire o saquinho de cima e tampe a torta.",
+      "Retire o excesso que sobrar nas laterais.",
+      "Se quiser, use a sobra para enfeitar em cima.",
+      "Coloque no forno pré-aquecido por uns 20 minutos.",
+      "Passe a gema de ovo em cima da torta para dar uma aparência brilhosa quase no fim do tempo estimado."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espátula de silicone",
+    "Forma com fundo removível",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Torta de frango com massa podre. Ingredientes: farinha de trigo sem fermento, gemas de ovo, tabletes de margarina (em um pacote use 3/4 - 300 g), fermento em pó, colherinha de sal, peito de frango temperado, cozido e desfiado, salsa picada a gosto, catupiry, caixinha de creme de leite. Preparo: Misture os ingredientes secos em um recipiente fundo. Misture o restante dos ingrediente com as mãos limpas e reserve tampando com uma toalha de mesa por uns 15 a 20 minutos. Em uma tigela, misture o frango, a salsa, o catupiry e o creme de leite."
+}

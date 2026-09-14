@@ -1,0 +1,56 @@
+{
+  "id": "tg-146051",
+  "titulo": "Cobertura de chocolate cremosa",
+  "url": "https://www.tudogostoso.com.br/receita/146051-cobertura-de-chocolate-cremosa.html",
+  "nota": 3.7,
+  "n_avaliacoes": 232,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cobertura de chocolate cremosa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 7,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de açúcar"
+    },
+    {
+      "nome": "achocolatado ou toddy",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de achocolatado ou toddy"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de maizena"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Numa panela colocar o açúcar, o achocolatado e mexer bem.",
+      "Quando começar a desgrudar da panela acrescente o leite, reserve um pouco de leite para misturar com a maizena.",
+      "Depois e coloque o leite e a maizena na panela, pronto, agora é só jogar em cima do bolo.",
+      "Bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Fogão",
+    "Fouet",
+    "Tigela",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Cobertura de chocolate cremosa. Ingredientes: leite, açúcar, achocolatado ou toddy, maizena. Preparo: Numa panela colocar o açúcar, o achocolatado e mexer bem. Quando começar a desgrudar da panela acrescente o leite, reserve um pouco de leite para misturar com a maizena. Depois e coloque o leite e a maizena na panela, pronto, agora é só jogar em cima do bolo."
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tg-250",
+  "titulo": "Torta de morango (deliciosa)",
+  "url": "https://www.tudogostoso.com.br/receita/250-torta-de-morango-deliciosa.html",
+  "nota": 4.4,
+  "n_avaliacoes": 418,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de morango (deliciosa)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "ovo inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro"
+    },
+    {
+      "nome": "rasas (sopa) de açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres rasas (sopa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "rasa (sopa) de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa (sopa) de fermento em pó"
+    },
+    {
+      "nome": "farinha de trigo até a massa desgrudar da mão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo até a massa desgrudar da mão"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "copos",
+      "texto_original": "3 copos de leite"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de maisena"
+    },
+    {
+      "nome": "caixinhas de morangos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caixinhas de morangos"
+    },
+    {
+      "nome": "gelatina de morango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina de morango"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em primeiro lugar, faça a gelatina conforme o modo de preparo e deixe-a na geladeira (porque na hora do uso ela deve estar em ponto de clara de ovo. Se estiver líquida, a gelatina penetrará na massa)."
+    ],
+    "Creme:": [
+      "Misture todos os ingredientes e mexa até levantar fervura.",
+      "Quando você perceber que ele está bem cremoso, mexa bastante sem parar (cuidado para não deixar empelotar ou grudar no fundo da panela).",
+      "Na hora do uso, ele deve estar já frio ou levemente morno."
+    ],
+    "Massa:": [
+      "Misture todos os ingredientes, e quando ela estiver no ponto, forre um pirex de médio a grande (os mais fundos são melhores).",
+      "Fure a massa com um garfo e asse em fogo médio entre 10 a 15 minutos.",
+      "Quando dourar, está pronta (a massa fica fina, então cuidado para não deixar queimar)."
+    ],
+    "Montagem da torta:": [
+      "Disponha a massa assada em um pirex e deixe esfriar um pouco.",
+      "Adicione o creme e, sobre ele, os morangos cortados na transversal.",
+      "Em seguida, adicione a gelatina já em ponto de clara (pois assim ela ficará na superfície).",
+      "Leve à geladeira por no mínimo 4 horas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de morango (deliciosa). Ingredientes: margarina, óleo, ovo inteiro, rasas (sopa) de açúcar, sal, rasa (sopa) de fermento em pó, farinha de trigo até a massa desgrudar da mão, leite condensado, creme de leite, gemas, leite, maisena, caixinhas de morangos, gelatina de morango. Preparo: Em primeiro lugar, faça a gelatina conforme o modo de preparo e deixe-a na geladeira (porque na hora do uso ela deve estar em ponto de clara de ovo. Se estiver líquida, a gelatina penetrará na massa). Misture todos os ingredientes e mexa até levantar fervura. Quando você perceber que ele está bem cremoso, mexa bastante sem parar (cuidado para não deixar empelotar ou grudar no fundo da panela)."
+}

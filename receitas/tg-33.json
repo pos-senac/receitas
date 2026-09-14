@@ -1,0 +1,55 @@
+{
+  "id": "tg-33",
+  "titulo": "Chocolate quente especial",
+  "url": "https://www.tudogostoso.com.br/receita/33-chocolate-quente-especial.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1392,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Chocolate quente especial",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "litro de leite desnatado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite desnatado"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de amido de milho"
+    },
+    {
+      "nome": "canela em pó para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater todos os ingredientes no liquidificador (menos a canela).",
+      "Levar ao fogo em temperatura média até o líquido ferver engrossar.",
+      "Servir em xícaras, polvilhar com canela.",
+      "Para um sabor especial pode se colocar chantilly sobre a xícara de chocolate."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Chocolate quente especial. Ingredientes: litro de leite desnatado, leite condensado, chocolate em pó, amido de milho, canela em pó para polvilhar. Preparo: Bater todos os ingredientes no liquidificador (menos a canela). Levar ao fogo em temperatura média até o líquido ferver engrossar. Servir em xícaras, polvilhar com canela."
+}

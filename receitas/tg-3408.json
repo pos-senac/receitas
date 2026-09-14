@@ -1,0 +1,94 @@
+{
+  "id": "tg-3408",
+  "titulo": "Fricassê simples",
+  "url": "https://www.tudogostoso.com.br/receita/3408-fricasse-simples.html",
+  "nota": 4.8,
+  "n_avaliacoes": 133,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Fricassê simples",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de extrato de tomate"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola ralada"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de margarina"
+    },
+    {
+      "nome": "cubo de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de galinha"
+    },
+    {
+      "nome": "batata palha com sal",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de batata palha com sal"
+    },
+    {
+      "nome": "tempero a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tempero a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Doure a cebola com a margarina, o caldo de galinha e o extrato de tomate.",
+      "Em seguida, junte o frango desfiado e espere ele dar uma douradinha.",
+      "Junte o creme de leite e o requeijão, espere levantar fervura.",
+      "Acrescente o milho verde, deixe mais 5 minutos e desligue (o molho não pode ficar muito aguado tem que estar cremoso).",
+      "Num refratário coloque o molho e cubra com toda a batata palha.",
+      "Leve ao forno por 10 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Espátula de silicone",
+    "Faca",
+    "Forno elétrico",
+    "Manteigueira"
+  ],
+  "texto_para_embedding": "Fricassê simples. Ingredientes: peito de frango cozido e desfiado, requeijão, creme de leite sem soro, milho verde, extrato de tomate, cebola ralada, margarina, cubo de caldo de galinha, batata palha com sal, tempero a gosto. Preparo: Doure a cebola com a margarina, o caldo de galinha e o extrato de tomate. Em seguida, junte o frango desfiado e espere ele dar uma douradinha. Junte o creme de leite e o requeijão, espere levantar fervura."
+}

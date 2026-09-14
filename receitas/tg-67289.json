@@ -1,0 +1,73 @@
+{
+  "id": "tg-67289",
+  "titulo": "Massa de torta salgada de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/67289-massa-de-torta-salgada-de-liquidificador.html",
+  "nota": 4.8,
+  "n_avaliacoes": 165,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Massa de torta salgada de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "chá de fermento",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de chá de fermento"
+    },
+    {
+      "nome": "sopa de queijo ralado",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de queijo ralado"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "12",
+      "unidade": "colheres",
+      "texto_original": "12 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque os ingredientes líquidos primeiro, depois acrescente os ovos, o fermento, o sal, e por ultimo a farinha de trigo.",
+      "A consistência ficará de um creme grosso, porém liquido.",
+      "Coloque metade em uma forma untada, recheio a gosto, a outra metade cubra o recheio e asse."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Colher de silicone",
+    "Fogão",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Massa de torta salgada de liquidificador. Ingredientes: óleo, leite, chá de fermento, sopa de queijo ralado, ovos, sopa de farinha de trigo, Sal a gosto. Preparo: Coloque os ingredientes líquidos primeiro, depois acrescente os ovos, o fermento, o sal, e por ultimo a farinha de trigo. A consistência ficará de um creme grosso, porém liquido. Coloque metade em uma forma untada, recheio a gosto, a outra metade cubra o recheio e asse."
+}

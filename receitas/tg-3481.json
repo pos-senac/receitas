@@ -1,0 +1,54 @@
+{
+  "id": "tg-3481",
+  "titulo": "Capuccino caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/3481-capuccino-caseiro.html",
+  "nota": 4.3,
+  "n_avaliacoes": 159,
+  "categoria": "Receitas drinks e Coquetéis não alcoólicos",
+  "subcategoria": "Capuccino caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "leite ninho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite ninho"
+    },
+    {
+      "nome": "café soluvél",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de café soluvél"
+    },
+    {
+      "nome": "café de bicarbonato",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de café de bicarbonato"
+    },
+    {
+      "nome": "Nescau ou Toddy",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de Nescau ou Toddy"
+    },
+    {
+      "nome": "café de canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de café de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma vasilha todos os ingredientes e misture bem.",
+      "Depois de misturado, coloque em potinhos para guardar.",
+      "Quando quiser tomar misture o tanto desejado no leite bem quente e curta um capuccino gostoso e barato."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Capuccino caseiro. Ingredientes: leite ninho, café soluvél, café de bicarbonato, Nescau ou Toddy, café de canela em pó. Preparo: Coloque em uma vasilha todos os ingredientes e misture bem. Depois de misturado, coloque em potinhos para guardar. Quando quiser tomar misture o tanto desejado no leite bem quente e curta um capuccino gostoso e barato."
+}

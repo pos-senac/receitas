@@ -1,0 +1,106 @@
+{
+  "id": "tg-15236",
+  "titulo": "Risoto de camarão",
+  "url": "https://www.tudogostoso.com.br/receita/15236-risoto-de-camarao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 533,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Risoto de camarão",
+  "nivel": "medio",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 50,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "camarão cinza limpo",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de camarão cinza limpo"
+    },
+    {
+      "nome": "arroz branco",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de arroz branco"
+    },
+    {
+      "nome": "cubo de caldo de camarão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de camarão"
+    },
+    {
+      "nome": "pimentão verde cortado em cubos pequenos",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de pimentão verde cortado em cubos pequenos"
+    },
+    {
+      "nome": "tomate sem sementes e cortado em cubos pequenos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate sem sementes e cortado em cubos pequenos"
+    },
+    {
+      "nome": "cheiro-verde picado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde picado"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de extrato de tomate"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de azeite"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "limão",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 limão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere o camarão com limão e sal, reserve por 10 minutos.",
+      "Enquanto isso, faça o arroz, fritando-o muito bem.",
+      "Em seguida, coloque água em uma panela, o suficiente para cobrir o arroz (sobrando uns 2 centímetros a mais do que o arroz no fundo da panela).",
+      "Coloque pouco sal, pois o molho do camarão levará o cubo de caldo de camarão.",
+      "Cozinhe em fogo baixo até que toda água seque.",
+      "Retire do fogo e deixe a tampa da panela aberta (para o arroz não passar do ponto).",
+      "E uma frigideira grande, que caiba todo o camarão, doure o alho e coloque todo o camarão sem o suco do limão.",
+      "Junte o tomate, o pimentão, o cheiro-verde, o extrato de tomate e o cubo de caldo de camarão.",
+      "Adicione um pouco de água, para que tenha molho suficiente para encobrir o camarão na frigideira. Cozinhe em fogo baixo por 5 minutos.",
+      "Enquanto isso, retire o arroz e coloque-o em um recipiente de cerâmica ou vidro, solte-o bastante com o garfo.",
+      "Junte o molho do camarão e misture, usando em uma das mãos um garfo, e em outra mão uma colher.",
+      "Decore com camarões grelhados e coentro, sirva bem quente!"
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de silicone",
+    "Faca",
+    "Frigideira funda",
+    "Panela de cerâmica"
+  ],
+  "texto_para_embedding": "Risoto de camarão. Ingredientes: camarão cinza limpo, arroz branco, cubo de caldo de camarão, pimentão verde cortado em cubos pequenos, tomate sem sementes e cortado em cubos pequenos, cheiro-verde picado, extrato de tomate, alho, azeite, sal, limão. Preparo: Tempere o camarão com limão e sal, reserve por 10 minutos. Enquanto isso, faça o arroz, fritando-o muito bem. Em seguida, coloque água em uma panela, o suficiente para cobrir o arroz (sobrando uns 2 centímetros a mais do que o arroz no fundo da panela)."
+}

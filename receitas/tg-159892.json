@@ -1,0 +1,77 @@
+{
+  "id": "tg-159892",
+  "titulo": "Batata de forno com frango rápida",
+  "url": "https://www.tudogostoso.com.br/receita/159892-batata-de-forno-com-frango-rapida.html",
+  "nota": 4.7,
+  "n_avaliacoes": 295,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Batata de forno com frango rápida",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "batata cozida em rodelas",
+      "quantidade": "800",
+      "unidade": "g",
+      "texto_original": "800 g de batata cozida em rodelas"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 molho de tomate"
+    },
+    {
+      "nome": "azeitona picada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitona picada a gosto"
+    },
+    {
+      "nome": "mussarela fatiada ou ralada",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela fatiada ou ralada"
+    },
+    {
+      "nome": "presunto fatiado ou ralado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de presunto fatiado ou ralado"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue o molho de tomate com óleo e tempero  em uma panela e acrescente o peito desfiado.",
+      "Coloque um pouco de água e deixe ferver um pouco.",
+      "Depois, adicione a azeitona picada e desligue o fogo.",
+      "Pegue um refratário de vidro e coloque o frango com o molho por baixo.",
+      "Logo em seguida coloque o requeijão por cima do frango e depois as batatas cozidas em rodelas.",
+      "Cubra com o presunto e a mussarela e polvilhe orégano por cima.",
+      "Leve ao forno preaquecido entre 180°C a 200°C até o que queijo derreter.",
+      "Sirva quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Batata de forno com frango rápida. Ingredientes: peito de frango cozido e desfiado, batata cozida em rodelas, requeijão, molho de tomate, azeitona picada a gosto, mussarela fatiada ou ralada, presunto fatiado ou ralado, orégano a gosto. Preparo: Refogue o molho de tomate com óleo e tempero  em uma panela e acrescente o peito desfiado. Coloque um pouco de água e deixe ferver um pouco. Depois, adicione a azeitona picada e desligue o fogo."
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tg-256",
+  "titulo": "Camarão com requeijão",
+  "url": "https://www.tudogostoso.com.br/receita/256-camarao-com-requeijao.html",
+  "nota": 4.8,
+  "n_avaliacoes": 226,
+  "categoria": "Receitas camarão",
+  "subcategoria": "Camarão com requeijão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "camarão médio limpo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de camarão médio limpo"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de manteiga"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola média picada"
+    },
+    {
+      "nome": "tomates sem pele e sem semente picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates sem pele e sem semente picados"
+    },
+    {
+      "nome": "sopa de molho de tomate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de molho de tomate"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de requeijão"
+    },
+    {
+      "nome": "Suco de 1/2 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1/2 limão"
+    },
+    {
+      "nome": "Folhas de alfavaca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Folhas de alfavaca"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta branca a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta branca a gosto"
+    },
+    {
+      "nome": "Ervas finas a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Ervas finas a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiro tempere o camarão com sal a gosto, suco de 1/2 limão e folhas de alfavaca. Mexa e deixe o camarão descansar por 15 minutos.",
+      "Depois derreta a manteiga e jogue a cebola. Mexa até dourar. Em seguida, despeje o tomate e o molho de tomate.",
+      "Deixe cozinhar por alguns minutos. Depois, adicione o camarão já temperado. Mexa bem e deixe cozinhar por 10 minutos com a tampa da panela fechada.",
+      "Quando o camarão já estiver cozido, coloque pimenta e ervas finas a gosto. Por último, adicione o requeijão e mexa até o queijo desmanchar. O prato está pronto. Para finalizar, coloque o camarão numa travessa e salpique queijo ralado para dar um gostinho especial à receita."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Camarão com requeijão. Ingredientes: camarão médio limpo, sopa de manteiga, cebola média picada, tomates sem pele e sem semente picados, sopa de molho de tomate, requeijão, Suco de 1/2 limão, Folhas de alfavaca, Sal a gosto, Pimenta branca a gosto, Ervas finas a gosto. Preparo: Primeiro tempere o camarão com sal a gosto, suco de 1/2 limão e folhas de alfavaca. Mexa e deixe o camarão descansar por 15 minutos. Depois derreta a manteiga e jogue a cebola. Mexa até dourar. Em seguida, despeje o tomate e o molho de tomate. Deixe cozinhar por alguns minutos. Depois, adicione o camarão já temperado. Mexa bem e deixe cozinhar por 10 minutos com a tampa da panela fechada."
+}

@@ -1,0 +1,70 @@
+{
+  "id": "tg-131419",
+  "titulo": "Frango gratinado com creme de milho",
+  "url": "https://www.tudogostoso.com.br/receita/131419-frango-gratinado-com-creme-de-milho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 188,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango gratinado com creme de milho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cozido e desfiado em pedaços grandes",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de peito de frango cozido e desfiado em pedaços grandes"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "bacon picado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de bacon picado"
+    },
+    {
+      "nome": "mussarela fatiada",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela fatiada"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de milho verde"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite"
+    },
+    {
+      "nome": "queijo parmesão para gratinar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo parmesão para gratinar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o peito de frango com poucos temperos, após cozido e desfiado refogue no azeite e na cebola, reserve.",
+      "Bata no liquidificador as 2 latas de milho verde com as 2 latas de creme de leite.",
+      "Em uma frigideira frite e bacon com um fio de azeite, quando estiver bem dourado junte a mistura do liquidificador e deixe apurar."
+    ],
+    "Montagem:": [
+      "Em um refratário coloque o frango desfiado e refogado, por cima as fatias de queijo mussarela, em seguida despeje todo o creme de milho, e para finalizar coloque queijo parmesão e leve ao forno para dar uma gratinada.",
+      "Sirva com arroz branco e batata palha."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango gratinado com creme de milho. Ingredientes: peito de frango cozido e desfiado em pedaços grandes, cebola picada, bacon picado, mussarela fatiada, milho verde, creme de leite, queijo parmesão para gratinar. Preparo: Cozinhe o peito de frango com poucos temperos, após cozido e desfiado refogue no azeite e na cebola, reserve. Bata no liquidificador as 2 latas de milho verde com as 2 latas de creme de leite. Em uma frigideira frite e bacon com um fio de azeite, quando estiver bem dourado junte a mistura do liquidificador e deixe apurar."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "tg-99972",
+  "titulo": "Requeijão Caseiro de Liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/99972-requeijao-caseiro-de-liquidificador.html",
+  "nota": 4.4,
+  "n_avaliacoes": 401,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Requeijão Caseiro de Liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de amido de milho"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de sal"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "ricota",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de ricota"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o leite já com o amido dissolvido e o sal, mexa até engrossar.",
+      "Retire do fogo misture a manteiga, o creme de leite e a ricota.",
+      "Em seguida bata tudo no liquidificador, coloque em potes e leve à geladeira.",
+      "Pode ser congelado!",
+      "Rende 5 copos grandes."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Requeijão Caseiro de Liquidificador. Ingredientes: leite, amido de milho, sal, manteiga, caixinha de creme de leite, ricota. Preparo: Leve ao fogo o leite já com o amido dissolvido e o sal, mexa até engrossar. Retire do fogo misture a manteiga, o creme de leite e a ricota. Em seguida bata tudo no liquidificador, coloque em potes e leve à geladeira."
+}

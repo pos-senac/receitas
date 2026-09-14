@@ -1,0 +1,90 @@
+{
+  "id": "tg-10228",
+  "titulo": "Bife à parmegiana",
+  "url": "https://www.tudogostoso.com.br/receita/10228-bife-a-parmegiana.html",
+  "nota": 4.4,
+  "n_avaliacoes": 456,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Bife à parmegiana",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "contra filé",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de contra filé"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola ralada"
+    },
+    {
+      "nome": "alhos picado",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 alhos picado"
+    },
+    {
+      "nome": "tempero completo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tempero completo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca"
+    },
+    {
+      "nome": "200g de presunto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela"
+    },
+    {
+      "nome": "molho de tomate pronto",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate pronto"
+    },
+    {
+      "nome": "gema de ovo para empanar os bifes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema de ovo para empanar os bifes"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os bifes com os ingredientes secos e faça-os à milanesa.",
+      "Frite e leve-os à uma assadeira.",
+      "Cubra-os com o presunto e mussarela, coloque o molho por último.",
+      "Leve ao forno para derreter a mussarela."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Bowl",
+    "Escumadeira",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bife à parmegiana. Ingredientes: contra filé, cebola ralada, alhos picado, tempero completo, sal a gosto, farinha de rosca, 200g de presunto, mussarela, molho de tomate pronto, gema de ovo para empanar os bifes. Preparo: Tempere os bifes com os ingredientes secos e faça-os à milanesa. Frite e leve-os à uma assadeira. Cubra-os com o presunto e mussarela, coloque o molho por último."
+}

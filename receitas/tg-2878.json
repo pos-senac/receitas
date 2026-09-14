@@ -1,0 +1,36 @@
+{
+  "id": "tg-2878",
+  "titulo": "Doce de banana",
+  "url": "https://www.tudogostoso.com.br/receita/2878-doce-de-banana.html",
+  "nota": 4.6,
+  "n_avaliacoes": 224,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Doce de banana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "bananas nanicas maduras",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 bananas nanicas maduras"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse as bananas com um garfo e coloque em uma panela junto com o açúcar.",
+      "Cozinhe em fogo médio, mexendo até que comece a soltar do fundo da panela.",
+      "Coloque em uma compoteira e sirva gelado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Doce de banana. Ingredientes: bananas nanicas maduras, açúcar. Preparo: Amasse as bananas com um garfo e coloque em uma panela junto com o açúcar. Cozinhe em fogo médio, mexendo até que comece a soltar do fundo da panela. Coloque em uma compoteira e sirva gelado."
+}

@@ -1,0 +1,106 @@
+{
+  "id": "tg-1404",
+  "titulo": "Souflé de brócolis",
+  "url": "https://www.tudogostoso.com.br/receita/1404-soufle-de-brocolis.html",
+  "nota": 4.7,
+  "n_avaliacoes": 118,
+  "categoria": "Receitas souflé",
+  "subcategoria": "Souflé de brócolis",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "maço de brócolis limpos (flores e folhas)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de brócolis limpos (flores e folhas)"
+    },
+    {
+      "nome": "(sopa)de manteiga",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres (sopa)de manteiga"
+    },
+    {
+      "nome": "cebola grande picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada"
+    },
+    {
+      "nome": "alho picados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho picados"
+    },
+    {
+      "nome": "ovos separados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos separados"
+    },
+    {
+      "nome": "xícara de leite",
+      "quantidade": "1/4",
+      "unidade": null,
+      "texto_original": "1/4 de xícara de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "nome": "sal e pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "uma pitada de noz-moscada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "uma pitada de noz-moscada"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de creme de leite"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de queijo parmesão ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, cozinhe os brócolis em pouca água.",
+      "Retire do fogo, escorra e deixe esfriar.",
+      "Coloque em uma panela a manteiga, a cebola e o alho.",
+      "Leve ao fogo e deixe até dourar, mexendo de vez em quando.",
+      "Junte os brócolis e refogue.",
+      "A parte, junte as gemas, o leite e o amido de milho e misture bem.",
+      "Acrescente essa mistura aos brócolis.",
+      "Tempere a gosto com sal, pimenta-do-reino e noz-moscada.",
+      "Abaixe o fogo e deixe cozinhar até que fique cremoso, mexendo sem parar.",
+      "Retire do fogo e acrescente o creme de leite e o queijo ralado.",
+      "Adicione as claras batidas em neve misturando delicadamente.",
+      "Despeje numa forma para suflê untada, leve ao forno moderado (180°C) e deixe assar e sirva a seguir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Espátula de silicone",
+    "Expremedor de alho",
+    "Faca",
+    "Fouet",
+    "Ramequim"
+  ],
+  "texto_para_embedding": "Souflé de brócolis. Ingredientes: maço de brócolis limpos (flores e folhas), (sopa)de manteiga, cebola grande picada, alho picados, ovos separados, xícara de leite, amido de milho, sal e pimenta-do-reino a gosto, uma pitada de noz-moscada, creme de leite, queijo parmesão ralado. Preparo: Em uma panela, cozinhe os brócolis em pouca água. Retire do fogo, escorra e deixe esfriar. Coloque em uma panela a manteiga, a cebola e o alho."
+}

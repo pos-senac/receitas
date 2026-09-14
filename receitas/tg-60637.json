@@ -1,0 +1,49 @@
+{
+  "id": "tg-60637",
+  "titulo": "Escondidinho de batata com carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/60637-escondidinho-de-batata-com-carne-moida.html",
+  "nota": 4.6,
+  "n_avaliacoes": 116,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Escondidinho de batata com carne moída",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "a 8 batatas cozidas e amassadas (purê)",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 a 8 batatas cozidas e amassadas (purê)"
+    },
+    {
+      "nome": "carne moída refogada com molho de tomate (tempere de acordo com a sua preferência)",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de carne moída refogada com molho de tomate (tempere de acordo com a sua preferência)"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de queijo mussarela"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Faça o purê de batata e separe.",
+      "Prepare a carne moída não muito molhada.",
+      "Em um refratário, coloque uma camada de purê de batata, carne moída, um pouco do queijo, purê de batata, carne moída e o restante do queijo.",
+      "Leve ao forno até que doure o queijo.",
+      "Pode também ser colocado em cima um pouco de queijo parmesão."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Espatula",
+    "Expremedor de Batata"
+  ],
+  "texto_para_embedding": "Escondidinho de batata com carne moída. Ingredientes: a 8 batatas cozidas e amassadas (purê), carne moída refogada com molho de tomate (tempere de acordo com a sua preferência), queijo mussarela. Preparo: Faça o purê de batata e separe. Prepare a carne moída não muito molhada. Em um refratário, coloque uma camada de purê de batata, carne moída, um pouco do queijo, purê de batata, carne moída e o restante do queijo."
+}

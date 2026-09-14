@@ -1,0 +1,142 @@
+{
+  "id": "tg-63753",
+  "titulo": "Panqueca de frango",
+  "url": "https://www.tudogostoso.com.br/receita/63753-panqueca-de-frango.html",
+  "nota": 4.8,
+  "n_avaliacoes": 263,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Panqueca de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "cubo de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de galinha"
+    },
+    {
+      "nome": "peito de frango cozido com temperos a gosto e desfiado",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de peito de frango cozido com temperos a gosto e desfiado"
+    },
+    {
+      "nome": "cebola média picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picadinha"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho amassado"
+    },
+    {
+      "nome": "sal e pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "cheia de extrato de tomate",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) cheia de extrato de tomate"
+    },
+    {
+      "nome": "caldo do cozimento do peito de frango",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) do caldo do cozimento do peito de frango"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "nome": "milho em conserva sem a água",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho em conserva sem a água"
+    },
+    {
+      "nome": "mussarela em fatias picadas",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de mussarela em fatias picadas"
+    },
+    {
+      "nome": "molho pronto de tomate",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de molho pronto de tomate"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata todos os ingredientes no liquidificador por 2 minutos e reserve.",
+      "Unte uma frigideira com um fio de óleo e leve ao fogo até aquecer.",
+      "Com o auxílio de uma concha, despeje uma porção de massa e gire a frigideira para espalhar bem a massa.",
+      "Abaixe o fogo, deixe dourar por baixo, vire do outro lado e deixe dourar.",
+      "Repita o processo com toda a massa."
+    ],
+    "Recheio:": [
+      "Em uma panela média, adicione o óleo e leve ao fogo até aquecer.",
+      "Adicione a cebola e o alho e deixe refogar.",
+      "Em seguida acrescente o frango cozido e desfiado e misture.",
+      "Acrescente sal e pimenta a gosto, adicione o extrato de tomate e misture bem.",
+      "Adicione o amido de milho dissolvido no caldo de frango, o milho, misture e deixe cozinhar por mais 3 minutos.",
+      "Deixe esfriar e reserve."
+    ],
+    "Montagem:": [
+      "Adicione 1 colher do recheio sobre a massa da panqueca, 1 fatia de mussarela picada por cima e enrole bem.",
+      "Repita o processo com todas as massas e coloque as panquecas em uma travessa uma ao lado da outra.",
+      "Por cima, adicione o molho pronto de tomate, salpique o queijo ralado e leve para gratinar por 20 minutos ou até derreter o queijo."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Liquidificador",
+    "Colher de silicone",
+    "Concha",
+    "Forno elétrico",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Panqueca de frango. Ingredientes: leite, farinha de trigo, ovos, cubo de caldo de galinha, peito de frango cozido com temperos a gosto e desfiado, cebola média picadinha, alho amassado, sal e pimenta-do-reino a gosto, óleo, cheia de extrato de tomate, caldo do cozimento do peito de frango, amido de milho, milho em conserva sem a água, mussarela em fatias picadas, molho pronto de tomate, queijo ralado. Preparo: Bata todos os ingredientes no liquidificador por 2 minutos e reserve. Unte uma frigideira com um fio de óleo e leve ao fogo até aquecer. Com o auxílio de uma concha, despeje uma porção de massa e gire a frigideira para espalhar bem a massa."
+}

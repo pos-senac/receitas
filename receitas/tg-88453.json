@@ -1,0 +1,70 @@
+{
+  "id": "tg-88453",
+  "titulo": "Massa de Pão extra macia",
+  "url": "https://www.tudogostoso.com.br/receita/88453-massa-de-pao-extra-macia.html",
+  "nota": 4.7,
+  "n_avaliacoes": 164,
+  "categoria": "Receitas pães",
+  "subcategoria": "Massa de Pão extra macia",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 120,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite"
+    },
+    {
+      "nome": "água",
+      "quantidade": "50",
+      "unidade": "ml",
+      "texto_original": "50 ml de água"
+    },
+    {
+      "nome": "50g de margarina ou manteiga",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "50g de margarina ou manteiga"
+    },
+    {
+      "nome": "10g de fermento biológico em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "10g de fermento biológico em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de açúcar"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Esquente o leite no micro-ondas por cerca de 25 segundos, até que ele fique morno. Misture o fermento e 150g de farinha com o leite, cubra e deixe descansar num lugar quente por cerca de 30 minutos (pode ser próximo ao forno ligado). Aqueça levemente a água e misture com o açúcar e o sal. Pegue um dos ovos, bata a clara em neve e misture com a gema, a água e o restante da farinha. Misture bem e em seguida adicione a massa fermentada. Sove por cerca de 5 minutos e adicione a margarina derretida. Sove bem por mais 20 minutos. Caso a massa fique muito pegajosa, adicione mais farinha aos poucos, até que ela comece a desgrudar das mãos. Coloque a massa numa vasilha e cubra, deixe descansar num lugar quente por cerca de 40 minutos ou até dobrar de tamanho. Separe a massa em partes iguais, faça bolinhas e coloque-as afastadas numa assadeira levemente enfarinhada. Pincele o outro ovo sobre os pães. Você pode salpicar orégano ou aveia sobre os pães se quiser. Leve ao forno pré-aquecido a 190ºC por cerca de 25 minutos ou até os pães dourarem. Dica: Se você quiser, pode rechear os pães antes de assá-los, use presunto, queijo, azeitonas e tomate (sem sementes)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa de Pão extra macia. Ingredientes: farinha de trigo, leite, água, 50g de margarina ou manteiga, 10g de fermento biológico em pó, ovos, sopa de açúcar, chá de sal. Preparo: Esquente o leite no micro-ondas por cerca de 25 segundos, até que ele fique morno. Misture o fermento e 150g de farinha com o leite, cubra e deixe descansar num lugar quente por cerca de 30 minutos (pode ser próximo ao forno ligado). Aqueça levemente a água e misture com o açúcar e o sal. Pegue um dos ovos, bata a clara em neve e misture com a gema, a água e o restante da farinha. Misture bem e em seguida adicione a massa fermentada. Sove por cerca de 5 minutos e adicione a margarina derretida. Sove bem por mais 20 minutos. Caso a massa fique muito pegajosa, adicione mais farinha aos poucos, até que ela comece a desgrudar das mãos. Coloque a massa numa vasilha e cubra, deixe descansar num lugar quente por cerca de 40 minutos ou até dobrar de tamanho. Separe a massa em partes iguais, faça bolinhas e coloque-as afastadas numa assadeira levemente enfarinhada. Pincele o outro ovo sobre os pães. Você pode salpicar orégano ou aveia sobre os pães se quiser. Leve ao forno pré-aquecido a 190ºC por cerca de 25 minutos ou até os pães dourarem. Dica: Se você quiser, pode rechear os pães antes de assá-los, use presunto, queijo, azeitonas e tomate (sem sementes)."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "tg-3163",
+  "titulo": "Moqueca capixaba - a legítima",
+  "url": "https://www.tudogostoso.com.br/receita/3163-moqueca-capixaba-a-legitima.html",
+  "nota": 4.3,
+  "n_avaliacoes": 132,
+  "categoria": "Receitas peixes e frutos do mar",
+  "subcategoria": "Moqueca capixaba - a legítima",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "peixe (badejo, dentão, robalo, papaterra, dourado, namorado ou xerne)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de peixe (badejo, dentão, robalo, papaterra, dourado, namorado ou xerne)"
+    },
+    {
+      "nome": "maço de coentro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de coentro"
+    },
+    {
+      "nome": "maço de cebolinha verde",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de cebolinha verde"
+    },
+    {
+      "nome": "cebola média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 tomates"
+    },
+    {
+      "nome": "Pimenta malagueta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta malagueta"
+    },
+    {
+      "nome": "Azeite de oliva",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite de oliva"
+    },
+    {
+      "nome": "Urucum",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Urucum"
+    },
+    {
+      "nome": "Óleo de soja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo de soja"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Escame bem o peixe, tire as vísceras e corte-o em postas de 5 cm de largura.",
+      "Lave bem com limão e deixe descansando em um prato com água de sal fraca.",
+      "Soque o alho, três rodelas de cebola, um maço de coentro picado, um maço de cebolinha verde e sal.",
+      "Esfregue no fundo da panela de barro um pouco de óleo de soja (duas colheres) e azeite de oliva (uma colher).",
+      "Adicione à panela a massa obtida no socador, passando-a no seu fundo.",
+      "Retire as postas de peixe do prato com água e sal.",
+      "Vire as postas de um lado para o outro nos temperos da panela.",
+      "Arrume-as de modo que não fiquem umas por cima das outras.",
+      "Corte o resto do coentro, da cebolinha verde, do tomate e da cebola e coloque nesta ordem por cima das postas de peixe que estão na panela.",
+      "Regue com um pouco de azeite e suco de limão.",
+      "Deixe tudo descansando por 20 a 60 minutos.",
+      "Derreta em um pouco de óleo três colheres de urucum.",
+      "Na hora de levar ao fogo para cozinhar, despeje um pouco deste caldo por cima da moqueca.",
+      "Quando começar a abrir fervura, verifique o sal.",
+      "Não ponha água, não vire as postas e cozinhe com a panela aberta.",
+      "Vá verificando o paladar do sal e do limão.",
+      "Deixe no fogo forte por 20 a 25 minutos.",
+      "Balance de vez em quando a panela com o auxílio de um pedaço de pano grosso, para que as postas de peixe não agarrem no fundo.",
+      "Vai bem com arroz branco, um belo pirão e um belo molho."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Moqueca capixaba - a legítima. Ingredientes: peixe (badejo, dentão, robalo, papaterra, dourado, namorado ou xerne), maço de coentro, maço de cebolinha verde, cebola média, alho, tomates, Pimenta malagueta, Azeite de oliva, Urucum, Óleo de soja. Preparo: Escame bem o peixe, tire as vísceras e corte-o em postas de 5 cm de largura. Lave bem com limão e deixe descansando em um prato com água de sal fraca. Soque o alho, três rodelas de cebola, um maço de coentro picado, um maço de cebolinha verde e sal."
+}

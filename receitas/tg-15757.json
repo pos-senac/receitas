@@ -1,0 +1,59 @@
+{
+  "id": "tg-15757",
+  "titulo": "Molho barbecue",
+  "url": "https://www.tudogostoso.com.br/receita/15757-molho-barbecue.html",
+  "nota": 4.5,
+  "n_avaliacoes": 111,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Molho barbecue",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "açúcar mascavo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar mascavo"
+    },
+    {
+      "nome": "molho inglês",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de molho inglês"
+    },
+    {
+      "nome": "molho de tomate ao sugo, qualquer molho pronto serve",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de molho de tomate ao sugo, qualquer molho pronto serve"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de mostarda"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "colherinha (chá) de sal",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 colherinha (chá) de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes em uma frigideira em fogo médio e mexa até apurar.",
+      "O molho vai engrossar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Molho barbecue. Ingredientes: açúcar mascavo, molho inglês, molho de tomate ao sugo, qualquer molho pronto serve, mostarda, alho amassados, colherinha (chá) de sal. Preparo: Coloque todos os ingredientes em uma frigideira em fogo médio e mexa até apurar. O molho vai engrossar."
+}

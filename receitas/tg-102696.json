@@ -1,0 +1,150 @@
+{
+  "id": "tg-102696",
+  "titulo": "Torta de frango com requeijão de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/102696-torta-de-frango-com-requeijao-de-liquidificador.html",
+  "nota": 4.8,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de frango com requeijão de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "peito de frango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango"
+    },
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola"
+    },
+    {
+      "nome": "caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de galinha"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "leite desnatado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite desnatado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "saquinho de queijo parmesão ralado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 saquinho de queijo parmesão ralado"
+    },
+    {
+      "nome": "alho poró",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alho poró"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "manteiga para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manteiga para untar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata no liquidificador a farinha, o leite, o óleo e os ovos.",
+      "Bata até ficar uma massa homogênea, mais para aguada.",
+      "Se for preciso, acrescente um pouco mais de leite para ela ficar igual a um creme.",
+      "Acrescente o fermento e misture com um garfo.",
+      "Reserve."
+    ],
+    "Recheio:": [
+      "Cozinhe o peito de frango junto com o caldo de galinha.",
+      "Desfie bem o frango e reserve 1 copo da água onde o frango foi cozido.",
+      "Leve à uma panela, com um fio de óleo, a cebola cortada em pedaços pequenos, o sal, a pimenta e o alho poró.",
+      "Faça um refogado, assim que os ingredientes começarem a fritar misture o frango, o milho e o copo com o caldo de cozimento do frango.",
+      "Por último, acrescente o tomate bem picado em cubinhos."
+    ],
+    "Montagem:": [
+      "Unte uma forma de tamanho médio para grande com manteiga e farinha de trigo.",
+      "Despeje metade da massa.",
+      "Coloque todo o recheio.",
+      "Cubra com uma camada de requeijão e outra camada de queijo mussarela por cima (igual à uma lasanha).",
+      "Despeje o restante da massa e jogue o queijo ralado por cima de toda massa.",
+      "Leve a forno em temperatura média por aproximadamente 30 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Refratário",
+    "Copo medidor",
+    "Faca",
+    "Forno elétrico",
+    "Panela de pressão elétrica"
+  ],
+  "texto_para_embedding": "Torta de frango com requeijão de liquidificador. Ingredientes: peito de frango, milho, requeijão, tomates, cebola, caldo de galinha, mussarela, farinha de trigo, leite desnatado, óleo, ovos, saquinho de queijo parmesão ralado, alho poró, Sal a gosto, Pimenta a gosto, fermento, manteiga para untar. Preparo: Bata no liquidificador a farinha, o leite, o óleo e os ovos. Bata até ficar uma massa homogênea, mais para aguada. Se for preciso, acrescente um pouco mais de leite para ela ficar igual a um creme."
+}

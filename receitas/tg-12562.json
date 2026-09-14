@@ -1,0 +1,87 @@
+{
+  "id": "tg-12562",
+  "titulo": "Bolo de cenoura",
+  "url": "https://www.tudogostoso.com.br/receita/12562-bolo-de-cenoura.html",
+  "nota": 4.6,
+  "n_avaliacoes": 165,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "cenouras grandes cortadas em pedaços",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cenouras grandes cortadas em pedaços"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "nescau ou chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de nescau ou chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador as cenouras, o açúcar, o óleo e os ovos.",
+      "Despeje a mistura em uma tigela e acrescente a farinha e o fermento, misture bem.",
+      "Coloque em uma forma untada e enfarinhada.",
+      "Assar por 40 minutos.",
+      "Para a cobertura, misture tudo em uma panela e mexa até ficar cremoso."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Bowl",
+    "Fogão",
+    "Forma",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de cenoura. Ingredientes: cenouras grandes cortadas em pedaços, açúcar, óleo, ovos, farinha de trigo, fermento em pó, leite condensado, nescau ou chocolate em pó, margarina. Preparo: Bata no liquidificador as cenouras, o açúcar, o óleo e os ovos. Despeje a mistura em uma tigela e acrescente a farinha e o fermento, misture bem. Coloque em uma forma untada e enfarinhada."
+}

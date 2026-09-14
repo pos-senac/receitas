@@ -1,0 +1,97 @@
+{
+  "id": "tg-1213",
+  "titulo": "Bolo de café com chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/1213-bolo-de-cafe-com-chocolate.html",
+  "nota": 4.7,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de café com chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "margarina derretida",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de margarina derretida"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó"
+    },
+    {
+      "nome": "café pronto",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de café pronto"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa rasa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa rasa de fermento em pó"
+    },
+    {
+      "nome": "ovos (separados gemas e claras)",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos (separados gemas e claras)"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de margarina"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "gema peneirada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema peneirada"
+    },
+    {
+      "nome": "sopa de café pronto",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de café pronto"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de chocolate em pó"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata as gemas, a margarina e o açúcar até ficar um creme claro. Adicione o chocolate em pó e o café, acrescente a farinha de trigo e o fermento em pó, bata bem. Por último, acrescente as claras em neve e misture delicadamente. Leve ao forno para assar em forma untada por 30 minutos."
+    ],
+    "Cobertura:": [
+      "Em uma panela coloque a margarina, o leite condensado, a gema peneirada, o chocolate em pó e o café. Leve ao fogo sem parar de mexer e deixe cozinhar até ficar cremoso, despeje o creme ainda quente em cima do bolo. Se preferir, utilize chantilly, cereja e flocos de chocolate para a cobertura."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de café com chocolate. Ingredientes: margarina derretida, açúcar, chocolate em pó, café pronto, farinha de trigo, sopa rasa de fermento em pó, ovos (separados gemas e claras), sopa de margarina, leite condensado, gema peneirada, sopa de café pronto, sopa de chocolate em pó. Preparo: Bata as gemas, a margarina e o açúcar até ficar um creme claro. Adicione o chocolate em pó e o café, acrescente a farinha de trigo e o fermento em pó, bata bem. Por último, acrescente as claras em neve e misture delicadamente. Leve ao forno para assar em forma untada por 30 minutos. Em uma panela coloque a margarina, o leite condensado, a gema peneirada, o chocolate em pó e o café. Leve ao fogo sem parar de mexer e deixe cozinhar até ficar cremoso, despeje o creme ainda quente em cima do bolo. Se preferir, utilize chantilly, cereja e flocos de chocolate para a cobertura."
+}

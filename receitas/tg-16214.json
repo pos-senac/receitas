@@ -1,0 +1,93 @@
+{
+  "id": "tg-16214",
+  "titulo": "Charuto de repolho",
+  "url": "https://www.tudogostoso.com.br/receita/16214-charuto-de-repolho.html",
+  "nota": 4.5,
+  "n_avaliacoes": 177,
+  "categoria": "Receitas carne moída",
+  "subcategoria": "Charuto de repolho",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 90,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "repolho grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 repolho grande"
+    },
+    {
+      "nome": "carne moída de primeira",
+      "quantidade": "700",
+      "unidade": "g",
+      "texto_original": "700 g de carne moída de primeira"
+    },
+    {
+      "nome": "arroz cru",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de arroz cru"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebola picada"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alho picado"
+    },
+    {
+      "nome": "pimenta picada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta picada"
+    },
+    {
+      "nome": "caldo de carne em pó (ou legumes)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "caldo de carne em pó (ou legumes)"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "mais ou menos 3 a 4 xícaras (chá) de água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "mais ou menos 3 a 4 xícaras (chá) de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Separe as folhas do repolho tirando a parte do meio (talo).",
+      "Coloque as folhas para cozinhar em água fervendo até que elas fiquem moles, reserve.",
+      "Em uma vasilha misture o arroz, a carne moída, a cebola, o alho, o caldo de carne e o sal.",
+      "Amasse bem até que todos os ingredientes estejam bem misturados.",
+      "Abra a folha em uma superfície e coloque a mistura de arroz e carne e enrole como se fosse um rocambole.",
+      "Coloque-os em uma panela um do lado do outro nunca em cima, misture a pomarola com a água e coloque sobre os charutos até que estejam cobertos.",
+      "Deixe cozinhar por mais ou menos 30 minutos sem mexer."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Charuto de repolho. Ingredientes: repolho grande, carne moída de primeira, arroz cru, cebola picada, alho picado, pimenta picada, caldo de carne em pó (ou legumes), sal a gosto, molho de tomate, mais ou menos 3 a 4 xícaras (chá) de água. Preparo: Separe as folhas do repolho tirando a parte do meio (talo). Coloque as folhas para cozinhar em água fervendo até que elas fiquem moles, reserve. Em uma vasilha misture o arroz, a carne moída, a cebola, o alho, o caldo de carne e o sal."
+}

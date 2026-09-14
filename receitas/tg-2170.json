@@ -1,0 +1,72 @@
+{
+  "id": "tg-2170",
+  "titulo": "Bolo salgado de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/2170-bolo-salgado-de-liquidificador.html",
+  "nota": 4.6,
+  "n_avaliacoes": 384,
+  "categoria": "Receitas torta salgada de liquidificador",
+  "subcategoria": "Bolo salgado de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "12",
+      "unidade": "colheres (sopa)",
+      "texto_original": "12 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de azeite"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de queijo ralado"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de fermento"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador até obter uma consistência cremosa.",
+      "Unte um refratário com manteiga e despeje a massa.",
+      "Distribua o recheio a gosto (carne moída, frango, atum, camarão ou bacalhau) e leve ao forno médio",
+      "(180° C), preaquecido, por 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Refratário",
+    "Espatula",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Bolo salgado de liquidificador. Ingredientes: farinha de trigo, ovos inteiros, azeite, queijo ralado, sal, fermento, leite. Preparo: Bata todos os ingredientes no liquidificador até obter uma consistência cremosa. Unte um refratário com manteiga e despeje a massa. Distribua o recheio a gosto (carne moída, frango, atum, camarão ou bacalhau) e leve ao forno médio"
+}

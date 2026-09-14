@@ -1,0 +1,81 @@
+{
+  "id": "tg-6478",
+  "titulo": "Lasanha de berinjela super rápida",
+  "url": "https://www.tudogostoso.com.br/receita/6478-lasanha-de-berinjela-super-rapida.html",
+  "nota": 4.4,
+  "n_avaliacoes": 139,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Lasanha de berinjela super rápida",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "berinjelas médias descascadas e cortadas em fatias finas no sentido do comprimento",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 berinjelas médias descascadas e cortadas em fatias finas no sentido do comprimento"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "molho de tomate pronto",
+      "quantidade": "2",
+      "unidade": "lata",
+      "texto_original": "2 lata de molho de tomate pronto"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, coloque o óleo e doure a cebola com o alho.",
+      "Acrescente as 2 latas de molho e tempere a gosto com sal e pimenta.",
+      "Quando o molho levantar fervura, adicione as fatias de berinjela aos pouco para que cozinhem levemente.",
+      "Em seguida, alterne em uma forma as fatias de berinjela, o molho, o presunto e a mussarela.",
+      "Repita o procedimento e finalize com queijo e molho.",
+      "Leve ao forno preaquecido a 200º C por 25 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Lasanha de berinjela super rápida. Ingredientes: berinjelas médias descascadas e cortadas em fatias finas no sentido do comprimento, cebola picada, alho amassados, molho de tomate pronto, presunto, mussarela, Pimenta a gosto, óleo, Sal a gosto. Preparo: Em uma panela, coloque o óleo e doure a cebola com o alho. Acrescente as 2 latas de molho e tempere a gosto com sal e pimenta. Quando o molho levantar fervura, adicione as fatias de berinjela aos pouco para que cozinhem levemente."
+}

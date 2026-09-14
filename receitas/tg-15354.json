@@ -1,0 +1,77 @@
+{
+  "id": "tg-15354",
+  "titulo": "Frango assado com batatas",
+  "url": "https://www.tudogostoso.com.br/receita/15354-frango-assado-com-batatas.html",
+  "nota": 4.6,
+  "n_avaliacoes": 172,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango assado com batatas",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "e 1/2 de frango, cortado em pedaços",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg e 1/2 de frango, cortado em pedaços"
+    },
+    {
+      "nome": "batatas grandes picadas em cubos médios",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 batatas grandes picadas em cubos médios"
+    },
+    {
+      "nome": "Pomarola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pomarola"
+    },
+    {
+      "nome": "Maionese",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Maionese"
+    },
+    {
+      "nome": "Sazon para aves",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sazon para aves"
+    },
+    {
+      "nome": "Alho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Alho"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os pedaços de frango com alho, sal, sazon para aves.",
+      "Coloque 5 colheres de sopa de pomarola no frango, ou se preferir 2 colheres de extrato de tomate.",
+      "Coloque também a essa mistura três colheres de maionese.",
+      "Misture as batatas com tudo isso, pode deixar uma meia hora pra pegar tempero.",
+      "Coloque em uma assadeira e leve ao forno em temperatura máxima.",
+      "Aproximadamente 1 hora ou até que você veja que o frango está assado.",
+      "Sirva com arroz branco.",
+      "Fica uma delícia."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Expremedor de alho",
+    "Faca",
+    "Forno elétrico",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Frango assado com batatas. Ingredientes: e 1/2 de frango, cortado em pedaços, batatas grandes picadas em cubos médios, Pomarola, Maionese, Sazon para aves, Alho, sal. Preparo: Tempere os pedaços de frango com alho, sal, sazon para aves. Coloque 5 colheres de sopa de pomarola no frango, ou se preferir 2 colheres de extrato de tomate. Coloque também a essa mistura três colheres de maionese."
+}

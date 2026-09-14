@@ -1,0 +1,58 @@
+{
+  "id": "tg-8348",
+  "titulo": "Creme de alho",
+  "url": "https://www.tudogostoso.com.br/receita/8348-creme-de-alho.html",
+  "nota": 4.4,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Creme de alho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 8,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de leite"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "tempero em pó",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de tempero em pó"
+    },
+    {
+      "nome": "Azeite ou óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite ou óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte o leite, o alho, o sal e o tempero em pó no liquidificador e bata em velocidade média.",
+      "Despeje o óleo ou azeite em fio enquanto está batendo até chegar em ponto de creme.",
+      "Ideal para servir com churrasco ou assar no pão na churrasqueira."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula de silicone",
+    "Ramequim"
+  ],
+  "texto_para_embedding": "Creme de alho. Ingredientes: leite, alho, sal, tempero em pó, Azeite ou óleo. Preparo: Junte o leite, o alho, o sal e o tempero em pó no liquidificador e bata em velocidade média. Despeje o óleo ou azeite em fio enquanto está batendo até chegar em ponto de creme. Ideal para servir com churrasco ou assar no pão na churrasqueira."
+}

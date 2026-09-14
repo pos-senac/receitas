@@ -1,0 +1,67 @@
+{
+  "id": "tg-2658",
+  "titulo": "Pão francês",
+  "url": "https://www.tudogostoso.com.br/receita/2658-pao-frances.html",
+  "nota": 3.9,
+  "n_avaliacoes": 222,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão francês",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 150,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de farinha de trigo"
+    },
+    {
+      "nome": "fermento para pão",
+      "quantidade": "10",
+      "unidade": "g",
+      "texto_original": "10 g de fermento para pão"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "15",
+      "unidade": "g",
+      "texto_original": "15 g de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "20",
+      "unidade": "g",
+      "texto_original": "20 g de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dilua o fermento em um copo de água morna com o açúcar.",
+      "Misture os outros ingredientes.",
+      "Amassa e levante, empurrando a massa para frente com a palma da mão e dobrando-a sobre si mesma.",
+      "Se for necessário, coloque mais água e mais farinha.",
+      "A massa não deverá grudar nas mãos. Ela deve ficar com aspecto leve e esponjoso.",
+      "Deixe descansar por duas horas.",
+      "A seguir, amasse novamente e prepare o pão, dando-lhe o formato desejado e coloque no tabuleiro untado.",
+      "Se estiver pegajosa, espalhe mais farinha por cima.",
+      "Deixe que ela descanse mais uma hora.",
+      "Aqueça o forno e pincele o pão com água antes de colocá-lo no forno.",
+      "Asse por 40 minutos mais ou menos."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Faca de pão",
+    "Forma"
+  ],
+  "texto_para_embedding": "Pão francês. Ingredientes: farinha de trigo, fermento para pão, sal, açúcar, margarina. Preparo: Dilua o fermento em um copo de água morna com o açúcar. Misture os outros ingredientes. Amassa e levante, empurrando a massa para frente com a palma da mão e dobrando-a sobre si mesma."
+}

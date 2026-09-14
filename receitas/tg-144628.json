@@ -1,0 +1,111 @@
+{
+  "id": "tg-144628",
+  "titulo": "Torta de frango cremosa",
+  "url": "https://www.tudogostoso.com.br/receita/144628-torta-de-frango-cremosa.html",
+  "nota": 4.6,
+  "n_avaliacoes": 224,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de frango cremosa",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos (300 ml)",
+      "texto_original": "2 copos (300 ml) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "copos (300 ml)",
+      "texto_original": "2 copos (300 ml) de farinha de trigo"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "1",
+      "unidade": "copo (300 ml)",
+      "texto_original": "1 copo (300 ml) de óleo de soja"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "peito de frango desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango desfiado"
+    },
+    {
+      "nome": "Temperos a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Temperos a gosto"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "requeijão culinário",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão culinário"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio": [
+      "Cozinhe o peito de frango.",
+      "Deixe esfriar e desfie.",
+      "Em seguida tempere a gosto (tomate, cebola, coentro, azeitonas, milho verde...).",
+      "Reserve."
+    ],
+    "Cobertura": [
+      "Misture o creme de leite com o requeijão em uma tigela.",
+      "Reserve."
+    ],
+    "Massa": [
+      "Bata todos os ingredientes da massa no liquidificador."
+    ],
+    "Montagem": [
+      "Coloque metade da massa em uma forma untada e polvilhada.",
+      "Arrume o recheio em cima da primeira camada da massa.",
+      "Em seguida, arrume a mistura da cobertura em cima do frango desfiado.",
+      "Acrescente a última camada da massa.",
+      "Leve ao forno até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Espatula",
+    "Travessa de vidro",
+    "Air Fryer"
+  ],
+  "texto_para_embedding": "Torta de frango cremosa. Ingredientes: leite, farinha de trigo, óleo de soja, queijo parmesão ralado, fermento em pó, ovos, caixinha de creme de leite, peito de frango desfiado, Temperos a gosto, caixinha de creme de leite, requeijão culinário. Preparo: Cozinhe o peito de frango. Deixe esfriar e desfie. Em seguida tempere a gosto (tomate, cebola, coentro, azeitonas, milho verde...)."
+}

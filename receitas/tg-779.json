@@ -1,0 +1,80 @@
+{
+  "id": "tg-779",
+  "titulo": "Macarrão alho e óleo",
+  "url": "https://www.tudogostoso.com.br/receita/779-macarrao-alho-e-oleo.html",
+  "nota": 4.6,
+  "n_avaliacoes": 182,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão alho e óleo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 14,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "macarrão 500 g (tipo do macarrão a gosto)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de macarrão 500 g (tipo do macarrão a gosto)"
+    },
+    {
+      "nome": "saquinho de alho granulado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 saquinho de alho granulado"
+    },
+    {
+      "nome": "tablete de manteiga (não use margarina)",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 tablete de manteiga (não use margarina)"
+    },
+    {
+      "nome": "azeite extra virgem",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de azeite extra virgem"
+    },
+    {
+      "nome": "ervas (manjericão, orégano, salsa, cebolinha, tomilho, a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "ervas (manjericão, orégano, salsa, cebolinha, tomilho, a gosto)"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho"
+    },
+    {
+      "nome": "gengibre em pó a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "gengibre em pó a gosto"
+    },
+    {
+      "nome": "folha de louro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 folha de louro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Quando faltar mais ou menos 5 minutos para ficar no ponto de escorrer o macarrão, comece o preparo da receita.",
+      "Na frigideira quente coloque a manteiga, o azeite, a folha de louro, e o alho granulado.",
+      "Nesta hora um pouco de agilidade, pois o macarrão escorrido vai para a frigideira, sendo mexido e dosado com sal a gosto, as ervas, o gengibre em pó a gosto também.",
+      "O dente de alho, serve para você untar os pratos onde serão servidos o macarrão.",
+      "Coloque as porções nos pratos já com o cheiro do alho, e enfeite com algumas ervas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão alho e óleo. Ingredientes: macarrão 500 g (tipo do macarrão a gosto), saquinho de alho granulado, tablete de manteiga (não use margarina), azeite extra virgem, ervas (manjericão, orégano, salsa, cebolinha, tomilho, a gosto), sal, alho, gengibre em pó a gosto, folha de louro. Preparo: Quando faltar mais ou menos 5 minutos para ficar no ponto de escorrer o macarrão, comece o preparo da receita. Na frigideira quente coloque a manteiga, o azeite, a folha de louro, e o alho granulado. Nesta hora um pouco de agilidade, pois o macarrão escorrido vai para a frigideira, sendo mexido e dosado com sal a gosto, as ervas, o gengibre em pó a gosto também."
+}

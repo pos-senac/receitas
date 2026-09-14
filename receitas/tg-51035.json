@@ -1,0 +1,59 @@
+{
+  "id": "tg-51035",
+  "titulo": "Bolinho de chuva sem leite",
+  "url": "https://www.tudogostoso.com.br/receita/51035-bolinho-de-chuva-sem-leite.html",
+  "nota": 4.7,
+  "n_avaliacoes": 208,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinho de chuva sem leite",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 10,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "sopa de fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiro misture o ovo com açúcar até virar um creme. Depois misture a farinha e o fermento. Por ultimo coloque a água. A massa não poderá ficar muito dura nem muito mole. Deve ficar cremosa.",
+      "Esquente o óleo em fogo alto, não use pouco óleo senão o bolinho ficará achatado. Para saber se o óleo está bom, pegue um pouco da massa e coloque no óleo, se ela boiar é por que o óleo está bom.",
+      "Deixe o fogo baixo, senão o bolinho ficará queimado por fora e cru por dentro. Com uma colher, pegue a massa e coloque no óleo. O bolinho virará sozinho, assim que estiver dourado, tire e coloque em uma tigela separada com papel toalha, para secar e não ficar com muito óleo."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Fouet",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolinho de chuva sem leite. Ingredientes: água, farinha de trigo, ovo, açúcar, sopa de fermento. Preparo: Primeiro misture o ovo com açúcar até virar um creme. Depois misture a farinha e o fermento. Por ultimo coloque a água. A massa não poderá ficar muito dura nem muito mole. Deve ficar cremosa. Esquente o óleo em fogo alto, não use pouco óleo senão o bolinho ficará achatado. Para saber se o óleo está bom, pegue um pouco da massa e coloque no óleo, se ela boiar é por que o óleo está bom. Deixe o fogo baixo, senão o bolinho ficará queimado por fora e cru por dentro. Com uma colher, pegue a massa e coloque no óleo. O bolinho virará sozinho, assim que estiver dourado, tire e coloque em uma tigela separada com papel toalha, para secar e não ficar com muito óleo."
+}

@@ -1,0 +1,88 @@
+{
+  "id": "tg-302",
+  "titulo": "Pizza de pão de forma",
+  "url": "https://www.tudogostoso.com.br/receita/302-pizza-de-pao-de-forma.html",
+  "nota": 4.7,
+  "n_avaliacoes": 482,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Pizza de pão de forma",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "tomates",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "Orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano a gosto"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Azeite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite"
+    },
+    {
+      "nome": "pão de forma",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de pão de forma"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de presunto"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de queijo mussarela"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue o alho juntamente com a cebola no azeite.",
+      "A seguir, coloque o tomate e o sal até formar um molho cremoso. Reserve.",
+      "Coloque os pães numa assadeira, jogue todo o molho em cima dos pães e acrescente o presunto por cima deste molho.",
+      "Cubra com bastante queijo e regue com orégano e azeite.",
+      "Coloque a assadeira no forno pré-aquecido.",
+      "Assim que o queijo derreter, estará pronta a pizza."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Panela",
+    "Colher de silicone",
+    "Expremedor de alho",
+    "Fogão",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Pizza de pão de forma. Ingredientes: tomates, cebola, alho, Orégano a gosto, Sal a gosto, Azeite, pão de forma, presunto, queijo mussarela. Preparo: Refogue o alho juntamente com a cebola no azeite. A seguir, coloque o tomate e o sal até formar um molho cremoso. Reserve. Coloque os pães numa assadeira, jogue todo o molho em cima dos pães e acrescente o presunto por cima deste molho."
+}

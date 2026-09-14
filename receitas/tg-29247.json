@@ -1,0 +1,52 @@
+{
+  "id": "tg-29247",
+  "titulo": "Filé de frango ao forno",
+  "url": "https://www.tudogostoso.com.br/receita/29247-file-de-frango-ao-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 143,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Filé de frango ao forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "filé de peito de frango",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de peito de frango"
+    },
+    {
+      "nome": "creme de cebola",
+      "quantidade": "1/2",
+      "unidade": "pacote",
+      "texto_original": "1/2 pacote de creme de cebola"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte o filé em bife não muito grosso.",
+      "Tempere com o creme de cebola, coloque em um pirex e reserve.",
+      "Misture muito bem a caixinha de creme de leite sem soro e o copo de requeijão.",
+      "Coloque por cima do filé.",
+      "Leve ao forno para assar por 30 minutos, ou até dourar um pouquinho por cima.",
+      "Sirva a seguir.",
+      "Pode ser acompanhado com arroz branco e salada verde."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Filé de frango ao forno. Ingredientes: filé de peito de frango, creme de cebola, caixinha de creme de leite, requeijão. Preparo: Corte o filé em bife não muito grosso. Tempere com o creme de cebola, coloque em um pirex e reserve. Misture muito bem a caixinha de creme de leite sem soro e o copo de requeijão."
+}

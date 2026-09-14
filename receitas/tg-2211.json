@@ -1,0 +1,73 @@
+{
+  "id": "tg-2211",
+  "titulo": "Torta de banana rápida",
+  "url": "https://www.tudogostoso.com.br/receita/2211-torta-de-banana-rapida.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1812,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de banana rápida",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batidos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "bananas cortadas na horizontal",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 bananas cortadas na horizontal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Para a farofa, misture numa vasilha o trigo, o açúcar, e o fermento, reserve.",
+      "Derreta a margarina, acrescente o leite e os ovos, mexa bem.",
+      "Numa forma untada coloque uma camada de farofa e outra de bananas, e assim por diante.",
+      "Despeje o líquido por cima, sem mexer.",
+      "Asse em forno morno até dourar."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Espátula para bolo",
+    "Forma"
+  ],
+  "texto_para_embedding": "Torta de banana rápida. Ingredientes: farinha de trigo, açúcar, fermento em pó, ovos batidos, leite, margarina, bananas cortadas na horizontal. Preparo: Para a farofa, misture numa vasilha o trigo, o açúcar, e o fermento, reserve. Derreta a margarina, acrescente o leite e os ovos, mexa bem. Numa forma untada coloque uma camada de farofa e outra de bananas, e assim por diante."
+}

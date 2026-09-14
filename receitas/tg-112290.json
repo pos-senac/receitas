@@ -1,0 +1,91 @@
+{
+  "id": "tg-112290",
+  "titulo": "Bolo de maracujá fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/112290-bolo-de-maracuja-fofinho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 231,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de maracujá fofinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 100,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "xícara de óleo",
+      "quantidade": "3/4",
+      "unidade": null,
+      "texto_original": "3/4 de xícara de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "suco de maracujá (bem forte)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de suco de maracujá (bem forte)"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água"
+    },
+    {
+      "nome": "Polpa de 1 maracujá",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Polpa de 1 maracujá"
+    }
+  ],
+  "modo_preparo": {
+    "Bolo:": [
+      "Bata bastante na batedeira os ovos, açúcar e o óleo.",
+      "Acrescente a farinha e o suco do maracujá.",
+      "Bata novamente até misturar bem.",
+      "Depois acrescente o fermento em pó e bata só para misturar.",
+      "Coloque em forma untada com margarina e farinha.",
+      "Leve ao forno médio, pré-aquecido, por cerca de 40 minutos, ou até dourar."
+    ],
+    "Calda:": [
+      "Leve ao fogo mexendo sempre a água e o açúcar, até dar quase um ponto de fio, não chega a ficar grossa.",
+      "Depois apague o fogo e acrescente a polpa do maracujá e misture.",
+      "Sirva sobre os pedaços do bolo."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Colher de pau",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de maracujá fofinho. Ingredientes: ovos, xícara de óleo, açúcar, farinha de trigo, suco de maracujá (bem forte), sopa de fermento em pó, açúcar, água, Polpa de 1 maracujá. Preparo: Bata bastante na batedeira os ovos, açúcar e o óleo. Acrescente a farinha e o suco do maracujá. Bata novamente até misturar bem."
+}

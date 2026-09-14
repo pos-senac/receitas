@@ -1,0 +1,56 @@
+{
+  "id": "tg-1117",
+  "titulo": "Mousse de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/1117-mousse-de-chocolate.html",
+  "nota": 4.3,
+  "n_avaliacoes": 876,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de chocolate",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de manteiga ou margarina"
+    },
+    {
+      "nome": "creme de leite gelado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite gelado"
+    },
+    {
+      "nome": "claras em neve",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras em neve"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de achocolatado em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o leite condensado, a manteiga e o achocolatado, mexendo sem parar até que a mistura solte do fundo da panela.",
+      "Reserve e deixa esfriar.",
+      "Misture o creme de leite e as claras em neve até obter uma mistura homogênea.",
+      "Despeje a massa em um refratário e leve ao congelador por aproximadamente 50 minutos.",
+      "Sirva bem gelado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Mousse de chocolate. Ingredientes: leite condensado, manteiga ou margarina, creme de leite gelado, claras em neve, achocolatado em pó. Preparo: Leve ao fogo o leite condensado, a manteiga e o achocolatado, mexendo sem parar até que a mistura solte do fundo da panela. Reserve e deixa esfriar. Misture o creme de leite e as claras em neve até obter uma mistura homogênea."
+}

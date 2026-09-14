@@ -1,0 +1,77 @@
+{
+  "id": "tg-139114",
+  "titulo": "Bolo de iogurte e creme de avelã",
+  "url": "https://www.tudogostoso.com.br/receita/139114-bolo-de-iogurte-e-creme-de-avela.html",
+  "nota": 4.5,
+  "n_avaliacoes": 539,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de iogurte e creme de avelã",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "pote de iogurte natural de 170 g",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de iogurte natural de 170 g"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "pote (do iogurte) de açúcar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote (do iogurte) de açúcar"
+    },
+    {
+      "nome": "pote (do iogurte) de chocolate em pó",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote (do iogurte) de chocolate em pó"
+    },
+    {
+      "nome": "potes (do iogurte) de farinha de trigo",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 potes (do iogurte) de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "ou 2 potes de 350 g de creme de avelã para rechear e cobrir (se quiser cobrir e rechear, use 2)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ou 2 potes de 350 g de creme de avelã para rechear e cobrir (se quiser cobrir e rechear, use 2)"
+    },
+    {
+      "nome": "pote (do iogurte) de óleo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote (do iogurte) de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, misture com um batedor os ovos e o iogurte.",
+      "Acrescente o óleo e o açúcar e misture bem.",
+      "Coloque o chocolate e a farinha aos poucos, misturando.",
+      "Por último o fermento.",
+      "Coloque em forma de 20 cm de diâmetro, untada e enfarinhada.",
+      "Asse em forno preaquecido, a 180° C, por aproximadamente 40 minutos, ou até furar com um palito e sair limpo.",
+      "Se desejar rechear, corte o bolo ao meio e coloque creme de avelã, senão, apenas cubra.",
+      "Coloque a outra parte do bolo e cubra todo com creme de avelã."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de iogurte e creme de avelã. Ingredientes: pote de iogurte natural de 170 g, ovos, pote (do iogurte) de açúcar, pote (do iogurte) de chocolate em pó, potes (do iogurte) de farinha de trigo, fermento, ou 2 potes de 350 g de creme de avelã para rechear e cobrir (se quiser cobrir e rechear, use 2), pote (do iogurte) de óleo. Preparo: Em uma tigela, misture com um batedor os ovos e o iogurte. Acrescente o óleo e o açúcar e misture bem. Coloque o chocolate e a farinha aos poucos, misturando."
+}

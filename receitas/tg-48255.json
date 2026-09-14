@@ -1,0 +1,56 @@
+{
+  "id": "tg-48255",
+  "titulo": "Quindim sem desperdício de claras",
+  "url": "https://www.tudogostoso.com.br/receita/48255-quindim-sem-desperdicio-de-claras.html",
+  "nota": 3.9,
+  "n_avaliacoes": 148,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Quindim sem desperdício de claras",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos inteiros"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "copos (americano de 200 ml)",
+      "texto_original": "3 copos (americano de 200 ml) de açúcar"
+    },
+    {
+      "nome": "leite comum",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de leite comum"
+    },
+    {
+      "nome": "coco seco ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco seco ralado"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga ou margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte uma forma para pudim com margarina e salpicar açúcar.",
+      "Bata todos ingredientes no liquidificador e coloque na forma.",
+      "Leve para assar em forno quente, em banho maria, coberto com papel alumínio por cerca de 50 minutos.",
+      "Retire o papel e deixe dourar.",
+      "Depois de bem frio, desenforme e leve para gelar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Quindim sem desperdício de claras. Ingredientes: ovos inteiros, açúcar, leite comum, coco seco ralado, manteiga ou margarina. Preparo: Unte uma forma para pudim com margarina e salpicar açúcar. Bata todos ingredientes no liquidificador e coloque na forma. Leve para assar em forno quente, em banho maria, coberto com papel alumínio por cerca de 50 minutos."
+}

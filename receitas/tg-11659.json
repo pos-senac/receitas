@@ -1,0 +1,93 @@
+{
+  "id": "tg-11659",
+  "titulo": "Brownie super fácil",
+  "url": "https://www.tudogostoso.com.br/receita/11659-brownie-super-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 968,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Brownie super fácil",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "bem cheias, de margarina sem sal",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) bem cheias, de margarina sem sal"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "3/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "3/4 xícara (chá) achocolatado"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) chocolate em pó"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/4 xícara (chá) farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "2",
+      "unidade": "pitadas",
+      "texto_original": "2 pitadas de sal"
+    },
+    {
+      "nome": "extrato ou essência de baunilha",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de extrato ou essência de baunilha"
+    },
+    {
+      "nome": "tablete de chocolate meio amargo picado em cubinhos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de chocolate meio amargo picado em cubinhos"
+    },
+    {
+      "nome": "nozes picadas ou castanhas de caju granuladas",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de nozes picadas ou castanhas de caju granuladas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture os ovos e o açúcar.",
+      "Em seguida, agregue todos os outros ingredientes até formar um creme uniforme.",
+      "Despeje em uma assadeira, forrada com papel-manteiga e leve ao forno médio por 40 minutos.",
+      "O brownie estará pronto quando a parte de cima estiver levemente corada e, ao se espetar um palito, ele esteja levemente úmido (devido ao chocolate derretido).",
+      "Corte em quadrados ainda quente e sirva com uma bola de sorvete de creme, ou congele num saquinho para freezer.",
+      "Para descongelar, coloque o brownie num prato de sobremesa e aqueça no micro-ondas, potência alta, por 1 minuto."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espatula",
+    "Forma",
+    "Fouet",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Brownie super fácil. Ingredientes: bem cheias, de margarina sem sal, achocolatado, chocolate em pó, farinha de trigo, açúcar, ovos, sal, extrato ou essência de baunilha, tablete de chocolate meio amargo picado em cubinhos, nozes picadas ou castanhas de caju granuladas. Preparo: Misture os ovos e o açúcar. Em seguida, agregue todos os outros ingredientes até formar um creme uniforme. Despeje em uma assadeira, forrada com papel-manteiga e leve ao forno médio por 40 minutos."
+}

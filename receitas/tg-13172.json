@@ -1,0 +1,68 @@
+{
+  "id": "tg-13172",
+  "titulo": "Bolo comum",
+  "url": "https://www.tudogostoso.com.br/receita/13172-bolo-comum.html",
+  "nota": 4.6,
+  "n_avaliacoes": 182,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo comum",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "e 1/2 de fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher e 1/2 de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Aqueça o forno a 180º graus.",
+      "Bata as claras em neve e reserve.",
+      "Em uma travessa bata a manteiga, o açúcar e as gemas.",
+      "Misture a farinha e o leite.",
+      "Bata bem, até ficar bem homogêneo.",
+      "Com a ajuda de uma colher acrescente o fermento.",
+      "Por último, adicione as claras em neve e mexa cuidadosamente.",
+      "Coloque em uma forma untada com manteiga e farinha de trigo e leve ao forno médio para assar por aproximadamente 35 minutos, ou até que espetando um palito, este saia seco.",
+      "Após assado, desligue o forno e deixe o bolo esfriar.",
+      "Desenforme e se delicie.",
+      "É uma delícia se saboreado com chá e com alguém que você ama."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo comum. Ingredientes: açúcar, farinha, manteiga, ovos, leite, e 1/2 de fermento. Preparo: Aqueça o forno a 180º graus. Bata as claras em neve e reserve. Em uma travessa bata a manteiga, o açúcar e as gemas."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tg-24255",
+  "titulo": "Bolinho de chuva",
+  "url": "https://www.tudogostoso.com.br/receita/24255-bolinho-de-chuva.html",
+  "nota": 4.8,
+  "n_avaliacoes": 214,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinho de chuva",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "chá de farinho de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinho de trigo"
+    },
+    {
+      "nome": "ovo (grande)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo (grande)"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "pequena de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher pequena de fermento em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite"
+    },
+    {
+      "nome": "Canela em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em um recipiente o açúcar, o ovo inteiro, o trigo e o leite.",
+      "Bata até obter uma massa homogênea.",
+      "Frite e polvilhe com açúcar e canela."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolinho de chuva. Ingredientes: chá de farinho de trigo, ovo (grande), sopa de açúcar, pequena de fermento em pó, leite, Canela em pó. Preparo: Coloque em um recipiente o açúcar, o ovo inteiro, o trigo e o leite. Bata até obter uma massa homogênea. Frite e polvilhe com açúcar e canela."
+}

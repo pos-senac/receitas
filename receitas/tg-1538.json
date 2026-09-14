@@ -1,0 +1,81 @@
+{
+  "id": "tg-1538",
+  "titulo": "Empadinha de queijo",
+  "url": "https://www.tudogostoso.com.br/receita/1538-empadinha-de-queijo.html",
+  "nota": 4.4,
+  "n_avaliacoes": 260,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Empadinha de queijo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xicaras",
+      "texto_original": "3 xicaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de manteiga"
+    },
+    {
+      "nome": "gema",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema"
+    },
+    {
+      "nome": "sal à gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal à gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "gramas de queijo parmesão ralado ou 1/2 de queijo minas pequeno",
+      "quantidade": "250",
+      "unidade": null,
+      "texto_original": "250 gramas de queijo parmesão ralado ou 1/2 de queijo minas pequeno"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros"
+    }
+  ],
+  "modo_preparo": {
+    "MASSA:": [
+      "Coloque em um recipiente a farinha de trigo, a manteiga, a gema e o sal. Misture tudo com as mão até a massa ficar esfarelada e homogênea."
+    ],
+    "RECHEIO:": [
+      "Bata todos os ingredientes no liquidificador e reserve.",
+      "Forre a massa em forminhas individuais e despeje o recheio. Não feche as forminhas. deixe o massa aberta. coloque em forno pré-aquecido e deixe cozinhas por 30 minutos ou até o recheio dourar."
+    ]
+  },
+  "utensilios": [
+    "Forminha de empada",
+    "Liquidificador",
+    "Fogão",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Empadinha de queijo. Ingredientes: chá de farinha de trigo, sopa de manteiga, gema, sal à gosto, leite, gramas de queijo parmesão ralado ou 1/2 de queijo minas pequeno, sopa de manteiga, ovos inteiros. Preparo: Coloque em um recipiente a farinha de trigo, a manteiga, a gema e o sal. Misture tudo com as mão até a massa ficar esfarelada e homogênea. Bata todos os ingredientes no liquidificador e reserve. Forre a massa em forminhas individuais e despeje o recheio. Não feche as forminhas. deixe o massa aberta. coloque em forno pré-aquecido e deixe cozinhas por 30 minutos ou até o recheio dourar."
+}

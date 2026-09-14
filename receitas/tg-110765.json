@@ -1,0 +1,68 @@
+{
+  "id": "tg-110765",
+  "titulo": "Bolo comum de trigo",
+  "url": "https://www.tudogostoso.com.br/receita/110765-bolo-comum-de-trigo.html",
+  "nota": 4.7,
+  "n_avaliacoes": 172,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo comum de trigo",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 55,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1 e 1/2",
+      "unidade": "colheres",
+      "texto_original": "1 e 1/2 colheres de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as claras em neve e reserve.",
+      "Bata a manteiga, o açúcar e as gemas.",
+      "Junte com a farinha e o leite.",
+      "Bata bem, até ficar bem homogêneo.",
+      "Acrescente o fermento",
+      "Por último, adicione as claras em neve e mexa cuidadosamente.",
+      "Coloque em uma forma untada com manteiga e farinha de trigo e leve ao forno médio, pré-aquecido para assar por aproximadamente 35 minutos, ou até que espetando um palito, este saia seco."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Espátula de silicone",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo comum de trigo. Ingredientes: açúcar, farinha de trigo, manteiga, ovos, leite, fermento. Preparo: Bata as claras em neve e reserve. Bata a manteiga, o açúcar e as gemas. Junte com a farinha e o leite."
+}

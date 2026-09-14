@@ -1,0 +1,47 @@
+{
+  "id": "tg-32",
+  "titulo": "Batidinha de frutas",
+  "url": "https://www.tudogostoso.com.br/receita/32-batidinha-de-frutas.html",
+  "nota": 4.6,
+  "n_avaliacoes": 123,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Batidinha de frutas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "cachaça, rum ou vodka de boa qualidade",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de cachaça, rum ou vodka de boa qualidade"
+    },
+    {
+      "nome": "polpa da fruta de sua preferência (abacaxi, morango,caju, acerola, pitanga, cajá, maracujá)",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de polpa da fruta de sua preferência (abacaxi, morango,caju, acerola, pitanga, cajá, maracujá)"
+    },
+    {
+      "nome": "gelo picado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de gelo picado"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Basta bater todos os ingredientes no liquidificador e servir.",
+      "Taças decoradas com flores e frutas dão um toque especial."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Batidinha de frutas. Ingredientes: cachaça, rum ou vodka de boa qualidade, polpa da fruta de sua preferência (abacaxi, morango,caju, acerola, pitanga, cajá, maracujá), gelo picado, leite condensado. Preparo: Basta bater todos os ingredientes no liquidificador e servir. Taças decoradas com flores e frutas dão um toque especial."
+}

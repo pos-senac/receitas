@@ -1,0 +1,76 @@
+{
+  "id": "tg-53238",
+  "titulo": "Tender Natalino fácil",
+  "url": "https://www.tudogostoso.com.br/receita/53238-tender-natalino-facil.html",
+  "nota": 4.7,
+  "n_avaliacoes": 112,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Tender Natalino fácil",
+  "nivel": "facil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 45,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "tender redondo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tender redondo"
+    },
+    {
+      "nome": "mel",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de mel"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de mostarda"
+    },
+    {
+      "nome": "saquinho de cravos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 saquinho de cravos"
+    },
+    {
+      "nome": "rodelas de abacaxi para enfeitar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "rodelas de abacaxi para enfeitar"
+    },
+    {
+      "nome": "cerejas para enfeitar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cerejas para enfeitar"
+    },
+    {
+      "nome": "uvas para enfeitar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "uvas para enfeitar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare uma misturinha com a mostarda e o mel e mexa bem.",
+      "Reserve.",
+      "Faça cortes quadriculares no tender.",
+      "Espete cravos nas junções.",
+      "Lambuze-o com esta mistura de mostarda e mel e leve ao forno até que fique douradinho.",
+      "Enfeite a travessa com rodelas de abacaxi, uvas e cerejas."
+    ]
+  },
+  "utensilios": [
+    "Pincel de silicone",
+    "Faca",
+    "Forno elétrico",
+    "Tigela",
+    "Travessa de vidro",
+    "Pote para mel"
+  ],
+  "texto_para_embedding": "Tender Natalino fácil. Ingredientes: tender redondo, mel, mostarda, saquinho de cravos, rodelas de abacaxi para enfeitar, cerejas para enfeitar, uvas para enfeitar. Preparo: Prepare uma misturinha com a mostarda e o mel e mexa bem. Reserve. Faça cortes quadriculares no tender."
+}

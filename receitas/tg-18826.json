@@ -1,0 +1,142 @@
+{
+  "id": "tg-18826",
+  "titulo": "Empadão de frango",
+  "url": "https://www.tudogostoso.com.br/receita/18826-empadao-de-frango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 114,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Empadão de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de farinha de trigo"
+    },
+    {
+      "nome": "manteiga gelada",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de manteiga gelada"
+    },
+    {
+      "nome": "ovo inteiro batido e",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro batido e"
+    },
+    {
+      "nome": "gema de ovo para a massa",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema de ovo para a massa"
+    },
+    {
+      "nome": "sal a gosto (pode ser uma colher de chá)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto (pode ser uma colher de chá)"
+    },
+    {
+      "nome": "(sopa) de leite",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de (sopa) de leite"
+    },
+    {
+      "nome": "gema de ovo para pincelar a massa",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema de ovo para pincelar a massa"
+    },
+    {
+      "nome": "peito de frango desossado",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de peito de frango desossado"
+    },
+    {
+      "nome": "cebola média picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picadinha"
+    },
+    {
+      "nome": "alho picados e amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picados e amassados"
+    },
+    {
+      "nome": "tomate picado e sem pele",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado e sem pele"
+    },
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de azeite"
+    },
+    {
+      "nome": "Cheiro verde picado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro verde picado"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "pomarola",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de pomarola"
+    },
+    {
+      "nome": "sopa cheia de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa cheia de farinha de trigo"
+    },
+    {
+      "nome": "cubos de caldo de galinha",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cubos de caldo de galinha"
+    },
+    {
+      "nome": "azeitonas picadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitonas picadas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture em uma tigela o trigo e a manteiga até que vire uma farofa.",
+      "Acrescente os outros ingredientes e amasse bem até que fique uma massa lisinha.",
+      "Embrulhe em papel filme e leve à geladeira por aproximadamente 30 minutos.",
+      "Use a metade da massa para forrar a assadeira e a outra para cobrir o recheio, pincele o empadão com a gema.",
+      "Leve ao forno médio pré-aquecido e asse até dourar, aproximadamente 40 minutos."
+    ],
+    "Recheio:": [
+      "Cozinhe o peito de frango, desfie e reserve.",
+      "Em uma panela coloque o azeite e frite mas um pouquinho.",
+      "Acrescente o frango desfiado.",
+      "Dissolva os cubinhos de caldo de galinha em 1/2 xícara de água quente, junte ao refogado.",
+      "Coloque o trigo e mexa sem parar vigorosamente até ficar com uma aparência cremosa.",
+      "Junte os outros ingredientes, mexa bem e está pronto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Empadão de frango. Ingredientes: farinha de trigo, manteiga gelada, ovo inteiro batido e, gema de ovo para a massa, sal a gosto (pode ser uma colher de chá), (sopa) de leite, gema de ovo para pincelar a massa, peito de frango desossado, cebola média picadinha, alho picados e amassados, tomate picado e sem pele, sopa de azeite, Cheiro verde picado, milho verde, pomarola, sopa cheia de farinha de trigo, cubos de caldo de galinha, azeitonas picadas. Preparo: Misture em uma tigela o trigo e a manteiga até que vire uma farofa. Acrescente os outros ingredientes e amasse bem até que fique uma massa lisinha. Embrulhe em papel filme e leve à geladeira por aproximadamente 30 minutos."
+}

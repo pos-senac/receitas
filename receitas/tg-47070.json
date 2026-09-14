@@ -1,0 +1,77 @@
+{
+  "id": "tg-47070",
+  "titulo": "Bolo simples super fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/47070-bolo-simples-super-fofinho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 120,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo simples super fofinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de margarina"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as claras em neve e reserve.",
+      "Bata a margarina até ficar esbranquiçada, acrescente o açúcar e bata bem, depois acrescente as gemas, uma a uma.",
+      "Acrescente um pouco de leite, alternado com a farinha de trigo, se for preciso utilize mais leite.",
+      "Acrescente e sal e por fim o fermento.",
+      "Misture as claras delicadamente.",
+      "Despeje a massa em uma forma com furo no meio.",
+      "Asse em forno preaquecido, a 180º, por aproximadamente 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Espátula de silicone",
+    "Forma",
+    "Forno elétrico",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo simples super fofinho. Ingredientes: ovos, margarina, farinha de trigo, açúcar, leite, fermento em pó, sal. Preparo: Bata as claras em neve e reserve. Bata a margarina até ficar esbranquiçada, acrescente o açúcar e bata bem, depois acrescente as gemas, uma a uma. Acrescente um pouco de leite, alternado com a farinha de trigo, se for preciso utilize mais leite."
+}

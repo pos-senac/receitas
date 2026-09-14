@@ -1,0 +1,66 @@
+{
+  "id": "tg-43607",
+  "titulo": "Bolo de fubá na caneca",
+  "url": "https://www.tudogostoso.com.br/receita/43607-bolo-de-fuba-na-caneca.html",
+  "nota": 4.4,
+  "n_avaliacoes": 191,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá na caneca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 6,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "ovo pequeno",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo pequeno"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "rasas de açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) rasas de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de leite"
+    },
+    {
+      "nome": "rasas de fubá",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) rasas de fubá"
+    },
+    {
+      "nome": "rasas de farinha de trigo",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) rasas de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o ovo numa caneca e bata com o garfo.Ponha o óleo, o açúcar, o leite e o fubá e misture.",
+      "Coloque a farinha de trigo e o fermento e mexa até dar o ponto. Unte uma outra caneca com óleo e farinha de trigo e coloque a massa nela.",
+      "Leve por três minutos no microondas em potência máxima."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de fubá na caneca. Ingredientes: ovo pequeno, óleo, rasas de açúcar, leite, rasas de fubá, rasas de farinha de trigo, fermento em pó. Preparo: Coloque o ovo numa caneca e bata com o garfo.Ponha o óleo, o açúcar, o leite e o fubá e misture. Coloque a farinha de trigo e o fermento e mexa até dar o ponto. Unte uma outra caneca com óleo e farinha de trigo e coloque a massa nela. Leve por três minutos no microondas em potência máxima."
+}

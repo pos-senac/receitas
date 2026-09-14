@@ -1,0 +1,80 @@
+{
+  "id": "tg-171570",
+  "titulo": "Patê de frango cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/171570-pate-de-frango-cremoso.html",
+  "nota": 5.0,
+  "n_avaliacoes": 150,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Patê de frango cremoso",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "frango desfiado cozido",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de frango desfiado cozido"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de maionese"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de requeijão"
+    },
+    {
+      "nome": "cenouras médias raladas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras médias raladas"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de milho verde"
+    },
+    {
+      "nome": "azeitona",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de azeitona"
+    },
+    {
+      "nome": "cheiro verde (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro verde (opcional)"
+    },
+    {
+      "nome": "sal a gosto (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um vasilha colocar o frango desfiado.",
+      "Misture o frango com a maionese até formar um creme.",
+      "Misture o requeijão até que fique bem cremoso, dependendo da quantidade de frango colocar mais maionese e requeijão.",
+      "Logo após, adicionar a cenoura ralada, o milho verde, azeitona e o cheiro-verde.",
+      "Misture até juntar todos os ingredientes.",
+      "Está pronto.",
+      "Essa receita pode ser servida com bolachas de sal, pão branco, tapiocas ou até mesmo como petisco."
+    ]
+  },
+  "utensilios": [
+    "Espatula",
+    "Ralador",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Patê de frango cremoso. Ingredientes: frango desfiado cozido, maionese, requeijão, cenouras médias raladas, milho verde, azeitona, cheiro verde (opcional), sal a gosto (opcional). Preparo: Em um vasilha colocar o frango desfiado. Misture o frango com a maionese até formar um creme. Misture o requeijão até que fique bem cremoso, dependendo da quantidade de frango colocar mais maionese e requeijão."
+}

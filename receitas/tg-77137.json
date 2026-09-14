@@ -1,0 +1,73 @@
+{
+  "id": "tg-77137",
+  "titulo": "Músculo de panela, sem água",
+  "url": "https://www.tudogostoso.com.br/receita/77137-musculo-de-panela-sem-agua.html",
+  "nota": 4.6,
+  "n_avaliacoes": 129,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Músculo de panela, sem água",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "músculo cortado em cubos, de preferência traseiro",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de músculo cortado em cubos, de preferência traseiro"
+    },
+    {
+      "nome": "rasa de sal grosso",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de sal grosso"
+    },
+    {
+      "nome": "cebolas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 cebolas"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "6",
+      "unidade": "dentes",
+      "texto_original": "6 dentes de alho"
+    },
+    {
+      "nome": "tomates, de preferência mais maduros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates, de preferência mais maduros"
+    },
+    {
+      "nome": "sobremesa de mostarda",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de mostarda"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Compre o músculo de traseiro picado, ou pique em casa.",
+      "Forre o fundo da panela de pressão com cebola, em rodela.",
+      "Cubra esta camada de cebola com o tomate, em rodelas.",
+      "Coloque uma camada de carne.",
+      "Cubra esta camada com cebolas cortadas em oito (em pétalas)",
+      "Coloque metade do alho, cortado ao meio e sem a sua 'alma', ou seja seu centro.",
+      "Faça nova camada de carne, de cebola e de alho.",
+      "Coloque por cima de tudo a colher de sal e a mostarda.",
+      "Coloque na pressão.",
+      "Depois de obter pressão deixe a carne por 35 minutos se quiser pedaços macios e inteiros ou por 45 minutos se quiser a carne bem desfiada.",
+      "Sirva com arroz branco, purê e salada verde."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Panela de pressão",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Músculo de panela, sem água. Ingredientes: músculo cortado em cubos, de preferência traseiro, rasa de sal grosso, cebolas, alho, tomates, de preferência mais maduros, sobremesa de mostarda. Preparo: Compre o músculo de traseiro picado, ou pique em casa. Forre o fundo da panela de pressão com cebola, em rodela. Cubra esta camada de cebola com o tomate, em rodelas."
+}

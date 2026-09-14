@@ -1,0 +1,104 @@
+{
+  "id": "tg-65980",
+  "titulo": "Pimentão recheado com carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/65980-pimentao-recheado-com-carne-moida.html",
+  "nota": 4.6,
+  "n_avaliacoes": 183,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Pimentão recheado com carne moída",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "pimentões médios ou grandes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pimentões médios ou grandes"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de carne moída"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picada"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picado"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "pedaço pequeno de bacon (opcional)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pedaço pequeno de bacon (opcional)"
+    },
+    {
+      "nome": "cenoura pequena (opcional)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura pequena (opcional)"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "2",
+      "unidade": "fatias",
+      "texto_original": "2 fatias de presunto"
+    },
+    {
+      "nome": "queijo",
+      "quantidade": "2",
+      "unidade": "fatias",
+      "texto_original": "2 fatias de queijo"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de requeijão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem os pimentões.",
+      "Faça um buraco no pé de cada pimentão, como uma tampa.",
+      "Retire toda a semente de dentro limpando tudo.",
+      "Deixe reservado.",
+      "Tempere a carne e deixe reservada também."
+    ],
+    "Recheio:": [
+      "Refogue a cebola e o alho picados. Acrescente o bacon cortado em cubos. Deixe dourar.",
+      "Coloque a Carne moída e mexa bem. Misture a cenoura cortada em cubos.Coloque um copo de água e deixe cozinhar até a cenoura cozinhar e secar a água.",
+      "Corte as fatias do presunto e queijo em pedaços pequenos.",
+      "Acrescente à carne e desligue o fogo.",
+      "Coloque o requeijão e mexa bem.",
+      "Pegue os pimentões, coloque o recheio dentro preenchendo por completo.",
+      "Corte um pedaço de papel alumínio ( proporcional ao pimentão ) e cubra cada pimentão. Coloque-os em uma forma de alumínio ou refratária.",
+      "Leve ao forno pré-aquecido, a 220º, por 20 minutos.",
+      "Sirva de preferência bem quentinho."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Papel-alumínio",
+    "Faca",
+    "Forma",
+    "Forno elétrico",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Pimentão recheado com carne moída. Ingredientes: pimentões médios ou grandes, carne moída, cebola picada, alho picado, Sal a gosto, pedaço pequeno de bacon (opcional), cenoura pequena (opcional), presunto, queijo, requeijão. Preparo: Lave bem os pimentões. Faça um buraco no pé de cada pimentão, como uma tampa. Retire toda a semente de dentro limpando tudo."
+}

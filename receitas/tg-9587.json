@@ -1,0 +1,104 @@
+{
+  "id": "tg-9587",
+  "titulo": "Torta de limão da Regina",
+  "url": "https://www.tudogostoso.com.br/receita/9587-torta-de-limao-da-regina.html",
+  "nota": 4.4,
+  "n_avaliacoes": 481,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de limão da Regina",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de trigo"
+    },
+    {
+      "nome": "ovo batido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo batido"
+    },
+    {
+      "nome": "sopa de açucar",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de açucar"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g margarina"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "Suco de 7 limões",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 7 limões"
+    },
+    {
+      "nome": "chá de amido de milho",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de amido de milho"
+    },
+    {
+      "nome": "Raspas de limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Raspas de limão"
+    },
+    {
+      "nome": "pacotinho de gelatina sem sabor dissolvido em banho-maria",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pacotinho de gelatina sem sabor dissolvido em banho-maria"
+    },
+    {
+      "nome": "claras batidas em neve",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 claras batidas em neve"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Misturar tudo até ficar homogênea, abrir com as mãos em uma forma com fundo removível, forrar o fundo e as laterais.",
+      "Assar em forno pré-aquecido.",
+      "Por uns 20 minutos até dourar levemente."
+    ],
+    "Recheio:": [
+      "Misturar bem todos os ingredientes numa panela em fogo baixo, depois de pronto coloque a mistura na geladeira. enquanto a massa assa e você bate o merengue."
+    ],
+    "Cobertura:": [
+      "Depois da massa esfriar, colocar o recheio, o suspiro e raspinhas de limão.",
+      "Colocar no forno rapidamente para dourar um pouco o suspiro, (gratinar).",
+      "Leve para gelar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de limão da Regina. Ingredientes: trigo, ovo batido, sopa de açucar, sopa de fermento em pó, margarina, leite condensado, Suco de 7 limões, chá de amido de milho, Raspas de limão, pacotinho de gelatina sem sabor dissolvido em banho-maria, claras batidas em neve, açúcar. Preparo: Misturar tudo até ficar homogênea, abrir com as mãos em uma forma com fundo removível, forrar o fundo e as laterais. Assar em forno pré-aquecido. Por uns 20 minutos até dourar levemente."
+}

@@ -1,0 +1,120 @@
+{
+  "id": "tg-137885",
+  "titulo": "Cupcake veludo vermelho - red velvet",
+  "url": "https://www.tudogostoso.com.br/receita/137885-cupcake-veludo-vermelho-red-velvet.html",
+  "nota": 4.2,
+  "n_avaliacoes": 110,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cupcake veludo vermelho - red velvet",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "350",
+      "unidade": "g",
+      "texto_original": "350 g de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "25",
+      "unidade": "g",
+      "texto_original": "25 g de chocolate em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "bicarbonato de sódio",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de bicarbonato de sódio"
+    },
+    {
+      "nome": "corante em gel vermelho",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de corante em gel vermelho"
+    },
+    {
+      "nome": "vinagre",
+      "quantidade": "20",
+      "unidade": "ml",
+      "texto_original": "20 ml de vinagre"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite"
+    },
+    {
+      "nome": "fermento químico para bolos",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento químico para bolos"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "essência de baunilha",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de essência de baunilha"
+    },
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de manteiga sem sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "280",
+      "unidade": "g",
+      "texto_original": "280 g de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "45",
+      "unidade": "ml",
+      "texto_original": "45 ml de leite"
+    },
+    {
+      "nome": "sopa de essência de baunilha",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de essência de baunilha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater a margarina com o açúcar e ovos até formar um creme claro, reserve. Misturar à parte em uma vasilha os ingredientes secos. Adicionar o corante, a essência, o buttermilk (mistura do leite e o vinagre) e o creme reservado, alternando com os ingredientes secos. Preparar a forma para cupcakes, forrando com os pelotines número 0 (forminhas para cupcake).",
+      "Preaquecer o forno em 180°C.",
+      "Coloque a massa em sacos de confeitar descartáveis e distribua nas forminhas. Asse por aproximadamente 20 minutos. Para a corbertura misure na batedeira a manteiga, a essência, metade do açucar e o leite. Bater até ficar cremoso. Diminuir a velocidade da batedeira e juntar aos poucos o restante do açucar, até ponte de confeitar. Se necessário, acrescentar mais açúcar até atingir o ponto desejado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cupcake veludo vermelho - red velvet. Ingredientes: farinha de trigo, margarina, açúcar, chocolate em pó, sal, bicarbonato de sódio, corante em gel vermelho, vinagre, leite, fermento químico para bolos, ovos, essência de baunilha, manteiga sem sal, açúcar, leite, sopa de essência de baunilha. Preparo: Bater a margarina com o açúcar e ovos até formar um creme claro, reserve. Misturar à parte em uma vasilha os ingredientes secos. Adicionar o corante, a essência, o buttermilk (mistura do leite e o vinagre) e o creme reservado, alternando com os ingredientes secos. Preparar a forma para cupcakes, forrando com os pelotines número 0 (forminhas para cupcake). Preaquecer o forno em 180°C. Coloque a massa em sacos de confeitar descartáveis e distribua nas forminhas. Asse por aproximadamente 20 minutos. Para a corbertura misure na batedeira a manteiga, a essência, metade do açucar e o leite. Bater até ficar cremoso. Diminuir a velocidade da batedeira e juntar aos poucos o restante do açucar, até ponte de confeitar. Se necessário, acrescentar mais açúcar até atingir o ponto desejado."
+}

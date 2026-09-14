@@ -1,0 +1,53 @@
+{
+  "id": "tg-1684",
+  "titulo": "Beijinho de coco",
+  "url": "https://www.tudogostoso.com.br/receita/1684-beijinho-de-coco.html",
+  "nota": 4.7,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Beijinho de coco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "leite moça",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite moça"
+    },
+    {
+      "nome": "150g de coco ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "150g de coco ralado"
+    },
+    {
+      "nome": "2colheres de margarina (sem sal)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "2colheres de margarina (sem sal)"
+    },
+    {
+      "nome": "Açúcar granulado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar granulado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite moça, coco e a manteiga em uma panela em fogo médio e mexa até que o doce fique consistente e solte do fundo. Deixe esfriar, faça bolinhas e passe no açúcar ou coco."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Prato fundo",
+    "Fogão",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Beijinho de coco. Ingredientes: leite moça, 150g de coco ralado, 2colheres de margarina (sem sal), Açúcar granulado. Preparo: Coloque o leite moça, coco e a manteiga em uma panela em fogo médio e mexa até que o doce fique consistente e solte do fundo. Deixe esfriar, faça bolinhas e passe no açúcar ou coco."
+}

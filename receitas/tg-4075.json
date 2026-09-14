@@ -1,0 +1,58 @@
+{
+  "id": "tg-4075",
+  "titulo": "Bolinho de chuva salgado",
+  "url": "https://www.tudogostoso.com.br/receita/4075-bolinho-de-chuva-salgado.html",
+  "nota": 3.9,
+  "n_avaliacoes": 191,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinho de chuva salgado",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de margarina"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "3/4",
+      "unidade": "xícara",
+      "texto_original": "3/4 xícara de chá de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misturar tudo com uma colher, e fritar em óleo bem quente.",
+      "Se desejar acrescente queijo-ralado, salsicha picadinha."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Fouet",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolinho de chuva salgado. Ingredientes: ovo, chá de sal, sopa de margarina, chá de farinha de trigo, chá de leite. Preparo: Misturar tudo com uma colher, e fritar em óleo bem quente. Se desejar acrescente queijo-ralado, salsicha picadinha."
+}

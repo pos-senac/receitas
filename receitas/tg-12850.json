@@ -1,0 +1,49 @@
+{
+  "id": "tg-12850",
+  "titulo": "Maionese caseira",
+  "url": "https://www.tudogostoso.com.br/receita/12850-maionese-caseira.html",
+  "nota": 4.5,
+  "n_avaliacoes": 296,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Maionese caseira",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "ovos grandes",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos grandes"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "vinagre ou limão",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de vinagre ou limão"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes no liquidificador, menos o óleo.",
+      "Bata ligeiramente e coloque o tampo no liquidificador.",
+      "Com ele ligado, vá acrescentando a fio, o óleo até dar o ponto.",
+      "Ele fica bem durinho, quando ele endurecer pode parar, se não ele desanda."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Maionese caseira. Ingredientes: ovos grandes, sal, vinagre ou limão, óleo. Preparo: Coloque todos os ingredientes no liquidificador, menos o óleo. Bata ligeiramente e coloque o tampo no liquidificador. Com ele ligado, vá acrescentando a fio, o óleo até dar o ponto."
+}

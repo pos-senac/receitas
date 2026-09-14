@@ -1,0 +1,111 @@
+{
+  "id": "tg-28",
+  "titulo": "Arroz à grega",
+  "url": "https://www.tudogostoso.com.br/receita/28-arroz-a-grega.html",
+  "nota": 4.6,
+  "n_avaliacoes": 757,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Arroz à grega",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "arroz",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de arroz"
+    },
+    {
+      "nome": "água",
+      "quantidade": "6",
+      "unidade": "xícaras",
+      "texto_original": "6 xícaras de água"
+    },
+    {
+      "nome": "uvas-passas",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de uvas-passas"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo parmesão ralado"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de ervilha"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo"
+    },
+    {
+      "nome": "pimentão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimentão a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "cebola a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebola a gosto"
+    },
+    {
+      "nome": "salsa a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsa a gosto"
+    },
+    {
+      "nome": "cebolinha verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebolinha verde a gosto"
+    },
+    {
+      "nome": "cenoura a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cenoura a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve uma panela ao fogo com água, sal, um fio de óleo e espere ferver.",
+      "Adicione o arroz lavado e mexa bem.",
+      "Diminua o fogo, deixe a água secar e retire o arroz do fogo.",
+      "Em uma panela, leve uma caçarola ao fogo com a medida de manteiga e frite as passas e as ervilhas.",
+      "Despeje a mistura em uma tigela funda e junte a cebolinha verde, a cenoura, o pimentão, a cebola, a salsa e o parmesão.",
+      "Adicione o arroz cozido e misture tudo cuidadosamente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de silicone",
+    "Copo medidor",
+    "Faca"
+  ],
+  "texto_para_embedding": "Arroz à grega. Ingredientes: arroz, água, uvas-passas, queijo parmesão ralado, ervilha, manteiga, óleo, pimentão a gosto, sal a gosto, cebola a gosto, salsa a gosto, cebolinha verde a gosto, cenoura a gosto. Preparo: Leve uma panela ao fogo com água, sal, um fio de óleo e espere ferver. Adicione o arroz lavado e mexa bem. Diminua o fogo, deixe a água secar e retire o arroz do fogo."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "tg-431",
+  "titulo": "Nhoque fácil",
+  "url": "https://www.tudogostoso.com.br/receita/431-nhoque-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1222,
+  "categoria": "Receitas lasanha",
+  "subcategoria": "Nhoque fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "caldos de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caldos de galinha"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de leite"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de maionese"
+    },
+    {
+      "nome": "salsinha picada",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de salsinha picada"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva os 2 caldos no leite e leve ao fogo com a maionese, a salsinha e o sal.",
+      "Quando levantar fervura e a maionese derreter, retire do fogo e coloque a farinha de trigo de uma só vez. Misture bem rápido para não empelotar.",
+      "Volte a massa no fogo baixo, mexendo por 1 ou 2 min. Desligue o fogo e deixe a massa amornar.",
+      "Sobre a mesa enfarinhada, coloque a massa e faça rolinhos. Corte no formato de nhoque. Numa outra panela com água e sal, cozinhe os nhoques.",
+      "A dica é que o nhoque seja retirado da água assim que ele subir, estará no ponto. Escorra e sirva com seu molho preferido."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Nhoque fácil. Ingredientes: caldos de galinha, leite, maionese, salsinha picada, sal a gosto, farinha de trigo. Preparo: Dissolva os 2 caldos no leite e leve ao fogo com a maionese, a salsinha e o sal. Quando levantar fervura e a maionese derreter, retire do fogo e coloque a farinha de trigo de uma só vez. Misture bem rápido para não empelotar. Volte a massa no fogo baixo, mexendo por 1 ou 2 min. Desligue o fogo e deixe a massa amornar."
+}

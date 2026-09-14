@@ -1,0 +1,106 @@
+{
+  "id": "tg-131591",
+  "titulo": "Hamburguer de soja",
+  "url": "https://www.tudogostoso.com.br/receita/131591-hamburguer-de-soja.html",
+  "nota": 4.8,
+  "n_avaliacoes": 102,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Hamburguer de soja",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "PTS (proteína texturizada de soja) fina e escura",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de PTS (proteína texturizada de soja) fina e escura"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "alho picados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho picados"
+    },
+    {
+      "nome": "tomate picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado"
+    },
+    {
+      "nome": "ovo batido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo batido"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água"
+    },
+    {
+      "nome": "farinha de trigo (aproximadamente)",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de farinha de trigo (aproximadamente)"
+    },
+    {
+      "nome": "óleo ou azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo ou azeite"
+    },
+    {
+      "nome": "shoyu (molho de soja)",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de shoyu (molho de soja)"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Cebolinha, salsinha e orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebolinha, salsinha e orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixar a PTS de molho em água morna por 10 minutos.",
+      "Espremer para retirar a água.",
+      "Reservar.",
+      "Em uma panela aquecer o óleo ou azeite e refogar o alho e a cebola.",
+      "Juntar o tomate,cebolinha, salsinha e orégano.",
+      "Refogar.",
+      "Acrescentar a PTS, molho de soja e 1/2 xícara de água.",
+      "Deixar ferver até secar a água.",
+      "Colocar em uma vasilha e deixar esfriar.",
+      "Acrescentar o ovo batido e por último a farinha de trigo até o ponto.",
+      "Pegar porções, fazer uma bola e achatar.",
+      "Assar ou fritar."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Prato fundo",
+    "Espátula de silicone",
+    "Faca",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Hamburguer de soja. Ingredientes: PTS (proteína texturizada de soja) fina e escura, cebola picada, alho picados, tomate picado, ovo batido, água, farinha de trigo (aproximadamente), óleo ou azeite, shoyu (molho de soja), Sal a gosto, Cebolinha, salsinha e orégano a gosto. Preparo: Deixar a PTS de molho em água morna por 10 minutos. Espremer para retirar a água. Reservar."
+}

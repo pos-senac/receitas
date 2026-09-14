@@ -1,0 +1,61 @@
+{
+  "id": "tg-19166",
+  "titulo": "Polenta frita",
+  "url": "https://www.tudogostoso.com.br/receita/19166-polenta-frita.html",
+  "nota": 4.4,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Polenta frita",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "água fria",
+      "quantidade": "5",
+      "unidade": "copos (americanos)",
+      "texto_original": "5 copos (americanos) de água fria"
+    },
+    {
+      "nome": "fubá mimoso",
+      "quantidade": "2",
+      "unidade": "copos (americanos)",
+      "texto_original": "2 copos (americanos) de fubá mimoso"
+    },
+    {
+      "nome": "tabletes de caldo de galinha, legumes ou carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de galinha, legumes ou carne"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "maisena a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "maisena a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, adicione a água, o fubá, o tablete de caldo e o óleo, depois leve ao fogo.",
+      "Após engrossar, conte 5 minutos e adicione a farinha de trigo em chuva e bata bem com uma colher de pau.",
+      "Em uma forma untada com óleo, adicione a massa e leve para gelar.",
+      "Antes de fritar, corte em tiras e passe na maisena para ficar ainda mais sequinha, depois frite em uma mistura de óleo e gordura vegetal hidrogenada."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Polenta frita. Ingredientes: água fria, fubá mimoso, tabletes de caldo de galinha, legumes ou carne, óleo, farinha de trigo, maisena a gosto. Preparo: Em uma panela, adicione a água, o fubá, o tablete de caldo e o óleo, depois leve ao fogo. Após engrossar, conte 5 minutos e adicione a farinha de trigo em chuva e bata bem com uma colher de pau. Em uma forma untada com óleo, adicione a massa e leve para gelar."
+}

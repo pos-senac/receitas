@@ -1,0 +1,55 @@
+{
+  "id": "tg-11153",
+  "titulo": "Pipoca caramelada",
+  "url": "https://www.tudogostoso.com.br/receita/11153-pipoca-caramelada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 253,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pipoca caramelada",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "sopa de milho de pipoca",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de milho de pipoca"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de água",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de água"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Colocar em uma panela todos os ingredientes.",
+      "Mexer até que se forme uma calda em que o milho de pipoca ficará envolvido.",
+      "Assim que o milho de pipoca começar a estourar tampe a panela e deixe as pipocas estourarem.",
+      "Importante: Enquanto as pipocas estouram você deve sacudir a panela para que as pipocas sejam envolvidas na calda e fiquem carameladas.",
+      "Obs: Na pipoqueira pode-se seguir o mesmo procedimento"
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Pipoqueira",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Pipoca caramelada. Ingredientes: sopa de milho de pipoca, sopa de açúcar, sopa de água, sopa de óleo. Preparo: Colocar em uma panela todos os ingredientes. Mexer até que se forme uma calda em que o milho de pipoca ficará envolvido. Assim que o milho de pipoca começar a estourar tampe a panela e deixe as pipocas estourarem."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tg-1264",
+  "titulo": "Amendoim doce",
+  "url": "https://www.tudogostoso.com.br/receita/1264-amendoim-doce.html",
+  "nota": 4.6,
+  "n_avaliacoes": 255,
+  "categoria": "Receitas petiscos",
+  "subcategoria": "Amendoim doce",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "500g de amendoim cru",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "500g de amendoim cru"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de água"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de fermento em pó"
+    },
+    {
+      "nome": "chocolate",
+      "quantidade": "2",
+      "unidade": "colheres (sobremesa)",
+      "texto_original": "2 colheres (sobremesa) de chocolate"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve os ingredientes ao fogo em uma panela grande porque o fermento espuma bastante.",
+      "Mexa com uma colher de pau até desgrudar.",
+      "Esparrame os grãos em uma assadeira e leve ao forno para torrar.",
+      "Experimente até ficar a seu gosto."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Forma"
+  ],
+  "texto_para_embedding": "Amendoim doce. Ingredientes: 500g de amendoim cru, açúcar, água, fermento em pó, chocolate, canela em pó. Preparo: Leve os ingredientes ao fogo em uma panela grande porque o fermento espuma bastante. Mexa com uma colher de pau até desgrudar. Esparrame os grãos em uma assadeira e leve ao forno para torrar."
+}

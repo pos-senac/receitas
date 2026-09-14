@@ -1,0 +1,48 @@
+{
+  "id": "tg-66041",
+  "titulo": "Fraldinha deliciosa assada no forno com sal grosso",
+  "url": "https://www.tudogostoso.com.br/receita/66041-fraldinha-deliciosa-assada-no-forno-com-sal-grosso.html",
+  "nota": 4.5,
+  "n_avaliacoes": 200,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Fraldinha deliciosa assada no forno com sal grosso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "peça de fraldinha de 2 kg mais ou menos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peça de fraldinha de 2 kg mais ou menos"
+    },
+    {
+      "nome": "pacotinho (500 g) de sal grosso",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pacotinho (500 g) de sal grosso"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pegue uma assadeira que caiba a fraldinha inteira.",
+      "Forre o todo o fundo da forma com o sal grosso, formando uma cama para a fraldinha.",
+      "Coloque a peça de fraldinha em cima, com a gordura virada para cima.",
+      "Cubra a carne com sal grosso.",
+      "Leve ao forno para assar por mais ou menos 1 hora e 30 minutos.",
+      "Após, retire a carne da assadeira e remova o excesso de sal.",
+      "Fatie a carne e sirva quente.",
+      "Fica uma delícia se for servida com espaguete ao alho e óleo."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Expremedor de alho",
+    "Faca",
+    "Fogão",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Fraldinha deliciosa assada no forno com sal grosso. Ingredientes: peça de fraldinha de 2 kg mais ou menos, pacotinho (500 g) de sal grosso. Preparo: Pegue uma assadeira que caiba a fraldinha inteira. Forre o todo o fundo da forma com o sal grosso, formando uma cama para a fraldinha. Coloque a peça de fraldinha em cima, com a gordura virada para cima."
+}

@@ -1,0 +1,71 @@
+{
+  "id": "tg-77133",
+  "titulo": "Pão de queijo rápido no liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/77133-pao-de-queijo-rapido-no-liquidificador.html",
+  "nota": 4.7,
+  "n_avaliacoes": 244,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de queijo rápido no liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "polvilho doce",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de polvilho doce"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "óleo para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador, iniciando pelos líquidos, até obter uma mistura homogênea.",
+      "Feito isso, despeje a massa até a metade das forminhas (para empadas) untadas.",
+      "Leve para assar em forno preaquecido a 180º C, por aproximadamente 15 minutos ou até dourar.",
+      "Reserve para amornar e desenforme."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Copo medidor",
+    "Espatula"
+  ],
+  "texto_para_embedding": "Pão de queijo rápido no liquidificador. Ingredientes: leite, óleo, polvilho doce, ovos, queijo parmesão ralado, sal a gosto, óleo para untar. Preparo: Bata tudo no liquidificador, iniciando pelos líquidos, até obter uma mistura homogênea. Feito isso, despeje a massa até a metade das forminhas (para empadas) untadas. Leve para assar em forno preaquecido a 180º C, por aproximadamente 15 minutos ou até dourar."
+}

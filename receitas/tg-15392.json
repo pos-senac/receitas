@@ -1,0 +1,95 @@
+{
+  "id": "tg-15392",
+  "titulo": "Farofa fácil de Natal",
+  "url": "https://www.tudogostoso.com.br/receita/15392-farofa-facil-de-natal.html",
+  "nota": 4.7,
+  "n_avaliacoes": 157,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Farofa fácil de Natal",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de mandioca",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de mandioca"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "sopa de azeite ou manteiga",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de azeite ou manteiga"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "azeitonas picadas",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de azeitonas picadas"
+    },
+    {
+      "nome": "pimentão pequeno picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão pequeno picado"
+    },
+    {
+      "nome": "pimenta dedo de moça opcional",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta dedo de moça opcional"
+    },
+    {
+      "nome": "Salsinha e cebolinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha e cebolinha a gosto"
+    },
+    {
+      "nome": "bacon picados",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de bacon picados"
+    },
+    {
+      "nome": "lingüiça calabresa defumada",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de lingüiça calabresa defumada"
+    },
+    {
+      "nome": "ovos picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos picados"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue o alho, a cebola, o bacon no azeite ou manteiga. Coloque a linguiça e deixe fritar.",
+      "Em seguida adicione o pimentão e as azeitonas até dourar.",
+      "Vai colocando a farinha e mexendo sem parar, por último os ovos, a salsinha e a cebolinha."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Farofa fácil de Natal. Ingredientes: farinha de mandioca, alho amassados, sopa de azeite ou manteiga, cebola média picada, azeitonas picadas, pimentão pequeno picado, pimenta dedo de moça opcional, Salsinha e cebolinha a gosto, bacon picados, lingüiça calabresa defumada, ovos picados. Preparo: Refogue o alho, a cebola, o bacon no azeite ou manteiga. Coloque a linguiça e deixe fritar. Em seguida adicione o pimentão e as azeitonas até dourar. Vai colocando a farinha e mexendo sem parar, por último os ovos, a salsinha e a cebolinha."
+}

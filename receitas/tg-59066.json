@@ -1,0 +1,95 @@
+{
+  "id": "tg-59066",
+  "titulo": "Bolo de cenoura com calda de chocolate que derrete na boca",
+  "url": "https://www.tudogostoso.com.br/receita/59066-bolo-de-cenoura-com-calda-de-chocolate-que-derrete-na-boca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 979,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura com calda de chocolate que derrete na boca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "chá de cenoura crua picada",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de cenoura crua picada"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de açúcar"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de chá de sal"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa cheia de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa cheia de fermento em pó"
+    },
+    {
+      "nome": "sopa de nescau",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de nescau"
+    },
+    {
+      "nome": "tablete de margarina",
+      "quantidade": "1 e 1/2",
+      "unidade": null,
+      "texto_original": "1 e 1/2 tablete de margarina"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "12",
+      "unidade": "colheres",
+      "texto_original": "12 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de leite",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de sopa de leite"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata no liquidificador todos os ingredientes, exceto a farinha e o fermento.",
+      "Depois disso, em uma vasilha grande misture bem a massa batida com a farinha e o fermento.",
+      "Coloque em um tabuleiro untado com manteiga e polvilhado de açúcar ou farinha.",
+      "Leve ao forno pré-aquecido, a 180°, por cerca de 40 minutos, ou até dourar."
+    ],
+    "Cobertura:": [
+      "Misture todos os ingredientes e leve ao fogo até ferver.",
+      "Faça furinhos no bolo ainda quente e despeje sobre ele."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de cenoura com calda de chocolate que derrete na boca. Ingredientes: chá de cenoura crua picada, chá de açúcar, chá de óleo, ovos, chá de sal, chá de farinha de trigo, sopa cheia de fermento em pó, sopa de nescau, tablete de margarina, sopa de açúcar, sopa de leite. Preparo: Bata no liquidificador todos os ingredientes, exceto a farinha e o fermento. Depois disso, em uma vasilha grande misture bem a massa batida com a farinha e o fermento. Coloque em um tabuleiro untado com manteiga e polvilhado de açúcar ou farinha."
+}

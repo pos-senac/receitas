@@ -1,0 +1,86 @@
+{
+  "id": "tg-1046",
+  "titulo": "Macarrão ao forno com bacon e mussarela",
+  "url": "https://www.tudogostoso.com.br/receita/1046-macarrao-ao-forno-com-bacon-e-mussarela.html",
+  "nota": 4.6,
+  "n_avaliacoes": 456,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão ao forno com bacon e mussarela",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "macarrão caracolinho cozido e escorrido",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de macarrão caracolinho cozido e escorrido"
+    },
+    {
+      "nome": "bacon cortado em cubinhos",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de bacon cortado em cubinhos"
+    },
+    {
+      "nome": "tomates cortados e sem semente",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates cortados e sem semente"
+    },
+    {
+      "nome": "cebola grande picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada"
+    },
+    {
+      "nome": "salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha a gosto"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de maionese"
+    },
+    {
+      "nome": "alho picados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picados"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "mussarela ralada ou picada",
+      "quantidade": "350",
+      "unidade": "g",
+      "texto_original": "350 g de mussarela ralada ou picada"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o bacon em uma panela e misture até dourar.",
+      "Acrescente o azeite, o alho, a cebola e os tomates.",
+      "Em um refratário, coloque o macarrão, a maionese, a salsinha, a mussarela e os ingredientes refogados.",
+      "Misture bem e polvilhe queijo ralado.",
+      "Leve ao forno médio para gratinar o queijo e está pronto para servir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão ao forno com bacon e mussarela. Ingredientes: macarrão caracolinho cozido e escorrido, bacon cortado em cubinhos, tomates cortados e sem semente, cebola grande picada, salsinha a gosto, maionese, alho picados, azeite, mussarela ralada ou picada, queijo ralado. Preparo: Coloque o bacon em uma panela e misture até dourar. Acrescente o azeite, o alho, a cebola e os tomates. Em um refratário, coloque o macarrão, a maionese, a salsinha, a mussarela e os ingredientes refogados."
+}

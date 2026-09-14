@@ -1,0 +1,92 @@
+{
+  "id": "tg-23221",
+  "titulo": "Molho para cachorro-quente",
+  "url": "https://www.tudogostoso.com.br/receita/23221-molho-para-cachorro-quente.html",
+  "nota": 4.8,
+  "n_avaliacoes": 204,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Molho para cachorro-quente",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "salsicha",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de salsicha"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de molho de tomate"
+    },
+    {
+      "nome": "tomates sem sementes picados",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 tomates sem sementes picados"
+    },
+    {
+      "nome": "cebola grande ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande ralada"
+    },
+    {
+      "nome": "pimentão picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão picado"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho amassados"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "2",
+      "unidade": "lata",
+      "texto_original": "2 lata de milho verde"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de óleo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela com o óleo, refogue o alho e a cebola.",
+      "Adicione o pimentão, os tomates, o sal e o cheiro-verde.",
+      "Misture bem e deixe ferver por 5 minutos.",
+      "Acrescente o molho de tomate, o milho e as salsichas inteiras ou picadas em rodelas.",
+      "Deixe cozinhar por 10 minutos e sirva com pãezinhos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Molho para cachorro-quente. Ingredientes: salsicha, molho de tomate, tomates sem sementes picados, cebola grande ralada, pimentão picado, alho amassados, milho verde, óleo, sal a gosto, cheiro-verde a gosto. Preparo: Em uma panela com o óleo, refogue o alho e a cebola. Adicione o pimentão, os tomates, o sal e o cheiro-verde. Misture bem e deixe ferver por 5 minutos."
+}

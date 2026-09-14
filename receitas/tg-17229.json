@@ -1,0 +1,77 @@
+{
+  "id": "tg-17229",
+  "titulo": "Sanduíche cremoso de forno",
+  "url": "https://www.tudogostoso.com.br/receita/17229-sanduiche-cremoso-de-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 383,
+  "categoria": "Receitas sanduíches",
+  "subcategoria": "Sanduíche cremoso de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "pão de forma",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pão de forma"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "sopa de maionese",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de maionese"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "cheias de creme de cebola",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) cheias de creme de cebola"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma forma retangular disponha uma camada de fatias de pão de forma.",
+      "Cubra com uma camada fina de maionese.",
+      "Espalhe a mussarela e o presunto.",
+      "Coloque o molho de tomate e salpique com orégano.",
+      "Coloque mais uma camada de pão de forma.",
+      "Prepare um mingau ralo com o leite e o creme de cebola.",
+      "Jogue por cima e decore a seu gosto (parmezão, azeitonas, palmito).",
+      "Leve ao forno até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sanduíche cremoso de forno. Ingredientes: pão de forma, presunto, mussarela, molho de tomate, sopa de maionese, leite, cheias de creme de cebola, Orégano. Preparo: Em uma forma retangular disponha uma camada de fatias de pão de forma. Cubra com uma camada fina de maionese. Espalhe a mussarela e o presunto."
+}

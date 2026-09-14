@@ -1,0 +1,126 @@
+{
+  "id": "tg-30433",
+  "titulo": "Esfiha aberta fácil",
+  "url": "https://www.tudogostoso.com.br/receita/30433-esfiha-aberta-facil.html",
+  "nota": 4.3,
+  "n_avaliacoes": 183,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Esfiha aberta fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "tablete de fermento para pão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de fermento para pão"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de água morna"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "patinho moído",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de patinho moído"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "hortelã",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de hortelã"
+    },
+    {
+      "nome": "Suco de 2 limões",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 2 limões"
+    },
+    {
+      "nome": "Sal e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e pimenta a gosto"
+    },
+    {
+      "nome": "ricota",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de ricota"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um refratário, coloque o fermento esfarelado e o sal.",
+      "Misture até ficar líquido.",
+      "Junte a água morna (reserve um pouco).",
+      "Reserve.",
+      "Em um refratário, coloque a farinha (reserve um pouco), o óleo, o açúcar, o fermento reservado e o restante de água morna.",
+      "Misture com uma colher de pau.",
+      "A seguir, sove sobre superfície enfarinhada.",
+      "Deixe descansar por 10 minutos.",
+      "Após descansar, divida a massa em 2 partes e faça um cordão grosso.",
+      "Corte - o com a faca (cerca de dois dedos de espessura).",
+      "A seguir, faça bolinhas e acomode - as em superfície polvilhada com fubá.",
+      "Abra - as com a ponta dos dedos, deixando as bordas levantadas.",
+      "Coloque o recheio.",
+      "Coloque em uma assadeira polvilhada com farinha.",
+      "Leve ao forno quente, pré - aquecido, por 15 a 20 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Esfiha aberta fácil. Ingredientes: tablete de fermento para pão, açúcar, sal, água morna, óleo, farinha de trigo, patinho moído, tomates, cebola, hortelã, Suco de 2 limões, Sal e pimenta a gosto, ricota, Orégano, Sal. Preparo: Em um refratário, coloque o fermento esfarelado e o sal. Misture até ficar líquido. Junte a água morna (reserve um pouco)."
+}

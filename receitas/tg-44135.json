@@ -1,0 +1,63 @@
+{
+  "id": "tg-44135",
+  "titulo": "Pipoca doce (sem mistérios e sem estragar panela)",
+  "url": "https://www.tudogostoso.com.br/receita/44135-pipoca-doce-sem-misterios-e-sem-estragar-panela.html",
+  "nota": 2.6,
+  "n_avaliacoes": 180,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pipoca doce (sem mistérios e sem estragar panela)",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "achocolatado em pó, de preferência Nescau",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de achocolatado em pó, de preferência Nescau"
+    },
+    {
+      "nome": "milho para pipoca",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de milho para pipoca"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela grande (grande em largura e não em profundidade, é fundamental que seja larga para dar certo), misturar a água, o óleo, o açúcar e o achocolatado e colocar no fogo para ferver.",
+      "Quando estiver fervendo, colocar as pipocas, mexendo de vez em quando.",
+      "Quando começar a estourar, tampar a panela e abaixar o fogo até acabar de estourar.",
+      "A dica é ter paciência porque demora um pouco até a temperatura dos ingredientes chegarem ao ponto de ebulição para o milho começar a estourar.",
+      "Quando tampar, não parar de mexer a panela.",
+      "De vez em quando, sacudir a panela para os ingredientes misturarem bem à pipoca.",
+      "Assim a receita dá certo e não gruda no fundo da panela."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Espátula de silicone",
+    "Pipoqueira",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Pipoca doce (sem mistérios e sem estragar panela). Ingredientes: água, óleo, açúcar, achocolatado em pó, de preferência Nescau, milho para pipoca. Preparo: Em uma panela grande (grande em largura e não em profundidade, é fundamental que seja larga para dar certo), misturar a água, o óleo, o açúcar e o achocolatado e colocar no fogo para ferver. Quando estiver fervendo, colocar as pipocas, mexendo de vez em quando. Quando começar a estourar, tampar a panela e abaixar o fogo até acabar de estourar."
+}

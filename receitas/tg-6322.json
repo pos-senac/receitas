@@ -1,0 +1,92 @@
+{
+  "id": "tg-6322",
+  "titulo": "Delícia de abacaxi",
+  "url": "https://www.tudogostoso.com.br/receita/6322-delicia-de-abacaxi.html",
+  "nota": 4.5,
+  "n_avaliacoes": 736,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Delícia de abacaxi",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "abacaxi cortado em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abacaxi cortado em cubos"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "açúcar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar a gosto"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite de vaca (medida da lata de leite condensado)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite de vaca (medida da lata de leite condensado)"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "claras batidas em neve",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras batidas em neve"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "Doce de abacaxi": [
+      "Em uma panela, coloque o abacaxi, o açúcar e a água e leve ao fogo até obter um ponto de doce.",
+      "Desligue o fogo e deixe esfriar."
+    ],
+    "Creme": [
+      "Em outra panela em fogo baixo, misture o leite condensado, o leite de vaca e as gemas peneiradas até que vire um creme.",
+      "Desligue o fogo e deixe esfriar."
+    ],
+    "Cobertura": [
+      "Bata as claras em neve, acrescente o açúcar, o creme de leite e mexa delicadamente com uma colher.",
+      "Em um refratário, faça uma camada com o doce de abacaxi, outra com o creme e outra com a cobertura.",
+      "Leve ao freezer e sirva bem gelado."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Colher de pau",
+    "Peneira",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Delícia de abacaxi. Ingredientes: abacaxi cortado em cubos, água, açúcar a gosto, leite condensado, leite de vaca (medida da lata de leite condensado), gemas, claras batidas em neve, açúcar, creme de leite. Preparo: Em uma panela, coloque o abacaxi, o açúcar e a água e leve ao fogo até obter um ponto de doce. Desligue o fogo e deixe esfriar. Em outra panela em fogo baixo, misture o leite condensado, o leite de vaca e as gemas peneiradas até que vire um creme."
+}

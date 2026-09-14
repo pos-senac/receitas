@@ -1,0 +1,60 @@
+{
+  "id": "tg-41721",
+  "titulo": "Frango cremoso rapidinho",
+  "url": "https://www.tudogostoso.com.br/receita/41721-frango-cremoso-rapidinho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 163,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango cremoso rapidinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cozido em 1/2 litro de água com caldo de galinha e temperos a gosto",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango cozido em 1/2 litro de água com caldo de galinha e temperos a gosto"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "milho verde escorrido",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde escorrido"
+    },
+    {
+      "nome": "requeijão cremoso",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão cremoso"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "mussarela (pode ser ralada ou em fatias)",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de mussarela (pode ser ralada ou em fatias)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela refogue o peito de frango (cozido e desfiado) com a lata de molho de tomate e coloque em um refratário de vidro.",
+      "No liquidificador bata o creme de leite, o milho, o requeijão e coloque por cima do peito de frango.",
+      "Salpique a mussarela por cima e leve ao forno pra gratinar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango cremoso rapidinho. Ingredientes: peito de frango cozido em 1/2 litro de água com caldo de galinha e temperos a gosto, creme de leite, milho verde escorrido, requeijão cremoso, molho de tomate, mussarela (pode ser ralada ou em fatias). Preparo: Em uma panela refogue o peito de frango (cozido e desfiado) com a lata de molho de tomate e coloque em um refratário de vidro. No liquidificador bata o creme de leite, o milho, o requeijão e coloque por cima do peito de frango. Salpique a mussarela por cima e leve ao forno pra gratinar."
+}

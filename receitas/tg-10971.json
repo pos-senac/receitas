@@ -1,0 +1,55 @@
+{
+  "id": "tg-10971",
+  "titulo": "Biscoitos de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/10971-biscoitos-de-chocolate.html",
+  "nota": 4.2,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoitos de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de açúcar"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "1 e 1/2 xícaras de trigo"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de maizena"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de chocolate em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Na tigela, misture a margarina e o açúcar.",
+      "Junte os demais ingredientes e misture bem com as mãos.",
+      "Faça bolinhas achatadas e coloque em assadeiras sem untar.",
+      "Asse por 20 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Biscoitos de chocolate. Ingredientes: margarina, açúcar, trigo, maizena, chocolate em pó. Preparo: Na tigela, misture a margarina e o açúcar. Junte os demais ingredientes e misture bem com as mãos. Faça bolinhas achatadas e coloque em assadeiras sem untar."
+}

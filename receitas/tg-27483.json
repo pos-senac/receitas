@@ -1,0 +1,106 @@
+{
+  "id": "tg-27483",
+  "titulo": "Escondidinho de carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/27483-escondidinho-de-carne-moida.html",
+  "nota": 4.6,
+  "n_avaliacoes": 436,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Escondidinho de carne moída",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "carne moída de primeira",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne moída de primeira"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picadinha"
+    },
+    {
+      "nome": "alho amassadinhos",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassadinhos"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "Salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha a gosto"
+    },
+    {
+      "nome": "Óleo para refogar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para refogar"
+    },
+    {
+      "nome": "batata holandesa",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batata holandesa"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "Leite o suficiente para dar o ponto no purê",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite o suficiente para dar o ponto no purê"
+    },
+    {
+      "nome": "Queijo parmesão ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo parmesão ralado"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de mussarela"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o óleo, a cebola e o alho para dourar e acrescente a carne moída (frite bem até ficar coradinha).",
+      "Salgue, coloque a pimenta a seu gosto e a salsinha.",
+      "À parte, faça um purê com as batatas, a manteiga e o leite.",
+      "Quando estiver pronto, é só montar no pirex na seguinte ordem: o purê de batatas, a carne moída, o purê de batatas e assim sucessivamente até terminar com uma camada de purê.",
+      "Se preferir, só coloque o purê embaixo e em cima e a carne no meio.",
+      "Salpique queijo parmesão ralado e cubra com mussarela.",
+      "Leve ao forno quente só para derreter a mussarela.",
+      "Sirva com arroz branco."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Expremedor de Batata",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Escondidinho de carne moída. Ingredientes: carne moída de primeira, cebola picadinha, alho amassadinhos, Sal a gosto, Pimenta a gosto, Salsinha a gosto, Óleo para refogar, batata holandesa, manteiga, Leite o suficiente para dar o ponto no purê, Queijo parmesão ralado, mussarela. Preparo: Coloque o óleo, a cebola e o alho para dourar e acrescente a carne moída (frite bem até ficar coradinha). Salgue, coloque a pimenta a seu gosto e a salsinha. À parte, faça um purê com as batatas, a manteiga e o leite."
+}

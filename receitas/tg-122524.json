@@ -1,0 +1,84 @@
+{
+  "id": "tg-122524",
+  "titulo": "Torta de banana no liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/122524-torta-de-banana-no-liquidificador.html",
+  "nota": 4.8,
+  "n_avaliacoes": 110,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de banana no liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "Leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de Leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "farinha",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha"
+    },
+    {
+      "nome": "fermento químico",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento químico"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3/4",
+      "unidade": "xícara",
+      "texto_original": "3/4 xícara de açúcar"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água quente"
+    },
+    {
+      "nome": "Bananas cortadas para cobrir o fundo do tabuleiro",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Bananas cortadas para cobrir o fundo do tabuleiro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador  os ovos com o açúcar e  o óleo",
+      "depois acrescente o leite, bata;",
+      "acrescente a farinha as poucos com o liquidificador ligado e por último o fermento, batendo só ligeiramente. Reserve.",
+      "Unte uma forma média com margarina e farinha",
+      "Despeje o caramelo e por cima depois as bananas cortadas como desejar",
+      "e por último a massa de bolo e leve para assar."
+    ],
+    "Caramelo:": [
+      "Leve o açúcar para derreter, após, despeje 1/2 xícara de água quente, espere dissolver o açúcar, deixe engrosse um pouco e despeje na fôrma untada."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de banana no liquidificador. Ingredientes: ovos, açúcar, Leite, óleo, farinha, fermento químico, açúcar, água quente, Bananas cortadas para cobrir o fundo do tabuleiro. Preparo: Bata no liquidificador  os ovos com o açúcar e  o óleo depois acrescente o leite, bata; acrescente a farinha as poucos com o liquidificador ligado e por último o fermento, batendo só ligeiramente. Reserve."
+}

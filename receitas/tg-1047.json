@@ -1,0 +1,64 @@
+{
+  "id": "tg-1047",
+  "titulo": "Patê de sardinha",
+  "url": "https://www.tudogostoso.com.br/receita/1047-pate-de-sardinha.html",
+  "nota": 4.6,
+  "n_avaliacoes": 156,
+  "categoria": "Receitas patês",
+  "subcategoria": "Patê de sardinha",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "sadinha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de sadinha"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola ralada"
+    },
+    {
+      "nome": "cenoura grande ralada bem fina",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura grande ralada bem fina"
+    },
+    {
+      "nome": "Um pouco de salsa e cebolinha cortada bem pequeno",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Um pouco de salsa e cebolinha cortada bem pequeno"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de maionese"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe as sardinhas, coloque em um recepiente de vidro, amasse bem e acrescente a cebola, cenoura, salsa e cebolinha.",
+      "Misture bem e acrescente aos poucos um pouco de creme de leite e maionese, até ficar da textura desejada.",
+      "Sirva com torradas."
+    ]
+  },
+  "utensilios": [
+    "Espátula de silicone",
+    "Faca",
+    "Ramequim"
+  ],
+  "texto_para_embedding": "Patê de sardinha. Ingredientes: sadinha, cebola ralada, cenoura grande ralada bem fina, Um pouco de salsa e cebolinha cortada bem pequeno, caixinha de creme de leite, maionese. Preparo: Limpe as sardinhas, coloque em um recepiente de vidro, amasse bem e acrescente a cebola, cenoura, salsa e cebolinha. Misture bem e acrescente aos poucos um pouco de creme de leite e maionese, até ficar da textura desejada. Sirva com torradas."
+}

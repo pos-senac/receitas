@@ -1,0 +1,78 @@
+{
+  "id": "tg-154551",
+  "titulo": "Maionese temperada de lanchonete",
+  "url": "https://www.tudogostoso.com.br/receita/154551-maionese-temperada-de-lanchonete.html",
+  "nota": 4.6,
+  "n_avaliacoes": 213,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Maionese temperada de lanchonete",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros"
+    },
+    {
+      "nome": "salsinha e cebolinha picadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha e cebolinha picadas"
+    },
+    {
+      "nome": "suco puro de limão",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de suco puro de limão"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de mostarda"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "tempero de ervas finas (opcional)",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de tempero de ervas finas (opcional)"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de óleo de soja"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o sal, o tempero, os ovos, o suco de limão e a mostarda.",
+      "Despeje o óleo em fio e continue batendo por mais 2 minutos ou até obter um creme denso.",
+      "Adicione a salsa e a cebolinha e bata por mais alguns segundo, sempre adicionando o óleo.",
+      "Bata até obter uma consistência firme e desligue o liquidificador.",
+      "Coloque a maionese em um pote e leve à geladeira."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Ramequim",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Maionese temperada de lanchonete. Ingredientes: sal, ovos inteiros, salsinha e cebolinha picadas, suco puro de limão, mostarda, pimenta-do-reino a gosto, tempero de ervas finas (opcional), óleo de soja. Preparo: Bata no liquidificador o sal, o tempero, os ovos, o suco de limão e a mostarda. Despeje o óleo em fio e continue batendo por mais 2 minutos ou até obter um creme denso. Adicione a salsa e a cebolinha e bata por mais alguns segundo, sempre adicionando o óleo."
+}

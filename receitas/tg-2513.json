@@ -1,0 +1,56 @@
+{
+  "id": "tg-2513",
+  "titulo": "Mousse de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/2513-mousse-de-chocolate.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1188,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Mousse de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chocolate meio amargo",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de chocolate meio amargo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as gemas até dobrarem de volume.",
+      "Junte o açúcar e continue batendo.",
+      "Derreta o chocolate e acrescente à gemada.",
+      "Junte o creme de leite, batendo sempre.",
+      "Por fim, acrescente as claras em neve (bem batidas mesmo), misturando rapidamente na batedeira.",
+      "Leve à geladeira e sirva-se, deliciando o melhor mousse e mais simples de fazer!"
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Bowl",
+    "Taça de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Mousse de chocolate. Ingredientes: ovos, chocolate meio amargo, açúcar, creme de leite. Preparo: Bata as gemas até dobrarem de volume. Junte o açúcar e continue batendo. Derreta o chocolate e acrescente à gemada."
+}

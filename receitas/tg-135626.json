@@ -1,0 +1,80 @@
+{
+  "id": "tg-135626",
+  "titulo": "Bolo de aipim",
+  "url": "https://www.tudogostoso.com.br/receita/135626-bolo-de-aipim.html",
+  "nota": 4.4,
+  "n_avaliacoes": 204,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de aipim",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "aipim (ou mandioca) ralado",
+      "quantidade": "1,5",
+      "unidade": "kg",
+      "texto_original": "1,5 kg de aipim (ou mandioca) ralado"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de açúcar"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina ou manteiga"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "coco pequeno ralado (ou 100 g de coco ralado industrializado)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 coco pequeno ralado (ou 100 g de coco ralado industrializado)"
+    },
+    {
+      "nome": "gotas de baunilha (opcional)",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 gotas de baunilha (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes em uma bacia grande com a ajuda de um fouet ou uma colher de pau.",
+      "Preaqueça o forno a 180º C.",
+      "Unte a forma retangular com manteiga e enfarinhe antes de colocar a massa.",
+      "Coloque a massa na forma retangular untada e leve para assar por, aproximadamente, 45 minutos.",
+      "A textura do bolo deve ficar cremosa por dentro e com a casquinha crocante."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Formo de bolo",
+    "Fouet",
+    "Ralador"
+  ],
+  "texto_para_embedding": "Bolo de aipim. Ingredientes: aipim (ou mandioca) ralado, ovos inteiros, leite, açúcar, margarina ou manteiga, sal, coco pequeno ralado (ou 100 g de coco ralado industrializado), gotas de baunilha (opcional). Preparo: Misture todos os ingredientes em uma bacia grande com a ajuda de um fouet ou uma colher de pau. Preaqueça o forno a 180º C. Unte a forma retangular com manteiga e enfarinhe antes de colocar a massa."
+}

@@ -1,0 +1,72 @@
+{
+  "id": "tg-39448",
+  "titulo": "Canelone invertido",
+  "url": "https://www.tudogostoso.com.br/receita/39448-canelone-invertido.html",
+  "nota": 4.6,
+  "n_avaliacoes": 284,
+  "categoria": "Receitas lasanha",
+  "subcategoria": "Canelone invertido",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "macarrão cabelo de anjo",
+      "quantidade": "1/2",
+      "unidade": "pacote",
+      "texto_original": "1/2 pacote de macarrão cabelo de anjo"
+    },
+    {
+      "nome": "presunto magro fatiado",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de presunto magro fatiado"
+    },
+    {
+      "nome": "queijo mussarela fatiado",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de queijo mussarela fatiado"
+    },
+    {
+      "nome": "requeijão catupiri",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de requeijão catupiri"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de extrato de tomate"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "1",
+      "unidade": "pacote (50 g)",
+      "texto_original": "1 pacote (50 g) de queijo parmesão ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o macarrão por 5 minutos em água e sal e escorra.",
+      "Coloque sobre uma tábua de carne, 1 fatia de presunto, por cima 1 fatia de queijo mussarela.",
+      "Com um garfo, pegue uma pequena porção de macarrão e coloque por cima do queijo, por cima do macarrão uma porção de catupiri.",
+      "Finalize com 1 pitada de orégano.",
+      "Enrole como canelone.",
+      "Coloque-os lado a lado em uma forma refratária.",
+      "Cubra com extrato de tomate e salpique o queijo ralado por cima.",
+      "Leve ao forno por 20 minutos.",
+      "Sirva quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Canelone invertido. Ingredientes: macarrão cabelo de anjo, presunto magro fatiado, queijo mussarela fatiado, requeijão catupiri, orégano, extrato de tomate, queijo parmesão ralado. Preparo: Cozinhe o macarrão por 5 minutos em água e sal e escorra. Coloque sobre uma tábua de carne, 1 fatia de presunto, por cima 1 fatia de queijo mussarela. Com um garfo, pegue uma pequena porção de macarrão e coloque por cima do queijo, por cima do macarrão uma porção de catupiri."
+}

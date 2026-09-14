@@ -1,0 +1,82 @@
+{
+  "id": "tg-15559",
+  "titulo": "Macarrão com calabresa na panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/15559-macarrao-com-calabresa-na-panela-de-pressao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 371,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão com calabresa na panela de pressão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 21,
+  "ingredientes": [
+    {
+      "nome": "macarrão penne, parafuso, ou gravatinha",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de macarrão penne, parafuso, ou gravatinha"
+    },
+    {
+      "nome": "caixinha de extrato/polpa/molho de tomate",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de extrato/polpa/molho de tomate"
+    },
+    {
+      "nome": "caixinha (a mesma medida da caixinha do molho) de água",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caixinha (a mesma medida da caixinha do molho) de água"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "gomos de calabresa picados em rodelas finas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gomos de calabresa picados em rodelas finas"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Óleo ou azeite para refogar a cebola e a calabresa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo ou azeite para refogar a cebola e a calabresa"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela de pressão, doure a cebola e a calabresa.",
+      "Após dourar, adicione o sal, o molho, as 2 medidas de água, o macarrão e o creme de leite.",
+      "Se o macarrão não tiver completamente coberto, coloque mais água.",
+      "Misturar bem, adicionar o sal e fechar a panela.",
+      "Contar 5 minutos a partir do momento em que a panela fizer pressão.",
+      "Polvilhe queijo ralado e bom apetite."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de silicone",
+    "Faca",
+    "Fogão",
+    "Tábua de corte",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Macarrão com calabresa na panela de pressão. Ingredientes: macarrão penne, parafuso, ou gravatinha, caixinha de extrato/polpa/molho de tomate, caixinha (a mesma medida da caixinha do molho) de água, creme de leite, cebola média picada, gomos de calabresa picados em rodelas finas, Sal a gosto, Óleo ou azeite para refogar a cebola e a calabresa. Preparo: Em uma panela de pressão, doure a cebola e a calabresa. Após dourar, adicione o sal, o molho, as 2 medidas de água, o macarrão e o creme de leite. Se o macarrão não tiver completamente coberto, coloque mais água."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "tg-129",
+  "titulo": "Frango com Catupiri e batata palha da tia Gracia",
+  "url": "https://www.tudogostoso.com.br/receita/129-frango-com-catupiri-e-batata-palha-da-tia-gracia.html",
+  "nota": 4.6,
+  "n_avaliacoes": 682,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango com Catupiri e batata palha da tia Gracia",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "sobrecoxa ou peito de frango cozido com 1 cubo de caldo de frango e desfiado",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de sobrecoxa ou peito de frango cozido com 1 cubo de caldo de frango e desfiado"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "molho de tomate refogado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate refogado"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "batata palha",
+      "quantidade": "160",
+      "unidade": "g",
+      "texto_original": "160 g de batata palha"
+    },
+    {
+      "nome": "catupiri",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de catupiri"
+    },
+    {
+      "nome": "parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de parmesão ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue a cebola, acrescente o frango e refogue mais um pouco.",
+      "Coloque o molho de tomate, o sal, misture bem e deixe apurar.",
+      "Coloque o refogado em uma travessa que possa ir ao forno, espalhe por cima o catupiri, salpique o parmesão e cubra com a batata.",
+      "Leve ao forno preaquecido para gratinar por cerca de 20 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango com Catupiri e batata palha da tia Gracia. Ingredientes: sobrecoxa ou peito de frango cozido com 1 cubo de caldo de frango e desfiado, cebola picada, molho de tomate refogado, sal a gosto, batata palha, catupiri, parmesão ralado. Preparo: Refogue a cebola, acrescente o frango e refogue mais um pouco. Coloque o molho de tomate, o sal, misture bem e deixe apurar. Coloque o refogado em uma travessa que possa ir ao forno, espalhe por cima o catupiri, salpique o parmesão e cubra com a batata."
+}

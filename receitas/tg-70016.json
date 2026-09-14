@@ -1,0 +1,88 @@
+{
+  "id": "tg-70016",
+  "titulo": "Macarrão ao molho branco - simples e rápido",
+  "url": "https://www.tudogostoso.com.br/receita/70016-macarrao-ao-molho-branco-simples-e-rapido.html",
+  "nota": 4.8,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão ao molho branco - simples e rápido",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "macarrão ninho largo (ou qual você tiver em casa)",
+      "quantidade": "1/2",
+      "unidade": "pacote",
+      "texto_original": "1/2 pacote de macarrão ninho largo (ou qual você tiver em casa)"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de óleo"
+    },
+    {
+      "nome": "Água para cozinhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Água para cozinhar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de óleo"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 creme de leite"
+    },
+    {
+      "nome": "Cebolinha e salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebolinha e salsinha a gosto"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a água para ferver (quantidade suficiente pra cobrir o macarrão) e coloque o óleo, quando ela começar a ferver coloque o macarrão."
+    ],
+    "Molho Branco:": [
+      "Enquanto o macarrão está fervendo em uma outra panela, adicione o óleo e a cebola, quando a cebola começar a fritar adicione o alho e deixe fritar mais um pouco, logo verá que o alho vai dourar.",
+      "Neste momento coloque o requeijão e deixe ele derreter bem, quando ele estiver bem derretido coloque a cebolinha, salsinha e o creme de leite e mexa bem, até ficar homogêneo.",
+      "Coloque sal, desligue o fogo e verifique se o macarrão está cozido.",
+      "Quando o macarrão estiver cozido, escorra ele bem e misture com o molho."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão ao molho branco - simples e rápido. Ingredientes: macarrão ninho largo (ou qual você tiver em casa), sopa de óleo, Água para cozinhar, óleo, alho, cebola, requeijão, creme de leite, Cebolinha e salsinha a gosto, Sal a gosto. Preparo: Coloque a água para ferver (quantidade suficiente pra cobrir o macarrão) e coloque o óleo, quando ela começar a ferver coloque o macarrão. Enquanto o macarrão está fervendo em uma outra panela, adicione o óleo e a cebola, quando a cebola começar a fritar adicione o alho e deixe fritar mais um pouco, logo verá que o alho vai dourar. Neste momento coloque o requeijão e deixe ele derreter bem, quando ele estiver bem derretido coloque a cebolinha, salsinha e o creme de leite e mexa bem, até ficar homogêneo."
+}

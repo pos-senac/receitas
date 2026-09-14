@@ -1,0 +1,63 @@
+{
+  "id": "tg-35",
+  "titulo": "Pamonha doce",
+  "url": "https://www.tudogostoso.com.br/receita/35-pamonha-doce.html",
+  "nota": 4.4,
+  "n_avaliacoes": 126,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pamonha doce",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "(doze) espigas de milho verde com a palha",
+      "quantidade": "12",
+      "unidade": null,
+      "texto_original": "12 (doze) espigas de milho verde com a palha"
+    },
+    {
+      "nome": "(um) copo de água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 (um) copo de água"
+    },
+    {
+      "nome": "(duas) xícaras de açúcar",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 (duas) xícaras de açúcar"
+    },
+    {
+      "nome": "(uma) xícara de coco ralado fino",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 (uma) xícara de coco ralado fino"
+    },
+    {
+      "nome": "(uma) pitada de sal",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 (uma) pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Rale as espigas ou corte-as rente ao sabugo e passe no liquidificador, juntamente com a água.",
+      "Acrescente o coco, o açúcar e mexa bem.",
+      "Coloque a massa na palha de milho e amarre bem.",
+      "Em uma panela grande ferva bem a água, e vá colocando as pamonhas uma a uma após a fervura completa da água. Importante: a água deve estar realmente fervendo para receber as pamonhas, caso contrário elas vão se desfazer.",
+      "Cozinhe por mais ou menos 40 minutos, retirando as pamonhas com o auxílio de uma escumadeira.",
+      "Deixe esfriar em local bem fresco.",
+      "Sirva com café e queijo ralado."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Escumadeira",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Pamonha doce. Ingredientes: (doze) espigas de milho verde com a palha, (um) copo de água, (duas) xícaras de açúcar, (uma) xícara de coco ralado fino, (uma) pitada de sal. Preparo: Rale as espigas ou corte-as rente ao sabugo e passe no liquidificador, juntamente com a água. Acrescente o coco, o açúcar e mexa bem. Coloque a massa na palha de milho e amarre bem."
+}

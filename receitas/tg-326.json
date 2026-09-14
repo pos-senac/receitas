@@ -1,0 +1,72 @@
+{
+  "id": "tg-326",
+  "titulo": "Pão sírio",
+  "url": "https://www.tudogostoso.com.br/receita/326-pao-sirio.html",
+  "nota": 4.5,
+  "n_avaliacoes": 151,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão sírio",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "25",
+      "unidade": "g",
+      "texto_original": "25 g de açúcar"
+    },
+    {
+      "nome": "fermento biológico",
+      "quantidade": "15",
+      "unidade": "g",
+      "texto_original": "15 g de fermento biológico"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "15",
+      "unidade": "g",
+      "texto_original": "15 g de sal"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes, faça bolinhas e deixe descansar até dobrar de volume.",
+      "Abra a massa de forma circular enfarinhando bem e leve ao forno quente até dourar.",
+      "Como forma de variação, pode ser enrolado com qualquer recheio.",
+      "Fica muito bom com salsicha."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Forma",
+    "Fouet",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Pão sírio. Ingredientes: farinha de trigo, açúcar, fermento biológico, sal, óleo, ovo, água. Preparo: Misture todos os ingredientes, faça bolinhas e deixe descansar até dobrar de volume. Abra a massa de forma circular enfarinhando bem e leve ao forno quente até dourar. Como forma de variação, pode ser enrolado com qualquer recheio."
+}

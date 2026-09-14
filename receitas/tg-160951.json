@@ -1,0 +1,93 @@
+{
+  "id": "tg-160951",
+  "titulo": "Cueca virada",
+  "url": "https://www.tudogostoso.com.br/receita/160951-cueca-virada.html",
+  "nota": 4.8,
+  "n_avaliacoes": 283,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Cueca virada",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 65,
+  "ingredientes": [
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de leite"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de margarina"
+    },
+    {
+      "nome": "sopa de vinagre ou pinga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de vinagre ou pinga"
+    },
+    {
+      "nome": "sobremesa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de fermento em pó"
+    },
+    {
+      "nome": "açúcar e canela misturados para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar e canela misturados para polvilhar"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misturar os ingredientes até ficar uma massa que não grude nas mãos (se necessário, colocar um pouquinho mais de farinha de trigo).",
+      "Abrir com rolo em superfície enfarinhada.",
+      "Cortar tiras no tamanho desejado.",
+      "Fazer um corte no meio e passar uma ponta por dentro virando.",
+      "Fritar em óleo não muito quente.",
+      "Descansar sobre papel-toalha.",
+      "Polvilhar açúcar e canela."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Faca",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Cueca virada. Ingredientes: chá de farinha de trigo, sopa de açúcar, chá de leite, sal, ovo, sopa de margarina, sopa de vinagre ou pinga, sobremesa de fermento em pó, açúcar e canela misturados para polvilhar, óleo para fritar. Preparo: Misturar os ingredientes até ficar uma massa que não grude nas mãos (se necessário, colocar um pouquinho mais de farinha de trigo). Abrir com rolo em superfície enfarinhada. Cortar tiras no tamanho desejado."
+}

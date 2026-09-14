@@ -1,0 +1,70 @@
+{
+  "id": "tg-165944",
+  "titulo": "Dadinho de tapioca",
+  "url": "https://www.tudogostoso.com.br/receita/165944-dadinho-de-tapioca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 162,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Dadinho de tapioca",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 90,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "farinha de tapioca granulada",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de farinha de tapioca granulada"
+    },
+    {
+      "nome": "litro de leite líquido integral",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite líquido integral"
+    },
+    {
+      "nome": "queijo coalho ralado",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de queijo coalho ralado"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino branca a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino branca a gosto"
+    },
+    {
+      "nome": "pote de geleia agridoce de pimenta para acompanhar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de geleia agridoce de pimenta para acompanhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Aqueça o leite em uma panela.",
+      "Quando o leite estiver bem quente, desligue o fogo, adicione o queijo coalho ralado e continue mexendo.",
+      "Logo em seguida adicione a farinha de tapioca granulada e continue mexendo.",
+      "Adicione o sal e pimenta a gosto.",
+      "Pare de mexer quando todos os ingredientes estiverem bem misturados.",
+      "Despeje em uma forma coberta com papel filme (pvc), cubra em cima também e leve para a geladeira por duas horas.",
+      "Depois retire da geladeira, corte em quadradinhos (dadinhos) e frite aos poucos em óleo quente ou coloque no forno até dourar.",
+      "Sirva em seguida acompanhado da geleia de pimenta agridoce."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Panela",
+    "Colher de silicone",
+    "Faca"
+  ],
+  "texto_para_embedding": "Dadinho de tapioca. Ingredientes: farinha de tapioca granulada, litro de leite líquido integral, queijo coalho ralado, sal a gosto, pimenta-do-reino branca a gosto, pote de geleia agridoce de pimenta para acompanhar. Preparo: Aqueça o leite em uma panela. Quando o leite estiver bem quente, desligue o fogo, adicione o queijo coalho ralado e continue mexendo. Logo em seguida adicione a farinha de tapioca granulada e continue mexendo."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tg-373",
+  "titulo": "Patê de frango",
+  "url": "https://www.tudogostoso.com.br/receita/373-pate-de-frango.html",
+  "nota": 4.5,
+  "n_avaliacoes": 134,
+  "categoria": "Receitas patês",
+  "subcategoria": "Patê de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "cenoura média ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura média ralada"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de maionese"
+    },
+    {
+      "nome": "milho-verde em conserva",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de milho-verde em conserva"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, misture todos os ingredientes e leve à geladeira por 30 minutos.",
+      "Está pronto para servir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Patê de frango. Ingredientes: peito de frango cozido e desfiado, cenoura média ralada, maionese, milho-verde em conserva, sal a gosto. Preparo: Em uma tigela, misture todos os ingredientes e leve à geladeira por 30 minutos. Está pronto para servir."
+}

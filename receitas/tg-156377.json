@@ -1,0 +1,51 @@
+{
+  "id": "tg-156377",
+  "titulo": "Pipoca sem óleo no micro-ondas",
+  "url": "https://www.tudogostoso.com.br/receita/156377-pipoca-sem-oleo-no-micro-ondas.html",
+  "nota": 4.4,
+  "n_avaliacoes": 118,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Pipoca sem óleo no micro-ondas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 4,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "sopa de milho para pipoca",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de milho para pipoca"
+    },
+    {
+      "nome": "sopa de água",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de água"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes em um prato de vidro que possa ir ao micro-ondas.",
+      "Misture bem.",
+      "Cubra com um filme plástico.",
+      "Faça 4 furos com o auxílio de um garfo.",
+      "Coloque por 4 minutos no micro-ondas"
+    ]
+  },
+  "utensilios": [
+    "Plástico-filme",
+    "Prato fundo",
+    "Fogão",
+    "Micro-ondas",
+    "Pipoqueira",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Pipoca sem óleo no micro-ondas. Ingredientes: sopa de milho para pipoca, sopa de água, chá de sal. Preparo: Coloque todos os ingredientes em um prato de vidro que possa ir ao micro-ondas. Misture bem. Cubra com um filme plástico."
+}

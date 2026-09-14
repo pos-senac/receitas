@@ -1,0 +1,98 @@
+{
+  "id": "tg-76053",
+  "titulo": "Yakisoba",
+  "url": "https://www.tudogostoso.com.br/receita/76053-yakisoba.html",
+  "nota": 4.7,
+  "n_avaliacoes": 415,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Yakisoba",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "macarrão para yakisoba",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de macarrão para yakisoba"
+    },
+    {
+      "nome": "cebola grande picada em pedaços médios",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada em pedaços médios"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "maço pequeno de brócolis",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 maço pequeno de brócolis"
+    },
+    {
+      "nome": "maço pequeno de couve-flor",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 maço pequeno de couve-flor"
+    },
+    {
+      "nome": "molho para yakissoba",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de molho para yakissoba"
+    },
+    {
+      "nome": "molho shoyu",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de molho shoyu"
+    },
+    {
+      "nome": "tirinhas de carne (mignon, patinho ou alcatra)",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de tirinhas de carne (mignon, patinho ou alcatra)"
+    },
+    {
+      "nome": "champignon",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de champignon"
+    },
+    {
+      "nome": "cenoura cortada em diagonal",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura cortada em diagonal"
+    },
+    {
+      "nome": "folhas de acelga cortadas em diagonal",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 folhas de acelga cortadas em diagonal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o macarrão em água salgada e reserve.",
+      "Em uma panela grande, coloque o óleo e refogue a cebola.",
+      "Acrescente a carne, o brócolis, a couve-flor, a cenoura, a acelga, o champignon e tempere com shoyu.",
+      "Despeje o molho para yakisoba e deixe cozinhar até os legumes ficarem cozidos em ponto al dente.",
+      "Adicione o macarrão, misture bem e sirva logo a seguir."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Frigideira funda",
+    "Hashi",
+    "Panela de cerâmica",
+    "Pegador de macarrão"
+  ],
+  "texto_para_embedding": "Yakisoba. Ingredientes: macarrão para yakisoba, cebola grande picada em pedaços médios, óleo, maço pequeno de brócolis, maço pequeno de couve-flor, molho para yakissoba, molho shoyu, tirinhas de carne (mignon, patinho ou alcatra), champignon, cenoura cortada em diagonal, folhas de acelga cortadas em diagonal. Preparo: Cozinhe o macarrão em água salgada e reserve. Em uma panela grande, coloque o óleo e refogue a cebola. Acrescente a carne, o brócolis, a couve-flor, a cenoura, a acelga, o champignon e tempere com shoyu."
+}

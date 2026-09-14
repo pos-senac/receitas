@@ -1,0 +1,100 @@
+{
+  "id": "tg-109052",
+  "titulo": "Filé de peixe assado",
+  "url": "https://www.tudogostoso.com.br/receita/109052-file-de-peixe-assado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 794,
+  "categoria": "Receitas peixes e frutos do mar",
+  "subcategoria": "Filé de peixe assado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "filé de peixe (tilápia, saint peter ou outro)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de filé de peixe (tilápia, saint peter ou outro)"
+    },
+    {
+      "nome": "batatas grande descascada em rodelas de 0,5 centímetro de espessura",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 batatas grande descascada em rodelas de 0,5 centímetro de espessura"
+    },
+    {
+      "nome": "tomates picadinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates picadinhos"
+    },
+    {
+      "nome": "pimentão(se ele for grande)",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão(se ele for grande)"
+    },
+    {
+      "nome": "cebola média picada em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada em cubos"
+    },
+    {
+      "nome": "cheia de alcaparras",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) cheia de alcaparras"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    },
+    {
+      "nome": "coentro a gosto (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coentro a gosto (opcional)"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de sal"
+    },
+    {
+      "nome": "alho (pequeno) bem espremido",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho (pequeno) bem espremido"
+    },
+    {
+      "nome": "azeite a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere o filé de peixe com sal e alho e reserve.",
+      "Misture o tomate, cebola, pimentão e alcaparras e tempere com um pouco de sal e junte o cheiro verde e coentro. Reseve.",
+      "Unte um refratário com azeite, e forre com as batatas cruas.",
+      "Cubra as batatas com o peixe e por cima distribua a mistura do tomate. Regue com bastante azeite e leve ao forno por mais ou menos 30 a 40 minutos.",
+      "Quando secar o líquido que acumula no fundo da forma quando está assando e ficar dourado está pronto.",
+      "Sirva com arroz intergal ou branco, é uma delícia!"
+    ]
+  },
+  "utensilios": [
+    "Refratário",
+    "Descascador de legumes",
+    "Expremedor de alho",
+    "Faca",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Filé de peixe assado. Ingredientes: filé de peixe (tilápia, saint peter ou outro), batatas grande descascada em rodelas de 0,5 centímetro de espessura, tomates picadinhos, pimentão(se ele for grande), cebola média picada em cubos, cheia de alcaparras, cheiro-verde a gosto, coentro a gosto (opcional), sal, alho (pequeno) bem espremido, azeite a gosto. Preparo: Tempere o filé de peixe com sal e alho e reserve. Misture o tomate, cebola, pimentão e alcaparras e tempere com um pouco de sal e junte o cheiro verde e coentro. Reseve. Unte um refratário com azeite, e forre com as batatas cruas."
+}

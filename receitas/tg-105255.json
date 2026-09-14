@@ -1,0 +1,97 @@
+{
+  "id": "tg-105255",
+  "titulo": "Batata gratinada fácil",
+  "url": "https://www.tudogostoso.com.br/receita/105255-batata-gratinada-facil.html",
+  "nota": 4.7,
+  "n_avaliacoes": 411,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Batata gratinada fácil",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "batatas descascadas, cortadas em rodelas",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batatas descascadas, cortadas em rodelas"
+    },
+    {
+      "nome": "creme de leite de caixinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 creme de leite de caixinha"
+    },
+    {
+      "nome": "requeijão cremoso",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de requeijão cremoso"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "bacon picado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de bacon picado"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de sal"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de orégano"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "salsinha ou cebolinha picada",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de salsinha ou cebolinha picada"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de mussarela"
+    },
+    {
+      "nome": "queijo ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe as rodelas de batatas apenas para amolecer um pouco.",
+      "Misture todos os ingredientes do creme e leve, por cerca de 40 segundos, no micro-ondas apenas para derreter a margarina.",
+      "Em um refratário fundo, untado com margarina ou azeite, monte camadas de rodelas de batata intercaladas com o creme.",
+      "Por último, cubra com a mussarela e polvilhe com queijo parmesão ralado.",
+      "Leve ao forno por, aproximadamente, 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Panela",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Batata gratinada fácil. Ingredientes: batatas descascadas, cortadas em rodelas, creme de leite de caixinha, requeijão cremoso, leite, bacon picado, sal, orégano, margarina, salsinha ou cebolinha picada, mussarela, queijo ralado para polvilhar. Preparo: Cozinhe as rodelas de batatas apenas para amolecer um pouco. Misture todos os ingredientes do creme e leve, por cerca de 40 segundos, no micro-ondas apenas para derreter a margarina. Em um refratário fundo, untado com margarina ou azeite, monte camadas de rodelas de batata intercaladas com o creme."
+}

@@ -1,0 +1,85 @@
+{
+  "id": "tg-52845",
+  "titulo": "Sanduíche natural de frango bem temperado",
+  "url": "https://www.tudogostoso.com.br/receita/52845-sanduiche-natural-de-frango-bem-temperado.html",
+  "nota": 4.8,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Sanduíche natural de frango bem temperado",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "frango desfiado pré-cozido",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de frango desfiado pré-cozido"
+    },
+    {
+      "nome": "cebola pequena picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola pequena picada"
+    },
+    {
+      "nome": "tomate picado",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 tomate picado"
+    },
+    {
+      "nome": "cenoura pequena ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura pequena ralada"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de milho verde"
+    },
+    {
+      "nome": "salsinha e cebolinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha e cebolinha a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "maionese light a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "maionese light a gosto"
+    },
+    {
+      "nome": "pão de forma",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pão de forma"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue o frango desfiado com azeite, alho e cebola em uma panela.",
+      "Misture a cebola e o tomate picados, a cenoura ralada, o milho, a salsa, a cebolinha e o sal.",
+      "Adicione maionese até a obter a consistência desejada do recheio.",
+      "Cremosa ou mais consistente, como você preferir.",
+      "Coloque o recheio entre 2 fatias de pão de forma."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espátula de silicone",
+    "Faca"
+  ],
+  "texto_para_embedding": "Sanduíche natural de frango bem temperado. Ingredientes: frango desfiado pré-cozido, cebola pequena picada, tomate picado, cenoura pequena ralada, milho verde, salsinha e cebolinha a gosto, sal a gosto, maionese light a gosto, pão de forma. Preparo: Refogue o frango desfiado com azeite, alho e cebola em uma panela. Misture a cebola e o tomate picados, a cenoura ralada, o milho, a salsa, a cebolinha e o sal. Adicione maionese até a obter a consistência desejada do recheio."
+}

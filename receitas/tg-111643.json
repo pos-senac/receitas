@@ -1,0 +1,87 @@
+{
+  "id": "tg-111643",
+  "titulo": "Frango à passarinho super crocante",
+  "url": "https://www.tudogostoso.com.br/receita/111643-frango-a-passarinho-super-crocante.html",
+  "nota": 4.8,
+  "n_avaliacoes": 252,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango à passarinho super crocante",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "pedaços de frango cortados na junta (passarinho)",
+      "quantidade": "12",
+      "unidade": null,
+      "texto_original": "12 pedaços de frango cortados na junta (passarinho)"
+    },
+    {
+      "nome": "alho amassados com sal a gosto",
+      "quantidade": "5",
+      "unidade": "dentes",
+      "texto_original": "5 dentes de alho amassados com sal a gosto"
+    },
+    {
+      "nome": "cebola bem picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola bem picada"
+    },
+    {
+      "nome": "cheiro-verde bem picado",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de cheiro-verde bem picado"
+    },
+    {
+      "nome": "suco de limão",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de suco de limão"
+    },
+    {
+      "nome": "tempero baiano",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de tempero baiano"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de orégano"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture em tigela, com os pedaços de frango, o alho amassado, a cebola, o cheiro verde, o limão e tempero baiano.",
+      "Deixe descansar por 10 minutos.",
+      "Em uma tigela à parte, misture a farinha de trigo, o orégano e o fermento.",
+      "Coloque a segunda mistura em cima da primeira e tape, agitando bem, para que a farinha e os ingredientes se misturem bem aos pedaços de frango.",
+      "Frite em panela alta, com óleo bem quente, deixando dourar (aproximadamente 15 minutos).",
+      "Retire, coloque em papel toalha para escorrer e disponha numa travessa, enfeitando com salsa picada.",
+      "Ficam bem crocantes, tais os que são feitos em lanchonetes especializadas, a grande diferença é o sabor bem mais agradável e caseiro."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Escumadeira",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Frango à passarinho super crocante. Ingredientes: pedaços de frango cortados na junta (passarinho), alho amassados com sal a gosto, cebola bem picada, cheiro-verde bem picado, suco de limão, tempero baiano, farinha de trigo, orégano, fermento em pó. Preparo: Misture em tigela, com os pedaços de frango, o alho amassado, a cebola, o cheiro verde, o limão e tempero baiano. Deixe descansar por 10 minutos. Em uma tigela à parte, misture a farinha de trigo, o orégano e o fermento."
+}

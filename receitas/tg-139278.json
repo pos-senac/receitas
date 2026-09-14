@@ -1,0 +1,60 @@
+{
+  "id": "tg-139278",
+  "titulo": "Pudim que não vai ao fogo e sem ovos",
+  "url": "https://www.tudogostoso.com.br/receita/139278-pudim-que-nao-vai-ao-fogo-e-sem-ovos.html",
+  "nota": 4.6,
+  "n_avaliacoes": 301,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim que não vai ao fogo e sem ovos",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme leite",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de creme leite"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara leite morno"
+    },
+    {
+      "nome": "sachê de gelatina sem sabor",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 sachê de gelatina sem sabor"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Faça uma calda caramelizada com as 10 colheres açúcar e coloque na forma para pudim",
+      "No liquidificador bata  o leite condensado o creme leite, dissolva a gelatina no leite e coloque no liquidificador e bata por 5 minutos e coloque na forma por cima da calda caramelizada e leve para gelar. Depois de 2 horas desenforme e sirva."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Jarra medidora",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Pudim que não vai ao fogo e sem ovos. Ingredientes: leite condensado, creme leite, leite morno, sachê de gelatina sem sabor, açúcar. Preparo: Faça uma calda caramelizada com as 10 colheres açúcar e coloque na forma para pudim No liquidificador bata  o leite condensado o creme leite, dissolva a gelatina no leite e coloque no liquidificador e bata por 5 minutos e coloque na forma por cima da calda caramelizada e leve para gelar. Depois de 2 horas desenforme e sirva."
+}

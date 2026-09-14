@@ -1,0 +1,74 @@
+{
+  "id": "tg-17094",
+  "titulo": "Filé ao molho madeira rápido e prático",
+  "url": "https://www.tudogostoso.com.br/receita/17094-file-ao-molho-madeira-rapido-e-pratico.html",
+  "nota": 4.5,
+  "n_avaliacoes": 145,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Filé ao molho madeira rápido e prático",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "bifes de filé mignon",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 bifes de filé mignon"
+    },
+    {
+      "nome": "vidro pequeno de champignon fatiado em lâminas finas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de champignon fatiado em lâminas finas"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "cebola média picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picadinha"
+    },
+    {
+      "nome": "tabletes de caldo de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de carne"
+    },
+    {
+      "nome": "vinho tinto seco",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de vinho tinto seco"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de amido de milho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Frite os bifes em 2 colheres de manteiga e reserve.",
+      "Em seguida refogue na manteiga a cebola, o champignon e os tabletes de carne.",
+      "Acrescente o vinho e deixe ferver por uns 10 minutos.",
+      "Em seguida dilua o amido de milho em 1/4 xícara de água e acrescente ao molho para engrossar.",
+      "Junte os bifes, deixe por 5 minutos e apague o fogo.",
+      "Sirva em seguida."
+    ]
+  },
+  "utensilios": [
+    "Concha",
+    "Espátula de silicone",
+    "Frigideira funda",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Filé ao molho madeira rápido e prático. Ingredientes: bifes de filé mignon, vidro pequeno de champignon fatiado em lâminas finas, manteiga, cebola média picadinha, tabletes de caldo de carne, vinho tinto seco, amido de milho. Preparo: Frite os bifes em 2 colheres de manteiga e reserve. Em seguida refogue na manteiga a cebola, o champignon e os tabletes de carne. Acrescente o vinho e deixe ferver por uns 10 minutos."
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tg-49612",
+  "titulo": "Bolinho de arroz simples da Valéria",
+  "url": "https://www.tudogostoso.com.br/receita/49612-bolinho-de-arroz-simples-da-valeria.html",
+  "nota": 4.4,
+  "n_avaliacoes": 357,
+  "categoria": "Receitas petiscos",
+  "subcategoria": "Bolinho de arroz simples da Valéria",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 25,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "arroz cozido",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de arroz cozido"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "Cheiro-verde bem picadinho (a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro-verde bem picadinho (a gosto)"
+    },
+    {
+      "nome": "Farinha branca passada na peneira",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha branca passada na peneira"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha grande, coloque o arroz cozido, os ovos, o cheiro-verde e o sal.",
+      "Misture tudo muito bem com uma colher.",
+      "Adicione aos poucos a farinha e amasse com as mãos, até dar o ponto de fazer bolinhos (o ponto é no momento que você amassa um pouco da mistura na mão, e o bolinho não se quebra).",
+      "Faça bolinhas com a mistura, tomando como medida uma colher de sopa.",
+      "Coloque óleo em uma frigideira funda e aqueça-a em fogo médio.",
+      "Frite os bolinhos até dourarem em toda a superfície.",
+      "Tire-os da frigideira, escorrendo o óleo com um garfo e coloque em cima de papel absorvente para tirar o excesso do óleo.",
+      "Então, é só servir!"
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Espátula de silicone",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolinho de arroz simples da Valéria. Ingredientes: arroz cozido, ovos, Cheiro-verde bem picadinho (a gosto), Farinha branca passada na peneira, Sal a gosto. Preparo: Em uma vasilha grande, coloque o arroz cozido, os ovos, o cheiro-verde e o sal. Misture tudo muito bem com uma colher. Adicione aos poucos a farinha e amasse com as mãos, até dar o ponto de fazer bolinhos (o ponto é no momento que você amassa um pouco da mistura na mão, e o bolinho não se quebra)."
+}

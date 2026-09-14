@@ -1,0 +1,96 @@
+{
+  "id": "tg-1755",
+  "titulo": "Bolo gelado de coco",
+  "url": "https://www.tudogostoso.com.br/receita/1755-bolo-gelado-de-coco.html",
+  "nota": 4.6,
+  "n_avaliacoes": 224,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo gelado de coco",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos (claras e gemas separadas)",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos (claras e gemas separadas)"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "leite fervendo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite fervendo"
+    },
+    {
+      "nome": "½ colher (sopa) de fermento em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "200ml de leite de coco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200ml de leite de coco"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "coco ralado fresco ou desidratado",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de coco ralado fresco ou desidratado"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Bata as claras em neve até o ponto de picos firmes (velocidade média da batedeira).",
+      "Acrescente as gemas e continue batendo.",
+      "Junte o açúcar, diminua a velocidade e cubra a batedeira com um pano para não se sujar.",
+      "Misture a farinha, o leite e, por último, coloque o fermento.",
+      "Despeje a massa numa assadeira retangular (15 cm x 30 cm) untada e enfarinhada.",
+      "Leve ao forno médio por 40 min ou até dourar.",
+      "Retire do forno, deixe esfriar e corte em quadrados de 5 cm x 5 cm.",
+      "Reserve."
+    ],
+    "Para a calda": [
+      "Numa vasilha, misture o leite de coco, o leite, o açúcar e o coco ralado.",
+      "Molhe cada pedaço do bolo com 3 colheres de sopa da mistura do coco."
+    ],
+    "Para a montagem": [
+      "Embrulhe os pedaços um a um em papel-alumínio.",
+      "Leve à geladeira por 2 horas ou deixe de um dia para o outro."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Papel-alumínio",
+    "Bowl",
+    "Forma"
+  ],
+  "texto_para_embedding": "Bolo gelado de coco. Ingredientes: ovos (claras e gemas separadas), farinha de trigo, açúcar, leite fervendo, ½ colher (sopa) de fermento em pó, leite, 200ml de leite de coco, açúcar, coco ralado fresco ou desidratado. Preparo: Bata as claras em neve até o ponto de picos firmes (velocidade média da batedeira). Acrescente as gemas e continue batendo. Junte o açúcar, diminua a velocidade e cubra a batedeira com um pano para não se sujar."
+}

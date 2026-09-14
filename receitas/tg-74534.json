@@ -1,0 +1,66 @@
+{
+  "id": "tg-74534",
+  "titulo": "Bolinho de carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/74534-bolinho-de-carne-moida.html",
+  "nota": 4.6,
+  "n_avaliacoes": 172,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Bolinho de carne moída",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 10,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "carne moída",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne moída"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebola"
+    },
+    {
+      "nome": "alho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alho"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "temperos a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "temperos a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere a carne moída com alho, cebola e temperos a gosto.",
+      "Adicione o ovo e a farinha de trigo.",
+      "Amasse bem até que toda farinha não apareça mais.",
+      "Faça bolinhas e deixe fritar bem, para que não fique cru por dentro."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Espátula de silicone",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolinho de carne moída. Ingredientes: carne moída, farinha de trigo, cebola, alho, ovo, temperos a gosto. Preparo: Tempere a carne moída com alho, cebola e temperos a gosto. Adicione o ovo e a farinha de trigo. Amasse bem até que toda farinha não apareça mais."
+}

@@ -1,0 +1,86 @@
+{
+  "id": "tg-320681",
+  "titulo": "Hotteok: panqueca doce coreana que conquista pelo recheio caramelizado de nozes com canela",
+  "url": "https://www.tudogostoso.com.br/receita/320681-hotteok-panqueca-doce-coreana-que-conquista-pelo-recheio-caramelizado-de-nozes-com-canela.html",
+  "nota": 5.0,
+  "n_avaliacoes": 6,
+  "categoria": "Receitas panqueca",
+  "subcategoria": "Hotteok: panqueca doce coreana que conquista pelo recheio caramelizado de nozes com canela",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "água morna",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de água morna"
+    },
+    {
+      "nome": "fermento biológico seco",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento biológico seco"
+    },
+    {
+      "nome": "óleo ou azeite",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo ou azeite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar mascavo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de açúcar mascavo"
+    },
+    {
+      "nome": "nozes picadas",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de nozes picadas"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a água, o fermento, o óleo, o açúcar e o sal em uma tigela e mexa bem.",
+      "Adicione a farinha e misture tudo até ficar uma massa pegajosa e homogênea.",
+      "Cubra a tigela com um pano limpo ou filme plástico e deixe descansar por 1 hora dentro do forno desligado até a massa dobrar de tamanho.",
+      "Após esse tempo, tire o pano ou plástico e aperte a massa para remover as bolhas de ar que se formaram. Cubra de novo e deixe descansar por mais uns 20 minutos.",
+      "Enquanto isso, prepare o recheio misturando o açúcar, as nozes bem picadas e a canela em uma tigela.",
+      "Depois, unte as mãos com óleo para evitar que a massa grude, separe a massa em bolinhas pequenas e abra uma delas na palma da mão.",
+      "Coloque uma colher do recheio no meio e feche a massa para dentro em forma de uma bolinha.",
+      "Aqueça uma frigideira em fogo médio untada com um pouco de óleo.",
+      "Quando a panela estiver quente, coloque o hotteok com a emenda para baixo e frite o hotteok por cerca de 2 minutos. Dê uma apertada com uma espátula para ficar em forma de disco.",
+      "Vire e faça o mesmo com o outro lado até os dois lados estarem dourados. Nesse processo, o recheio também vai aquecer e o açúcar vai derreter em uma calda cremosa deliciosa.",
+      "Faça esse processo com todas as bolinhas e sirva ainda quente acompanhado de um café ou chá, fica uma delícia!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Hotteok: panqueca doce coreana que conquista pelo recheio caramelizado de nozes com canela. Ingredientes: água morna, fermento biológico seco, óleo ou azeite, açúcar, sal, farinha de trigo, açúcar mascavo, nozes picadas, canela em pó. Preparo: Coloque a água, o fermento, o óleo, o açúcar e o sal em uma tigela e mexa bem. Adicione a farinha e misture tudo até ficar uma massa pegajosa e homogênea. Cubra a tigela com um pano limpo ou filme plástico e deixe descansar por 1 hora dentro do forno desligado até a massa dobrar de tamanho."
+}

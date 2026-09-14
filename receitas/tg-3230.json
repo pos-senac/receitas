@@ -1,0 +1,91 @@
+{
+  "id": "tg-3230",
+  "titulo": "Bolo de cenoura",
+  "url": "https://www.tudogostoso.com.br/receita/3230-bolo-de-cenoura.html",
+  "nota": 4.6,
+  "n_avaliacoes": 114,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 70,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "cenoura grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura grande"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de óleo"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de açúcar"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "sopa de achocolatado em pó",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de achocolatado em pó"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de margarina"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos com a cenoura e o óleo no liquidificador por mais ou menos 10 minutos.",
+      "Em uma bacia coloque a farinha, o açúcar e o fermento e misture, despeje o líquido a seguir e depois misture com uma colher de pau.",
+      "Deixe assar de 30 a 40 minutos em forno pré-aquecido por 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula de silicone",
+    "Faca",
+    "Formo de bolo",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de cenoura. Ingredientes: ovos, cenoura grande, chá de óleo, chá de açúcar, chá de farinha de trigo, sopa de fermento em pó, sopa de achocolatado em pó, sopa de margarina, leite condensado, creme de leite. Preparo: Bata os ovos com a cenoura e o óleo no liquidificador por mais ou menos 10 minutos. Em uma bacia coloque a farinha, o açúcar e o fermento e misture, despeje o líquido a seguir e depois misture com uma colher de pau. Deixe assar de 30 a 40 minutos em forno pré-aquecido por 30 minutos."
+}

@@ -1,0 +1,105 @@
+{
+  "id": "tg-320686",
+  "titulo": "Tonkatsu de porco empanado e frito crocante com molho para acompanhar",
+  "url": "https://www.tudogostoso.com.br/receita/320686-tonkatsu-de-porco-empanado-e-frito-crocante-com-molho-para-acompanhar.html",
+  "nota": 5.0,
+  "n_avaliacoes": 6,
+  "categoria": "Receitas lombo",
+  "subcategoria": "Tonkatsu de porco empanado e frito crocante com molho para acompanhar",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 15,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "filés de lombo de porco ou copa-lombo com espessura de 1 dedo e meio",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 filés de lombo de porco ou copa-lombo com espessura de 1 dedo e meio"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovo grande batido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo grande batido"
+    },
+    {
+      "nome": "farinha panko",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de farinha panko"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    },
+    {
+      "nome": "ketchup",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de ketchup"
+    },
+    {
+      "nome": "molho inglês",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de molho inglês"
+    },
+    {
+      "nome": "molho shoyu",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de molho shoyu"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de açúcar"
+    },
+    {
+      "nome": "gengibre ralado",
+      "quantidade": "1/2",
+      "unidade": "colher (chá)",
+      "texto_original": "1/2 colher (chá) de gengibre ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dê leve batidinhas nos filés com a ajuda de um garfo ou uma faca. Isso faz com que eles fiquem mais macios.",
+      "Em seguida, faça pequenos cortes verticais nas linhas de gordura dos filés para que eles não entortem ao fritar.",
+      "Tempere os filés com sal e pimenta-do-reino e deixe descansar por 30 minutos.",
+      "Separe três recipientes para colocar a farinha de trigo, o ovo batido e a farinha panko em cada um deles.",
+      "Passe os filés temperados pela farinha de trigo, pelo ovo batido e pela farinha panko. Dica: quando passar pela farinha panko, pressione bem para que ela grude na carne.",
+      "Aqueça uma panela com óleo em fogo médio até chegar na temperatura de 180°C. Se você não tiver um termômetro para medir a temperatura, jogue um pouco de farinha panko. Se ela afundar e subir rapidamente, começando a borbulhar, quer dizer que o óleo está na temperatura certa.",
+      "Frite os filés de lombo até dourar dos dois lados e reserve em um recipiente com papel toalha para absorver o excesso de óleo.",
+      "Deixe o tonkatsu de porco descansar por 5 minutos para que os sucos da carne se distribuam e fatie em tiras."
+    ],
+    "Molho": [
+      "Em um recipiente, adicione o ketchup, o molho inglês, o molho shoyu, o açúcar e o gengibre ralado e misture bem.",
+      "Sirva o molho junto com o tonkatsu de porco empanado e frito."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Tonkatsu de porco empanado e frito crocante com molho para acompanhar. Ingredientes: filés de lombo de porco ou copa-lombo com espessura de 1 dedo e meio, sal a gosto, pimenta-do-reino a gosto, farinha de trigo, ovo grande batido, farinha panko, óleo para fritar, ketchup, molho inglês, molho shoyu, açúcar, gengibre ralado. Preparo: Dê leve batidinhas nos filés com a ajuda de um garfo ou uma faca. Isso faz com que eles fiquem mais macios. Em seguida, faça pequenos cortes verticais nas linhas de gordura dos filés para que eles não entortem ao fritar. Tempere os filés com sal e pimenta-do-reino e deixe descansar por 30 minutos."
+}

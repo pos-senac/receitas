@@ -1,0 +1,56 @@
+{
+  "id": "tg-104807",
+  "titulo": "Cobertura de chocolate cremosa",
+  "url": "https://www.tudogostoso.com.br/receita/104807-cobertura-de-chocolate-cremosa.html",
+  "nota": 4.6,
+  "n_avaliacoes": 164,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Cobertura de chocolate cremosa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de achocolatado em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes e leve ao fogo alto, mexendo sempre.",
+      "Quando ferver, abaixe o fogo e continue mexendo de vez em quando até atingir o ponto de cobertura.",
+      "Pode-se despejar sobre o bolo enquanto a cobertura ainda estiver quente, ou pode esperar esfriar também. Quando a cobertura esfria, ela fica ainda mais cremosa.",
+      "Ideal para nega maluca."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Copo medidor",
+    "Fogão",
+    "Fouet",
+    "Manteigueira"
+  ],
+  "texto_para_embedding": "Cobertura de chocolate cremosa. Ingredientes: leite, achocolatado em pó, margarina, açúcar. Preparo: Misture todos os ingredientes e leve ao fogo alto, mexendo sempre. Quando ferver, abaixe o fogo e continue mexendo de vez em quando até atingir o ponto de cobertura. Pode-se despejar sobre o bolo enquanto a cobertura ainda estiver quente, ou pode esperar esfriar também. Quando a cobertura esfria, ela fica ainda mais cremosa."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "tg-101894",
+  "titulo": "Tempero fácil para todos os tipos de comidas do Marcelo",
+  "url": "https://www.tudogostoso.com.br/receita/101894-tempero-facil-para-todos-os-tipos-de-comidas-do-marcelo.html",
+  "nota": 4.6,
+  "n_avaliacoes": 454,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Tempero fácil para todos os tipos de comidas do Marcelo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "cebola",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de cebola"
+    },
+    {
+      "nome": "cabeça de alho",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 cabeça de alho"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sal"
+    },
+    {
+      "nome": "maço de salsinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 maço de salsinha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque tudo e bata no liquidificador.",
+      "Coloque em vidros e leve à geladeira.",
+      "A duração é longa e não estraga."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher de silicone",
+    "Faca",
+    "Processador de alimentos",
+    "Tábua de corte",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Tempero fácil para todos os tipos de comidas do Marcelo. Ingredientes: cebola, cabeça de alho, óleo, sal, maço de salsinha. Preparo: Descasque tudo e bata no liquidificador. Coloque em vidros e leve à geladeira. A duração é longa e não estraga."
+}

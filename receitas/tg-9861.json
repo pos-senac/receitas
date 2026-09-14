@@ -1,0 +1,49 @@
+{
+  "id": "tg-9861",
+  "titulo": "Pé de moleque de leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/9861-pe-de-moleque-de-leite-condensado.html",
+  "nota": 4.7,
+  "n_avaliacoes": 227,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pé de moleque de leite condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "amendoim",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de amendoim"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Torre o amendoim retire a casca.",
+      "Coloque em uma panela, acrescente o açúcar e o leite condensado.",
+      "Leve ao fogo e mexa até começar desgrudar do fundo da panela.",
+      "Em seguida despeje em uma forma untada com óleo.",
+      "Deixe esfriar um pouco e corte em quadradinhos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Pincel de silicone",
+    "Colher de pau",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Pé de moleque de leite condensado. Ingredientes: amendoim, açúcar, leite condensado. Preparo: Torre o amendoim retire a casca. Coloque em uma panela, acrescente o açúcar e o leite condensado. Leve ao fogo e mexa até começar desgrudar do fundo da panela."
+}

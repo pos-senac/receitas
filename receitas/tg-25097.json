@@ -1,0 +1,54 @@
+{
+  "id": "tg-25097",
+  "titulo": "Berinjela a milanesa",
+  "url": "https://www.tudogostoso.com.br/receita/25097-berinjela-a-milanesa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 126,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Berinjela a milanesa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "berinjela média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 berinjela média"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "farinha de pão",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de pão"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave a berinjela e corte em pedaços finos, depois passe na farinha.",
+      "Bata os ovos com sal, passe a berinjela e depois passe novamente na farinha.",
+      "Em uma panela, adicione o óleo e espere esquentar, depois adicione as berinjelas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Berinjela a milanesa. Ingredientes: berinjela média, ovo, sal a gosto, farinha de pão, óleo para fritar. Preparo: Lave a berinjela e corte em pedaços finos, depois passe na farinha. Bata os ovos com sal, passe a berinjela e depois passe novamente na farinha. Em uma panela, adicione o óleo e espere esquentar, depois adicione as berinjelas."
+}

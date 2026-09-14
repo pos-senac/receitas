@@ -1,0 +1,62 @@
+{
+  "id": "tg-135541",
+  "titulo": "Frango com maionese",
+  "url": "https://www.tudogostoso.com.br/receita/135541-frango-com-maionese.html",
+  "nota": 4.5,
+  "n_avaliacoes": 130,
+  "categoria": "Receitas aves",
+  "subcategoria": "Frango com maionese",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "filé de frango ou sobrecoxa sem osso",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de frango ou sobrecoxa sem osso"
+    },
+    {
+      "nome": "suco de limão",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de suco de limão"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "sopa ou creme de cebola",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de sopa ou creme de cebola"
+    },
+    {
+      "nome": "vidro pequeno de maionese",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de maionese"
+    },
+    {
+      "nome": "queijo parmesão ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo parmesão ralado a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Temperar os filés de frango ou sobrecoxa com o suco de limão e o alho.",
+      "Passar cada pedaço na sopa ou creme de cebola.",
+      "Colocar em um refratário untado com óleo.",
+      "Espalhar a maionese e polvilhar o queijo parmesão ralado.",
+      "Levar ao forno por 30 minutos ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango com maionese. Ingredientes: filé de frango ou sobrecoxa sem osso, suco de limão, alho amassados, sopa ou creme de cebola, vidro pequeno de maionese, queijo parmesão ralado a gosto. Preparo: Temperar os filés de frango ou sobrecoxa com o suco de limão e o alho. Passar cada pedaço na sopa ou creme de cebola. Colocar em um refratário untado com óleo."
+}

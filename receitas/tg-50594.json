@@ -1,0 +1,64 @@
+{
+  "id": "tg-50594",
+  "titulo": "Doce de mamão verde em cubinhos",
+  "url": "https://www.tudogostoso.com.br/receita/50594-doce-de-mamao-verde-em-cubinhos.html",
+  "nota": 4.6,
+  "n_avaliacoes": 125,
+  "categoria": "Receitas frutas",
+  "subcategoria": "Doce de mamão verde em cubinhos",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 90,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "mamão verde médio",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 mamão verde médio"
+    },
+    {
+      "nome": "fermento em pó (ou bicarbonato)",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó (ou bicarbonato)"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de açúcar"
+    },
+    {
+      "nome": "pedacinhos de canela em pau (a gosto)",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 pedacinhos de canela em pau (a gosto)"
+    },
+    {
+      "nome": "cravinhos (a gosto)",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 cravinhos (a gosto)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descascar o mamão e cortá-lo em cubinhos médios. Lavá-los bem.",
+      "Colocar o mamão em uma vasilha e cobri-lo com água.",
+      "Misture o bicarbonato e deixe descansar por 3 horas.",
+      "Escorra e lave bem.",
+      "Em uma panela grossa (eu uso uma panela de pressão) coloque o mamão, o açúcar, os cravos, a canela e cubra com água.",
+      "Deixe ferver até o mamão estar cozidinho, mais ou menos 1 hora e 30 minutos (ele fica durinho por fora e molinho por dentro). Não precisa ficar mexendo.",
+      "Se precisar, coloque mais água (eu gosto de ferver a água para acrescentar no doce). Deixe uma boa quantidade de calda.",
+      "Depois de pronto coloque em um vidro e conserve na geladeira."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Descascador de legumes",
+    "Faca"
+  ],
+  "texto_para_embedding": "Doce de mamão verde em cubinhos. Ingredientes: mamão verde médio, fermento em pó (ou bicarbonato), açúcar, pedacinhos de canela em pau (a gosto), cravinhos (a gosto). Preparo: Descascar o mamão e cortá-lo em cubinhos médios. Lavá-los bem. Colocar o mamão em uma vasilha e cobri-lo com água. Misture o bicarbonato e deixe descansar por 3 horas."
+}

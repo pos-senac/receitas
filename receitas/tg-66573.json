@@ -1,0 +1,95 @@
+{
+  "id": "tg-66573",
+  "titulo": "Carne assada na panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/66573-carne-assada-na-panela-de-pressao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 399,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Carne assada na panela de pressão",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 90,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "miolo de acém",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de miolo de acém"
+    },
+    {
+      "nome": "folhas de louro",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 folhas de louro"
+    },
+    {
+      "nome": "vinagre",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de vinagre"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "shoyu",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de shoyu"
+    },
+    {
+      "nome": "cominho a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cominho a gosto"
+    },
+    {
+      "nome": "pimenta branca a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta branca a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "noz-moscada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "noz-moscada a gosto"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, misture todos os temperos, acrescente a carne e deixe marinar por 30 minutos.",
+      "Aqueça a panela de pressão, acrescente o óleo, a carne com o molho do tempero e tampe a panela.",
+      "Quando a panela atingir a pressão, abaixe o fogo e deixe cozinhar por 1 hora.",
+      "Está pronto para servir!"
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Faca"
+  ],
+  "texto_para_embedding": "Carne assada na panela de pressão. Ingredientes: miolo de acém, folhas de louro, vinagre, cebola picadinha, alho, shoyu, cominho a gosto, pimenta branca a gosto, sal a gosto, noz-moscada a gosto, óleo. Preparo: Em um recipiente, misture todos os temperos, acrescente a carne e deixe marinar por 30 minutos. Aqueça a panela de pressão, acrescente o óleo, a carne com o molho do tempero e tampe a panela. Quando a panela atingir a pressão, abaixe o fogo e deixe cozinhar por 1 hora."
+}

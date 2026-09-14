@@ -1,0 +1,89 @@
+{
+  "id": "tg-23026",
+  "titulo": "Pavê de bolacha de maizena",
+  "url": "https://www.tudogostoso.com.br/receita/23026-pave-de-bolacha-de-maizena.html",
+  "nota": 4.5,
+  "n_avaliacoes": 616,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pavê de bolacha de maizena",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "bolacha maizena",
+      "quantidade": "3",
+      "unidade": "pacotes",
+      "texto_original": "3 pacotes de bolacha maizena"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite (medida da lata de leite condensado)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (medida da lata de leite condensado)"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de amido de milho"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de coco ralado"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 claras"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o leite condensado, o leite, as gemas e o amido já dissolvido (pode ser em um pouquinho de água).",
+      "Mexa até engrossar, o segredo é não deixar ficar muito grosso, pois as bolachas não precisarão ser molhadas.",
+      "Quando estiver meio grosso, coloque o coco ralado e deixe mais 5 minutos, desligue."
+    ],
+    "Cobertura": [
+      "Bata as claras, junte o creme de leite, o açúcar e mexa, reserve.",
+      "Em um refratário, coloque uma camada de recheio, outra de biscoito e quando as camadas completarem o refratário, adicione a cobertura.",
+      "Leve à geladeira até ficar gelado."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Bowl",
+    "Colher de pau",
+    "Panela com cabo",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Pavê de bolacha de maizena. Ingredientes: bolacha maizena, leite condensado, leite (medida da lata de leite condensado), amido de milho, coco ralado, gemas, creme de leite, claras, açúcar. Preparo: Leve ao fogo o leite condensado, o leite, as gemas e o amido já dissolvido (pode ser em um pouquinho de água). Mexa até engrossar, o segredo é não deixar ficar muito grosso, pois as bolachas não precisarão ser molhadas. Quando estiver meio grosso, coloque o coco ralado e deixe mais 5 minutos, desligue."
+}

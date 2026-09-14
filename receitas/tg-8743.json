@@ -1,0 +1,85 @@
+{
+  "id": "tg-8743",
+  "titulo": "Chester assado",
+  "url": "https://www.tudogostoso.com.br/receita/8743-chester-assado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 150,
+  "categoria": "Receitas aves",
+  "subcategoria": "Chester assado",
+  "nivel": "medio",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "chester",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 chester"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de alho"
+    },
+    {
+      "nome": "molho inglês",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de molho inglês"
+    },
+    {
+      "nome": "calda de laranja",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de calda de laranja"
+    },
+    {
+      "nome": "cebolas inteiras",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas inteiras"
+    },
+    {
+      "nome": "alho picados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picados"
+    },
+    {
+      "nome": "manteiga a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manteiga a gosto"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere o chester com todos os temperos.",
+      "Coloque as cebolas inteiras na cavidade do frango e deixe tomar gosto por 6 horas.",
+      "Leve o chester ao forno em uma assadeira, colocando pedacinhos de manteiga.",
+      "Cubra com papel-alumínio e deixe assar por 40 minutos cobertos.",
+      "Retire-os e deixe dourá-los.",
+      "Bom apetite."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Chester assado. Ingredientes: chester, alho, molho inglês, calda de laranja, cebolas inteiras, alho picados, manteiga a gosto, sal, pimenta-do-reino a gosto. Preparo: Tempere o chester com todos os temperos. Coloque as cebolas inteiras na cavidade do frango e deixe tomar gosto por 6 horas. Leve o chester ao forno em uma assadeira, colocando pedacinhos de manteiga."
+}

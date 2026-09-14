@@ -1,0 +1,80 @@
+{
+  "id": "tg-25518",
+  "titulo": "Bolo de fubá de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/25518-bolo-de-fuba-de-liquidificador.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1366,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá de liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 50,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "copo",
+      "texto_original": "1 e 1/2 copo de açúcar"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de fubá"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater tudo no liquidificador.",
+      "Colocar em uma forma untada com margarina e polvilhada com trigo ou fubá.",
+      "Assar em forno preaquecido a 180ºC por 45 minutos.",
+      "Quando sair do forno polvilhar com açúcar e canela."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Copo medidor",
+    "Forno elétrico",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de fubá de liquidificador. Ingredientes: óleo, ovos, açúcar, fubá, trigo, leite, sopa de fermento em pó, sal. Preparo: Bater tudo no liquidificador. Colocar em uma forma untada com margarina e polvilhada com trigo ou fubá. Assar em forno preaquecido a 180ºC por 45 minutos."
+}

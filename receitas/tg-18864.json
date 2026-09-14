@@ -1,0 +1,62 @@
+{
+  "id": "tg-18864",
+  "titulo": "Filé de peito de frango à milanesa",
+  "url": "https://www.tudogostoso.com.br/receita/18864-file-de-peito-de-frango-a-milanesa.html",
+  "nota": 4.8,
+  "n_avaliacoes": 108,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Filé de peito de frango à milanesa",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "filés de peito de frango",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filés de peito de frango"
+    },
+    {
+      "nome": "Tempero a gosto (sal, pimenta, limão, etc)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tempero a gosto (sal, pimenta, limão, etc)"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos batidos"
+    },
+    {
+      "nome": "Farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de rosca"
+    },
+    {
+      "nome": "Farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os filés de frango.",
+      "Em outro recipiente (prato) bata os ovos.",
+      "Em outro prato coloque a farinha de rosca.",
+      "E em um terceiro prato, o trigo.",
+      "Em seguida, pegue os filés já temperados e passe-os na farinha de trigo, nos ovos batidos e, por último, passe na farinha de rosca.",
+      "Frite os filés mergulhando em óleo, em fogo médio até que fiquem dourados.",
+      "Depois de fritos, coloque-os em papel absorvente para absorver a gordura em excesso."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Bowl",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Filé de peito de frango à milanesa. Ingredientes: filés de peito de frango, Tempero a gosto (sal, pimenta, limão, etc), ovos batidos, Farinha de rosca, Farinha de trigo. Preparo: Tempere os filés de frango. Em outro recipiente (prato) bata os ovos. Em outro prato coloque a farinha de rosca."
+}

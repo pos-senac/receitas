@@ -1,0 +1,74 @@
+{
+  "id": "tg-89939",
+  "titulo": "Bolo de banana simples",
+  "url": "https://www.tudogostoso.com.br/receita/89939-bolo-de-banana-simples.html",
+  "nota": 4.3,
+  "n_avaliacoes": 255,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana simples",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "bananas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 bananas"
+    },
+    {
+      "nome": "açucar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açucar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    },
+    {
+      "nome": "cheia de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher cheia de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque os ovos, farinha de trigo, açúcar, leite, fermento e a manteiga no liquidificador.",
+      "Deixe batendo por 2 minutos, enquanto isso corte as bananas em rodelas pequenas.",
+      "Logo a seguir passe manteiga na forma, não é necessário a farinha de trigo.",
+      "Depois despeje a massa que está no liquidificador dentro da forma.",
+      "Logo após acrescente as rodelas de banana em cima da massa e leve ao forno por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Colher de pau",
+    "Faca",
+    "Formo de bolo",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Bolo de banana simples. Ingredientes: farinha de trigo, ovos, bananas, açucar, leite, fermento, cheia de manteiga. Preparo: Coloque os ovos, farinha de trigo, açúcar, leite, fermento e a manteiga no liquidificador. Deixe batendo por 2 minutos, enquanto isso corte as bananas em rodelas pequenas. Logo a seguir passe manteiga na forma, não é necessário a farinha de trigo."
+}

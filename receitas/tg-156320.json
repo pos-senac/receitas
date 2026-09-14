@@ -1,0 +1,103 @@
+{
+  "id": "tg-156320",
+  "titulo": "Sopa de lentilha",
+  "url": "https://www.tudogostoso.com.br/receita/156320-sopa-de-lentilha.html",
+  "nota": 4.7,
+  "n_avaliacoes": 116,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de lentilha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "lentilha",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "1 e 1/2 xícaras de lentilha"
+    },
+    {
+      "nome": "batatas descascadas e cortadas em cubos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 batatas descascadas e cortadas em cubos"
+    },
+    {
+      "nome": "cenoura grande em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura grande em cubos"
+    },
+    {
+      "nome": "gomo de linguiça calabresa em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gomo de linguiça calabresa em cubos"
+    },
+    {
+      "nome": "pimenta dedo-de-moça sem sementes picadinha (opcional)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimenta dedo-de-moça sem sementes picadinha (opcional)"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "alho espremidos",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho espremidos"
+    },
+    {
+      "nome": "óleo ou azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo ou azeite"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "manjericão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manjericão a gosto"
+    },
+    {
+      "nome": "salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha a gosto"
+    },
+    {
+      "nome": "cebolinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebolinha a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela de pressão aquecer o óleo ou azeite e refogar o alho e a cebola.Acrescentar a lentilha, o sal e 3 xícaras de água quente.",
+      "Deixar no fogo até amolecer a lentilha (não deixei de molho),aproximadamente 20 minutos.",
+      "Juntar:batata,cenoura,calabresa,manjericão,pimenta e mais 2 xícaras de água quente.Deixar por 10 minutos após pegar pressão.Desligar o fogo e colocar a salsinha e cebolinha.Servir em seguida."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Concha",
+    "Expremedor de alho",
+    "Faca",
+    "Fogão",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Sopa de lentilha. Ingredientes: lentilha, batatas descascadas e cortadas em cubos, cenoura grande em cubos, gomo de linguiça calabresa em cubos, pimenta dedo-de-moça sem sementes picadinha (opcional), cebola picada, alho espremidos, óleo ou azeite, sal a gosto, manjericão a gosto, salsinha a gosto, cebolinha a gosto. Preparo: Em uma panela de pressão aquecer o óleo ou azeite e refogar o alho e a cebola.Acrescentar a lentilha, o sal e 3 xícaras de água quente. Deixar no fogo até amolecer a lentilha (não deixei de molho),aproximadamente 20 minutos. Juntar:batata,cenoura,calabresa,manjericão,pimenta e mais 2 xícaras de água quente.Deixar por 10 minutos após pegar pressão.Desligar o fogo e colocar a salsinha e cebolinha.Servir em seguida."
+}

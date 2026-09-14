@@ -1,0 +1,62 @@
+{
+  "id": "tg-179608",
+  "titulo": "Pipoca de leite Ninho",
+  "url": "https://www.tudogostoso.com.br/receita/179608-pipoca-de-leite-ninho.html",
+  "nota": 3.9,
+  "n_avaliacoes": 329,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pipoca de leite Ninho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "milho de pipoca",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de milho de pipoca"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "leite ninho",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite ninho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o óleo, a água, o açúcar e o milho de pipoca em uma panela grande e mexa bastante (sim, tudo junto).",
+      "Mexa em fogo alto até começar a estourar a pipoca (pode demorar uns 15 minutos), tenha cuidado para não se queimar quando a pipoca pular.",
+      "Baixe o fogo, feche a panela e mexa de vez em quando (sacudindo a panela), até você ouvir as pipocas pararem de estourar.",
+      "Assim que as pipocas demorarem mais de 5 segundos para estourar, desligue o fogo.",
+      "Quando sua pipoca estiver pronta, ela vai ficar \"caramelizada\" e um pouco colada uma na outra por causa da calda.",
+      "Coloque o leite ninho em uma vasilha e misture bem a pipoca com o leite ninho."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Pipoca de leite Ninho. Ingredientes: milho de pipoca, óleo, água, açúcar, leite ninho. Preparo: Coloque o óleo, a água, o açúcar e o milho de pipoca em uma panela grande e mexa bastante (sim, tudo junto). Mexa em fogo alto até começar a estourar a pipoca (pode demorar uns 15 minutos), tenha cuidado para não se queimar quando a pipoca pular. Baixe o fogo, feche a panela e mexa de vez em quando (sacudindo a panela), até você ouvir as pipocas pararem de estourar."
+}

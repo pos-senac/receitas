@@ -1,0 +1,111 @@
+{
+  "id": "tg-144562",
+  "titulo": "Bolo fácil de chocolate no liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/144562-bolo-facil-de-chocolate-no-liquidificador.html",
+  "nota": 4.7,
+  "n_avaliacoes": 145,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo fácil de chocolate no liquidificador",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 45,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de achocolatado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água quente"
+    },
+    {
+      "nome": "fermento químico em pó (Royal).",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento químico em pó (Royal)."
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de achocolatado"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de amido de milho"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata no liquidificador os ovos, o açúcar, o achocolatado e o óleo. Depois de bem batido misture a água.",
+      "Misture aos poucos a farinha e por último, o fermento.",
+      "Se ficar um pouco pesado para o liquidificador, mexa bem com uma colher grande.",
+      "Distribua a massa numa forma qualquer.",
+      "Asse por 30 a 40 minutos (190°) em forno preaquecido.",
+      "Enquanto o bolo asse prepare o recheio e a cobertura"
+    ],
+    "Recheio e cobertura:": [
+      "Com 1 das 2 xícaras de leite, misture as duas colheres de amido de milho e reserve.",
+      "Leve numa panela ao fogo alto: o açúcar, o resto do leite (1 uma xícara), o achocolatado e a margarina.",
+      "Misture bem até ferver, quando ferver coloque o leite o o amido e milho na panela ainda ao fogo.",
+      "Mexa até ferver.",
+      "Colocar no bolo ainda quente, e está proto o seu bolo de chocolate!"
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Espátula de silicone",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo fácil de chocolate no liquidificador. Ingredientes: ovos, açúcar, achocolatado, óleo, farinha de trigo, água quente, fermento químico em pó (Royal)., açúcar, leite, achocolatado, margarina, amido de milho. Preparo: Bata no liquidificador os ovos, o açúcar, o achocolatado e o óleo. Depois de bem batido misture a água. Misture aos poucos a farinha e por último, o fermento. Se ficar um pouco pesado para o liquidificador, mexa bem com uma colher grande."
+}

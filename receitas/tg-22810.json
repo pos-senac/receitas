@@ -1,0 +1,77 @@
+{
+  "id": "tg-22810",
+  "titulo": "Batata rápida de microondas",
+  "url": "https://www.tudogostoso.com.br/receita/22810-batata-rapida-de-microondas.html",
+  "nota": 4.5,
+  "n_avaliacoes": 124,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Batata rápida de microondas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "batatas médias",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 batatas médias"
+    },
+    {
+      "nome": "café de margarina",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de café de margarina"
+    },
+    {
+      "nome": "Queijo parmesão ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo parmesão ralado a gosto"
+    },
+    {
+      "nome": "Azeite a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite a gosto"
+    },
+    {
+      "nome": "Salsa a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsa a gosto"
+    },
+    {
+      "nome": "Manjeiricão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Manjeiricão a gosto"
+    },
+    {
+      "nome": "Orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano a gosto"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave muito bem as batatas com uma escovinha.",
+      "Não precisa descascar.",
+      "Corte ao meio cada batata e coloque - as num prato ou pirex.",
+      "Você terá 10 pedaços.",
+      "Coloque em cima de cada batata um pouco de azeite, manjeiricão, orégano, salsa e sal.",
+      "Agora coloque uma colher de café de manteiga em cada batata.",
+      "Cubra com o queijo parmesão.",
+      "Leve ao microondas por aproximadamente por 8 minutos ou até cozinhar as batatas!."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Batata rápida de microondas. Ingredientes: batatas médias, café de margarina, Queijo parmesão ralado a gosto, Azeite a gosto, Salsa a gosto, Manjeiricão a gosto, Orégano a gosto, Sal a gosto. Preparo: Lave muito bem as batatas com uma escovinha. Não precisa descascar. Corte ao meio cada batata e coloque - as num prato ou pirex."
+}

@@ -1,0 +1,94 @@
+{
+  "id": "tg-104383",
+  "titulo": "Torta de limão",
+  "url": "https://www.tudogostoso.com.br/receita/104383-torta-de-limao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1042,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Torta de limão",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 15,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "biscoito de maisena",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de biscoito de maisena"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de margarina"
+    },
+    {
+      "nome": "leite condensado (395 g)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado (395 g)"
+    },
+    {
+      "nome": "creme de leite (200 g)",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite (200 g)"
+    },
+    {
+      "nome": "suco de 4 limões",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 4 limões"
+    },
+    {
+      "nome": "raspas de 2 limões",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas de 2 limões"
+    },
+    {
+      "nome": "ou 4 claras de ovo",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ou 4 claras de ovo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "raspas de 2 limões para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas de 2 limões para decorar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Triture o biscoito de maisena em um liquidificador ou processador.",
+      "Junte a margarina e bata mais um pouco.",
+      "Despeje a massa em uma forma de fundo removível (27 cm de diâmetro).",
+      "Com as mãos, espalhe os biscoitos triturados no fundo e nas laterais da forma, cobrindo toda área de maneira uniforme.",
+      "Leve ao forno médio (180° C), preaquecido, por aproximadamente 10 minutos."
+    ],
+    "Recheio": [
+      "Bata todos os ingredientes no liquidificador (exceto as raspas de limão) até obter um creme liso e firme.",
+      "Recheie a massa já assada e leve à geladeira por 30 minutos."
+    ],
+    "Cobertura": [
+      "Bata as claras em neve e acrescente o açúcar.",
+      "Misture até obter um ponto de suspiro e leve ao forno até dourar.",
+      "Desenforme a torta (sem retirar o fundo falso), despeje a cobertura e acrescente as raspas de limão."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Torta de limão. Ingredientes: biscoito de maisena, margarina, leite condensado (395 g), creme de leite (200 g), suco de 4 limões, raspas de 2 limões, ou 4 claras de ovo, açúcar, raspas de 2 limões para decorar. Preparo: Triture o biscoito de maisena em um liquidificador ou processador. Junte a margarina e bata mais um pouco. Despeje a massa em uma forma de fundo removível (27 cm de diâmetro)."
+}

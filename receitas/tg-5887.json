@@ -1,0 +1,73 @@
+{
+  "id": "tg-5887",
+  "titulo": "Molho Pesto",
+  "url": "https://www.tudogostoso.com.br/receita/5887-molho-pesto.html",
+  "nota": 4.0,
+  "n_avaliacoes": 179,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Molho Pesto",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "folhas de manjericão fresco",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de folhas de manjericão fresco"
+    },
+    {
+      "nome": "pinoli ou nozes sem casca",
+      "quantidade": "3",
+      "unidade": "colheres (chá)",
+      "texto_original": "3 colheres (chá) de pinoli ou nozes sem casca"
+    },
+    {
+      "nome": "queijo pecorino ou parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo pecorino ou parmesão ralado"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de azeite"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque os dentes de alho, passe pelo espremedor e coloque em uma tigela.",
+      "Adicione o sal e misture muito bem.",
+      "Triture os pinoli ou as nozes (no processador, com um pilão ou com as mãos) e junte alho e sal.",
+      "Lave as folhas de manjericão, seque e pique em pedaços bem pequenos, depois coloque também na tigela.",
+      "Acrescente o queijo e o azeite e misture muito bem até obter uma pasta homogênea.",
+      "Tempere com um pouco de pimenta-do-reino e conserve em um vidro esterilizado."
+    ]
+  },
+  "utensilios": [
+    "Expremedor de alho",
+    "Pote hermético",
+    "Ralador"
+  ],
+  "texto_para_embedding": "Molho Pesto. Ingredientes: alho, sal a gosto, folhas de manjericão fresco, pinoli ou nozes sem casca, queijo pecorino ou parmesão ralado, azeite, pimenta-do-reino a gosto. Preparo: Descasque os dentes de alho, passe pelo espremedor e coloque em uma tigela. Adicione o sal e misture muito bem. Triture os pinoli ou as nozes (no processador, com um pilão ou com as mãos) e junte alho e sal."
+}

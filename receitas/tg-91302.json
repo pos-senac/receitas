@@ -1,0 +1,128 @@
+{
+  "id": "tg-91302",
+  "titulo": "Frango ao creme de milho",
+  "url": "https://www.tudogostoso.com.br/receita/91302-frango-ao-creme-de-milho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1023,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Frango ao creme de milho",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "azeite a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite a gosto"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "pote de requeijão",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pote de requeijão"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "milho verde escorrida",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde escorrida"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de amido de milho"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de galinha"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picada"
+    },
+    {
+      "nome": "azeite quanto baste",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite quanto baste"
+    },
+    {
+      "nome": "queijo ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "Frango:": [
+      "Em uma panela refogue no azeite, a cebola e o alho.",
+      "Adicione o frango e tempere a gosto.",
+      "Incorpore o requeijão."
+    ],
+    "Creme:": [
+      "Bata o milho, o leite, o amido de milho e o caldo de galinha no liquidificador.",
+      "Em uma panela refogue a cebola e o alho no azeite.",
+      "Incorpore a mistura do liquidificador, mexendo até borbulhar."
+    ],
+    "Montagem:": [
+      "Disponha o frango no refratário, por cima o creme de milho.",
+      "Cubra com queijo ralado e leve ao forno alto por cerca de 30 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Refratário",
+    "Colher de silicone"
+  ],
+  "texto_para_embedding": "Frango ao creme de milho. Ingredientes: peito de frango cozido e desfiado, azeite a gosto, cebola picada, alho amassados, sal, pote de requeijão, pimenta-do-reino a gosto, milho verde escorrida, leite, sopa de amido de milho, tablete de caldo de galinha, alho amassados, cebola picada, azeite quanto baste, queijo ralado para polvilhar. Preparo: Em uma panela refogue no azeite, a cebola e o alho. Adicione o frango e tempere a gosto. Incorpore o requeijão."
+}

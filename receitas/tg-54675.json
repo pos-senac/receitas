@@ -1,0 +1,69 @@
+{
+  "id": "tg-54675",
+  "titulo": "Bolo de milho com leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/54675-bolo-de-milho-com-leite-condensado.html",
+  "nota": 4.3,
+  "n_avaliacoes": 138,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de milho com leite condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "milho verde com conserva",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde com conserva"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de margarina"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó químico",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó químico"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador, acrescentando primeiro os líquidos e depois o restante. Unte uma forma e leve para assar em fogo médio, pré-aquecido, por cerca de 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de milho com leite condensado. Ingredientes: leite condensado, milho verde com conserva, ovos, sal, sopa de margarina, sopa de farinha de trigo, sopa de fermento em pó químico. Preparo: Bata tudo no liquidificador, acrescentando primeiro os líquidos e depois o restante. Unte uma forma e leve para assar em fogo médio, pré-aquecido, por cerca de 40 minutos."
+}

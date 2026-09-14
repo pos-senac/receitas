@@ -1,0 +1,130 @@
+{
+  "id": "tg-6351",
+  "titulo": "Empadão de frango",
+  "url": "https://www.tudogostoso.com.br/receita/6351-empadao-de-frango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 577,
+  "categoria": "Receitas massas",
+  "subcategoria": "Empadão de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de margarina"
+    },
+    {
+      "nome": "gordura vegetal",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de gordura vegetal"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara (café)",
+      "texto_original": "1 xícara (café) de água"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "gema para pincelar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema para pincelar"
+    },
+    {
+      "nome": "peitos de frango já cozidos e desfiados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 peitos de frango já cozidos e desfiados"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "tomate sem pele e sem semente, em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate sem pele e sem semente, em cubos"
+    },
+    {
+      "nome": "salsa e cebolinha picadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsa e cebolinha picadas"
+    },
+    {
+      "nome": "farinha de trigo dissolvida em um pouquinho de leite",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de farinha de trigo dissolvida em um pouquinho de leite"
+    },
+    {
+      "nome": "sal e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e pimenta a gosto"
+    },
+    {
+      "nome": "requeijão culinário em lascas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "requeijão culinário em lascas"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Misture a farinha com as gorduras (margarina e gordura vegetal) e faça uma farofa com as mãos.",
+      "Acrescente as gemas e a água, misturando mais, sem trabalhar muito a massa.",
+      "Ela não fica homogênea, fica quebradiça (isso faz com que fique crocante).",
+      "Deixe descansar por meia hora."
+    ],
+    "Recheio:": [
+      "Refogue em um pouco de manteiga, o alho e a cebola.",
+      "Depois acrescente o frango desfiado e o tomate em cubos, refogue mais um pouco.",
+      "Acrescente a farinha dissolvida no leite (1/2 xícara de chá) e mexa até ficar tudo ligado.",
+      "Junte a salsa e cebolinha, sal e pimenta.",
+      "Reserve e deixe esfriar."
+    ],
+    "Montagem:": [
+      "Abra metade da massa em uma forma (de preferência com fundo removível), nos fundos e nas laterais com as mãos, abrindo o máximo que puder.",
+      "Recheie a massa e distribua, por cima do recheio, lascas do requeijão.",
+      "Abra a outra metade da massa, com um rolo, sobre um pedaço de filme plástico.",
+      "Disponha a massa por cima do recheio, fechando o empadão nas laterais.",
+      "Pincele a massa, por cima, com uma gema e leve ao forno preaquecido (200° C), até dourar bem.",
+      "Desenforme ou sirva na própria forma, imediatamente (fica parecendo uma massa folhada, crocante)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Empadão de frango. Ingredientes: farinha de trigo, margarina, gordura vegetal, gemas, água, sal, gema para pincelar, peitos de frango já cozidos e desfiados, cebola picada, alho amassados, tomate sem pele e sem semente, em cubos, salsa e cebolinha picadas, farinha de trigo dissolvida em um pouquinho de leite, sal e pimenta a gosto, requeijão culinário em lascas. Preparo: Misture a farinha com as gorduras (margarina e gordura vegetal) e faça uma farofa com as mãos. Acrescente as gemas e a água, misturando mais, sem trabalhar muito a massa. Ela não fica homogênea, fica quebradiça (isso faz com que fique crocante)."
+}

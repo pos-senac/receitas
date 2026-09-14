@@ -1,0 +1,91 @@
+{
+  "id": "tg-143393",
+  "titulo": "Bolo de milho de lata no liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/143393-bolo-de-milho-de-lata-no-liquidificador.html",
+  "nota": 4.8,
+  "n_avaliacoes": 1763,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de milho de lata no liquidificador",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "milho (sem o líquido)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho (sem o líquido)"
+    },
+    {
+      "nome": "leite (medida da lata de milho)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite (medida da lata de milho)"
+    },
+    {
+      "nome": "açúcar (medida da lata de milho)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de açúcar (medida da lata de milho)"
+    },
+    {
+      "nome": "flocão de milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de flocão de milho"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de óleo de soja"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "margarina para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "margarina para untar"
+    },
+    {
+      "nome": "farinha de trigo para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Escorra o milho e use a própria lata para as medidas.",
+      "Unte e enfarinhe uma forma de bolo com furo.",
+      "Preaqueça o forno.",
+      "Coloque no liquidificador o milho (já escorrido), o leite, açúcar, flocão de milho, óleo, ovos e bata bem até que o milho fique bem moído.",
+      "Se quiser, pode acrescentar duas colheres de sopa de coco ralado.",
+      "Acrescente o fermento em pó e pulse o liquidificador 3 vezes.",
+      "Despeje essa massa na forma e leve ao forno médio.",
+      "Deixe assar por, aproximadamente, 40 minutos.",
+      "Faça o teste do palito e observe um tom dourado médio, para saber que o bolo está pronto.",
+      "Espere esfriar totalmente para desenformar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Pincel de silicone",
+    "Espátula de silicone",
+    "Formo de bolo",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo de milho de lata no liquidificador. Ingredientes: milho (sem o líquido), leite (medida da lata de milho), açúcar (medida da lata de milho), flocão de milho, óleo de soja, ovos inteiros, fermento em pó, margarina para untar, farinha de trigo para untar. Preparo: Escorra o milho e use a própria lata para as medidas. Unte e enfarinhe uma forma de bolo com furo. Preaqueça o forno."
+}

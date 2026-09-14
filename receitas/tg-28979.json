@@ -1,0 +1,115 @@
+{
+  "id": "tg-28979",
+  "titulo": "Bolo de limão de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/28979-bolo-de-limao-de-liquidificador.html",
+  "nota": 4.6,
+  "n_avaliacoes": 423,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de limão de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo de milho",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo de milho"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3/4",
+      "unidade": "xícara",
+      "texto_original": "3/4 xícara de leite"
+    },
+    {
+      "nome": "suco de limão",
+      "quantidade": "1/4",
+      "unidade": "xícara",
+      "texto_original": "1/4 xícara de suco de limão"
+    },
+    {
+      "nome": "Raspas de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Raspas de 1 limão"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de sal"
+    },
+    {
+      "nome": "vidro de leito de coco",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 vidro de leito de coco"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de leite condensado"
+    },
+    {
+      "nome": "Caldo de 1/2 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Caldo de 1/2 limão"
+    },
+    {
+      "nome": "Raspas de limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Raspas de limão"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata tudo no liquidificador.",
+      "Despeje em forma de furo central untada e enfarinhada.",
+      "Leve para assar por aproximadamente 40 minutos.",
+      "Depois de frio, espalhe a cobertura.",
+      "Sirva."
+    ],
+    "Cobertura:": [
+      "Misture todos os ingredientes.",
+      "Leve ao fogo."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Panela",
+    "Espátula de silicone",
+    "Fogão",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo de limão de liquidificador. Ingredientes: ovos, óleo de milho, açúcar, leite, suco de limão, Raspas de 1 limão, fermento em pó, farinha de trigo, sal, vidro de leito de coco, leite condensado, Caldo de 1/2 limão, Raspas de limão. Preparo: Bata tudo no liquidificador. Despeje em forma de furo central untada e enfarinhada. Leve para assar por aproximadamente 40 minutos."
+}

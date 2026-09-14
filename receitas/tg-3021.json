@@ -1,0 +1,56 @@
+{
+  "id": "tg-3021",
+  "titulo": "Massa para coxinha",
+  "url": "https://www.tudogostoso.com.br/receita/3021-massa-para-coxinha.html",
+  "nota": 4.4,
+  "n_avaliacoes": 589,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa para coxinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 100,
+  "ingredientes": [
+    {
+      "nome": "litros de água",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 litros de água"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "cubos de caldo de galinha de 45 g",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 cubos de caldo de galinha de 45 g"
+    },
+    {
+      "nome": "conchas de óleo",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 conchas de óleo"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela",
+      "a água, o óleo, o caldo de galinha e o sal.",
+      "deixe ferver.",
+      "retire do fogo e logo em seguida coloque a farinha de trigo mexendo sem parar,",
+      "depois volte ao fogo mexendo até soltar do fundo da panela."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa para coxinha. Ingredientes: litros de água, farinha de trigo, cubos de caldo de galinha de 45 g, conchas de óleo, Sal a gosto. Preparo: Coloque em uma panela a água, o óleo, o caldo de galinha e o sal. deixe ferver."
+}

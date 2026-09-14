@@ -1,0 +1,78 @@
+{
+  "id": "tg-1979",
+  "titulo": "Bolinho de bacalhau",
+  "url": "https://www.tudogostoso.com.br/receita/1979-bolinho-de-bacalhau.html",
+  "nota": 4.1,
+  "n_avaliacoes": 637,
+  "categoria": "Receitas bacalhau",
+  "subcategoria": "Bolinho de bacalhau",
+  "nivel": null,
+  "custo": "Custo alto",
+  "tempo_preparo_min": 50,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "bacalhau dessalgado e desfiado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de bacalhau dessalgado e desfiado"
+    },
+    {
+      "nome": "batatas cozidas e espremidas",
+      "quantidade": "3",
+      "unidade": "xícara (chá)",
+      "texto_original": "3 xícara (chá) de batatas cozidas e espremidas"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "cheiro-verde picado",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de cheiro-verde picado"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, misture bem todos os ingredientes.",
+      "Com uma colher de sopa, pegue porções de massa e faça bolinhas.",
+      "Frite em óleo quente até dourar.",
+      "Escorra em papel absorvente."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Escumadeira",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolinho de bacalhau. Ingredientes: bacalhau dessalgado e desfiado, batatas cozidas e espremidas, farinha de trigo, sal a gosto, pimenta-do-reino a gosto, ovos, cheiro-verde picado, óleo para fritar. Preparo: Em uma tigela, misture bem todos os ingredientes. Com uma colher de sopa, pegue porções de massa e faça bolinhas. Frite em óleo quente até dourar."
+}

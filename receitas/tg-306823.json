@@ -1,0 +1,63 @@
+{
+  "id": "tg-306823",
+  "titulo": "Brownie simples e rápido",
+  "url": "https://www.tudogostoso.com.br/receita/306823-brownie-simples-e-rapido.html",
+  "nota": 3.8,
+  "n_avaliacoes": 622,
+  "categoria": "Receitas massas",
+  "subcategoria": "Brownie simples e rápido",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "manteiga",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de manteiga"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "3",
+      "unidade": "xicara",
+      "texto_original": "3 xicara de achocolatado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "12",
+      "unidade": "colheres",
+      "texto_original": "12 colheres de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Derreta a manteiga e reserve",
+      "Enquanto derrete a manteiga, misture os 3 ovos e a açúcar e misture bem",
+      "Acrescente a manteiga derretida no ovo e o açúcar",
+      "Agora é so misturar o achocolatado e o trigo",
+      "Unte uma forma com manteiga e achocolatado",
+      "Leve ao forno a 180° C por 30 minutos"
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espatula",
+    "Forma",
+    "Fouet",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Brownie simples e rápido. Ingredientes: manteiga, ovos, achocolatado, açúcar, farinha de trigo. Preparo: Derreta a manteiga e reserve Enquanto derrete a manteiga, misture os 3 ovos e a açúcar e misture bem Acrescente a manteiga derretida no ovo e o açúcar"
+}

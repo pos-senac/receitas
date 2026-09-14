@@ -1,0 +1,76 @@
+{
+  "id": "tg-1624",
+  "titulo": "Macarrão à carbonara",
+  "url": "https://www.tudogostoso.com.br/receita/1624-macarrao-a-carbonara.html",
+  "nota": 4.5,
+  "n_avaliacoes": 566,
+  "categoria": "Receitas massas",
+  "subcategoria": "Macarrão à carbonara",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "bacon picado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "bacon picado a gosto"
+    },
+    {
+      "nome": "queijo ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado a gosto"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "macarrão de sua escolha (espaguete, fusili,etc.)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "macarrão de sua escolha (espaguete, fusili,etc.)"
+    },
+    {
+      "nome": "creme de leite se quiser dar um toque diferente à receita",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "creme de leite se quiser dar um toque diferente à receita"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Frite bem o bacon, até ficar crocante (pode-se adicionar salame picado).",
+      "Coloque o macarrão para cozinhar em água e sal.",
+      "No refratário onde será servido o macarrão, bata bem os ovos com um garfo.",
+      "Tempere com sal e pimenta a gosto, e junte o queijo ralado, também a gosto.",
+      "Quando o macarrão estiver pronto, escorra e coloque (bem quente) sobre a mistura de ovos, misture bem.",
+      "O calor da massa cozinha os ovos.",
+      "Coloque o bacon, ainda quente, sobre o macarrão e sirva."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Prato fundo",
+    "Espátula de silicone",
+    "Frigideira funda",
+    "Pegador de macarrão"
+  ],
+  "texto_para_embedding": "Macarrão à carbonara. Ingredientes: bacon picado a gosto, queijo ralado a gosto, ovos, sal, pimenta-do-reino a gosto, macarrão de sua escolha (espaguete, fusili,etc.), creme de leite se quiser dar um toque diferente à receita. Preparo: Frite bem o bacon, até ficar crocante (pode-se adicionar salame picado). Coloque o macarrão para cozinhar em água e sal. No refratário onde será servido o macarrão, bata bem os ovos com um garfo."
+}

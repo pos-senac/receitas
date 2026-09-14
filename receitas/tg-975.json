@@ -1,0 +1,86 @@
+{
+  "id": "tg-975",
+  "titulo": "Galinhada",
+  "url": "https://www.tudogostoso.com.br/receita/975-galinhada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 285,
+  "categoria": "Receitas aves",
+  "subcategoria": "Galinhada",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "frango cortado em pedaços",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 frango cortado em pedaços"
+    },
+    {
+      "nome": "tabletes de caldo de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de galinha"
+    },
+    {
+      "nome": "Suco de meio limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de meio limão"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "cebola média ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média ralada"
+    },
+    {
+      "nome": "arroz lavado e escorrido",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de arroz lavado e escorrido"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de extrato de tomate"
+    },
+    {
+      "nome": "pimentão verde cortado em cubinhos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde cortado em cubinhos"
+    },
+    {
+      "nome": "salsa picada",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de salsa picada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave os pedaços de frango, tempere-os com os tabletes de caldo de galinha e o suco de limão e deixe tomar gosto.",
+      "Em uma panela grande, aqueça o azeite e doure os pedaços de frango.",
+      "Adicione a cebola e deixe refogar ligeiramente.",
+      "Junte o arroz, o extrato de tomate, o pimentão e 4 xícaras e 1/2 (chá) de água, mexendo bem.",
+      "Tampe a panela e, assim que iniar fervura, baixe o fogo e cozinhe por cerca de 15 minutos, até que o arroz fique cremoso e úmido. Se necessário, pingue mais água.",
+      "Retire do fogo e passe para uma travessa. Polvilhe a salsa e sirva a seguir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Galinhada. Ingredientes: frango cortado em pedaços, tabletes de caldo de galinha, Suco de meio limão, azeite, cebola média ralada, arroz lavado e escorrido, extrato de tomate, pimentão verde cortado em cubinhos, salsa picada. Preparo: Lave os pedaços de frango, tempere-os com os tabletes de caldo de galinha e o suco de limão e deixe tomar gosto. Em uma panela grande, aqueça o azeite e doure os pedaços de frango. Adicione a cebola e deixe refogar ligeiramente."
+}

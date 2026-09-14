@@ -1,0 +1,78 @@
+{
+  "id": "tg-79387",
+  "titulo": "Creme de leite condensado com gelatina",
+  "url": "https://www.tudogostoso.com.br/receita/79387-creme-de-leite-condensado-com-gelatina.html",
+  "nota": 4.7,
+  "n_avaliacoes": 286,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Creme de leite condensado com gelatina",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite (utilize a lata de leite condensado como medida)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (utilize a lata de leite condensado como medida)"
+    },
+    {
+      "nome": "Mais 1/2 copo de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Mais 1/2 copo de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "sopa (cheias) de amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa (cheias) de amido de milho"
+    },
+    {
+      "nome": "gelatina sabor morango",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de gelatina sabor morango"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "água (para fazer a gelatina)",
+      "quantidade": "4",
+      "unidade": "copos",
+      "texto_original": "4 copos de água (para fazer a gelatina)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela coloque o leite condensado, as 2 medidas de leite, as gemas e leve ao fogo, mexendo sempre.",
+      "Acrescente o amido de milho dissolvido em meio copo de leite frio e deixe cozinhar, mexendo sempre para fazer um creme.",
+      "Coloque este creme em forma refratária funda de vidro, deixe esfriar e leve à geladeira.",
+      "Dissolva a gelatina em uma vasilha com 2 copos de água quente.",
+      "Adicione dois copos de água fria e duas colheres de açúcar e mecha bem para dissolver.",
+      "Bater as claras em neve (em ponto de suspiro) com 4 colheres de açúcar.",
+      "Misturar muito bem este suspiro com a gelatina ainda líquida.",
+      "Colocar esta mistura sobre o creme.",
+      "Levar à geladeira por cerca de 4 horas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Creme de leite condensado com gelatina. Ingredientes: leite condensado, leite (utilize a lata de leite condensado como medida), Mais 1/2 copo de leite, ovos, sopa (cheias) de amido de milho, gelatina sabor morango, sopa de açúcar, água (para fazer a gelatina). Preparo: Em uma panela coloque o leite condensado, as 2 medidas de leite, as gemas e leve ao fogo, mexendo sempre. Acrescente o amido de milho dissolvido em meio copo de leite frio e deixe cozinhar, mexendo sempre para fazer um creme. Coloque este creme em forma refratária funda de vidro, deixe esfriar e leve à geladeira."
+}

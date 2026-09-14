@@ -1,0 +1,88 @@
+{
+  "id": "tg-6311",
+  "titulo": "Tabule tropical",
+  "url": "https://www.tudogostoso.com.br/receita/6311-tabule-tropical.html",
+  "nota": 4.6,
+  "n_avaliacoes": 147,
+  "categoria": "Receitas saladas",
+  "subcategoria": "Tabule tropical",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "trigo para quibe",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de trigo para quibe"
+    },
+    {
+      "nome": "tomates picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates picados"
+    },
+    {
+      "nome": "pepino grande picado em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pepino grande picado em cubos"
+    },
+    {
+      "nome": "cebolinha verde e salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebolinha verde e salsinha a gosto"
+    },
+    {
+      "nome": "hortelã fresca a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "hortelã fresca a gosto"
+    },
+    {
+      "nome": "sopa de azeite de oliva",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de azeite de oliva"
+    },
+    {
+      "nome": "suco de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1 limão"
+    },
+    {
+      "nome": "manga cortada em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 manga cortada em cubos"
+    },
+    {
+      "nome": "pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta do reino a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pé de alface",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pé de alface"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixe o trigo de molho por 1 hora. Depois escorra toda água e coloque em uma tigela. Junte os tomates, o pepino, a cebolinha, a salsinha, a manga, a hortelã. Tempere com azeite, sal, limão e pimenta. Misture bem e sirva sobre alface. Uma refeição leve e saudável."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Tabule tropical. Ingredientes: trigo para quibe, tomates picados, pepino grande picado em cubos, cebolinha verde e salsinha a gosto, hortelã fresca a gosto, sopa de azeite de oliva, suco de 1 limão, manga cortada em cubos, pimenta do reino a gosto, sal a gosto, pé de alface. Preparo: Deixe o trigo de molho por 1 hora. Depois escorra toda água e coloque em uma tigela. Junte os tomates, o pepino, a cebolinha, a salsinha, a manga, a hortelã. Tempere com azeite, sal, limão e pimenta. Misture bem e sirva sobre alface. Uma refeição leve e saudável."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tg-9178",
+  "titulo": "Vinho quente",
+  "url": "https://www.tudogostoso.com.br/receita/9178-vinho-quente.html",
+  "nota": 4.5,
+  "n_avaliacoes": 164,
+  "categoria": "Receitas drinks e Coquetéis alcoólicos",
+  "subcategoria": "Vinho quente",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de açúcar"
+    },
+    {
+      "nome": "canela em rama",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em rama"
+    },
+    {
+      "nome": "cravo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cravo"
+    },
+    {
+      "nome": "vinho tinto seco",
+      "quantidade": "1",
+      "unidade": "l",
+      "texto_original": "1 l de vinho tinto seco"
+    },
+    {
+      "nome": "litro de água",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de água"
+    },
+    {
+      "nome": "maçã (verde ou vermelha) descascada e cortada em fatias",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 maçã (verde ou vermelha) descascada e cortada em fatias"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Queime a metade do açúcar com o cravo e a canela.",
+      "Acrescente o vinho, já misturado com a água.",
+      "Junte a maçã e o açúcar restante.",
+      "Deixe cozinhar um pouco e sirva bem quente."
+    ]
+  },
+  "utensilios": [
+    "Caneca",
+    "Panela",
+    "Colher de pau"
+  ],
+  "texto_para_embedding": "Vinho quente. Ingredientes: açúcar, canela em rama, cravo, vinho tinto seco, litro de água, maçã (verde ou vermelha) descascada e cortada em fatias. Preparo: Queime a metade do açúcar com o cravo e a canela. Acrescente o vinho, já misturado com a água. Junte a maçã e o açúcar restante."
+}

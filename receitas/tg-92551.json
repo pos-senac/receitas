@@ -1,0 +1,49 @@
+{
+  "id": "tg-92551",
+  "titulo": "Sobremesa simples de morango",
+  "url": "https://www.tudogostoso.com.br/receita/92551-sobremesa-simples-de-morango.html",
+  "nota": 4.5,
+  "n_avaliacoes": 111,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Sobremesa simples de morango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite"
+    },
+    {
+      "nome": "saquinho de 1 litro de suco em pó de morango que já tenha açúcar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 saquinho de 1 litro de suco em pó de morango que já tenha açúcar"
+    },
+    {
+      "nome": "Morangos em quantidade a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Morangos em quantidade a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pique e separe os morangos.",
+      "Misture as latas de leite condensado e creme de leite, e o suco em pó no liquidificador até ficar bem homogêneo.",
+      "Depois coloque em um recipiente e misture com os morangos picados.",
+      "Se quiser que fique cremoso coloque na geladeira, se preferir mais sólido coloque no congelador."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sobremesa simples de morango. Ingredientes: leite condensado, creme de leite, saquinho de 1 litro de suco em pó de morango que já tenha açúcar, Morangos em quantidade a gosto. Preparo: Pique e separe os morangos. Misture as latas de leite condensado e creme de leite, e o suco em pó no liquidificador até ficar bem homogêneo. Depois coloque em um recipiente e misture com os morangos picados."
+}

@@ -1,0 +1,89 @@
+{
+  "id": "tg-23133",
+  "titulo": "Torta de bolacha maria",
+  "url": "https://www.tudogostoso.com.br/receita/23133-torta-de-bolacha-maria.html",
+  "nota": 4.6,
+  "n_avaliacoes": 132,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de bolacha maria",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 45,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "maisena",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de maisena"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de chocolate em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "bolacha maria",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de bolacha maria"
+    },
+    {
+      "nome": "leite e mais um pouco para molhar as bolachas",
+      "quantidade": "1",
+      "unidade": "l",
+      "texto_original": "1 l de leite e mais um pouco para molhar as bolachas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela grande, misture a maisena, o chocolate em pó e o açúcar.",
+      "Coloque o leite aos poucos, para dissolver.",
+      "Separe os ovos em gema e clara, reserve as claras, misture as gemas em uma xícara e coloque dentro da panela.",
+      "Por último, coloque o leite condensado e misture bem.",
+      "Leve ao fogo e mexa de vez em quando.",
+      "Molhe as bolachas em um pouco de leite, e coloque uma camada de bolacha em um refratário grande até que cubra o fundo.",
+      "Não deixe a mistura engrossar muito, quando começar a ferver abaixe o fogo e misture até ficar cremosa.",
+      "Coloque uma camada de creme sobre as bolachas.",
+      "Repita a operação até a panela ficar vazia.",
+      "A última camada deve ser a do creme.",
+      "Bata as claras em neve, adicione as duas colheres de açúcar e bata mais um pouco.",
+      "Adicione por fim o creme de leite e misture agora com uma colher.",
+      "Coloque este creme branco sobre a torta.",
+      "Sirva gelado."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Bowl",
+    "Espátula de silicone",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Torta de bolacha maria. Ingredientes: maisena, chocolate em pó, ovos, açúcar, leite condensado, creme de leite, bolacha maria, leite e mais um pouco para molhar as bolachas. Preparo: Em uma panela grande, misture a maisena, o chocolate em pó e o açúcar. Coloque o leite aos poucos, para dissolver. Separe os ovos em gema e clara, reserve as claras, misture as gemas em uma xícara e coloque dentro da panela."
+}

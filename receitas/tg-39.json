@@ -1,0 +1,73 @@
+{
+  "id": "tg-39",
+  "titulo": "Molho de tomate",
+  "url": "https://www.tudogostoso.com.br/receita/39-molho-de-tomate.html",
+  "nota": 4.2,
+  "n_avaliacoes": 151,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Molho de tomate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "tomate maduro (débora ou italiano) cortado ao meio,sem semente",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de tomate maduro (débora ou italiano) cortado ao meio,sem semente"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "cebola pequena picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena picada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "cominho",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de cominho"
+    },
+    {
+      "nome": "manjericão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manjericão a gosto"
+    },
+    {
+      "nome": "Sal à gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal à gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Numa panela, coloque 2 kg de tomate maduro sem sementes e deixe até amolecer.",
+      "Depois, passe pelo passador de legumes ou numa peneira.",
+      "Leve ao fogo 6 colheres (sopa) de azeite e refogue 1 cebola pequena picada, 2 dentes de alho amassados.",
+      "Junte o tomate processado e 1 pitada de cominho.",
+      "Cozinhe por 15 min em fogo baixo.",
+      "Acerte o sal e finalize com o manjericão a gosto."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Peneira",
+    "Molheira"
+  ],
+  "texto_para_embedding": "Molho de tomate. Ingredientes: tomate maduro (débora ou italiano) cortado ao meio,sem semente, azeite, cebola pequena picada, alho amassados, cominho, manjericão a gosto, Sal à gosto. Preparo: Numa panela, coloque 2 kg de tomate maduro sem sementes e deixe até amolecer. Depois, passe pelo passador de legumes ou numa peneira. Leve ao fogo 6 colheres (sopa) de azeite e refogue 1 cebola pequena picada, 2 dentes de alho amassados."
+}

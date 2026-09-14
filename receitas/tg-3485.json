@@ -1,0 +1,133 @@
+{
+  "id": "tg-3485",
+  "titulo": "Bolo de sorvete",
+  "url": "https://www.tudogostoso.com.br/receita/3485-bolo-de-sorvete.html",
+  "nota": 4.8,
+  "n_avaliacoes": 289,
+  "categoria": "Receitas sorvetes",
+  "subcategoria": "Bolo de sorvete",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 144,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de chocolate em pó"
+    },
+    {
+      "nome": "água",
+      "quantidade": "7",
+      "unidade": "colheres",
+      "texto_original": "7 colheres de água"
+    },
+    {
+      "nome": "forma de bolo com furo no meio (ou como desejar)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 forma de bolo com furo no meio (ou como desejar)"
+    },
+    {
+      "nome": "panela pequena",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 panela pequena"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 gemas"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite comum",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite comum"
+    },
+    {
+      "nome": "liquidificador",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 liquidificador"
+    },
+    {
+      "nome": "panela grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 panela grande"
+    },
+    {
+      "nome": "bandeja com água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 bandeja com água"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 claras"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de açúcar"
+    },
+    {
+      "nome": "batedeira",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 batedeira"
+    }
+  ],
+  "modo_preparo": {
+    "Calda:": [
+      "Coloque na panela, o chocolate em pó e a água, misture até dissolver o chocolate e leve ao fogo.",
+      "Deixe até engrossar.",
+      "Depois pegue a calda e coloque na forma, untando somente o fundo.",
+      "Leve a calda ao congelador ou ao freezer."
+    ],
+    "Creme 1:": [
+      "Coloque as gemas, o leite condensado e o leite no liquidificador.",
+      "Bata até misturar bem.",
+      "Coloque a mistura na panela e leve ao fogo.",
+      "Mexa até virar um mingau.",
+      "Deve ser mexido até engrossar (é importante que não borbulhe, senão o bolo não fica cremoso).",
+      "Logo depois coloque a panela em uma bandeja com água fria para esfriar o creme."
+    ],
+    "Creme 2:": [
+      "Coloque a clara na batedeira e bata, até virar neve.",
+      "Adicione o creme de leite e o açúcar e bata de novo até misturar bem.",
+      "Adicione o creme 1 e bata de novo até ficar bem misturado.",
+      "Retire a forma do freezer e coloque a mistura.",
+      "Leve ao freezer e deixe por mais ou menos 24 horas até virar um sorvete.",
+      "Depois de descansar no freezer desenforme o bolo e este estará pronto para comer.",
+      "Bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Forma de pudim",
+    "Liquidificador",
+    "Panela",
+    "Bandeja",
+    "Forma"
+  ],
+  "texto_para_embedding": "Bolo de sorvete. Ingredientes: chocolate em pó, água, forma de bolo com furo no meio (ou como desejar), panela pequena, gemas, leite condensado, leite comum, liquidificador, panela grande, bandeja com água, claras, creme de leite, açúcar, batedeira. Preparo: Coloque na panela, o chocolate em pó e a água, misture até dissolver o chocolate e leve ao fogo. Deixe até engrossar. Depois pegue a calda e coloque na forma, untando somente o fundo."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tg-21399",
+  "titulo": "Gelatina com creme de leite",
+  "url": "https://www.tudogostoso.com.br/receita/21399-gelatina-com-creme-de-leite.html",
+  "nota": 4.5,
+  "n_avaliacoes": 166,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina com creme de leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "gelatina (sabor de sua preferência) Dr. Oetker",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina (sabor de sua preferência) Dr. Oetker"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "acúçar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de acúçar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare a gelatina DrOetker conforme instruções e coloque 2 colheres de açúcar na água fervente.",
+      "Após diluir bem a gelatina coloque no liquidificador e bata junto com o creme de leite por aproximadamente 3 minutos.",
+      "Coloque em taças e leve à geladeira por 2 horas."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Taça de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Gelatina com creme de leite. Ingredientes: gelatina (sabor de sua preferência) Dr. Oetker, creme de leite sem soro, acúçar. Preparo: Prepare a gelatina DrOetker conforme instruções e coloque 2 colheres de açúcar na água fervente. Após diluir bem a gelatina coloque no liquidificador e bata junto com o creme de leite por aproximadamente 3 minutos. Coloque em taças e leve à geladeira por 2 horas."
+}

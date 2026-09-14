@@ -1,0 +1,55 @@
+{
+  "id": "tg-12934",
+  "titulo": "Pudim de claras",
+  "url": "https://www.tudogostoso.com.br/receita/12934-pudim-de-claras.html",
+  "nota": 4.0,
+  "n_avaliacoes": 157,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de claras",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "claras de ovo",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 claras de ovo"
+    },
+    {
+      "nome": "sopa de açúcar refinado",
+      "quantidade": "16",
+      "unidade": "colheres",
+      "texto_original": "16 colheres de sopa de açúcar refinado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque as claras numa tigela e bata na batedeira até ficarem bem firmes.",
+      "Vá colocando o açúcar aos poucos, batendo muito bem entre cada adição.",
+      "Depois de acrescentado todo o açúcar, continue batendo por mais 5 minutos.",
+      "O suspiro deve ficar bem duro.",
+      "Coloque o suspiro dentro de uma forma previamente caramelada.",
+      "Coloque a forma dentro de uma assadeira com um pouco de água.",
+      "Leve em banho-maria em temperatura baixa (120º graus) por cerca de 30 minutos.",
+      "O pudim deve estar dourado por cima.",
+      "Retire do forno e deixe ficar morno.",
+      "Coloque um prato por cima da forma e vire de uma vez.",
+      "Levante a forma delicadamente para o pudim ir \"caindo\" aos poucos.",
+      "É importante não desenformar o pudim quente, pois pode quebrar.",
+      "Também não deve estar frio, pois pode não sair da forma.",
+      "Uso essa receita quando faço fios de ovos, pois as claras que sobram, nunca se têm o que fazer com elas.",
+      "Caso tenha mais claras de ovos, vá dobrando o açúcar proporcionalmente, ou faça mais pudins."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Forma de pudim",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Formo de bolo",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Pudim de claras. Ingredientes: claras de ovo, sopa de açúcar refinado. Preparo: Coloque as claras numa tigela e bata na batedeira até ficarem bem firmes. Vá colocando o açúcar aos poucos, batendo muito bem entre cada adição. Depois de acrescentado todo o açúcar, continue batendo por mais 5 minutos."
+}

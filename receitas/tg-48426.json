@@ -1,0 +1,94 @@
+{
+  "id": "tg-48426",
+  "titulo": "Bolo de cenoura fofinho com cobertura de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/48426-bolo-de-cenoura-fofinho-com-cobertura-de-chocolate.html",
+  "nota": 4.7,
+  "n_avaliacoes": 190,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura fofinho com cobertura de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo de soja"
+    },
+    {
+      "nome": "cenouras bem grandes ou 3 se forem médias",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras bem grandes ou 3 se forem médias"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "cheias de açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres cheias de açúcar"
+    },
+    {
+      "nome": "cheias de chocolate em pó",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres cheias de chocolate em pó"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "Um pouquinho de leite, apenas para desmanchar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Um pouquinho de leite, apenas para desmanchar"
+    }
+  ],
+  "modo_preparo": {
+    "Bolo:": [
+      "Bata a cenoura, os ovos e o óleo no liquidificador.",
+      "Em uma vasilha à parte, misture os outros ingredientes e coloque em tabuleiro untado.",
+      "Asse em forno médio, pré-aquecido, por 30 a 40 minutos."
+    ],
+    "Cobertura:": [
+      "Coloque todos os ingredientes em uma panela e leve ao fogo, sempre mexendo, até ferver um pouco.",
+      "Faça furos no bolo para o chocolate escorrer pelo meio do bolo."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Formo de bolo",
+    "Fouet",
+    "Panela com cabo"
+  ],
+  "texto_para_embedding": "Bolo de cenoura fofinho com cobertura de chocolate. Ingredientes: ovos, óleo de soja, cenouras bem grandes ou 3 se forem médias, farinha de trigo, açúcar, fermento em pó, cheias de açúcar, cheias de chocolate em pó, manteiga, Um pouquinho de leite, apenas para desmanchar. Preparo: Bata a cenoura, os ovos e o óleo no liquidificador. Em uma vasilha à parte, misture os outros ingredientes e coloque em tabuleiro untado. Asse em forno médio, pré-aquecido, por 30 a 40 minutos."
+}

@@ -1,0 +1,73 @@
+{
+  "id": "tg-109885",
+  "titulo": "Filé de frango gratinado",
+  "url": "https://www.tudogostoso.com.br/receita/109885-file-de-frango-gratinado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 147,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Filé de frango gratinado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "filé de frango (não muito grosso)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de frango (não muito grosso)"
+    },
+    {
+      "nome": "envelope de creme de cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de creme de cebola"
+    },
+    {
+      "nome": "vinho branco seco",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de vinho branco seco"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de mostarda"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "caixinhas de creme de leite",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caixinhas de creme de leite"
+    },
+    {
+      "nome": "leite de coco",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite de coco"
+    },
+    {
+      "nome": "pimenta a gosto (pimenta-do-reino ou vermelha)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto (pimenta-do-reino ou vermelha)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere o filé de frango, somente com o creme de cebola e espalhe em uma assadeira/pirex abertos, reserve.",
+      "Em um recipiente grande separado (bacia), misture todos os outros ingredientes, apenas misture formando um creme.",
+      "Não é necessário levar ao fogo.",
+      "Depois de misturado, despeje em cima dos filés e leve ao forno médio, por 35 minutos aproximadamente ou até gratinar (dourar)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Filé de frango gratinado. Ingredientes: filé de frango (não muito grosso), envelope de creme de cebola, vinho branco seco, mostarda, requeijão, caixinhas de creme de leite, leite de coco, pimenta a gosto (pimenta-do-reino ou vermelha). Preparo: Tempere o filé de frango, somente com o creme de cebola e espalhe em uma assadeira/pirex abertos, reserve. Em um recipiente grande separado (bacia), misture todos os outros ingredientes, apenas misture formando um creme. Não é necessário levar ao fogo."
+}

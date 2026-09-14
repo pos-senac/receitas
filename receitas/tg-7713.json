@@ -1,0 +1,45 @@
+{
+  "id": "tg-7713",
+  "titulo": "Ovo frito no microondas",
+  "url": "https://www.tudogostoso.com.br/receita/7713-ovo-frito-no-microondas.html",
+  "nota": 4.7,
+  "n_avaliacoes": 142,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Ovo frito no microondas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "sopa margarina ou de azeite",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa margarina ou de azeite"
+    },
+    {
+      "nome": "refratário pequeno e com tampa",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 refratário pequeno e com tampa"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Colocar o refratário no microondas com a margarina ou azeite.",
+      "Programar o microondas para derreter a margarina ou aquecer o azeite.",
+      "Dependendo do aparelho, o tempo para derreter a margarina varia de 30 a 50 segundos enquanto que para aquecer o azeite varia de 4 a 6 segundos.",
+      "Retirar o refratário do microondas e quebrar os dois ovos na gordura que se formou, com um palito fazer um pequeno furo na gema.",
+      "Tampar o refratário e levá-lo novamente ao microondas por no máximo 2 minutos.",
+      "Se desejar uma gema mais mole, programar o microondas para funcionar no máximo por 1 minuto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Ovo frito no microondas. Ingredientes: ovos, sopa margarina ou de azeite, refratário pequeno e com tampa. Preparo: Colocar o refratário no microondas com a margarina ou azeite. Programar o microondas para derreter a margarina ou aquecer o azeite. Dependendo do aparelho, o tempo para derreter a margarina varia de 30 a 50 segundos enquanto que para aquecer o azeite varia de 4 a 6 segundos."
+}

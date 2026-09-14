@@ -1,0 +1,84 @@
+{
+  "id": "tg-132974",
+  "titulo": "Macarrão de panela de pressão com queijo",
+  "url": "https://www.tudogostoso.com.br/receita/132974-macarrao-de-panela-de-pressao-com-queijo.html",
+  "nota": 4.7,
+  "n_avaliacoes": 113,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão de panela de pressão com queijo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "500 g de macarrão penne ou parafuso",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de 500 g de macarrão penne ou parafuso"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de molho de tomate"
+    },
+    {
+      "nome": "cubos de caldo kinnor de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubos de caldo kinnor de galinha"
+    },
+    {
+      "nome": "calabresa(ou mais se preferir) picada em cubos",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de calabresa(ou mais se preferir) picada em cubos"
+    },
+    {
+      "nome": "queijo gorgonzola ou 1 copo de requeijão (*com o queijo fica mais cremoso)",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de queijo gorgonzola ou 1 copo de requeijão (*com o queijo fica mais cremoso)"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "água suficiente para cobrir o macarrão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "água suficiente para cobrir o macarrão"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "Queijo ralado para polvilhar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo ralado para polvilhar a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque óleo na panela o suficiente para untá-la.",
+      "Refogue o alho e depois junte a calabresa picada em cubos, deixe dar uma leve dourada.",
+      "Coloque os cubos de caldo knorr e dissolva-os no óleo e na gordura que a própria calabresa solta.",
+      "Feito isso acrescente o macarrão (cru mesmo) e misture bem .",
+      "Acrescente o molho de tomate e mexa de novo.",
+      "Coloque água na panela, o suficiente para cobrir o macarrão. Coloque o queijo esfarelando-o (ou o requeijão) e misture tudo.",
+      "Feche a panela e coloque em fogo médio.",
+      "Quando pegar pressão, conte 5 (cinco) minutos. Retire a pressão da panela e abra.",
+      "Acrescente o creme de leite mexa bem."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão de panela de pressão com queijo. Ingredientes: 500 g de macarrão penne ou parafuso, molho de tomate, cubos de caldo kinnor de galinha, calabresa(ou mais se preferir) picada em cubos, queijo gorgonzola ou 1 copo de requeijão (*com o queijo fica mais cremoso), alho, água suficiente para cobrir o macarrão, caixinha de creme de leite, Queijo ralado para polvilhar a gosto. Preparo: Coloque óleo na panela o suficiente para untá-la. Refogue o alho e depois junte a calabresa picada em cubos, deixe dar uma leve dourada. Coloque os cubos de caldo knorr e dissolva-os no óleo e na gordura que a própria calabresa solta."
+}

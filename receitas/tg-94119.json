@@ -1,0 +1,64 @@
+{
+  "id": "tg-94119",
+  "titulo": "Biscoito de queijo da Vovó",
+  "url": "https://www.tudogostoso.com.br/receita/94119-biscoito-de-queijo-da-vovo.html",
+  "nota": 4.3,
+  "n_avaliacoes": 222,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de queijo da Vovó",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "polvilho (copo de requeijão ou xicara de chá é a mesma medida)",
+      "quantidade": "4",
+      "unidade": "copos",
+      "texto_original": "4 copos de polvilho (copo de requeijão ou xicara de chá é a mesma medida)"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "3",
+      "unidade": "copos",
+      "texto_original": "3 copos de queijo ralado"
+    },
+    {
+      "nome": "leite gelado",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite gelado"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo (faltando 2 dedos para cheio)",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de óleo (faltando 2 dedos para cheio)"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Molhe o polvilho com o leite gelado, amasse com as mãos até ficar soltinho.",
+      "Esquente bem o óleo e coloque no polvilho já molhado com o leite gelado, amassando. Coloque o queijo e os ovos e e amasse bem até ficar firme e depois é só enrolar. Colocar sal apenas se necessário, deixe por último, as vezes o sal do queijo é suficiente.",
+      "Levar ao forno preaquecido, até dourar um pouco. Não deixe muito se não fica duro."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Forma"
+  ],
+  "texto_para_embedding": "Biscoito de queijo da Vovó. Ingredientes: polvilho (copo de requeijão ou xicara de chá é a mesma medida), queijo ralado, leite gelado, ovos, óleo (faltando 2 dedos para cheio), sal a gosto. Preparo: Molhe o polvilho com o leite gelado, amasse com as mãos até ficar soltinho. Esquente bem o óleo e coloque no polvilho já molhado com o leite gelado, amassando. Coloque o queijo e os ovos e e amasse bem até ficar firme e depois é só enrolar. Colocar sal apenas se necessário, deixe por último, as vezes o sal do queijo é suficiente. Levar ao forno preaquecido, até dourar um pouco. Não deixe muito se não fica duro."
+}

@@ -1,0 +1,125 @@
+{
+  "id": "tg-80657",
+  "titulo": "Torta de salsicha de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/80657-torta-de-salsicha-de-liquidificador.html",
+  "nota": 4.5,
+  "n_avaliacoes": 371,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de salsicha de liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "sopa farinha de trigo",
+      "quantidade": "12",
+      "unidade": "colheres",
+      "texto_original": "12 colheres de sopa farinha de trigo"
+    },
+    {
+      "nome": "sopa de queijo parmesão",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de queijo parmesão"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de leite"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "sopa de fermento",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de fermento"
+    },
+    {
+      "nome": "salsicha em rodela",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de salsicha em rodela"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilha"
+    },
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "tomates sem pele picado",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates sem pele picado"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Salsa e cebolinha picadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsa e cebolinha picadas"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Coloque no liquidificador a farinha, o queijo, leite, oleo, os ovos, sal e o fermento.",
+      "Bata bem e reserve."
+    ],
+    "Recheio:": [
+      "Coloque em uma vasilha a salsicha, a cebola, a ervilha, o milho, os tomates, orégano, sal, salsinha e cebolinha.",
+      "Misture como se fosse uma salada.",
+      "Após untar a assadeira, despeje a massa e por cima o recheio.",
+      "Leve ao forno pré-aquecido até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Colher de pau",
+    "Espatula",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Torta de salsicha de liquidificador. Ingredientes: sopa farinha de trigo, sopa de queijo parmesão, chá de leite, chá de óleo, ovos, Sal, sopa de fermento, salsicha em rodela, cebola picada, ervilha, milho, tomates sem pele picado, Orégano, Sal a gosto, Salsa e cebolinha picadas. Preparo: Coloque no liquidificador a farinha, o queijo, leite, oleo, os ovos, sal e o fermento. Bata bem e reserve. Coloque em uma vasilha a salsicha, a cebola, a ervilha, o milho, os tomates, orégano, sal, salsinha e cebolinha."
+}

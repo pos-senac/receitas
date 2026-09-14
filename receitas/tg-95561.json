@@ -1,0 +1,99 @@
+{
+  "id": "tg-95561",
+  "titulo": "Torta de frango cremosa da Aline",
+  "url": "https://www.tudogostoso.com.br/receita/95561-torta-de-frango-cremosa-da-aline.html",
+  "nota": 4.6,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de frango cremosa da Aline",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 75,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "e óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) e óleo"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "peito de frango temperado, cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango temperado, cozido e desfiado"
+    },
+    {
+      "nome": "salsa picada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsa picada a gosto"
+    },
+    {
+      "nome": "catupiry",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de catupiry"
+    },
+    {
+      "nome": "milho escorrido",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho escorrido"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "No liquidificador, bata o leite, a farinha, o óleo, o queijo, o fermento, os ovos e o creme de leite."
+    ],
+    "Recheio:": [
+      "Em uma tigela, misture o frango, a salsa, o catupiry, o sal e o milho.",
+      "Em uma forma untada com margarina, coloque metade da massa, o recheio e cubra com o restante da massa.",
+      "Asse no forno preaquecido a 200º C durante 40 minutos, ou até que a superfície fique dourada e crocante."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de frango cremosa da Aline. Ingredientes: leite, farinha de trigo, e óleo, queijo parmesão ralado, fermento em pó, ovos, caixinha de creme de leite, peito de frango temperado, cozido e desfiado, salsa picada a gosto, catupiry, milho escorrido, sal a gosto. Preparo: No liquidificador, bata o leite, a farinha, o óleo, o queijo, o fermento, os ovos e o creme de leite. Em uma tigela, misture o frango, a salsa, o catupiry, o sal e o milho. Em uma forma untada com margarina, coloque metade da massa, o recheio e cubra com o restante da massa."
+}

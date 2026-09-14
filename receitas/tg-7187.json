@@ -1,0 +1,94 @@
+{
+  "id": "tg-7187",
+  "titulo": "Sopa de Cebola",
+  "url": "https://www.tudogostoso.com.br/receita/7187-sopa-de-cebola.html",
+  "nota": 4.7,
+  "n_avaliacoes": 407,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de Cebola",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho"
+    },
+    {
+      "nome": "tablete de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de farinha de trigo"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "batatas pré-cozidas picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 batatas pré-cozidas picadas"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga"
+    },
+    {
+      "nome": "água fervente",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de água fervente"
+    },
+    {
+      "nome": "cebola fatiada",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de cebola fatiada"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta do reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogar na manteiga o alho, a cebola e as batatas.",
+      "Dissolver em 2 colheres de água fria o caldo de carne, sal, pimenta e farinha de trigo.",
+      "Juntar tudo mais a água fervente e cozinhar por 20 minutos.",
+      "Desligue o fogo e acrescente o creme de leite.",
+      "Bata tudo no liquidificador e leve ao fogo.",
+      "Antes de servir, polvilhe com salsa e queijo. Bom apetite."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Prato fundo",
+    "Fouet",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Sopa de Cebola. Ingredientes: alho, tablete de caldo de carne, farinha de trigo, creme de leite sem soro, batatas pré-cozidas picadas, manteiga, água fervente, cebola fatiada, Sal, Pimenta do reino a gosto. Preparo: Refogar na manteiga o alho, a cebola e as batatas. Dissolver em 2 colheres de água fria o caldo de carne, sal, pimenta e farinha de trigo. Juntar tudo mais a água fervente e cozinhar por 20 minutos."
+}

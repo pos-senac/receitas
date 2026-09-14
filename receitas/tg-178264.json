@@ -1,0 +1,64 @@
+{
+  "id": "tg-178264",
+  "titulo": "Bombom de uva na travessa",
+  "url": "https://www.tudogostoso.com.br/receita/178264-bombom-de-uva-na-travessa.html",
+  "nota": 4.8,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Bombom de uva na travessa",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 5,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "uva thompson",
+      "quantidade": "700",
+      "unidade": "g",
+      "texto_original": "700 g de uva thompson"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1 e 1/2",
+      "unidade": "caixa",
+      "texto_original": "1 e 1/2 caixa de creme de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "chocolate meio amargo",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de chocolate meio amargo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Solte as uvas do cacho, lave-as, seque bem e reserve.",
+      "Em uma panela, coloque o leite condensado e a margarina e leve ao fogo médio mexendo sempre até soltar do fundo da panela.",
+      "Deixe esfriar, adicione 1/2 caixinha de creme de leite e reserve.",
+      "Em uma panela, quebre o chocolate em pedaços e leve ao fogo em banho-maria até que esteja completamente derretido.",
+      "Acrescente o creme de leite e misture bem.",
+      "Em um refratário, coloque todo o creme branco, forre o creme com as uvas e despeje a ganache de chocolate por cima.",
+      "Leve à geladeira, decore como desejar e sirva gelado.",
+      "Bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Bombom de uva na travessa. Ingredientes: uva thompson, leite condensado, creme de leite, margarina, chocolate meio amargo. Preparo: Solte as uvas do cacho, lave-as, seque bem e reserve. Em uma panela, coloque o leite condensado e a margarina e leve ao fogo médio mexendo sempre até soltar do fundo da panela. Deixe esfriar, adicione 1/2 caixinha de creme de leite e reserve."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "tg-10869",
+  "titulo": "Pasta americana",
+  "url": "https://www.tudogostoso.com.br/receita/10869-pasta-americana.html",
+  "nota": 4.2,
+  "n_avaliacoes": 247,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Pasta americana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "sopa de água",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de água"
+    },
+    {
+      "nome": "pacotinhos de gelatina em pó sem sabor (24 g)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pacotinhos de gelatina em pó sem sabor (24 g)"
+    },
+    {
+      "nome": "sopa de gordura vegetal hidrogenada",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de gordura vegetal hidrogenada"
+    },
+    {
+      "nome": "sopa de glucose de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de glucose de milho"
+    },
+    {
+      "nome": "açúcar de confeiteiro",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de açúcar de confeiteiro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva a gelatina na água por 5 minutos.",
+      "Leve ao fogo em banho-maria e adicione a glucose e a gordura vegetal, mexa até dissolver bem.",
+      "Retire do fogo e aos poucos acrescente o açúcar até formar uma massa.",
+      "Após ficar pronta espalhe-a na bancada até dar o ponto de abrir com um rolo de massa.",
+      "Está pronta para ser colocada sobre o seu bolo ou torta."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pasta americana. Ingredientes: sopa de água, pacotinhos de gelatina em pó sem sabor (24 g), sopa de gordura vegetal hidrogenada, sopa de glucose de milho, açúcar de confeiteiro. Preparo: Dissolva a gelatina na água por 5 minutos. Leve ao fogo em banho-maria e adicione a glucose e a gordura vegetal, mexa até dissolver bem. Retire do fogo e aos poucos acrescente o açúcar até formar uma massa."
+}

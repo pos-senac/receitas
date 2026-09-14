@@ -1,0 +1,65 @@
+{
+  "id": "tg-1432",
+  "titulo": "Massa para empadinhas",
+  "url": "https://www.tudogostoso.com.br/receita/1432-massa-para-empadinhas.html",
+  "nota": 4.5,
+  "n_avaliacoes": 176,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Massa para empadinhas",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 80,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras chá de farinha de trigo"
+    },
+    {
+      "nome": "250g de manteiga ou margarina",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "250g de manteiga ou margarina"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "café de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de café de sal"
+    },
+    {
+      "nome": "café de fermento em pó.",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de café de fermento em pó."
+    },
+    {
+      "nome": "gema para pincelar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema para pincelar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, misture a farinha de trigo, a manteiga, a gema de ovo, sal e o fermento em pó.",
+      "Amasse até formar uma massa quebradiça.",
+      "Pré-aqueça o forno em temperatura média, forre o fundo e as laterais das forminhas, não precisa untar, tampe com a massa e pincele com a gema de ovo."
+    ]
+  },
+  "utensilios": [
+    "Forminha de empada",
+    "Bowl",
+    "Forma",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Massa para empadinhas. Ingredientes: chá de farinha de trigo, 250g de manteiga ou margarina, gemas, café de sal, café de fermento em pó., gema para pincelar. Preparo: Em uma tigela, misture a farinha de trigo, a manteiga, a gema de ovo, sal e o fermento em pó. Amasse até formar uma massa quebradiça. Pré-aqueça o forno em temperatura média, forre o fundo e as laterais das forminhas, não precisa untar, tampe com a massa e pincele com a gema de ovo."
+}

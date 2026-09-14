@@ -1,0 +1,54 @@
+{
+  "id": "tg-83743",
+  "titulo": "Cupcake Gelado de Nutella",
+  "url": "https://www.tudogostoso.com.br/receita/83743-cupcake-gelado-de-nutella.html",
+  "nota": 4.7,
+  "n_avaliacoes": 189,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Cupcake Gelado de Nutella",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "350g de Nutella",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de 350g de Nutella"
+    },
+    {
+      "nome": "biscoito maisena",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de biscoito maisena"
+    },
+    {
+      "nome": "170g de chocolate meio amargo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "170g de chocolate meio amargo"
+    },
+    {
+      "nome": "170ml de creme de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "170ml de creme de leite"
+    },
+    {
+      "nome": "pote de sorvete ao gosto pessoal [no caso desta receita flocos]",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de sorvete ao gosto pessoal [no caso desta receita flocos]"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador triture bem os biscoitos, coloque em uma tigela e misture com a nutella até virar uma massa.",
+      "Forre o fundo das forminhas de muffins e cubra com sorvete.",
+      "Leve para gelar. Derreta o chocolate e misture o creme de leite fazendo uma ganache. Desenforme os cupcakes, cubra com a ganache e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cupcake Gelado de Nutella. Ingredientes: 350g de Nutella, biscoito maisena, 170g de chocolate meio amargo, 170ml de creme de leite, pote de sorvete ao gosto pessoal [no caso desta receita flocos]. Preparo: No liquidificador triture bem os biscoitos, coloque em uma tigela e misture com a nutella até virar uma massa. Forre o fundo das forminhas de muffins e cubra com sorvete. Leve para gelar. Derreta o chocolate e misture o creme de leite fazendo uma ganache. Desenforme os cupcakes, cubra com a ganache e sirva."
+}

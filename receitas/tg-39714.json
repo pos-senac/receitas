@@ -1,0 +1,83 @@
+{
+  "id": "tg-39714",
+  "titulo": "Bolo de limão com gelatina e iogurte",
+  "url": "https://www.tudogostoso.com.br/receita/39714-bolo-de-limao-com-gelatina-e-iogurte.html",
+  "nota": 4.8,
+  "n_avaliacoes": 153,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de limão com gelatina e iogurte",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos inteiros"
+    },
+    {
+      "nome": "iogurte natural",
+      "quantidade": "1",
+      "unidade": "copo (200 ml)",
+      "texto_original": "1 copo (200 ml) de iogurte natural"
+    },
+    {
+      "nome": "A mesma medida de óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "A mesma medida de óleo"
+    },
+    {
+      "nome": "caixinha de gelatina sabor limão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de gelatina sabor limão"
+    },
+    {
+      "nome": "massa pronta para bolo sabor limão",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote massa pronta para bolo sabor limão"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "Suco de 2 limões",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 2 limões"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador todos os ingredientes, exceto o fermento, até obter uma massa homogênea.",
+      "Em seguida acrescente o fermento.",
+      "Despeje a mistura em forma redonda grande (nº 08 com furo).",
+      "Pré-aqueça o forno à temperatura de 180º.",
+      "Asse durante 30 a 40 minutos.",
+      "Deixe esfriar.",
+      "Desenforme e passe a cobertura sobre o bolo."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Espátula de silicone",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo de limão com gelatina e iogurte. Ingredientes: ovos inteiros, iogurte natural, A mesma medida de óleo, caixinha de gelatina sabor limão, massa pronta para bolo sabor limão, fermento em pó, leite condensado, Suco de 2 limões. Preparo: Bata no liquidificador todos os ingredientes, exceto o fermento, até obter uma massa homogênea. Em seguida acrescente o fermento. Despeje a mistura em forma redonda grande (nº 08 com furo)."
+}

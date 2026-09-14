@@ -1,0 +1,58 @@
+{
+  "id": "tg-143950",
+  "titulo": "Sobremesa prestígio prática",
+  "url": "https://www.tudogostoso.com.br/receita/143950-sobremesa-prestigio-pratica.html",
+  "nota": 4.8,
+  "n_avaliacoes": 175,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Sobremesa prestígio prática",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "1/2",
+      "unidade": "pacote",
+      "texto_original": "1/2 pacote de coco ralado"
+    },
+    {
+      "nome": "sopa de maisena (amido de milho)",
+      "quantidade": "2 e 1/2",
+      "unidade": "colheres",
+      "texto_original": "2 e 1/2 colheres de sopa de maisena (amido de milho)"
+    },
+    {
+      "nome": "sopa de nescau ou chocolate em pó",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de nescau ou chocolate em pó"
+    },
+    {
+      "nome": "caixinha de creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite sem soro"
+    }
+  ],
+  "modo_preparo": {
+    "Creme Branco:": [
+      "Em uma panela, adicione todos os ingredientes e leve ao fogo mexendo sempre até que ganhe consistência (a maisena tem esta função de endurecer e quebrar o doce da sobremesa não a deixando enjoativa).",
+      "Após ganhar consistência, despeje o creme branco em um pirex e reserve."
+    ],
+    "Creme Preto:": [
+      "Em uma outra panela, adicione as seis colheres de Nescau o chocolate em pó levando-as ao fogo e  deixando \"queimar\".",
+      "Assim que o chocolate começar a ficar quente, desligue o fogo e adicione a caixinha de creme de leite, mexendo até ficar homogênea.",
+      "Despeje o creme preto sobre o creme branco e leve a geladeira por cerca de duas horas (para que fique durinho e gelado)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sobremesa prestígio prática. Ingredientes: leite condensado, coco ralado, sopa de maisena (amido de milho), sopa de nescau ou chocolate em pó, caixinha de creme de leite sem soro. Preparo: Em uma panela, adicione todos os ingredientes e leve ao fogo mexendo sempre até que ganhe consistência (a maisena tem esta função de endurecer e quebrar o doce da sobremesa não a deixando enjoativa). Após ganhar consistência, despeje o creme branco em um pirex e reserve. Em uma outra panela, adicione as seis colheres de Nescau o chocolate em pó levando-as ao fogo e  deixando \"queimar\"."
+}

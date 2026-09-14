@@ -1,0 +1,119 @@
+{
+  "id": "tg-106582",
+  "titulo": "Rocambole de carne moída recheado",
+  "url": "https://www.tudogostoso.com.br/receita/106582-rocambole-de-carne-moida-recheado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 112,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Rocambole de carne moída recheado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "carne moída crua",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne moída crua"
+    },
+    {
+      "nome": "cebola grande picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada"
+    },
+    {
+      "nome": "creme de cebola",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de creme de cebola"
+    },
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de azeite"
+    },
+    {
+      "nome": "maço de cebolinha e salsinha picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 maço de cebolinha e salsinha picada"
+    },
+    {
+      "nome": "Tiras de bacon ou bacon em cubinhos a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tiras de bacon ou bacon em cubinhos a gosto"
+    },
+    {
+      "nome": "Tiras de cenoura a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tiras de cenoura a gosto"
+    },
+    {
+      "nome": "pedaço de papel alumínio",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pedaço de papel alumínio"
+    },
+    {
+      "nome": "Utilize o que tiver em casa e na quantidade que desejar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Utilize o que tiver em casa e na quantidade que desejar"
+    },
+    {
+      "nome": "ovos cozidos cortados na horizontal",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos cozidos cortados na horizontal"
+    },
+    {
+      "nome": "Fatias de presunto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Fatias de presunto"
+    },
+    {
+      "nome": "Fatias de mussarela",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Fatias de mussarela"
+    },
+    {
+      "nome": "Vagem cozida no vapor",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Vagem cozida no vapor"
+    },
+    {
+      "nome": "Cenouras em tiras",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cenouras em tiras"
+    }
+  ],
+  "modo_preparo": {
+    "Rocambole:": [
+      "Misture BEM a carne moída, o creme de cebola, a cebola picada, a cebolinha, a salsinha e o azeite.",
+      "Em cima do papel alumínio, abra a mistura. Não a deixe muito grossa pois depois iremos fazer uma volta completa para formar um rocambole.",
+      "Recheie com todos os ingredientes que tiver em casa, ou com o que desejar. Nessa foto, coloquei ovos cozidos, presunto, vagem, cenoura e queijo mussarela.",
+      "Comece a enrolar a carne até que forme uma volta completa. Com as mãos arrume a carne moída para que não fique nenhuma fenda aberta. Deixe enrolado no papel alumínio.",
+      "Vai ao forno alto por 30 minutos.",
+      "Tire o papel alumínio, coloque as tiras de cenoura e os cubinhos de bacon por cima e volte ao forno por mais 5 ou 10 minutos para dourar o lado externo.",
+      "Sirva com purê ou arroz branco."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Espátula de silicone",
+    "Faca",
+    "Forma",
+    "Panela de cerâmica",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Rocambole de carne moída recheado. Ingredientes: carne moída crua, cebola grande picada, creme de cebola, sopa de azeite, maço de cebolinha e salsinha picada, Tiras de bacon ou bacon em cubinhos a gosto, Tiras de cenoura a gosto, pedaço de papel alumínio, Utilize o que tiver em casa e na quantidade que desejar, ovos cozidos cortados na horizontal, Fatias de presunto, Fatias de mussarela, Vagem cozida no vapor, Cenouras em tiras. Preparo: Misture BEM a carne moída, o creme de cebola, a cebola picada, a cebolinha, a salsinha e o azeite. Em cima do papel alumínio, abra a mistura. Não a deixe muito grossa pois depois iremos fazer uma volta completa para formar um rocambole. Recheie com todos os ingredientes que tiver em casa, ou com o que desejar. Nessa foto, coloquei ovos cozidos, presunto, vagem, cenoura e queijo mussarela."
+}

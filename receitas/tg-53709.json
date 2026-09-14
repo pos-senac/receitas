@@ -1,0 +1,83 @@
+{
+  "id": "tg-53709",
+  "titulo": "Risoto de frango fácil",
+  "url": "https://www.tudogostoso.com.br/receita/53709-risoto-de-frango-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 160,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Risoto de frango fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "frango desfiado",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de frango desfiado"
+    },
+    {
+      "nome": "arroz",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de arroz"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    },
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo mussarela"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "Molho de tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Molho de tomate"
+    },
+    {
+      "nome": "Alho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Alho"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o arroz.",
+      "Cozinhe e desfie o frango.",
+      "Refogue a cebola, e o alho, acrescente o sal.",
+      "Acrescente o frango, milho, o molho de tomate e o creme de leite, se precisar coloque um pouco de água para ficar mais molhadinho.",
+      "Deixe dar uma fervida.",
+      "Misture o arroz com o molho.",
+      "Corte o queijo em cubos.",
+      "Coloque no arroz e leve ao forno por 10 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Risoto de frango fácil. Ingredientes: frango desfiado, arroz, creme de leite, milho, queijo mussarela, cebola, Molho de tomate, Alho, Sal a gosto. Preparo: Cozinhe o arroz. Cozinhe e desfie o frango. Refogue a cebola, e o alho, acrescente o sal."
+}

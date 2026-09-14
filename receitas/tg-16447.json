@@ -1,0 +1,69 @@
+{
+  "id": "tg-16447",
+  "titulo": "Torta de maçã",
+  "url": "https://www.tudogostoso.com.br/receita/16447-torta-de-maca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 134,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de maçã",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "maçãs picadas (reserve as cascas)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 maçãs picadas (reserve as cascas)"
+    },
+    {
+      "nome": "sopa de canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de canela em pó"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, açúcar, óleo, cascas de maçã e canela em pó.",
+      "Em uma tigela grande separada coloque a farinha de trigo, fermento e as maçãs picadas.",
+      "Em seguida junte a tigela todos os ingredientes batidos no liquidificador.",
+      "Misture bem.",
+      "Coloque a massa em uma forma untada com manteiga e farinha de trigo.",
+      "Leve ao forno."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de maçã. Ingredientes: ovos, chá de açúcar, óleo, maçãs picadas (reserve as cascas), sopa de canela em pó, chá de farinha de trigo, sopa de fermento em pó. Preparo: Bata no liquidificador os ovos, açúcar, óleo, cascas de maçã e canela em pó. Em uma tigela grande separada coloque a farinha de trigo, fermento e as maçãs picadas. Em seguida junte a tigela todos os ingredientes batidos no liquidificador."
+}

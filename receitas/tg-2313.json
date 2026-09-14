@@ -1,0 +1,94 @@
+{
+  "id": "tg-2313",
+  "titulo": "Bolo gelado",
+  "url": "https://www.tudogostoso.com.br/receita/2313-bolo-gelado.html",
+  "nota": 4.7,
+  "n_avaliacoes": 5849,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo gelado",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "suco de laranja",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de suco de laranja"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "garrafa pequena de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafa pequena de leite de coco"
+    },
+    {
+      "nome": "garrafa de leite (utilize a mesma garrafa do leite de coco como medida)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafa de leite (utilize a mesma garrafa do leite de coco como medida)"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "coco ralado sem açúcar",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado sem açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Em uma batedeira, bata as claras em neve acrescentando o açúcar aos poucos e bata por 3 minutos.",
+      "Adicione as gemas, o trigo, o suco e continue batendo até formar uma massa homogênea.",
+      "Por último, adicione o fermento e bata por mais 40 segundos na menor velocidade da batedeira.",
+      "Despeje a massa em uma forma média e untada.",
+      "Asse em forno preaquecido em temperatura média de 180 °C por 40 minutos ou até dourar."
+    ],
+    "Cobertura:": [
+      "Em uma tigela, misture o leite de coco, o leite, o leite condensado e reserve.",
+      "Após 40 minutos, retire o bolo do forno e fure toda a sua superfície com um garfo para facilitar a penetração da cobertura.",
+      "Com o bolo ainda quente, despeje a cobertura sobre ele e salpique por cima o coco ralado.",
+      "Leve a geladeira por 3 horas, depois corte o bolo em quadrados do tamanho que preferir e embrulhe com papel alumínio.",
+      "Conserve na geladeira."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Papel-alumínio",
+    "Espátula de silicone",
+    "Fogão",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo gelado. Ingredientes: ovos, açúcar, farinha de trigo, suco de laranja, fermento em pó, garrafa pequena de leite de coco, garrafa de leite (utilize a mesma garrafa do leite de coco como medida), leite condensado, coco ralado sem açúcar. Preparo: Em uma batedeira, bata as claras em neve acrescentando o açúcar aos poucos e bata por 3 minutos. Adicione as gemas, o trigo, o suco e continue batendo até formar uma massa homogênea. Por último, adicione o fermento e bata por mais 40 segundos na menor velocidade da batedeira."
+}

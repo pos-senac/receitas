@@ -1,0 +1,115 @@
+{
+  "id": "tg-143560",
+  "titulo": "Hamburgão",
+  "url": "https://www.tudogostoso.com.br/receita/143560-hamburgao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 106,
+  "categoria": "Receitas massas",
+  "subcategoria": "Hamburgão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 14,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo (aproximadamente)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo (aproximadamente)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite morno"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água morna"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "rasa de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de açúcar"
+    },
+    {
+      "nome": "fermento biológico",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de fermento biológico"
+    },
+    {
+      "nome": "hambúrgueres de carne bovina",
+      "quantidade": "14",
+      "unidade": null,
+      "texto_original": "14 hambúrgueres de carne bovina"
+    },
+    {
+      "nome": "mussarela ralada",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de mussarela ralada"
+    },
+    {
+      "nome": "tomates picados em cubinhos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates picados em cubinhos"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "maionese"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Primeiramente misture o fermento biológico com um pouco de farinha de trigo.",
+      "Em seguida adicione os ovos.",
+      "Coloque aos poucos o leite e a água,intercalando com farinha de trigo, até dar o ponto. A massa deverá ficar com a consistência de massa de pão.",
+      "Deixe descansar por aproximadamente 10 minutos.",
+      "Enquanto isso prepare o recheio."
+    ],
+    "Para o recheio:": [
+      "Corte os tomates em cubinhos.",
+      "Coloque um pouco de orégano, e se quiser um pouco de cebola, também cortada em cubos."
+    ],
+    "Montagem:": [
+      "Abra a massa, formando círculos, um pouco maiores que o tamanho dos hambúrgueres.",
+      "Sobre um deles, coloque um hambúrguer, um pouco de tomate, queijo, e uma colher de maionese.",
+      "Tampe com outro círculo,aperte as bordas para que o recheio não saia.",
+      "Pincele com gema, para que fiquem dourados.",
+      "Leve ao forno preaquecido, até que fiquem dourados."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Hamburgão. Ingredientes: farinha de trigo (aproximadamente), ovos, leite morno, água morna, óleo, rasa de sal, açúcar, fermento biológico, hambúrgueres de carne bovina, mussarela ralada, tomates picados em cubinhos, orégano, maionese. Preparo: Primeiramente misture o fermento biológico com um pouco de farinha de trigo. Em seguida adicione os ovos. Coloque aos poucos o leite e a água,intercalando com farinha de trigo, até dar o ponto. A massa deverá ficar com a consistência de massa de pão."
+}

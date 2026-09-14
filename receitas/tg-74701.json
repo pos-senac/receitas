@@ -1,0 +1,107 @@
+{
+  "id": "tg-74701",
+  "titulo": "Cachorro quente de forno",
+  "url": "https://www.tudogostoso.com.br/receita/74701-cachorro-quente-de-forno.html",
+  "nota": 4.5,
+  "n_avaliacoes": 196,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Cachorro quente de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "pão de forma sem casca",
+      "quantidade": "1 e 1/2",
+      "unidade": "pacotes",
+      "texto_original": "1 e 1/2 pacotes de pão de forma sem casca"
+    },
+    {
+      "nome": "salsicha",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de salsicha"
+    },
+    {
+      "nome": "azeitona",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de azeitona"
+    },
+    {
+      "nome": "tarantela",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de tarantela"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola ralada"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picado"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de orégano"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "1",
+      "unidade": "copo (requeijão)",
+      "texto_original": "1 copo (requeijão) de maionese"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo requeijão"
+    },
+    {
+      "nome": "uva passa sem semente (opcional)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de uva passa sem semente (opcional)"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    },
+    {
+      "nome": "Batata palha para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Batata palha para decorar"
+    },
+    {
+      "nome": "Queijo mussarela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo mussarela a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Fazer molho do cachorro quente normalmente.",
+      "Depois de pronto desligue e acrescente creme de leite e as uvas (lembrando que as uvas são opcionais).",
+      "Misture maionese com requeijão e passe no pão de forma.",
+      "Arrume uma camada de pão no pirex, coloque o molho de cachorro quente e o queijo, outra camada de pão, molho de cahorro quente e queijo.",
+      "A última camada tem que ser molho e queijo.",
+      "Leva ao forno até derreter o queijo.",
+      "Tirar do forno, colocar batata palha por cima e servir.",
+      "Pode servir acompanhado de uma boa salada."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cachorro quente de forno. Ingredientes: pão de forma sem casca, salsicha, azeitona, tarantela, cebola ralada, alho picado, orégano, maionese, requeijão, uva passa sem semente (opcional), creme de leite, Batata palha para decorar, Queijo mussarela a gosto. Preparo: Fazer molho do cachorro quente normalmente. Depois de pronto desligue e acrescente creme de leite e as uvas (lembrando que as uvas são opcionais). Misture maionese com requeijão e passe no pão de forma."
+}

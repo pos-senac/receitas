@@ -1,0 +1,85 @@
+{
+  "id": "tg-320679",
+  "titulo": "Pizza na airfryer individual com massa caseira prática e rápida com fermento químico",
+  "url": "https://www.tudogostoso.com.br/receita/320679-pizza-na-airfryer-individual-com-massa-caseira-pratica-e-rapida-com-fermento-quimico.html",
+  "nota": 5.0,
+  "n_avaliacoes": 6,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Pizza na airfryer individual com massa caseira prática e rápida com fermento químico",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de sal"
+    },
+    {
+      "nome": "fermento químico",
+      "quantidade": "1/2",
+      "unidade": "colher (café)",
+      "texto_original": "1/2 colher (café) de fermento químico"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de azeite"
+    },
+    {
+      "nome": "xícara (chá) de água",
+      "quantidade": "1/4",
+      "unidade": null,
+      "texto_original": "1/4 de xícara (chá) de água"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de molho de tomate"
+    },
+    {
+      "nome": "queijo mussarela ralado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de queijo mussarela ralado"
+    },
+    {
+      "nome": "linguiça calabresa a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "linguiça calabresa a gosto"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Peneire a farinha de trigo com o sal e o fermento em uma tigela e misture.",
+      "Deixe um espaço no meio e bote o azeite e a água.",
+      "Misture os ingredientes até formar uma massa uniforme e lisinha. Se estiver muito seca, bote um pouco mais de água e, se estiver líquida demais, bote mais farinha peneirada.",
+      "Em seguida, coloque a massa em uma tábua e sove, amassando para baixo e para frente, por cerca de 5 minutos. Caso a massa esteja grudando na tábua, bote bem pouco de farinha para evitar que grude, mas sem exagerar para a massa não ficar seca demais.",
+      "Faça uma bolinha com a massa e coloque em um recipiente coberto com um pano úmido e deixe descansar por 5 a 10 minutos para o fermento e o glúten da farinha começarem a agir. Dica: enquanto espera, já ligue a sua airfryer em 200ºC para aquecê-la.",
+      "Depois, abra a massa de dentro para fora com os dedos, puxando as bordas de leve para esticar o centro até formar um círculo do tamanho de um prato pequeno. Essa massa de pizza na airfryer não fica muito grande para poder caber no cesto do aparelho.",
+      "Faça furinhos na massa com um garfo para ela não crescer muito ao esquentar.",
+      "Coloque sua massa de pizza na airfryer para assar por 5 minutos.",
+      "Abra o cesto e monte sua pizza com o sabor que desejar. Para nossa cobertura sugerida, basta espalhar o molho de tomate com uma colher, colocar o queijo por cima e decorar com rodelas de linguiça e orégano a gosto.",
+      "Feche o cesto mais uma vez e deixe a sua pizza na airfryer por mais uns 5 minutos para o queijo derreter. Depois é só servir!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pizza na airfryer individual com massa caseira prática e rápida com fermento químico. Ingredientes: farinha de trigo, sal, fermento químico, azeite, xícara (chá) de água, molho de tomate, queijo mussarela ralado, linguiça calabresa a gosto, orégano a gosto. Preparo: Peneire a farinha de trigo com o sal e o fermento em uma tigela e misture. Deixe um espaço no meio e bote o azeite e a água. Misture os ingredientes até formar uma massa uniforme e lisinha. Se estiver muito seca, bote um pouco mais de água e, se estiver líquida demais, bote mais farinha peneirada."
+}

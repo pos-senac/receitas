@@ -1,0 +1,46 @@
+{
+  "id": "tg-3051",
+  "titulo": "Docinho de leite ninho",
+  "url": "https://www.tudogostoso.com.br/receita/3051-docinho-de-leite-ninho.html",
+  "nota": 4.4,
+  "n_avaliacoes": 118,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Docinho de leite ninho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 35,
+  "ingredientes": [
+    {
+      "nome": "leite ninho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite ninho"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de açúcar"
+    },
+    {
+      "nome": "leite de coco",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml de leite de coco"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de coco ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes e 100 g do coco ralado. Misture tudo com a mão até dar liga para enrolar.  Passe no coco ralado e pronto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Docinho de leite ninho. Ingredientes: leite ninho, açúcar, leite de coco, coco ralado. Preparo: Misture todos os ingredientes e 100 g do coco ralado. Misture tudo com a mão até dar liga para enrolar.  Passe no coco ralado e pronto."
+}

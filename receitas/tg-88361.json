@@ -1,0 +1,62 @@
+{
+  "id": "tg-88361",
+  "titulo": "Iscas de fígado aceboladas",
+  "url": "https://www.tudogostoso.com.br/receita/88361-iscas-de-figado-aceboladas.html",
+  "nota": 4.6,
+  "n_avaliacoes": 153,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Iscas de fígado aceboladas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "fígado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de fígado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "cebola grande cortada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande cortada em rodelas"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe o fígado e corte em tiras.",
+      "Em uma vasilha coloque o fígado, o leite e o sal a gosto (mais ou menos 2 pitadas) e deixe na geladeira por 20 minutos.",
+      "Aqueça o óleo em uma frigideira, escorra o leite e coloque o fígado e a cebola no óleo quente, mexendo sempre até o fígado ficar macio.",
+      "O leite deixa o fígado macio e tira o cheiro ruim."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Bowl",
+    "Colher de silicone",
+    "Faca",
+    "Leiteira",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Iscas de fígado aceboladas. Ingredientes: fígado, leite, Sal, cebola grande cortada em rodelas, óleo. Preparo: Limpe o fígado e corte em tiras. Em uma vasilha coloque o fígado, o leite e o sal a gosto (mais ou menos 2 pitadas) e deixe na geladeira por 20 minutos. Aqueça o óleo em uma frigideira, escorra o leite e coloque o fígado e a cebola no óleo quente, mexendo sempre até o fígado ficar macio."
+}

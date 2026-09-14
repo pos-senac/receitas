@@ -1,0 +1,97 @@
+{
+  "id": "tg-7518",
+  "titulo": "Bolo fofo de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/7518-bolo-fofo-de-chocolate.html",
+  "nota": 4.7,
+  "n_avaliacoes": 162,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo fofo de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "óleo (soja)",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo (soja)"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água morna"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "chocolate em pó Dr. Oetker",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó Dr. Oetker"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite (sem o soro)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (sem o soro)"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de margarina"
+    },
+    {
+      "nome": "sopa de achocolatado em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de achocolatado em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as gemas, o óleo e a água morna, até misturar bem a água e as gemas.",
+      "Em seguida bata a farinha, o açúcar, chocolate DrOetker e o fermento, (pode colocá-los juntos, para bate-los).",
+      "Bater até formar uma massa.",
+      "Batas as claras em neve e misture à massa.",
+      "Coloque numa forma untada e asse em forno pré-aquecido."
+    ],
+    "Para o recheio:": [
+      "Faça um brigadeiro com o leite condensado, a manteiga e o achocolatado.",
+      "Misture até engrossar.",
+      "Quando aparecer o fundo da panela, apague o fogo, jogue a lata de creme de leite e misture."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo fofo de chocolate. Ingredientes: óleo (soja), água morna, farinha de trigo, açúcar, chocolate em pó Dr. Oetker, ovos, sopa de fermento em pó, leite condensado, creme de leite (sem o soro), sopa de margarina, sopa de achocolatado em pó. Preparo: Bata as gemas, o óleo e a água morna, até misturar bem a água e as gemas. Em seguida bata a farinha, o açúcar, chocolate DrOetker e o fermento, (pode colocá-los juntos, para bate-los). Bater até formar uma massa."
+}

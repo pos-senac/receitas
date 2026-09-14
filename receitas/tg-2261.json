@@ -1,0 +1,78 @@
+{
+  "id": "tg-2261",
+  "titulo": "Bolo mole",
+  "url": "https://www.tudogostoso.com.br/receita/2261-bolo-mole.html",
+  "nota": 4.7,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Bolo mole",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "leite de coco",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite de coco"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de açúcar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "bem cheia de manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres bem cheia de manteiga"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de farinha de trigo"
+    },
+    {
+      "nome": "pires de queijo ralado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pires de queijo ralado"
+    },
+    {
+      "nome": "coco (150 g)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco (150 g)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Unte e enfarinhe uma forma com furo no meio.",
+      "Asse em fogo baixo até que enfiando um palito este saia limpo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo mole. Ingredientes: ovos, leite, leite de coco, açúcar, leite condensado, bem cheia de manteiga, farinha de trigo, pires de queijo ralado, coco (150 g). Preparo: Bata todos os ingredientes no liquidificador. Unte e enfarinhe uma forma com furo no meio. Asse em fogo baixo até que enfiando um palito este saia limpo."
+}

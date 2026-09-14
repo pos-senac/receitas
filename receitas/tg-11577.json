@@ -1,0 +1,55 @@
+{
+  "id": "tg-11577",
+  "titulo": "Pão de ló muito fácil",
+  "url": "https://www.tudogostoso.com.br/receita/11577-pao-de-lo-muito-facil.html",
+  "nota": 4.7,
+  "n_avaliacoes": 267,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Pão de ló muito fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos (claras e gemas separadas)",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos (claras e gemas separadas)"
+    },
+    {
+      "nome": "chá de água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de água"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de açúcar"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "café de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de café de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as claras em neve e reserve.",
+      "Bata as gemas com a água por 3 minutos, acrescente o açúcar e continue batendo até obter uma mistura bem fofa.",
+      "Retire da batedeira, junte a farinha, o fermento e por último as claras misturando delicadamente.",
+      "Unte uma forma e leve ao forno médio por 25 minutos ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de ló muito fácil. Ingredientes: ovos (claras e gemas separadas), chá de água, chá de açúcar, chá de farinha de trigo, café de fermento em pó. Preparo: Bata as claras em neve e reserve. Bata as gemas com a água por 3 minutos, acrescente o açúcar e continue batendo até obter uma mistura bem fofa. Retire da batedeira, junte a farinha, o fermento e por último as claras misturando delicadamente."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "tg-35607",
+  "titulo": "Bolinho de mandioca recheado com queijo",
+  "url": "https://www.tudogostoso.com.br/receita/35607-bolinho-de-mandioca-recheado-com-queijo.html",
+  "nota": 4.3,
+  "n_avaliacoes": 238,
+  "categoria": "Receitas petiscos",
+  "subcategoria": "Bolinho de mandioca recheado com queijo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "mandioca cozida",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de mandioca cozida"
+    },
+    {
+      "nome": "1/2 colher de manteiga",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 colher de manteiga"
+    },
+    {
+      "nome": "Tempero a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tempero a gosto"
+    },
+    {
+      "nome": "Salsinha e cebolinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha e cebolinha a gosto"
+    },
+    {
+      "nome": "queijo de sua preferência",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de queijo de sua preferência"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe a mandioca e amasse com a manteiga.",
+      "Tempere a gosto, amasse bem, pique a salsinha e cebolinha.",
+      "Faça os bolinhos.",
+      "Recheie com queijo.",
+      "Frite em óleo quente.",
+      "Pode ser servido como aperitivo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolinho de mandioca recheado com queijo. Ingredientes: mandioca cozida, 1/2 colher de manteiga, Tempero a gosto, Salsinha e cebolinha a gosto, queijo de sua preferência. Preparo: Cozinhe a mandioca e amasse com a manteiga. Tempere a gosto, amasse bem, pique a salsinha e cebolinha. Faça os bolinhos."
+}

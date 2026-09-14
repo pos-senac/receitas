@@ -1,0 +1,116 @@
+{
+  "id": "tg-301",
+  "titulo": "Bacalhoada",
+  "url": "https://www.tudogostoso.com.br/receita/301-bacalhoada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 240,
+  "categoria": "Receitas bacalhau",
+  "subcategoria": "Bacalhoada",
+  "nivel": "medio",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 90,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "bacalhau",
+      "quantidade": "1,50",
+      "unidade": "kg",
+      "texto_original": "1,50 kg de bacalhau"
+    },
+    {
+      "nome": "batatas descascadas e em fatias entre 0,5 e 1 cm",
+      "quantidade": "800",
+      "unidade": "g",
+      "texto_original": "800 g de batatas descascadas e em fatias entre 0,5 e 1 cm"
+    },
+    {
+      "nome": "pimentão verde cortado em tiras",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde cortado em tiras"
+    },
+    {
+      "nome": "pimentão vermelho cortado em tiras",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão vermelho cortado em tiras"
+    },
+    {
+      "nome": "cebolas grandes fatiadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas grandes fatiadas"
+    },
+    {
+      "nome": "alho picadinhos",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picadinhos"
+    },
+    {
+      "nome": "tomates maduros sem pele e sem semente cortados em pedaços grandes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates maduros sem pele e sem semente cortados em pedaços grandes"
+    },
+    {
+      "nome": "azeitonas pretas sem caroço",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de azeitonas pretas sem caroço"
+    },
+    {
+      "nome": "pimenta-do-reino (se gostar)",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de pimenta-do-reino (se gostar)"
+    },
+    {
+      "nome": "ovos cozidos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos cozidos"
+    },
+    {
+      "nome": "azeite para regar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite para regar"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "cheiro-verde picado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde picado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixe o bacalhau de molho de um dia para o outro, trocando a água pelo menos 3 vezes.",
+      "Desfie e reserve.",
+      "Em uma panela grande, coloque as batatas, cubra com água e cozinhe por cerca de 20 minutos, com a panela tampada.",
+      "Escorra, corte as batatas em rodelas finas e reserve.",
+      "Em um refratário retangular untado com azeite, faça camadas, começando com os tomates, depois a cebola, as batatas, o bacalhau, as ervilhas, os pimentões, as azeitonas e o cheiro-verde.",
+      "Tempere com 1 colher (chá) de sal e 1 colher (café) de Ajinomoto, e regue com o azeite.",
+      "Repita o processo e finalize com os ingredientes que restarem.",
+      "Finalmente, distribua sobre a superfície as rodelas de ovo cozido, regue novamente com o azeite de oliva e leve ao forno baixo (150°), pré-aquecido, por cerca de 1 hora ou até que os ingredientes estejam \"al dente\".",
+      "Sirva em seguida.",
+      "Sirva com arroz branco, salada verde e o vinho da sua preferência.",
+      "Se sobrar, sirva frio no dia seguinte. É uma delícia também."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Faca",
+    "Tábua de corte",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Bacalhoada. Ingredientes: bacalhau, batatas descascadas e em fatias entre 0,5 e 1 cm, pimentão verde cortado em tiras, pimentão vermelho cortado em tiras, cebolas grandes fatiadas, alho picadinhos, tomates maduros sem pele e sem semente cortados em pedaços grandes, azeitonas pretas sem caroço, pimenta-do-reino (se gostar), ovos cozidos, azeite para regar, sal a gosto, cheiro-verde picado. Preparo: Deixe o bacalhau de molho de um dia para o outro, trocando a água pelo menos 3 vezes. Desfie e reserve. Em uma panela grande, coloque as batatas, cubra com água e cozinhe por cerca de 20 minutos, com a panela tampada."
+}

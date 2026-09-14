@@ -1,0 +1,130 @@
+{
+  "id": "tg-48340",
+  "titulo": "Madalena",
+  "url": "https://www.tudogostoso.com.br/receita/48340-madalena.html",
+  "nota": 4.4,
+  "n_avaliacoes": 140,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Madalena",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "batata cozida com com pouco sal",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batata cozida com com pouco sal"
+    },
+    {
+      "nome": "Salsinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha"
+    },
+    {
+      "nome": "caldo de legumes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de legumes"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de queijo ralado"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne moída"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho amassados"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "tomate sem pele e sem sementes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomate sem pele e sem sementes"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de azeite"
+    },
+    {
+      "nome": "Cheiro verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro verde"
+    },
+    {
+      "nome": "Pimenta do reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta do reino"
+    },
+    {
+      "nome": "caldos de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caldos de carne"
+    },
+    {
+      "nome": "catchup",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de catchup"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de mostarda"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe a batata e amasse.",
+      "Coloque a margarina e o leite, faça um purê.",
+      "Coloque na travessa e reserve."
+    ],
+    "Recheio:": [
+      "Coloque o azeite na panela, o alho, a cebola deixe dourar.",
+      "Coloque a carne e deixe fritar um pouco.",
+      "Acrescente o tomate, o caldo de carne, a pimenta, a colher de catchup, a mostarda e deixe refogar.",
+      "Desligue e coloque o cheiro verde."
+    ],
+    "Montagem:": [
+      "Coloque um pouco do purê na travessa, o recheio e o restante do purê.",
+      "Polvilhe queijo ralado por cima e leve ao forno pré-aquecido, por 30 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Madalena. Ingredientes: batata cozida com com pouco sal, Salsinha, caldo de legumes, margarina, leite, queijo ralado, carne moída, alho amassados, cebola picadinha, tomate sem pele e sem sementes, azeite, Cheiro verde, Pimenta do reino, caldos de carne, catchup, mostarda. Preparo: Cozinhe a batata e amasse. Coloque a margarina e o leite, faça um purê. Coloque na travessa e reserve."
+}

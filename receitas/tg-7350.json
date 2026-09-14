@@ -1,0 +1,65 @@
+{
+  "id": "tg-7350",
+  "titulo": "Pão de Queijo no liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/7350-pao-de-queijo-no-liquidificador.html",
+  "nota": 4.5,
+  "n_avaliacoes": 499,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pão de Queijo no liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "chá de polvilho doce",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de chá de polvilho doce"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo ralado"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de óleo"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "chá de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de fermento em pó"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater tudo no liquidificador e por em forminhas untadas com óleo.",
+      "Só assar até que dourem."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de Queijo no liquidificador. Ingredientes: chá de polvilho doce, queijo ralado, ovos, chá de óleo, chá de leite, chá de fermento em pó, Sal a gosto. Preparo: Bater tudo no liquidificador e por em forminhas untadas com óleo. Só assar até que dourem."
+}

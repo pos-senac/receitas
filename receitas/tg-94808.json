@@ -1,0 +1,121 @@
+{
+  "id": "tg-94808",
+  "titulo": "Yakisoba",
+  "url": "https://www.tudogostoso.com.br/receita/94808-yakisoba.html",
+  "nota": 4.8,
+  "n_avaliacoes": 166,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Yakisoba",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "macarrão oriental (na falta pode-se usar espaguete, talharim, linguine)",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de macarrão oriental (na falta pode-se usar espaguete, talharim, linguine)"
+    },
+    {
+      "nome": "carne (filé ou alcatra) cortada em tirinhas",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de carne (filé ou alcatra) cortada em tirinhas"
+    },
+    {
+      "nome": "filé de camarão",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de filé de camarão"
+    },
+    {
+      "nome": "filé de frango cortado em tirinhas ou cubos",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de filé de frango cortado em tirinhas ou cubos"
+    },
+    {
+      "nome": "uma couve-flor média cortada em pequenos buquês",
+      "quantidade": "1/3",
+      "unidade": null,
+      "texto_original": "1/3 de uma couve-flor média cortada em pequenos buquês"
+    },
+    {
+      "nome": "um brócolis japonês grande cortado em pequenos buquês",
+      "quantidade": "1/3",
+      "unidade": null,
+      "texto_original": "1/3 de um brócolis japonês grande cortado em pequenos buquês"
+    },
+    {
+      "nome": "cenoura cortada em tirinhas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura cortada em tirinhas"
+    },
+    {
+      "nome": "pimentão vermelho cortado em tirinhas",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão vermelho cortado em tirinhas"
+    },
+    {
+      "nome": "pimentão amarelo cortado em tirinhas",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão amarelo cortado em tirinhas"
+    },
+    {
+      "nome": "cebola cortada em tirinhas ou em pétalas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola cortada em tirinhas ou em pétalas"
+    },
+    {
+      "nome": "100g de cogumelos cortados em lâminas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "100g de cogumelos cortados em lâminas"
+    },
+    {
+      "nome": "cheias de maisena",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) cheias de maisena"
+    },
+    {
+      "nome": "caldo knorr de carne ou frango",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 caldo knorr de carne ou frango"
+    },
+    {
+      "nome": "molho de soja shoyu sakura",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de molho de soja shoyu sakura"
+    },
+    {
+      "nome": "água",
+      "quantidade": "3 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "3 e 1/2 xícara de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "1. Cozinhe levemente no vapor o brócolis, a couve flor e a cenoura já cortada em tiras - é importante não cozinhar demais (3 minutos de fervura no vapor é suficiente). Eu não gosto de legumes muito cozidos, ainda mais nesse caso que eles sofrerão nova fervura!",
+      "2. Enquanto isso, coloque a água do macarrão para ferver, com sal apenas. Quando levantar fervura coloque o macarrão e desligue quando estiver 'al dente', escorra sem lavar e reserve.",
+      "3. Coloque as três xícaras e meia de água para ferver, com as duas colheres cheias de maisena previamente dissolvida, o meio caldo knnor e o shoyu (se tiver saquê, coloque duas colheres junto). Quando der uma leve engrossada, desligue - está pronto o molho para yakissoba. Existe molho pronto para yakisoba nas lojas especializadas (contém saquê, molho de soja, molho inglês, glutamato monossódico e tonkatsu).",
+      "4. Tempere as carnes apenas com sal (a cozinha oriental não costuma utilizar alho, mas, caso queira, utilize o tempero de sua preferência) e envolva-as com maisena. Doure as carnes numa wok ou numa frigideira antiaderente espaçosa, untando-a com azeite ou óleo de gergelim. Assim que estiverem douradas, acrescente a cebola, em seguida os pimentões e os cogumelos para retirar o cheiro de conservante. Passados uns três minutos, acrescente a cenoura e as florzinhas de brócolis e couve flor, mexa e vá acrescentando o molho para yakisoba. Após ferver um pouco e apresentar uma sobra farta de molho, acrescente o macarrão cozido, deixe ferver rapidamente e desligue.",
+      "Observações importantes:",
+      "? Esse prato, além de ser delicioso e bonito, é muito fácil e rápido de se preparar (cerca de 40 minutos), além de possibilitar muito espaço para alterações: por exemplo, além dos legumes apresentados acima, podem ser utilizados como variantes (ou substitutos) a acelga (crua), a vagem cortada em pedaços de 3cm (pré-cozida), o aipo/salsão (cru), o broto de feijão (cru) ou de bambu, o repolho (cru), abobrinha italiana (crua), ervilha torta (pré-cozida e inteira), além de poder incrementar com raiz forte, gengibre, sementes de gergelim ou de amendoim torrado e descascado, pimenta biquinho.",
+      "? As receitas de yakisoba que pegamos na internet são impraticáveis, pois sugerem cerca de 2 ou 3 caldos knnor, o que se afigura ilógico, pois a carne já é temperada, o shoyu é bastante salgado e o macarrão foi cozido com muito sal - os legumes não pedem muito sal. A receita que apresentei serve cerca de 5 pessoas e se utilizar mais de 1/2 caldo knnor, fica com excesso de sal.",
+      "? A quantidade de água do caldo para yakisoba pode e deve ser alterada. Quando colocamos o caldo e percebemos que ele não está abundante (suficiente para envolver também o macarrão), devemos colocar mais um pouco de água, e se preciso for, água com um pouco maizena diluída.",
+      "? Caso queira acatar a sugestão da cozinha oriental, deve-se fritar o macarrão (após o cozimento da massa) em azeite, numa frigideira antiaderente antes de misturá-lo com os outros ingredientes (dourar o macarrão três minutos de cada lado).",
+      "? Outro detalhe importante: Não ter as três carnes em casa não é desculpa para não fazer o prato. Como eu faço esse prato corriqueiramente, utilizo o que tenho mais fácil: ou só carne vermelha (suína ou bovina - cerca de 400g), ou só peito de frango ou as três carnes se eu tiver à mão. Se não tiver cogumelos, também não altera a qualidade do yakisoba, que pode ser feito com os ingredientes disponíveis - o broto de bambu substitui o cogumelo, uma verdura substitui a outra, um legume substitui um outro que falta. O yakisoba é feito à moda do chef."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Yakisoba. Ingredientes: macarrão oriental (na falta pode-se usar espaguete, talharim, linguine), carne (filé ou alcatra) cortada em tirinhas, filé de camarão, filé de frango cortado em tirinhas ou cubos, uma couve-flor média cortada em pequenos buquês, um brócolis japonês grande cortado em pequenos buquês, cenoura cortada em tirinhas, pimentão vermelho cortado em tirinhas, pimentão amarelo cortado em tirinhas, cebola cortada em tirinhas ou em pétalas, 100g de cogumelos cortados em lâminas, cheias de maisena, caldo knorr de carne ou frango, molho de soja shoyu sakura, água. Preparo: 1. Cozinhe levemente no vapor o brócolis, a couve flor e a cenoura já cortada em tiras - é importante não cozinhar demais (3 minutos de fervura no vapor é suficiente). Eu não gosto de legumes muito cozidos, ainda mais nesse caso que eles sofrerão nova fervura! 2. Enquanto isso, coloque a água do macarrão para ferver, com sal apenas. Quando levantar fervura coloque o macarrão e desligue quando estiver 'al dente', escorra sem lavar e reserve. 3. Coloque as três xícaras e meia de água para ferver, com as duas colheres cheias de maisena previamente dissolvida, o meio caldo knnor e o shoyu (se tiver saquê, coloque duas colheres junto). Quando der uma leve engrossada, desligue - está pronto o molho para yakissoba. Existe molho pronto para yakisoba nas lojas especializadas (contém saquê, molho de soja, molho inglês, glutamato monossódico e tonkatsu)."
+}

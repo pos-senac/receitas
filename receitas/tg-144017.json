@@ -1,0 +1,103 @@
+{
+  "id": "tg-144017",
+  "titulo": "Bolo Indiano",
+  "url": "https://www.tudogostoso.com.br/receita/144017-bolo-indiano.html",
+  "nota": 4.7,
+  "n_avaliacoes": 113,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo Indiano",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "claras",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 claras"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 gemas"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de manteiga"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de açúcar"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de rosca"
+    },
+    {
+      "nome": "sopa de canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de canela em pó"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "leite de vaca (medida pela lata do leite condensado)",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de leite de vaca (medida pela lata do leite condensado)"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata as claras em neve e reserve.",
+      "Em seguida bata na batedeira as gemas, o açúcar e a manteiga até formar um creme.",
+      "Adicione a canela e a farinha de rosca (a massa vai ficar bem seca), misture bem e acrescente a clara em neve sem bater. Só misture com a espátula, e a massa vai ganhando consistência de bolo.",
+      "Por último, acrescente o fermento na massa, misturando levemente.",
+      "Leve pra assar por aproximadamente 40 minutos, a 180°C."
+    ],
+    "Cobertura e Recheio:": [
+      "Misture todos os ingredientes numa panela e leve ao fogo baixo até ganhar consistência de brigadeiro mole.",
+      "Divida o bolo ao meio e recheie com metade do creme. A outra metade coloque por cima e acrescente canela em pó."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Colher de silicone",
+    "Fogão"
+  ],
+  "texto_para_embedding": "Bolo Indiano. Ingredientes: claras, gemas, manteiga, açúcar, farinha de rosca, sopa de canela em pó, sopa de fermento em pó, gemas, leite condensado, sopa de manteiga, leite de vaca (medida pela lata do leite condensado). Preparo: Bata as claras em neve e reserve. Em seguida bata na batedeira as gemas, o açúcar e a manteiga até formar um creme. Adicione a canela e a farinha de rosca (a massa vai ficar bem seca), misture bem e acrescente a clara em neve sem bater. Só misture com a espátula, e a massa vai ganhando consistência de bolo."
+}

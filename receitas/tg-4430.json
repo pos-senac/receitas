@@ -1,0 +1,85 @@
+{
+  "id": "tg-4430",
+  "titulo": "Lasanha de berinjela",
+  "url": "https://www.tudogostoso.com.br/receita/4430-lasanha-de-berinjela.html",
+  "nota": 4.4,
+  "n_avaliacoes": 400,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Lasanha de berinjela",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "berinjelas grandes",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 berinjelas grandes"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "maço de coentro cortado em pedaços pequenos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de coentro cortado em pedaços pequenos"
+    },
+    {
+      "nome": "azeitonas sem caroço cortadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitonas sem caroço cortadas"
+    },
+    {
+      "nome": "queijo mussarela fatiado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de queijo mussarela fatiado"
+    },
+    {
+      "nome": "presunto fatiado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de presunto fatiado"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de azeite"
+    },
+    {
+      "nome": "queijo catupiry",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo catupiry"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte as berinjelas em fatias finas, no sentido do comprimento.",
+      "Em uma assadeira retangular refratária, coloque no fundo, as duas colheres de azeite e um pouco de molho de tomate.",
+      "Coloque então uma camada de berinjela.",
+      "Cubra com molho de tomate, salpique com azeitonas e coentro.",
+      "Em seguida, coloque uma camada de presunto.",
+      "Acrescente uma camada de berinjela, cubra com molho de tomate e por cima coloque uma camada de queijo mussarela.",
+      "Repita os passos 3, 4 e 5, para formar mais duas camadas.",
+      "Coloque por cima da última camada, queijo catupiry a gosto, e cubra a assadeira com papel alumínio.",
+      "Leve ao forno em temperatura de 180º C graus por cerca de 30 minutos, para cozinhar.",
+      "Após isso, retire o papel-alumínio e deixe por mais 5 a 10 minutos para gratinar.",
+      "Sirva quente."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Espatula",
+    "Travessa de vidro",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Lasanha de berinjela. Ingredientes: berinjelas grandes, molho de tomate, maço de coentro cortado em pedaços pequenos, azeitonas sem caroço cortadas, queijo mussarela fatiado, presunto fatiado, azeite, queijo catupiry. Preparo: Corte as berinjelas em fatias finas, no sentido do comprimento. Em uma assadeira retangular refratária, coloque no fundo, as duas colheres de azeite e um pouco de molho de tomate. Coloque então uma camada de berinjela."
+}

@@ -1,0 +1,69 @@
+{
+  "id": "tg-43534",
+  "titulo": "Estrogonofe de frango fácil",
+  "url": "https://www.tudogostoso.com.br/receita/43534-estrogonofe-de-frango-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 112,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Estrogonofe de frango fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "peito de frango Seara cortados em cubo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de peito de frango Seara cortados em cubo"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de óleo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Frite o alho no óleo até dourar.",
+      "Coloque o peito de frango Seara cortado em cubos no fogo baixo, mexa bem e deixe por 10 minutos ou até cozinhar.",
+      "Acrescente o molho de tomate e ajuste o sal, deixe cozinhar por 5 minutos.",
+      "Acrescente o creme e leite, mexa bem e deixe por mais 3 minutos.",
+      "Sirva."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Prato fundo",
+    "Expremedor de alho",
+    "Fogão",
+    "Panela de cerâmica"
+  ],
+  "texto_para_embedding": "Estrogonofe de frango fácil. Ingredientes: peito de frango Seara cortados em cubo, molho de tomate, creme de leite, alho, óleo, sal a gosto. Preparo: Frite o alho no óleo até dourar. Coloque o peito de frango Seara cortado em cubos no fogo baixo, mexa bem e deixe por 10 minutos ou até cozinhar. Acrescente o molho de tomate e ajuste o sal, deixe cozinhar por 5 minutos."
+}

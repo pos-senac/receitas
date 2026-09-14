@@ -1,0 +1,86 @@
+{
+  "id": "tg-529",
+  "titulo": "Caldo de mocotó",
+  "url": "https://www.tudogostoso.com.br/receita/529-caldo-de-mocoto.html",
+  "nota": 4.4,
+  "n_avaliacoes": 171,
+  "categoria": "Receitas cozidos e ensopados",
+  "subcategoria": "Caldo de mocotó",
+  "nivel": "facil",
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "mocotó cortado em rodelas e bem lavado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 mocotó cortado em rodelas e bem lavado"
+    },
+    {
+      "nome": "Água o suficiente para cozinhar o mocotó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Água o suficiente para cozinhar o mocotó"
+    },
+    {
+      "nome": "cebola grande picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "coentro",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de coentro"
+    },
+    {
+      "nome": "salsinha",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de salsinha"
+    },
+    {
+      "nome": "hortelã picada",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de hortelã picada"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de extrato de tomate"
+    },
+    {
+      "nome": "Pimenta malagueta ou pimenta vermelha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta malagueta ou pimenta vermelha a gosto"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de azeite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhar na panela de pressão o mocotó com a água e todos os temperos.",
+      "Deixe apurar o caldo até que os ossos se soltem.",
+      "Retire as rodelas de ossos, tirando bem o restante de carne.",
+      "No caldo já apurado, junte o azeite.",
+      "Sirva com farinha e molho de pimenta."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Caldo de mocotó. Ingredientes: mocotó cortado em rodelas e bem lavado, Água o suficiente para cozinhar o mocotó, cebola grande picada, alho amassados, coentro, salsinha, hortelã picada, extrato de tomate, Pimenta malagueta ou pimenta vermelha a gosto, azeite. Preparo: Cozinhar na panela de pressão o mocotó com a água e todos os temperos. Deixe apurar o caldo até que os ossos se soltem. Retire as rodelas de ossos, tirando bem o restante de carne."
+}

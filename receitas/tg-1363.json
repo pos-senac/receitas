@@ -1,0 +1,133 @@
+{
+  "id": "tg-1363",
+  "titulo": "Coxinha prática deliciosa",
+  "url": "https://www.tudogostoso.com.br/receita/1363-coxinha-pratica-deliciosa.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1598,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Coxinha prática deliciosa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de água"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "tabletes de caldo de bacon ou costela",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de bacon ou costela"
+    },
+    {
+      "nome": "batata cozida e amassada",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de batata cozida e amassada"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "margarina para untar a forma",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "margarina para untar a forma"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batidos"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    },
+    {
+      "nome": "Recheio",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Recheio"
+    },
+    {
+      "nome": "frango",
+      "quantidade": "1 e 1/2",
+      "unidade": "kg",
+      "texto_original": "1 e 1/2 kg de frango"
+    },
+    {
+      "nome": "requeijão cremoso",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "cebola pequena",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "tempero a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "tempero a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio:": [
+      "Em uma panela, coloque o azeite, o alho picado e a cebola.",
+      "Espere fritar e adicione o frango desfiado e os temperos de sua preferência.",
+      "Refogue tudo por 5 minutos, retire do fogo, acrescente o requeijão, misture e reserve."
+    ],
+    "Massa:": [
+      "Em uma panela grande, adicione a água, o leite, o tablete de caldo, a batata, a manteiga e deixe ferver. Acrescente a farinha de trigo de uma só vez, mexendo até soltar do fundo da panela.",
+      "Despeje a massa sobre uma superfície lisa e untada, sove bem e deixe esfriar.",
+      "Abra a massa com as mãos, recheie e modele em forma de coxinha.",
+      "Passe a massa modelada pelo ovo batido e pela farinha de rosca.",
+      "Frite em óleo quente até dourar e escorra sobre papel absorvente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Coxinha prática deliciosa. Ingredientes: água, leite, tabletes de caldo de bacon ou costela, batata cozida e amassada, manteiga, farinha de trigo, margarina para untar a forma, farinha de rosca, ovos batidos, óleo para fritar, Recheio, frango, requeijão cremoso, azeite, cebola pequena, alho, tempero a gosto. Preparo: Em uma panela, coloque o azeite, o alho picado e a cebola. Espere fritar e adicione o frango desfiado e os temperos de sua preferência. Refogue tudo por 5 minutos, retire do fogo, acrescente o requeijão, misture e reserve."
+}

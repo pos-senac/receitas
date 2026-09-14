@@ -1,0 +1,132 @@
+{
+  "id": "tg-64162",
+  "titulo": "Bolo cuca de banana",
+  "url": "https://www.tudogostoso.com.br/receita/64162-bolo-cuca-de-banana.html",
+  "nota": 4.7,
+  "n_avaliacoes": 211,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo cuca de banana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "bananas nanica",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 bananas nanica"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1,5",
+      "unidade": "xícara (chá)",
+      "texto_original": "1,5 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de canela em pó"
+    },
+    {
+      "nome": "manteiga em temperatura ambiente ou margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de manteiga em temperatura ambiente ou margarina"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de amido de milho"
+    },
+    {
+      "nome": "fermento em pó químico",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó químico"
+    },
+    {
+      "nome": "¾ xícara (chá) de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "¾ xícara (chá) de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "Manteiga para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Manteiga para untar"
+    },
+    {
+      "nome": "Farinha de trigo para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio e cobertura:": [
+      "Descasque e pique as bananas em rodelas.",
+      "Reserve.",
+      "Em uma tigela, coloque a manteiga e derreta no micro-ondas.",
+      "Em outra tigela, junte o açúcar, a farinha de trigo, a canela e a manteiga derretida.",
+      "Misture com as mãos até obter uma farofa.",
+      "Reserve."
+    ],
+    "Massa:": [
+      "Pré-aqueça o forno a 180°.",
+      "Unte uma forma de fundo removível, de 22 cm de diâmetro, com manteiga e farinha de trigo.",
+      "Reserve.",
+      "Peneire a farinha de trigo junto com o amido de milho.",
+      "Reserve.",
+      "Na batedeira, junte as gemas, açúcar e a manteiga, bata por 5 minutos em velocidade alta até obter um creme esbranquiçado.",
+      "Acrescente a farinha de trigo, alternando com o leite.",
+      "Coloque o fermento e bata por mais 1 minuto.",
+      "Retire a massa da batedeira e reserve.",
+      "Bata as claras em neve e incorpore delicadamente à massa.",
+      "Na forma untada, despeje metade da massa, cubra com metade das rodelas de bananas, e polvilhe metade da farofa.",
+      "Coloque a massa restante por cima e acrescente outra camada de bananas.",
+      "Polvilhe a farofa restante.",
+      "Leve para assar por aproximadamente 40 minutos ou até a massa começar a desprender das laterais da forma e a superfície ficar dourada."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Bowl",
+    "Colher de pau",
+    "Forma com fundo removível"
+  ],
+  "texto_para_embedding": "Bolo cuca de banana. Ingredientes: bananas nanica, açúcar, farinha de trigo, canela em pó, manteiga em temperatura ambiente ou margarina, ovos, manteiga, farinha de trigo, amido de milho, fermento em pó químico, ¾ xícara (chá) de leite, açúcar, Manteiga para untar, Farinha de trigo para polvilhar. Preparo: Descasque e pique as bananas em rodelas. Reserve. Em uma tigela, coloque a manteiga e derreta no micro-ondas."
+}

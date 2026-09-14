@@ -1,0 +1,49 @@
+{
+  "id": "tg-140650",
+  "titulo": "Brigadeiro de micro-ondas sem leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/140650-brigadeiro-de-micro-ondas-sem-leite-condensado.html",
+  "nota": 3.5,
+  "n_avaliacoes": 133,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Brigadeiro de micro-ondas sem leite condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 6,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de achocolatado em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente próprio para microondas, de preferência redondo e de borda alta, misture todos os ingredientes.",
+      "Leve ao micro-ondas por 6 minutos em potência alta, ou na tecla brigadeiro do próprio micro-ondas, mexendo a mistura na metade do tempo.",
+      "Depois de pronto, retire do forno e mexa até ficar uma massa lisa e brilhante.",
+      "Leve à geladeira para esfriar, depois enrole os docinhos, passe no granulado e coloque nas forminhas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Brigadeiro de micro-ondas sem leite condensado. Ingredientes: leite, achocolatado em pó, margarina, açúcar. Preparo: Em um recipiente próprio para microondas, de preferência redondo e de borda alta, misture todos os ingredientes. Leve ao micro-ondas por 6 minutos em potência alta, ou na tecla brigadeiro do próprio micro-ondas, mexendo a mistura na metade do tempo. Depois de pronto, retire do forno e mexa até ficar uma massa lisa e brilhante."
+}

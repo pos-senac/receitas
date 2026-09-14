@@ -1,0 +1,73 @@
+{
+  "id": "tg-130714",
+  "titulo": "Panqueca doce Americana",
+  "url": "https://www.tudogostoso.com.br/receita/130714-panqueca-doce-americana.html",
+  "nota": 4.6,
+  "n_avaliacoes": 412,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Panqueca doce Americana",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de farinha de trigo"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "sopa de manteiga derretida",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de manteiga derretida"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos levemente, junte o leite e a manteiga e o açúcar",
+      "Adicione a farinha de trigo, o fermento (se a farinha já não conter) e o sal. Note que vai ficar um pouco espessa, o que é normal para este tipo de panqueca.",
+      "Modele as panquecas em uma frigideira antiaderente untada com manteiga.",
+      "Sirva com mel, geleia, frutas ou iogurte."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Concha",
+    "Espatula",
+    "Fouet",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Panqueca doce Americana. Ingredientes: chá de farinha de trigo, chá de leite, sopa de manteiga derretida, sopa de açúcar, sopa de fermento em pó, ovo, chá de sal. Preparo: Bata os ovos levemente, junte o leite e a manteiga e o açúcar Adicione a farinha de trigo, o fermento (se a farinha já não conter) e o sal. Note que vai ficar um pouco espessa, o que é normal para este tipo de panqueca. Modele as panquecas em uma frigideira antiaderente untada com manteiga."
+}

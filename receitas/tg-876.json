@@ -1,0 +1,124 @@
+{
+  "id": "tg-876",
+  "titulo": "Lasanha de carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/876-lasanha-de-carne-moida.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1778,
+  "categoria": "Receitas massas",
+  "subcategoria": "Lasanha de carne moída",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 50,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "massa de lasanha",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de massa de lasanha"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de carne moída"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de creme de leite"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de manteiga"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de farinha de trigo"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de mussarela"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola ralada"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de óleo"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de molho de tomate"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho amassados"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "Lasanha": [
+      "Cozinhe a massa segundo as orientações do fabricante, despeje em um refratário com água gelada para não grudar e reserve."
+    ],
+    "Molho à bolonhesa": [
+      "Refogue o alho, a cebola, a carne moída, o molho de tomate, deixe cozinhar por 3 minutos e reserve."
+    ],
+    "Molho branco": [
+      "Derreta a margarina, coloque as 3 colheres de farinha de trigo e mexa.",
+      "Despeje o leite aos poucos e continue mexendo.",
+      "Por último, coloque o creme de leite, mexa por 1 minuto e desligue o fogo."
+    ],
+    "Montagem": [
+      "Despeje uma parte do molho à bolonhesa em um refratário, a metade da massa, a metade do presunto, a metade da mussarela, todo o molho branco e o restante da massa.",
+      "Repita as camadas até a borda do recipiente.",
+      "Finalize com o queijo ralado e leve ao forno alto (220° C), preaquecido, por cerca de 20 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Concha",
+    "Espatula",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Lasanha de carne moída. Ingredientes: massa de lasanha, carne moída, creme de leite, manteiga, farinha de trigo, presunto, mussarela, sal a gosto, leite, cebola ralada, óleo, molho de tomate, alho amassados, queijo ralado. Preparo: Cozinhe a massa segundo as orientações do fabricante, despeje em um refratário com água gelada para não grudar e reserve. Refogue o alho, a cebola, a carne moída, o molho de tomate, deixe cozinhar por 3 minutos e reserve. Derreta a margarina, coloque as 3 colheres de farinha de trigo e mexa."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "tg-57710",
+  "titulo": "Macarrão ao alho e óleo simples",
+  "url": "https://www.tudogostoso.com.br/receita/57710-macarrao-ao-alho-e-oleo-simples.html",
+  "nota": 4.6,
+  "n_avaliacoes": 213,
+  "categoria": "Receitas massas",
+  "subcategoria": "Macarrão ao alho e óleo simples",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "espaguete",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de espaguete"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "5",
+      "unidade": "dentes",
+      "texto_original": "5 dentes de alho amassados"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de óleo"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o macarrão em uma panela com água quente e sal a gosto até ficar al dente. Reserve.",
+      "Amasse bem o alho juntamente com o sal, formando uma pasta.",
+      "Em uma frigideira, coloque o alho amassado e o óleo.",
+      "Frite em fogo médio sem deixar o alho queimar, só dourar.",
+      "Acrescente a manteiga e deixe ferver um pouco, só para incorporar bem o sabor, mexendo sempre.",
+      "Acrescente o macarrão cozido previamente e misture para incorporar. Depois é só servir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Escorredor de massa",
+    "Frigideira funda",
+    "Pegador de macarrão"
+  ],
+  "texto_para_embedding": "Macarrão ao alho e óleo simples. Ingredientes: espaguete, alho amassados, sopa de óleo, sopa de manteiga, Sal a gosto. Preparo: Cozinhe o macarrão em uma panela com água quente e sal a gosto até ficar al dente. Reserve. Amasse bem o alho juntamente com o sal, formando uma pasta. Em uma frigideira, coloque o alho amassado e o óleo."
+}

@@ -1,0 +1,117 @@
+{
+  "id": "tg-120774",
+  "titulo": "Rosca de coco (pão doce)",
+  "url": "https://www.tudogostoso.com.br/receita/120774-rosca-de-coco-pao-doce.html",
+  "nota": 4.7,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas pães",
+  "subcategoria": "Rosca de coco (pão doce)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "sopa de fermento biológico(para pão)",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de fermento biológico(para pão)"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "quase cheia de água (menos 1 dedo)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara quase cheia de água (menos 1 dedo)"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sopa de sal (coloca por último, para não impedir a fermentação)",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de sal (coloca por último, para não impedir a fermentação)"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de margarina"
+    },
+    {
+      "nome": "grande de coco ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote grande de coco ralado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de margarina"
+    },
+    {
+      "nome": "chá de baunilha",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de baunilha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva o fermento na água com o açúcar, misturando os outros ingredientes aos poucos e por último o sal.",
+      "Mexa bastante com as mãos até obter uma massa lisa e boa de trabalhar (modelar), até soltar das mãos.",
+      "Divida a massa em pedaços (aproximadamente 8 pedaços).",
+      "Abra individualmente, com rolo de massa, no comprimento.",
+      "Disponha a mistura do recheio com a ajuda de uma colher.",
+      "Enrole, para ficar um rolo grande e corte em pequenos rolinhos.",
+      "Faça isso até finalizar a massa e o recheio.",
+      "À medida que for cortando os rolinhos, coloque-os em pé, em forma de qualquer formato, untada com óleo.",
+      "Deixe o pão descansar por, no mínimo 1 hora.",
+      "Depois leve ao forno, em temperatura média (220º) até que o pão fique assado."
+    ],
+    "Dicas:": [
+      "Não deixe assar muito para não ressecar.",
+      "Tire-o do forno quando começar a ficar marron clarinho.",
+      "Normalmente, eu faço à noite pra assar no outro dia, pela manhã.",
+      "Quando sair do forno, já assado, pincele, com açúcar e leite, para ficar brilhoso.",
+      "Enquanto o pão estiver descansando (2 horas), não deve levar vento algum.",
+      "Cubra a forma com um pano e guarde em lugar que não leve vento."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Rosca de coco (pão doce). Ingredientes: sopa de fermento biológico(para pão), farinha de trigo, leite, açúcar, quase cheia de água (menos 1 dedo), sopa de óleo, ovos, sopa de sal (coloca por último, para não impedir a fermentação), sopa de margarina, grande de coco ralado, açúcar, margarina, chá de baunilha. Preparo: Dissolva o fermento na água com o açúcar, misturando os outros ingredientes aos poucos e por último o sal. Mexa bastante com as mãos até obter uma massa lisa e boa de trabalhar (modelar), até soltar das mãos. Divida a massa em pedaços (aproximadamente 8 pedaços)."
+}

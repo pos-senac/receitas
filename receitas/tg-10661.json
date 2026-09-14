@@ -1,0 +1,54 @@
+{
+  "id": "tg-10661",
+  "titulo": "Pudim de leite condensado Marisa",
+  "url": "https://www.tudogostoso.com.br/receita/10661-pudim-de-leite-condensado-marisa.html",
+  "nota": 4.4,
+  "n_avaliacoes": 208,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de leite condensado Marisa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "leite condensado em temperatura ambiente",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado em temperatura ambiente"
+    },
+    {
+      "nome": "leite integral (use a lata do leite condensado como medida) em temperatura ambiente",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite integral (use a lata do leite condensado como medida) em temperatura ambiente"
+    },
+    {
+      "nome": "ovos em temperatura ambiente",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos em temperatura ambiente"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Ligue o forno, pois o segredo está na temperatura.",
+      "Caramelize uma forma com furo no meio, coloque 1 litro de água para ferver.",
+      "Reserve os itens acima.",
+      "Em um liquidificador coloque as latas de condensado as de leite e os ovos e misture por 1 minuto.",
+      "Coloque esse líquido na forma caramelada.",
+      "Leve ao forno uma forma grande que caiba a forma com furo no meio.",
+      "Coloque a água fervendo nesta forma grande e a forma do furo no meio,",
+      "dentro da água e deixe no forno quente por 1 hora certinha.",
+      "Após 1 hora desligue o forno e deixe até esfriar e já pode levar para geladeira.",
+      "O ideal é desenformar no dia seguinte para curtir o gelado no gosto do pudim."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espátula para bolo",
+    "Forma"
+  ],
+  "texto_para_embedding": "Pudim de leite condensado Marisa. Ingredientes: leite condensado em temperatura ambiente, leite integral (use a lata do leite condensado como medida) em temperatura ambiente, ovos em temperatura ambiente. Preparo: Ligue o forno, pois o segredo está na temperatura. Caramelize uma forma com furo no meio, coloque 1 litro de água para ferver. Reserve os itens acima."
+}

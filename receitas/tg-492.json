@@ -1,0 +1,68 @@
+{
+  "id": "tg-492",
+  "titulo": "Estrogonofe de frango da Dani",
+  "url": "https://www.tudogostoso.com.br/receita/492-estrogonofe-de-frango-da-dani.html",
+  "nota": 4.6,
+  "n_avaliacoes": 124,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Estrogonofe de frango da Dani",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "peitos de frango picados e sem osso",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 peitos de frango picados e sem osso"
+    },
+    {
+      "nome": "creme de leite fresco",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite fresco"
+    },
+    {
+      "nome": "massa de tomate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de massa de tomate"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de mostarda"
+    },
+    {
+      "nome": "ketchup",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de ketchup"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue o peito de frango picado e sem osso, com alho, alho e sal.",
+      "Deixe cozinhar por cerca de 30 minutos.",
+      "Depois acrescente as 3 colheres de massa de tomate, a pimenta, a mostarda e o ketchup, misture bem e acrescente o creme de leite fresco.",
+      "Deixe cozinhar só um pouquinho a mistura por cerca de 5 a 10 minutinhos.",
+      "Sirva quente e acompanhado de batata palha."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Estrogonofe de frango da Dani. Ingredientes: peitos de frango picados e sem osso, creme de leite fresco, massa de tomate, sal a gosto, pimenta a gosto, mostarda, ketchup. Preparo: Refogue o peito de frango picado e sem osso, com alho, alho e sal. Deixe cozinhar por cerca de 30 minutos. Depois acrescente as 3 colheres de massa de tomate, a pimenta, a mostarda e o ketchup, misture bem e acrescente o creme de leite fresco."
+}

@@ -1,0 +1,89 @@
+{
+  "id": "tg-787",
+  "titulo": "Salada de frutas gostosa",
+  "url": "https://www.tudogostoso.com.br/receita/787-salada-de-frutas-gostosa.html",
+  "nota": 4.2,
+  "n_avaliacoes": 166,
+  "categoria": "Receitas frutas",
+  "subcategoria": "Salada de frutas gostosa",
+  "nivel": null,
+  "custo": "Custo médio",
+  "tempo_preparo_min": 10,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "mamões papaia pequenos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 mamões papaia pequenos"
+    },
+    {
+      "nome": "laranja média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 laranja média"
+    },
+    {
+      "nome": "bananas",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 bananas"
+    },
+    {
+      "nome": "maçãs",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 maçãs"
+    },
+    {
+      "nome": "morangos maduros",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 morangos maduros"
+    },
+    {
+      "nome": "pêssego",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pêssego"
+    },
+    {
+      "nome": "grãos de uva (qualquer variedade)",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 grãos de uva (qualquer variedade)"
+    },
+    {
+      "nome": "leite condensado (opcional)",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de leite condensado (opcional)"
+    },
+    {
+      "nome": "cubos de gelo",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 cubos de gelo"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pique todos os ingredientes. Deixe a laranja em pedaços menores que as outras frutas, depois ela solta o caldo e a salada não fica tão ácida.",
+      "Coloque tudo em um prato fundo e adicione o leite condensado (se quiser), a canela em pó e o gelo, mexa por alguns segundos e leve à geladeira por 30 minutos.",
+      "Fica uma delícia."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Faca",
+    "Tábua de corte",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Salada de frutas gostosa. Ingredientes: mamões papaia pequenos, laranja média, bananas, maçãs, morangos maduros, pêssego, grãos de uva (qualquer variedade), leite condensado (opcional), cubos de gelo, canela em pó. Preparo: Pique todos os ingredientes. Deixe a laranja em pedaços menores que as outras frutas, depois ela solta o caldo e a salada não fica tão ácida. Coloque tudo em um prato fundo e adicione o leite condensado (se quiser), a canela em pó e o gelo, mexa por alguns segundos e leve à geladeira por 30 minutos. Fica uma delícia."
+}

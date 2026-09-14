@@ -1,0 +1,81 @@
+{
+  "id": "tg-54043",
+  "titulo": "Brigadeirão de forno",
+  "url": "https://www.tudogostoso.com.br/receita/54043-brigadeirao-de-forno.html",
+  "nota": 4.5,
+  "n_avaliacoes": 109,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Brigadeirão de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de chocolate em pó"
+    },
+    {
+      "nome": "xícara (chá) de açúcar",
+      "quantidade": "1/4",
+      "unidade": null,
+      "texto_original": "1/4 de xícara (chá) de açúcar"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "Margarina e açúcar para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Margarina e açúcar para untar"
+    },
+    {
+      "nome": "Chocolate granulado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Chocolate granulado para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Despeje em forma para pudim, untada com manteiga e açúcar.",
+      "Leve ao forno médio, em banho-maria, por 1 hora ou até que enfiando um palito, ele saia limpo. Leve à geladeira por 6 horas, desenforme e polvilhe com granulado.",
+      "Não cubra a forma com papel alumínio antes de levar ao forno, pois isso retarda seu preparo.",
+      "Em um momento de pressa: Tire a forma do forno e coloque-a em uma forma maior com água gelada e gelo, afim de que esfrie mais rápido. Minutos depois, desenforme."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Papel-alumínio",
+    "Bowl",
+    "Formo de bolo",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Brigadeirão de forno. Ingredientes: leite condensado, creme de leite, chocolate em pó, xícara (chá) de açúcar, manteiga, ovos, Margarina e açúcar para untar, Chocolate granulado para polvilhar. Preparo: Bata todos os ingredientes no liquidificador. Despeje em forma para pudim, untada com manteiga e açúcar. Leve ao forno médio, em banho-maria, por 1 hora ou até que enfiando um palito, ele saia limpo. Leve à geladeira por 6 horas, desenforme e polvilhe com granulado."
+}

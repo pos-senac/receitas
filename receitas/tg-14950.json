@@ -1,0 +1,72 @@
+{
+  "id": "tg-14950",
+  "titulo": "Bolinho de chuva com banana",
+  "url": "https://www.tudogostoso.com.br/receita/14950-bolinho-de-chuva-com-banana.html",
+  "nota": 4.8,
+  "n_avaliacoes": 337,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinho de chuva com banana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovos (inteiros)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos (inteiros)"
+    },
+    {
+      "nome": "ou 5 colheres (sopa) de açúcar",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ou 5 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "bananas picadas em cubinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 bananas picadas em cubinhos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos, coloque o açúcar, o leite, o sal, misture muito bem a farinha de trigo, coloque o fermento.",
+      "Acrescente as bananas picadas.",
+      "Para fritar, faça pequenos bolinhos, frite no fogo baixo.",
+      "Ao tirar os bolinhos das frituras passe-os diretamente em uma mistura de açúcar com canela."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Fouet",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolinho de chuva com banana. Ingredientes: farinha de trigo, ovos (inteiros), ou 5 colheres (sopa) de açúcar, sal, fermento em pó, leite, bananas picadas em cubinhos. Preparo: Bata os ovos, coloque o açúcar, o leite, o sal, misture muito bem a farinha de trigo, coloque o fermento. Acrescente as bananas picadas. Para fritar, faça pequenos bolinhos, frite no fogo baixo."
+}

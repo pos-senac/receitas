@@ -1,0 +1,56 @@
+{
+  "id": "tg-115909",
+  "titulo": "Maçã de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/115909-maca-de-chocolate.html",
+  "nota": 4.8,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas frutas",
+  "subcategoria": "Maçã de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "barra de chocolate ao leite fracionada",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g barra de chocolate ao leite fracionada"
+    },
+    {
+      "nome": "maçãs médias",
+      "quantidade": "12",
+      "unidade": null,
+      "texto_original": "12 maçãs médias"
+    },
+    {
+      "nome": "coco, confete, granulado ou chocolate branco (para polvilhar)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coco, confete, granulado ou chocolate branco (para polvilhar)"
+    },
+    {
+      "nome": "palito de churrasco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "palito de churrasco"
+    },
+    {
+      "nome": "papel laminado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "papel laminado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pique a barra de chocolate em pedaços, coloque no micro-ondas, de 30 em 30 segundos até derreter.",
+      "Lave as maçãs e seque bem e espete um palito de churrasco em cada uma.",
+      "Em seguida mergulhe no chocolate derretido e polvilhe a seu gosto com granulado, ou coco ou com uma colher afunde no chocolate branco (o processo é o mesmo do chocolate ao leite), deixando cair na maçã já banhada no chocolate, fazendo rabisco.",
+      "Coloque no papel alumínio (para não agarrar).",
+      "Como o chocolate é fracionado não precisa levar na geladeira, seca em torno de 10 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Maçã de chocolate. Ingredientes: barra de chocolate ao leite fracionada, maçãs médias, coco, confete, granulado ou chocolate branco (para polvilhar), palito de churrasco, papel laminado. Preparo: Pique a barra de chocolate em pedaços, coloque no micro-ondas, de 30 em 30 segundos até derreter. Lave as maçãs e seque bem e espete um palito de churrasco em cada uma. Em seguida mergulhe no chocolate derretido e polvilhe a seu gosto com granulado, ou coco ou com uma colher afunde no chocolate branco (o processo é o mesmo do chocolate ao leite), deixando cair na maçã já banhada no chocolate, fazendo rabisco."
+}

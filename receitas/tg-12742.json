@@ -1,0 +1,126 @@
+{
+  "id": "tg-12742",
+  "titulo": "Bolo de leite ninho",
+  "url": "https://www.tudogostoso.com.br/receita/12742-bolo-de-leite-ninho.html",
+  "nota": 4.5,
+  "n_avaliacoes": 424,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de leite ninho",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "gemas",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 gemas"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha"
+    },
+    {
+      "nome": "leite fervendo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite fervendo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "claras em neve",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 claras em neve"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de manteiga sem sal"
+    },
+    {
+      "nome": "leite ninho",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de leite ninho"
+    },
+    {
+      "nome": "creme de leite sem soro bem gelado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite sem soro bem gelado"
+    },
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "extrato de baunilha",
+      "quantidade": "2",
+      "unidade": "colheres (chá)",
+      "texto_original": "2 colheres (chá) de extrato de baunilha"
+    },
+    {
+      "nome": "chocolate branco raspado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate branco raspado"
+    },
+    {
+      "nome": "cerejas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cerejas"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Bater até ficar as gemas e o açúcar creme.",
+      "Acrescentar aos poucos a farinha, o leite, o fermento e coloque as claras por último delicadamente.",
+      "Leve para assar até dourar."
+    ],
+    "Recheio:": [
+      "Bata na batedeira 200g de manteiga sem sal com 1 lata de leite condensado, até engrossar e coloque aos poucos, sem parar de bater, as colheradas de leite ninho uma a uma.",
+      "Desligue a batedeira e coloque o creme de leite gelado, bem gelado.",
+      "Não bata novamente, misture com uma colher. Antes de cobrir e rechear o bolo, deixe esse creme por uns 30 min na geladeira.",
+      "Recheie o bolo e cubra com o mesmo creme.",
+      "Se quiser a versão chocolate, acrescente uma xícara de chocolate em pó na massa e 1/2 no recheio."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Bowl",
+    "Forma",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo de leite ninho. Ingredientes: gemas, açúcar, farinha, leite fervendo, fermento, claras em neve, leite condensado, manteiga sem sal, leite ninho, creme de leite sem soro bem gelado, água, açúcar, extrato de baunilha, chocolate branco raspado, cerejas. Preparo: Bater até ficar as gemas e o açúcar creme. Acrescentar aos poucos a farinha, o leite, o fermento e coloque as claras por último delicadamente. Leve para assar até dourar."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "tg-36083",
+  "titulo": "Biscoito de goiabada",
+  "url": "https://www.tudogostoso.com.br/receita/36083-biscoito-de-goiabada.html",
+  "nota": 4.3,
+  "n_avaliacoes": 129,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de goiabada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": null,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "margarina",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de margarina"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "Goiabada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Goiabada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes, menos a goiabada.",
+      "Amasse bem.",
+      "Faça pequenas bolas, modele - as , passe gema.",
+      "Enfeite com um pedaço pequeno de goiabada.",
+      "Leve ao forno até que fique levemente dourado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Biscoito de goiabada. Ingredientes: margarina, sal, açúcar, farinha de trigo, Goiabada. Preparo: Misture todos os ingredientes, menos a goiabada. Amasse bem. Faça pequenas bolas, modele - as , passe gema."
+}

@@ -1,0 +1,83 @@
+{
+  "id": "tg-128",
+  "titulo": "Bolo integral de banana",
+  "url": "https://www.tudogostoso.com.br/receita/128-bolo-integral-de-banana.html",
+  "nota": 4.7,
+  "n_avaliacoes": 602,
+  "categoria": "Receitas fitness",
+  "subcategoria": "Bolo integral de banana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos inteiros"
+    },
+    {
+      "nome": "bananas caturra cortadas em rodelas",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 bananas caturra cortadas em rodelas"
+    },
+    {
+      "nome": "chá de óleo de canola",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de óleo de canola"
+    },
+    {
+      "nome": "leite desnatado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite desnatado"
+    },
+    {
+      "nome": "chá de farinha de trigo integral",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de farinha de trigo integral"
+    },
+    {
+      "nome": "chá de aveia",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de aveia"
+    },
+    {
+      "nome": "chá, não muito cheias, de açúcar mascavo.",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá, não muito cheias, de açúcar mascavo."
+    },
+    {
+      "nome": "canela para salpicar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela para salpicar"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liqüidificador com apenas 1 banana, coloque em forma untada com óleo e farinha. Ponha as rodelas de banana sobre essa massa e salpique com canela. Assar em forno pré-aquecido, a 180° por aproximadamente 50 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher de silicone",
+    "Copo medidor",
+    "Faca",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo integral de banana. Ingredientes: ovos inteiros, bananas caturra cortadas em rodelas, chá de óleo de canola, leite desnatado, chá de farinha de trigo integral, chá de aveia, chá, não muito cheias, de açúcar mascavo., canela para salpicar, sopa de fermento em pó. Preparo: Bata todos os ingredientes no liqüidificador com apenas 1 banana, coloque em forma untada com óleo e farinha. Ponha as rodelas de banana sobre essa massa e salpique com canela. Assar em forno pré-aquecido, a 180° por aproximadamente 50 minutos."
+}

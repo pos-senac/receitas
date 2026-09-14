@@ -1,0 +1,74 @@
+{
+  "id": "tg-156422",
+  "titulo": "Bolo de caneca sem leite",
+  "url": "https://www.tudogostoso.com.br/receita/156422-bolo-de-caneca-sem-leite.html",
+  "nota": 4.7,
+  "n_avaliacoes": 140,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de caneca sem leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 8,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "água",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de água"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de achocolatado em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma caneca com a capacidade mínima de 300 ml, coloque o ovo e bata-o com um garfo.",
+      "Coloque o óleo, a água, o achocolatado e o açúcar e bata mais até virar um líquido só.",
+      "Coloque a farinha de trigo aos poucos com o fermento e vá mexendo calmamente até incorporar na massa.",
+      "Leve ao micro-ondas por três minutos e bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Xícara",
+    "Colher de silicone",
+    "Colher para sobremesa",
+    "Fouet",
+    "Micro-ondas",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Bolo de caneca sem leite. Ingredientes: ovo, água, achocolatado em pó, açúcar, óleo, farinha de trigo, fermento em pó. Preparo: Em uma caneca com a capacidade mínima de 300 ml, coloque o ovo e bata-o com um garfo. Coloque o óleo, a água, o achocolatado e o açúcar e bata mais até virar um líquido só. Coloque a farinha de trigo aos poucos com o fermento e vá mexendo calmamente até incorporar na massa."
+}

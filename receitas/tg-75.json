@@ -1,0 +1,101 @@
+{
+  "id": "tg-75",
+  "titulo": "Picadinho de carne ao vinho",
+  "url": "https://www.tudogostoso.com.br/receita/75-picadinho-de-carne-ao-vinho.html",
+  "nota": 4.5,
+  "n_avaliacoes": 130,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Picadinho de carne ao vinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de óleo"
+    },
+    {
+      "nome": "alho bem picados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho bem picados"
+    },
+    {
+      "nome": "cebolas médias picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas médias picadas"
+    },
+    {
+      "nome": "patinho ou alcatra em cubinhos",
+      "quantidade": "1",
+      "unidade": "Kg",
+      "texto_original": "1 Kg de patinho ou alcatra em cubinhos"
+    },
+    {
+      "nome": "folha de louro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 folha de louro"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "chá de purê de tomate",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de purê de tomate"
+    },
+    {
+      "nome": "chá de água",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de chá de água"
+    },
+    {
+      "nome": "cubinhos de caldo de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubinhos de caldo de carne"
+    },
+    {
+      "nome": "vinho tinto seco",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de vinho tinto seco"
+    },
+    {
+      "nome": "cebolas bem pequenas",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de cebolas bem pequenas"
+    },
+    {
+      "nome": "pimentão verde picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde picado"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Aqueça o óleo e refogue a cebola picada e o alho. Junte os cubinhos de carne, o louro, a pimenta e deixe dourar. Acrescente a água e os cubinhos de caldo de carne até de dissolver bem, adicione o purê de tomate, o vinho e o pimentão. Misture bem e deixe cozinhar por 30 mimutos.",
+      "Coloque as cebolas pequenas e cozinhe por mais 10 minutos e está pronto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Picadinho de carne ao vinho. Ingredientes: sopa de óleo, alho bem picados, cebolas médias picadas, patinho ou alcatra em cubinhos, folha de louro, sal a gosto, chá de purê de tomate, chá de água, cubinhos de caldo de carne, vinho tinto seco, cebolas bem pequenas, pimentão verde picado, pimenta a gosto. Preparo: Aqueça o óleo e refogue a cebola picada e o alho. Junte os cubinhos de carne, o louro, a pimenta e deixe dourar. Acrescente a água e os cubinhos de caldo de carne até de dissolver bem, adicione o purê de tomate, o vinho e o pimentão. Misture bem e deixe cozinhar por 30 mimutos. Coloque as cebolas pequenas e cozinhe por mais 10 minutos e está pronto."
+}

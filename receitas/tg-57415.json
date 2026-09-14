@@ -1,0 +1,80 @@
+{
+  "id": "tg-57415",
+  "titulo": "Bolo de fubá molhadinho",
+  "url": "https://www.tudogostoso.com.br/receita/57415-bolo-de-fuba-molhadinho.html",
+  "nota": 4.8,
+  "n_avaliacoes": 125,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá molhadinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "fubá",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de fubá"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de açúcar"
+    },
+    {
+      "nome": "fermento em pó químico",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó químico"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de farinha de trigo"
+    },
+    {
+      "nome": "erva-doce (ou a gosto)",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de erva-doce (ou a gosto)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os ovos, o óleo, o leite e o açúcar.",
+      "Em uma vasilha coloque o fubá, a farinha, o fermento todos peneirados e erva doce.",
+      "Acrescente o líquido aos poucos, mexa.",
+      "Leve ao forno pré-aquecido por 40 minutos, ou de acordo com seu forno."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espátula para bolo",
+    "Forno elétrico",
+    "Peneira",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de fubá molhadinho. Ingredientes: fubá, leite, óleo, açúcar, fermento em pó químico, ovos, farinha de trigo, erva-doce (ou a gosto). Preparo: Bata no liquidificador os ovos, o óleo, o leite e o açúcar. Em uma vasilha coloque o fubá, a farinha, o fermento todos peneirados e erva doce. Acrescente o líquido aos poucos, mexa."
+}

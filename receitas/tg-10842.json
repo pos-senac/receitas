@@ -1,0 +1,116 @@
+{
+  "id": "tg-10842",
+  "titulo": "Filé de frango com couve flor ao forno",
+  "url": "https://www.tudogostoso.com.br/receita/10842-file-de-frango-com-couve-flor-ao-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 181,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Filé de frango com couve flor ao forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "filé de frango",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de filé de frango"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de rosca"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batidos"
+    },
+    {
+      "nome": "limão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 limão"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "couve flor cozida",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 couve flor cozida"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de galinha"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite morno"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "creme de leite com soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite com soro"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batidos"
+    },
+    {
+      "nome": "cheiro verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro verde"
+    },
+    {
+      "nome": "sal e orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os filés de frango com limão, sal e pimenta do reino, reserve-os.",
+      "Bata ligeiramente 2 ovos.",
+      "Pegue o filé de frango passe na farinha de trigo, em seguida nos ovos batidos e depois na farinha de rosca.",
+      "Frite-os em óleo bem quente.",
+      "Cubra todo o fundo de um refratário com os filés à milanesa.",
+      "Lave a couve flor e cozinhe no vapor, preferencialmente.",
+      "Quando estiver ao dente retire e espalhe por cima dos filés.",
+      "Em uma tigela coloque o caldo de galinha, o leite morno, a cebola picada, o creme de leite, a farinha de trigo, os ovos, o cheiro verde, o orégano e o sal.",
+      "Misture bem e jogue esta mistura por cima da couve flor.",
+      "Cubra com papel alumínio e leve ao forno médio, preaquecido, por 15 minutos.",
+      "Cinco minutos antes retire o papel alumínio."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Filé de frango com couve flor ao forno. Ingredientes: filé de frango, farinha de rosca, ovos batidos, limão, pimenta-do-reino a gosto, couve flor cozida, tablete de caldo de galinha, leite morno, cebola picada, creme de leite com soro, farinha de trigo, ovos batidos, cheiro verde, sal e orégano a gosto. Preparo: Tempere os filés de frango com limão, sal e pimenta do reino, reserve-os. Bata ligeiramente 2 ovos. Pegue o filé de frango passe na farinha de trigo, em seguida nos ovos batidos e depois na farinha de rosca."
+}

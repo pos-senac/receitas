@@ -1,0 +1,102 @@
+{
+  "id": "tg-65824",
+  "titulo": "Caldo de mandioquinha",
+  "url": "https://www.tudogostoso.com.br/receita/65824-caldo-de-mandioquinha.html",
+  "nota": 4.7,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Caldo de mandioquinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "mandioquinha",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de mandioquinha"
+    },
+    {
+      "nome": "litros de água",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 litros de água"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho amassados"
+    },
+    {
+      "nome": "tomates maduros picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates maduros picados"
+    },
+    {
+      "nome": "salsinha e cebolinha picados",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de salsinha e cebolinha picados"
+    },
+    {
+      "nome": "cubos de caldo de carne ou costela",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubos de caldo de carne ou costela"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "gomo de linguiça calabresa picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gomo de linguiça calabresa picada"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de azeite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque a mandioquinha, pique, junte a água e os caldos de carne, cozinhe na panela de pressão por 15 minutos após fervura.",
+      "Após sair a pressão, abra a panela e bata a mandioquinha com um pouco de água no liquidificador. Reserve o restante da água.",
+      "Em uma panela, coloque o azeite, frite a calabresa, junte a cebola, o alho, frite bem.",
+      "Junte os tomates, deixe amolecer, coloque o caldo da mandioquinha que foi batido no liquidificador. Coloque sal e pimenta a gosto.",
+      "Acrescente mais água do cozimento que foi reservada se necessário.",
+      "Deixe ferver.",
+      "Junte a salsinha e cebolinha.",
+      "Sirva a seguir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Panela de pressão",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte",
+    "Moedor de pimenta"
+  ],
+  "texto_para_embedding": "Caldo de mandioquinha. Ingredientes: mandioquinha, litros de água, cebola média picada, alho amassados, tomates maduros picados, salsinha e cebolinha picados, cubos de caldo de carne ou costela, Sal a gosto, Pimenta-do-reino a gosto, gomo de linguiça calabresa picada, azeite. Preparo: Descasque a mandioquinha, pique, junte a água e os caldos de carne, cozinhe na panela de pressão por 15 minutos após fervura. Após sair a pressão, abra a panela e bata a mandioquinha com um pouco de água no liquidificador. Reserve o restante da água. Em uma panela, coloque o azeite, frite a calabresa, junte a cebola, o alho, frite bem."
+}

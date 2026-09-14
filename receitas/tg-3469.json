@@ -1,0 +1,61 @@
+{
+  "id": "tg-3469",
+  "titulo": "Bolo de cenoura integral",
+  "url": "https://www.tudogostoso.com.br/receita/3469-bolo-de-cenoura-integral.html",
+  "nota": 4.6,
+  "n_avaliacoes": 118,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura integral",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ou 3 cenouras médias",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ou 3 cenouras médias"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar mascavo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar mascavo"
+    },
+    {
+      "nome": "farinha de trigo integral",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo integral"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater no liquidificador as cenouras, o óleo, os ovos e o açúcar mascavo.",
+      "Batendo muito bem por cerca de 5 minutos em velocidade alta.",
+      "Em uma vasilha misture a farinha e o fermento em pó, (sempre misturando muito bem). Leve a assar em assadeira untada e polvilhada com açúcar, em forno pré aquecido em temperatura média. Em aproximadamente 40 minutos estára pronto.",
+      "Se gostar, fica delicioso com cobertura de brigadeiro. Há várias receitas de brigadeiro no Tudo Gostoso."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de cenoura integral. Ingredientes: ou 3 cenouras médias, óleo, ovos, açúcar mascavo, farinha de trigo integral, fermento em pó. Preparo: Bater no liquidificador as cenouras, o óleo, os ovos e o açúcar mascavo. Batendo muito bem por cerca de 5 minutos em velocidade alta. Em uma vasilha misture a farinha e o fermento em pó, (sempre misturando muito bem). Leve a assar em assadeira untada e polvilhada com açúcar, em forno pré aquecido em temperatura média. Em aproximadamente 40 minutos estára pronto."
+}

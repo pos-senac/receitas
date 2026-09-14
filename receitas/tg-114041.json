@@ -1,0 +1,91 @@
+{
+  "id": "tg-114041",
+  "titulo": "Arroz de forma",
+  "url": "https://www.tudogostoso.com.br/receita/114041-arroz-de-forma.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1086,
+  "categoria": "Receitas arroz de forno",
+  "subcategoria": "Arroz de forma",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "arroz",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de arroz"
+    },
+    {
+      "nome": "requeijão cremoso",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão cremoso"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "peito de frango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebola"
+    },
+    {
+      "nome": "alho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alho"
+    },
+    {
+      "nome": "milho e ervilha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "milho e ervilha a gosto"
+    },
+    {
+      "nome": "mussarela em fatias",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "mussarela em fatias"
+    },
+    {
+      "nome": "presunto em fatias",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "presunto em fatias"
+    },
+    {
+      "nome": "batata palha",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de batata palha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o arroz para cozinhar e reserve.",
+      "Cozinhe o peito de frango, desfie e refogue-o junto com a cebola, o alho, o milho e a ervilha.",
+      "Se quiser, acrescente molho de tomate fica a critério, a ideia é fazer um molho.",
+      "Então, em um refratário médio, faça a montagem do prato."
+    ],
+    "Montagem:": [
+      "Coloque primeiro o arroz, depois o creme de leite e espalhe.",
+      "Em seguida, coloque o frango no molho e espalhe.",
+      "Acrescente o requeijão cremoso, presunto, queijo e para finalizar a batata palha.",
+      "Coloque no forno preaquecido, por 15 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Arroz de forma. Ingredientes: arroz, requeijão cremoso, creme de leite, peito de frango, cebola, alho, milho e ervilha a gosto, mussarela em fatias, presunto em fatias, batata palha. Preparo: Coloque o arroz para cozinhar e reserve. Cozinhe o peito de frango, desfie e refogue-o junto com a cebola, o alho, o milho e a ervilha. Se quiser, acrescente molho de tomate fica a critério, a ideia é fazer um molho."
+}

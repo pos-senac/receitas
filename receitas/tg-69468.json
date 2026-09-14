@@ -1,0 +1,79 @@
+{
+  "id": "tg-69468",
+  "titulo": "Pão de queijo fácil e delicioso",
+  "url": "https://www.tudogostoso.com.br/receita/69468-pao-de-queijo-facil-e-delicioso.html",
+  "nota": 4.5,
+  "n_avaliacoes": 236,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de queijo fácil e delicioso",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "polvilho doce",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de polvilho doce"
+    },
+    {
+      "nome": "ou 2 ovos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ou 2 ovos"
+    },
+    {
+      "nome": "leite integral",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite integral"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "rasa de sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de sal"
+    },
+    {
+      "nome": "queijo ralado parmesão",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de queijo ralado parmesão"
+    },
+    {
+      "nome": "prato cheio (350 g) de queijo meia cura e/ou mussarela ralado no ralador (quanto mais queijo, mais gostoso o pão vai ficar)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 prato cheio (350 g) de queijo meia cura e/ou mussarela ralado no ralador (quanto mais queijo, mais gostoso o pão vai ficar)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiro, coloque o leite e o óleo em uma panela pra esquentar, desligue o fogo imediatamente assim que começar a ferver (você verá umas bolinhas do leite subindo).",
+      "Em uma tigela grande, coloque o polvilho e o sal, e misture bem, logo em seguida, despeje o conteúdo da panela ainda quente, misture bem, primeiro com uma colher e depois com a mão.",
+      "Em seguida coloque o queijo ralado e um pouco do queijo do prato e também 1 ovo, continue misturando bem.",
+      "Coloque o resto do queijo e verifique se a massa esta com uma textura boa, nem muito oleosa e nem muito seca.",
+      "Se você sentir que está muito seca, coloque outro ovo, se ela ficar oleosa, coloque mais um pouco de polvilho.",
+      "Essa massa deverá soltar da tigela e também da sua mão.",
+      "Experimente a massa e veja se esta boa de sal, algumas pessoas gostam de colocar um pouco mais de sal.",
+      "Agora é só fazer bolinhas e colocar na assadeira, deixando um pequeno espaço entre um pão e o outro.",
+      "Não é necessário untar a assadeira.",
+      "Deixe no forno em temperatura média (230°) até dourar um pouco.",
+      "Dica: se sobrar muito, no outro dia pode tostar em um tostador."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Panela",
+    "Bowl",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Pão de queijo fácil e delicioso. Ingredientes: polvilho doce, ou 2 ovos, leite integral, óleo, rasa de sal, queijo ralado parmesão, prato cheio (350 g) de queijo meia cura e/ou mussarela ralado no ralador (quanto mais queijo, mais gostoso o pão vai ficar). Preparo: Primeiro, coloque o leite e o óleo em uma panela pra esquentar, desligue o fogo imediatamente assim que começar a ferver (você verá umas bolinhas do leite subindo). Em uma tigela grande, coloque o polvilho e o sal, e misture bem, logo em seguida, despeje o conteúdo da panela ainda quente, misture bem, primeiro com uma colher e depois com a mão. Em seguida coloque o queijo ralado e um pouco do queijo do prato e também 1 ovo, continue misturando bem."
+}

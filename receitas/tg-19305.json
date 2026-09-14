@@ -1,0 +1,91 @@
+{
+  "id": "tg-19305",
+  "titulo": "Macarrão com atum e creme de leite",
+  "url": "https://www.tudogostoso.com.br/receita/19305-macarrao-com-atum-e-creme-de-leite.html",
+  "nota": 4.7,
+  "n_avaliacoes": 175,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão com atum e creme de leite",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "spagueti",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de spagueti"
+    },
+    {
+      "nome": "atum",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de atum"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de maionese"
+    },
+    {
+      "nome": "creme de leite (ou 1 copo de leite)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (ou 1 copo de leite)"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de extrato de tomate"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o macarrão no ponto de sua preferência.",
+      "Refogue a cebola e o alho na margarina.",
+      "Acrescente o atum, o extrato de tomate, sal, pimenta, a maionese e, por último, o creme de leite.",
+      "Misture bem e jogue sobre o macarrrão.",
+      "Polvilhe com queijo parmesão ralado e leve ao forno para gratinar por 10 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Escorredor de massa",
+    "Pegador de macarrão"
+  ],
+  "texto_para_embedding": "Macarrão com atum e creme de leite. Ingredientes: spagueti, atum, cebola, alho, maionese, creme de leite (ou 1 copo de leite), extrato de tomate, margarina, Sal a gosto, pimenta a gosto. Preparo: Cozinhe o macarrão no ponto de sua preferência. Refogue a cebola e o alho na margarina. Acrescente o atum, o extrato de tomate, sal, pimenta, a maionese e, por último, o creme de leite."
+}

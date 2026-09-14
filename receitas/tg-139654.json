@@ -1,0 +1,72 @@
+{
+  "id": "tg-139654",
+  "titulo": "Bolo de aipim cremoso tradicional",
+  "url": "https://www.tudogostoso.com.br/receita/139654-bolo-de-aipim-cremoso-tradicional.html",
+  "nota": 4.4,
+  "n_avaliacoes": 102,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de aipim cremoso tradicional",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 70,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "medida (lata) de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 medida (lata) de leite"
+    },
+    {
+      "nome": "vidro de leite de coco (200 ml)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "cheias de margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) cheias de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado"
+    },
+    {
+      "nome": "aipim ralado bem fininho (ele fica tipo moído)",
+      "quantidade": "1,5",
+      "unidade": "kg",
+      "texto_original": "1,5 kg de aipim ralado bem fininho (ele fica tipo moído)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador os seis primeiros ingredientes por aproximadamente dois minutos ou até ficar homogêneo.",
+      "Após bater, passe para uma vasilha grande e acrescente o coco e o aipim, misturando tudo com uma colher de pau ou espátula até ficar homogêneo.",
+      "Distribua a massa em um tabuleiro previamente untado e enfarinhado e coloque para assar a 200°C, por aproximadamente uns 50 minutos ou mais, dependendo da eficiência do forno."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de aipim cremoso tradicional. Ingredientes: leite condensado, medida (lata) de leite, vidro de leite de coco (200 ml), ovos, cheias de margarina, açúcar, coco ralado, aipim ralado bem fininho (ele fica tipo moído). Preparo: Bata no liquidificador os seis primeiros ingredientes por aproximadamente dois minutos ou até ficar homogêneo. Após bater, passe para uma vasilha grande e acrescente o coco e o aipim, misturando tudo com uma colher de pau ou espátula até ficar homogêneo. Distribua a massa em um tabuleiro previamente untado e enfarinhado e coloque para assar a 200°C, por aproximadamente uns 50 minutos ou mais, dependendo da eficiência do forno."
+}

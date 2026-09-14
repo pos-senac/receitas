@@ -1,0 +1,47 @@
+{
+  "id": "tg-97194",
+  "titulo": "Gelatina cremosa com creme de leite",
+  "url": "https://www.tudogostoso.com.br/receita/97194-gelatina-cremosa-com-creme-de-leite.html",
+  "nota": 4.5,
+  "n_avaliacoes": 115,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina cremosa com creme de leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "gelatina de morango",
+      "quantidade": "3",
+      "unidade": "caixas",
+      "texto_original": "3 caixas de gelatina de morango"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de creme de leite"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare as caixinhas de gelatina todas juntas, mas com menos água para ficar mais firme, com a açúcar.",
+      "Depois coloque as caixinhas de creme de leite junto com a gelatina e bata por uns 2 minutos.",
+      "Leve à geladeira por 4 a 5 horas.",
+      "A gelatina separa do creme e ficam 2 camadas."
+    ]
+  },
+  "utensilios": [
+    "Leiteira",
+    "Taça de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Gelatina cremosa com creme de leite. Ingredientes: gelatina de morango, creme de leite, sopa de açúcar. Preparo: Prepare as caixinhas de gelatina todas juntas, mas com menos água para ficar mais firme, com a açúcar. Depois coloque as caixinhas de creme de leite junto com a gelatina e bata por uns 2 minutos. Leve à geladeira por 4 a 5 horas."
+}

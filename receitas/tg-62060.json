@@ -1,0 +1,85 @@
+{
+  "id": "tg-62060",
+  "titulo": "Rosquinhas Húngaras",
+  "url": "https://www.tudogostoso.com.br/receita/62060-rosquinhas-hungaras.html",
+  "nota": 4.5,
+  "n_avaliacoes": 109,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Rosquinhas Húngaras",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 70,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "7",
+      "unidade": "colheres (sopa)",
+      "texto_original": "7 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "leite morno (ou água)",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "2 e 1/2 xícaras de leite morno (ou água)"
+    },
+    {
+      "nome": "tabletes fermento para pão (30 g) ou 1 sachê de 10 g fermento seco biológico",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes fermento para pão (30 g) ou 1 sachê de 10 g fermento seco biológico"
+    },
+    {
+      "nome": "Trigo até dar ponto (aproximadamente 7 xícaras)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Trigo até dar ponto (aproximadamente 7 xícaras)"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "7",
+      "unidade": "colheres (sopa)",
+      "texto_original": "7 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "coco ralado de 50 g, ou 100 g se preferir mais coco",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado de 50 g, ou 100 g se preferir mais coco"
+    },
+    {
+      "nome": "pote de margarina de 250 g de boa qualidade",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de margarina de 250 g de boa qualidade"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma vasilha o açúcar, o sal, os ovos, o leite morno com o fermento.",
+      "Se usar fermento seco, adicione por último, junto com a farinha.",
+      "Mexa bem, adicione a farinha até dar ponto.",
+      "Passe para uma superfície enfarinhada e amasse até ficar homogênea, não precisa ser muito.",
+      "Deixe descansar por 10 minutos (não exceda esse tempo senão a massa cresce muito e não dá para rechear), divida a massa em 3 partes, abra com o rolo, recheie e enrole.",
+      "Evite colocar muito recheio nas bordas para não vazar depois.",
+      "Corte em rodelas e coloque nas formas, com um espaço entre elas para não grudarem.",
+      "Deixe descansar por 1 hora.",
+      "Asse em forno pré-aquecido, até que fiquem douradas.",
+      "Se quiser pincelar as rosquinhas, pode usar uma mistura de 1 copo de leite, 2 colheres de açúcar e coco ralado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Rosquinhas Húngaras. Ingredientes: açúcar, ovos, sal, leite morno (ou água), tabletes fermento para pão (30 g) ou 1 sachê de 10 g fermento seco biológico, Trigo até dar ponto (aproximadamente 7 xícaras), açúcar, coco ralado de 50 g, ou 100 g se preferir mais coco, pote de margarina de 250 g de boa qualidade. Preparo: Coloque em uma vasilha o açúcar, o sal, os ovos, o leite morno com o fermento. Se usar fermento seco, adicione por último, junto com a farinha. Mexa bem, adicione a farinha até dar ponto."
+}

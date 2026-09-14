@@ -1,0 +1,43 @@
+{
+  "id": "tg-823",
+  "titulo": "Amendoim doce",
+  "url": "https://www.tudogostoso.com.br/receita/823-amendoim-doce.html",
+  "nota": 4.6,
+  "n_avaliacoes": 142,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Amendoim doce",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "amendoim cru com casca (200ml)",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de amendoim cru com casca (200ml)"
+    },
+    {
+      "nome": "açúcar (200ml)",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de açúcar (200ml)"
+    },
+    {
+      "nome": "água (200ml)",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água (200ml)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte todos os ingredientes em uma panela funda e misture bem para que o açúcar comece a dissolver.",
+      "Leve ao fogo médio mexendo de 5 em 5 minutos.",
+      "Quando a mistura começar a engrossar mexa constantemente até que dê o ponto (todo o açúcar fica grudado no amendoim).",
+      "Assim que der o ponto retire o amendoim da panela e coloque em uma travessa para esfriar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Amendoim doce. Ingredientes: amendoim cru com casca (200ml), açúcar (200ml), água (200ml). Preparo: Junte todos os ingredientes em uma panela funda e misture bem para que o açúcar comece a dissolver. Leve ao fogo médio mexendo de 5 em 5 minutos. Quando a mistura começar a engrossar mexa constantemente até que dê o ponto (todo o açúcar fica grudado no amendoim)."
+}

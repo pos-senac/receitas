@@ -1,0 +1,46 @@
+{
+  "id": "tg-4276",
+  "titulo": "Brigadeiro de panela",
+  "url": "https://www.tudogostoso.com.br/receita/4276-brigadeiro-de-panela.html",
+  "nota": 4.7,
+  "n_avaliacoes": 396,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Brigadeiro de panela",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "Nescau",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de Nescau"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte esses ingredientes numa panela. Adicione o achocolatado e a mateiga, e mexe até criar consistência, ou seja, até começar a engrossar.",
+      "Despeje tudo numa vasilha de vidro e leve a geladeira. Espere aproximadamente uma hora e meia, e está pronto, é só se deliciar!"
+    ]
+  },
+  "utensilios": [
+    "Colher para sobremesa",
+    "Espátula de silicone",
+    "Panela com cabo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Brigadeiro de panela. Ingredientes: leite condensado, Nescau, manteiga. Preparo: Junte esses ingredientes numa panela. Adicione o achocolatado e a mateiga, e mexe até criar consistência, ou seja, até começar a engrossar. Despeje tudo numa vasilha de vidro e leve a geladeira. Espere aproximadamente uma hora e meia, e está pronto, é só se deliciar!"
+}

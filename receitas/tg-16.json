@@ -1,0 +1,64 @@
+{
+  "id": "tg-16",
+  "titulo": "Mousse de maracujá fácil",
+  "url": "https://www.tudogostoso.com.br/receita/16-mousse-de-maracuja-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1748,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de maracujá fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "gelatina de maracujá",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de gelatina de maracujá"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de água quente"
+    },
+    {
+      "nome": "suco de maracujá",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de suco de maracujá"
+    },
+    {
+      "nome": "leite de vaca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite de vaca"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare a gelatina com a água quente.",
+      "Depois é só bater todos os ingredientes no liquidificador e colocar numa travessa para gelar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Colher para sobremesa",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Mousse de maracujá fácil. Ingredientes: gelatina de maracujá, água quente, suco de maracujá, leite de vaca, leite condensado, creme de leite sem soro. Preparo: Prepare a gelatina com a água quente. Depois é só bater todos os ingredientes no liquidificador e colocar numa travessa para gelar."
+}

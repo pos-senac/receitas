@@ -1,0 +1,62 @@
+{
+  "id": "tg-2644",
+  "titulo": "Pizza de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/2644-pizza-de-liquidificador.html",
+  "nota": 4.5,
+  "n_avaliacoes": 503,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Pizza de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "e 1/2copo de farinha de trigo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 e 1/2copo de farinha de trigo"
+    },
+    {
+      "nome": "ovo inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro"
+    },
+    {
+      "nome": "cha de fermento",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de cha de fermento"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de manteiga"
+    },
+    {
+      "nome": "sopa de queijo parmesão ralado",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de queijo parmesão ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador e deixe descansar por 1/2 hora.",
+      "Untar  a forma ou tabuleiro com manteiga e polvilhar com farinha de trigo.",
+      "Despeje a massa e coloque fatias de queijo e presunto.",
+      "Fazer um molho á parte, com tomates, cebola e manteiga e despejar em cima.",
+      "Assar em forno brando por uns 30 a 35 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pizza de liquidificador. Ingredientes: leite, e 1/2copo de farinha de trigo, ovo inteiro, cha de fermento, sopa de manteiga, sopa de queijo parmesão ralado. Preparo: Bata todos os ingredientes no liquidificador e deixe descansar por 1/2 hora. Untar  a forma ou tabuleiro com manteiga e polvilhar com farinha de trigo. Despeje a massa e coloque fatias de queijo e presunto."
+}

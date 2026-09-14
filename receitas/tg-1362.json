@@ -1,0 +1,87 @@
+{
+  "id": "tg-1362",
+  "titulo": "Torta de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/1362-torta-de-liquidificador.html",
+  "nota": 4.6,
+  "n_avaliacoes": 5267,
+  "categoria": "Receitas torta salgada de liquidificador",
+  "subcategoria": "Torta de liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 35,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de queijo ralado"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de orégano"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de fermento em pó"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador até que a massa esteja firme e encorpada.",
+      "Para uma massa mais consistente, acrescente mais uma porção de farinha de trigo.",
+      "Unte uma forma com óleo e despeje metade da massa até cobrir todo o fundo.",
+      "Em seguida, acrescente um recheio de sua escolha e cubra com o restante da massa.",
+      "Asse em forno médio (180° C), preaquecido, por 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Espátula de silicone",
+    "Faca",
+    "Forno elétrico",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Torta de liquidificador. Ingredientes: ovo, farinha de trigo, queijo ralado, orégano, fermento em pó, cebola, leite, óleo, sal. Preparo: Bata todos os ingredientes no liquidificador até que a massa esteja firme e encorpada. Para uma massa mais consistente, acrescente mais uma porção de farinha de trigo. Unte uma forma com óleo e despeje metade da massa até cobrir todo o fundo."
+}

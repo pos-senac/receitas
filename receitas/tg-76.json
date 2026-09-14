@@ -1,0 +1,114 @@
+{
+  "id": "tg-76",
+  "titulo": "Torta cremosa de frango",
+  "url": "https://www.tudogostoso.com.br/receita/76-torta-cremosa-de-frango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 634,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta cremosa de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de trigo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de margarina"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de fermento em pó"
+    },
+    {
+      "nome": "(chá) de sal",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 (chá) de sal"
+    },
+    {
+      "nome": "peito de frango cozido e desfiado.",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de peito de frango cozido e desfiado."
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "molho de tomate (pomarola)",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de molho de tomate (pomarola)"
+    },
+    {
+      "nome": "cheiro-verde",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de cheiro-verde"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "queijo prato",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo prato"
+    },
+    {
+      "nome": "pimenta-do-reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque os ingredientes da massa em um recipiente e vá trabalhando com as mãos até obter uma massa homogênea. Unte a forma e forre com a massa.",
+      "Faça um refogado com a cebola picada, o molho de tomates, cheiro-verde e acrescente o frango desfiado. Coloque em cima da massa crua, logo após, o queijo cortado em cubinhos. Bata as claras e depois as gemas. Acrescente o creme de leite e tempere com o sal. Coloque uma pitada de fermento.",
+      "Cubra o frango e o queijo com essa mistura e leve ao forno médio para assar por cerca de 40 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta cremosa de frango. Ingredientes: trigo, ovo, margarina, fermento em pó, (chá) de sal, peito de frango cozido e desfiado., cebola, molho de tomate (pomarola), cheiro-verde, sal, ovos, caixinha de creme de leite, queijo prato, pimenta-do-reino, fermento em pó. Preparo: Coloque os ingredientes da massa em um recipiente e vá trabalhando com as mãos até obter uma massa homogênea. Unte a forma e forre com a massa. Faça um refogado com a cebola picada, o molho de tomates, cheiro-verde e acrescente o frango desfiado. Coloque em cima da massa crua, logo após, o queijo cortado em cubinhos. Bata as claras e depois as gemas. Acrescente o creme de leite e tempere com o sal. Coloque uma pitada de fermento. Cubra o frango e o queijo com essa mistura e leve ao forno médio para assar por cerca de 40 minutos."
+}

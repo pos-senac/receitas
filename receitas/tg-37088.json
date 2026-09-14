@@ -1,0 +1,112 @@
+{
+  "id": "tg-37088",
+  "titulo": "Torta de sardinha",
+  "url": "https://www.tudogostoso.com.br/receita/37088-torta-de-sardinha.html",
+  "nota": 4.7,
+  "n_avaliacoes": 118,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Torta de sardinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo ralado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "tomates picadinhos em cubinhos",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de tomates picadinhos em cubinhos"
+    },
+    {
+      "nome": "pimentão verdes picadinhos em cubinhos",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de pimentão verdes picadinhos em cubinhos"
+    },
+    {
+      "nome": "cebola picadinhas em cubinhos",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de cebola picadinhas em cubinhos"
+    },
+    {
+      "nome": "sardinha amassadas",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de sardinha amassadas"
+    },
+    {
+      "nome": "azeitonas picadinhas",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de azeitonas picadinhas"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata todos os ingredientes da massa no liquidificador."
+    ],
+    "Recheio:": [
+      "Misture todos os ingredientes do recheio.",
+      "Em uma assadeira untada e enfarinhada, coloque metade da massa, depois todo o recheio e por fim o restante da massa.",
+      "Leve ao forno preaquecido a 180º C de 40 a 50 minutos.",
+      "Sirva quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de sardinha. Ingredientes: ovos inteiros, sal a gosto, pimenta-do-reino a gosto, leite, farinha de trigo, manteiga, queijo ralado, fermento em pó, tomates picadinhos em cubinhos, pimentão verdes picadinhos em cubinhos, cebola picadinhas em cubinhos, sardinha amassadas, azeitonas picadinhas, sal a gosto. Preparo: Bata todos os ingredientes da massa no liquidificador. Misture todos os ingredientes do recheio. Em uma assadeira untada e enfarinhada, coloque metade da massa, depois todo o recheio e por fim o restante da massa."
+}

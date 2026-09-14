@@ -1,0 +1,96 @@
+{
+  "id": "tg-137142",
+  "titulo": "Bolo de coco gelado",
+  "url": "https://www.tudogostoso.com.br/receita/137142-bolo-de-coco-gelado.html",
+  "nota": 4.7,
+  "n_avaliacoes": 641,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Bolo de coco gelado",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 25,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) leite"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) coco ralado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) fermento em pó"
+    },
+    {
+      "nome": "margarina sem sal",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) margarina sem sal"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "vidro (200 ml) leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro (200 ml) leite de coco"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de coco ralado"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Bata no liquidificador os ovos, o leite, a margarina, o açúcar e o coco.",
+      "Coloque o trigo em uma vasilha, despeje a massa batida e misture até que fique homogêneo.",
+      "Adicione o coco e misture.",
+      "Por último, acrescente o fermento.",
+      "Coloque em forma untada e enfarinhada.",
+      "Asse em forno médio, preaquecido, por cerca de 40 minutos, ou até dourar."
+    ],
+    "Cobertura": [
+      "Misture tudo (não precisa levar ao fogo), coloque sobre o bolo ainda quente e polvilhe coco ralado.",
+      "Leve para gelar!"
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Espátula de silicone",
+    "Forma"
+  ],
+  "texto_para_embedding": "Bolo de coco gelado. Ingredientes: açúcar, farinha de trigo, ovos, leite, coco ralado, fermento em pó, margarina sem sal, leite condensado, vidro (200 ml) leite de coco, coco ralado. Preparo: Bata no liquidificador os ovos, o leite, a margarina, o açúcar e o coco. Coloque o trigo em uma vasilha, despeje a massa batida e misture até que fique homogêneo. Adicione o coco e misture."
+}

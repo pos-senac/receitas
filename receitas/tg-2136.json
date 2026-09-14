@@ -1,0 +1,73 @@
+{
+  "id": "tg-2136",
+  "titulo": "Pão de cebola",
+  "url": "https://www.tudogostoso.com.br/receita/2136-pao-de-cebola.html",
+  "nota": 4.5,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de cebola",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "cebola grande picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada"
+    },
+    {
+      "nome": "xcara (chá) de leite morno",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 xcara (chá) de leite morno"
+    },
+    {
+      "nome": "oleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de oleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "açucar",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de açucar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "fermento para pão",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de fermento para pão"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes, menos o trigo no liquidificador.",
+      "Acrescente o trigo e amasse bem.",
+      "Faça os pãezinhos, coloque numa assadeira, cubra e deixe crescer.",
+      "Leve ao forno quente preaquecido para assar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de cebola. Ingredientes: cebola grande picada, xcara (chá) de leite morno, oleo, sal, açucar, ovos, fermento para pão, trigo. Preparo: Bata todos os ingredientes, menos o trigo no liquidificador. Acrescente o trigo e amasse bem. Faça os pãezinhos, coloque numa assadeira, cubra e deixe crescer."
+}

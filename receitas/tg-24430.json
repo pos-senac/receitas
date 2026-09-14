@@ -1,0 +1,54 @@
+{
+  "id": "tg-24430",
+  "titulo": "Polenta",
+  "url": "https://www.tudogostoso.com.br/receita/24430-polenta.html",
+  "nota": 4.7,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas patês",
+  "subcategoria": "Polenta",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "fubá/farinha de milho fina",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de fubá/farinha de milho fina"
+    },
+    {
+      "nome": "água em temperatura ambiente",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de água em temperatura ambiente"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de água quente"
+    },
+    {
+      "nome": "caldos de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caldos de galinha"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga ou margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva muito bem as xícaras de fubá nas 2 xícaras de água fria em um recipiente separado.",
+      "Numa panela, coloque as 3 xícaras de água quente misturadas com os caldos de galinha e com a colher de manteiga, até ferver e dissolver bem a mistura.",
+      "Junte o fubá dissolvido na água fria com a mistura quente na panela, mexendo por 45 minutos aproximadamente, até que a polenta esteja bem cozida."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Polenta. Ingredientes: fubá/farinha de milho fina, água em temperatura ambiente, água quente, caldos de galinha, manteiga ou margarina. Preparo: Dissolva muito bem as xícaras de fubá nas 2 xícaras de água fria em um recipiente separado. Numa panela, coloque as 3 xícaras de água quente misturadas com os caldos de galinha e com a colher de manteiga, até ferver e dissolver bem a mistura. Junte o fubá dissolvido na água fria com a mistura quente na panela, mexendo por 45 minutos aproximadamente, até que a polenta esteja bem cozida."
+}

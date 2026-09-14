@@ -1,0 +1,93 @@
+{
+  "id": "tg-233",
+  "titulo": "Salada simples",
+  "url": "https://www.tudogostoso.com.br/receita/233-salada-simples.html",
+  "nota": 4.5,
+  "n_avaliacoes": 260,
+  "categoria": "Receitas saladas",
+  "subcategoria": "Salada simples",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "alface americana",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 alface americana"
+    },
+    {
+      "nome": "cenouras raladas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras raladas"
+    },
+    {
+      "nome": "beterraba ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 beterraba ralada"
+    },
+    {
+      "nome": "tomate sem pele e sem semente",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate sem pele e sem semente"
+    },
+    {
+      "nome": "cebola cortada em rodelas ou picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola cortada em rodelas ou picada"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de açúcar"
+    },
+    {
+      "nome": "azeite extravirgem de oliva",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de azeite extravirgem de oliva"
+    },
+    {
+      "nome": "a 3 colheres de vinagre",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 a 3 colheres de vinagre"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem todos os ingredientes.",
+      "Rasgue as folhas do alface para que fiquem menores.",
+      "Rale as cenouras e a beterraba.",
+      "O tomate, após estar sem pele e semente, deve ser picado.",
+      "A cebola pode ser cortada em pedacinhos ou em rodelas, como preferir.",
+      "Junte tudo."
+    ],
+    "Molho:": [
+      "Junte o açúcar, sal, azeite e vinagre em uma xícara.",
+      "Misture bem com uma colher e despeje sobre a salada.",
+      "Pronto!"
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Bowl",
+    "Faca",
+    "Molheira",
+    "Ralador",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Salada simples. Ingredientes: alface americana, cenouras raladas, beterraba ralada, tomate sem pele e sem semente, cebola cortada em rodelas ou picada, sal, açúcar, azeite extravirgem de oliva, a 3 colheres de vinagre. Preparo: Lave bem todos os ingredientes. Rasgue as folhas do alface para que fiquem menores. Rale as cenouras e a beterraba."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tg-12040",
+  "titulo": "Enroladinho de salsicha",
+  "url": "https://www.tudogostoso.com.br/receita/12040-enroladinho-de-salsicha.html",
+  "nota": 4.6,
+  "n_avaliacoes": 562,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Enroladinho de salsicha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de açúcar"
+    },
+    {
+      "nome": "tabletes de fermento biológico fresco",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de fermento biológico fresco"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1/4",
+      "unidade": "xícara",
+      "texto_original": "1/4 xícara de chá de óleo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "e 1/2 de chá de farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras e 1/2 de chá de farinha de trigo"
+    },
+    {
+      "nome": "ovo batido (para pincelar)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo batido (para pincelar)"
+    },
+    {
+      "nome": "salsichas",
+      "quantidade": "20",
+      "unidade": null,
+      "texto_original": "20 salsichas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva o fermento no leite.",
+      "Em uma vasilha, coloque a farinha e o fermento dissolvido e o restante dos ingredientes.",
+      "Sove a massa até ficar macia e homogênea.",
+      "Divida a massa em duas, cubra com plástico e deixe descansar por 30 minutos.",
+      "Abra as massas com um rolo e coloque o recheio.",
+      "Enrole, coloque em uma forma untada com manteiga, e leve para dourar no forno."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Enroladinho de salsicha. Ingredientes: chá de sal, sopa de açúcar, tabletes de fermento biológico fresco, chá de leite, chá de óleo, ovo, e 1/2 de chá de farinha de trigo, ovo batido (para pincelar), salsichas. Preparo: Dissolva o fermento no leite. Em uma vasilha, coloque a farinha e o fermento dissolvido e o restante dos ingredientes. Sove a massa até ficar macia e homogênea."
+}

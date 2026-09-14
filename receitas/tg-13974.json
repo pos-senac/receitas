@@ -1,0 +1,93 @@
+{
+  "id": "tg-13974",
+  "titulo": "Sobremesa deliciosa de banana",
+  "url": "https://www.tudogostoso.com.br/receita/13974-sobremesa-deliciosa-de-banana.html",
+  "nota": 4.6,
+  "n_avaliacoes": 146,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Sobremesa deliciosa de banana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "bananas",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 bananas"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite comum",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite comum"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de amido de milho"
+    },
+    {
+      "nome": "sobremesa de baunilha",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de baunilha"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Levar ao fogo o açúcar até dourar juntar a água e mexer até derreter.",
+      "Juntar as bananas deixar cozinhar até dourar, mas sem desmanchar e passar para um refratário.",
+      "Levar ao fogo os ingredientes do creme e colocar sobre as bananas bater as claras em neve com o açúcar e colocar em cima.",
+      "Levar ao forno para corar por 15 minutos.",
+      "Servir gelado ou morno de qualquer maneira é uma delícia."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher para sobremesa",
+    "Fogão",
+    "Fouet",
+    "Taça de sobremesa",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Sobremesa deliciosa de banana. Ingredientes: bananas, açúcar, água, leite condensado, leite comum, gemas, sopa de amido de milho, sobremesa de baunilha, claras, sopa de açúcar. Preparo: Levar ao fogo o açúcar até dourar juntar a água e mexer até derreter. Juntar as bananas deixar cozinhar até dourar, mas sem desmanchar e passar para um refratário. Levar ao fogo os ingredientes do creme e colocar sobre as bananas bater as claras em neve com o açúcar e colocar em cima."
+}

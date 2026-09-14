@@ -1,0 +1,75 @@
+{
+  "id": "tg-3114",
+  "titulo": "Lanche rápido",
+  "url": "https://www.tudogostoso.com.br/receita/3114-lanche-rapido.html",
+  "nota": 4.4,
+  "n_avaliacoes": 873,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Lanche rápido",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "pão de forma",
+      "quantidade": "8",
+      "unidade": "fatias",
+      "texto_original": "8 fatias de pão de forma"
+    },
+    {
+      "nome": "presunto fatiado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de presunto fatiado"
+    },
+    {
+      "nome": "queijo prato fatiado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo prato fatiado"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "tomate fatiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate fatiado"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "queijo parmesão ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo parmesão ralado para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente quadrado ou retangular, coloque 4 fatias de pão de forma.",
+      "Sobre o pão, coloque o presunto e o queijo.",
+      "Cubra com as outras 4 fatias de pão.",
+      "Bata os ovos, junte o creme de leite com 1 pitada de sal e despeje sobre os sanduíches.",
+      "Decore com o tomate e polvilhe queijo e orégano.",
+      "Leve ao microondas por 10 minutos, em potência alta, ou até que o creme esteja firme."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Lanche rápido. Ingredientes: pão de forma, presunto fatiado, queijo prato fatiado, creme de leite sem soro, ovos, tomate fatiado, orégano, queijo parmesão ralado para polvilhar. Preparo: Em um recipiente quadrado ou retangular, coloque 4 fatias de pão de forma. Sobre o pão, coloque o presunto e o queijo. Cubra com as outras 4 fatias de pão."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tg-2107",
+  "titulo": "Rocambole prático de doce de leite",
+  "url": "https://www.tudogostoso.com.br/receita/2107-rocambole-pratico-de-doce-de-leite.html",
+  "nota": 4.4,
+  "n_avaliacoes": 735,
+  "categoria": "Receitas rocambole",
+  "subcategoria": "Rocambole prático de doce de leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de manteiga ou margarina"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "açucar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açucar"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1/4",
+      "unidade": "xícara",
+      "texto_original": "1/4 xícara de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhar a lata de leite condensado numa panela de pressão por aproximadamente 50 minutos.",
+      "Bater no liquidificador os ovos, o açúcar e a manteiga, e, em seguida, a farinha e o fermento.",
+      "Untar uma forma com bastante manteiga, despejar a massa batida e levar ao forno pré-aquecido por 5 a 8 minutos (não deixar a massa dourar).",
+      "O leite condensado já deve estar cozido e frio.",
+      "Tirar a massa do forno e colocar sobre um pano molhado.",
+      "Espalhar o leite condensado (agora doce de leite) sobre a massa.",
+      "Enrolar a massa com o doce de leite e polvilhe açúcar e canela sobre ela."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Rocambole prático de doce de leite. Ingredientes: manteiga ou margarina, ovos, farinha de trigo, açúcar, fermento em pó, leite condensado, açucar, canela em pó. Preparo: Cozinhar a lata de leite condensado numa panela de pressão por aproximadamente 50 minutos. Bater no liquidificador os ovos, o açúcar e a manteiga, e, em seguida, a farinha e o fermento. Untar uma forma com bastante manteiga, despejar a massa batida e levar ao forno pré-aquecido por 5 a 8 minutos (não deixar a massa dourar)."
+}

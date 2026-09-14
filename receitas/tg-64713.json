@@ -1,0 +1,101 @@
+{
+  "id": "tg-64713",
+  "titulo": "Torta de morango fantástica",
+  "url": "https://www.tudogostoso.com.br/receita/64713-torta-de-morango-fantastica.html",
+  "nota": 4.6,
+  "n_avaliacoes": 329,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de morango fantástica",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "gema batida",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema batida"
+    },
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de manteiga sem sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "700",
+      "unidade": "ml",
+      "texto_original": "700 ml de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de amido de milho"
+    },
+    {
+      "nome": "gemas peneiradas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas peneiradas"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1 e 1/2",
+      "unidade": "lata",
+      "texto_original": "1 e 1/2 lata de leite condensado"
+    },
+    {
+      "nome": "Morangos lavados e cortados ao meio",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Morangos lavados e cortados ao meio"
+    },
+    {
+      "nome": "gelatina de morango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina de morango"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Coloque a farinha, faça um buraco e coloque todos os outros ingredientes e mexa até a massa ficar homogênea e lisa.",
+      "Forre ela por completo na assadeira, como uma torta.",
+      "Coloque no forno por 20 minutos ou até começar a ficar douradinha nos lados.",
+      "Reserve."
+    ],
+    "Recheio:": [
+      "Mexa todos os ingredientes na panela até se soltar por completo, ficará um creme maravilhoso. Deixe esfriar e jogue todo na assadeira com a massa já assada."
+    ],
+    "Cobertura:": [
+      "Coloque os morangos um ao lado do outro, até que feche por completo de morangos em cima."
+    ],
+    "Gelatina:": [
+      "Deixe ela gelar até ficar na consistência de a colher pegar a gelatina, mas ainda um pouquinho mole.",
+      "Já nesse ponto coloque a gelatina aos poucos em cima da torta deixando os morangos por completo cobertos com a gelatina, coloque novamente para gelar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de morango fantástica. Ingredientes: farinha de trigo, gema batida, manteiga sem sal, açúcar, fermento em pó, leite, amido de milho, gemas peneiradas, leite condensado, Morangos lavados e cortados ao meio, gelatina de morango. Preparo: Coloque a farinha, faça um buraco e coloque todos os outros ingredientes e mexa até a massa ficar homogênea e lisa. Forre ela por completo na assadeira, como uma torta. Coloque no forno por 20 minutos ou até começar a ficar douradinha nos lados."
+}

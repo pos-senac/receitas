@@ -1,0 +1,74 @@
+{
+  "id": "tg-324",
+  "titulo": "Massa de pizza",
+  "url": "https://www.tudogostoso.com.br/receita/324-massa-de-pizza.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1675,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa de pizza",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "fermento biológico",
+      "quantidade": "30",
+      "unidade": "g",
+      "texto_original": "30 g de fermento biológico"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de água morna"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3/4",
+      "unidade": "xícaras",
+      "texto_original": "3/4 xícaras de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de açúcar"
+    },
+    {
+      "nome": "pinga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de pinga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture o fermento, o sal e o açúcar em um pouco de água morna, até que o fermento esteja completamente dissolvido.",
+      "Em seguida, adicione metade da medida de farinha de trigo, o óleo e mexa até criar uma consistência pastosa.",
+      "Acrescente o restante da farinha de trigo, a pinga, a água morna e misture bem.",
+      "Assim que a massa desgrudar das mãos, deixe crescer por 30 minutos.",
+      "Abra os discos, fure a massa com um garfo e pincele o molho.",
+      "Leve ao forno médio (180° C), preaquecido, por 15 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Assadeira redonda",
+    "Cortador de pizza",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Massa de pizza. Ingredientes: farinha de trigo, fermento biológico, água morna, óleo, sal, açúcar, pinga. Preparo: Misture o fermento, o sal e o açúcar em um pouco de água morna, até que o fermento esteja completamente dissolvido. Em seguida, adicione metade da medida de farinha de trigo, o óleo e mexa até criar uma consistência pastosa. Acrescente o restante da farinha de trigo, a pinga, a água morna e misture bem."
+}

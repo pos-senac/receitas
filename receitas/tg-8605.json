@@ -1,0 +1,74 @@
+{
+  "id": "tg-8605",
+  "titulo": "Bolo de fubá fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/8605-bolo-de-fuba-fofinho.html",
+  "nota": 4.8,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá fofinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "fubá mimoso",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de fubá mimoso"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de óleo"
+    },
+    {
+      "nome": "ovos claras separadas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos claras separadas"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "Raspas de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Raspas de 1 limão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque na batedeira o açúcar, as gemas e o óleo bata bem.",
+      "Junte o leite, adicione o fubá e a farinha de trigo peneirados.",
+      "Coloque as claras em neve e por último o fermento e as raspas de limão.",
+      "Coloque em forma de anel untada e polvilhada.",
+      "Asse em forno médio, pré - aquecido por aproximadamente 40 minutos ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de fubá fofinho. Ingredientes: açúcar, fubá mimoso, chá de farinha de trigo, chá de óleo, ovos claras separadas, chá de leite, sopa de fermento em pó, Raspas de 1 limão. Preparo: Coloque na batedeira o açúcar, as gemas e o óleo bata bem. Junte o leite, adicione o fubá e a farinha de trigo peneirados. Coloque as claras em neve e por último o fermento e as raspas de limão."
+}

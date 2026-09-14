@@ -1,0 +1,55 @@
+{
+  "id": "tg-16918",
+  "titulo": "Mingau de aveia (básico mais delicioso)",
+  "url": "https://www.tudogostoso.com.br/receita/16918-mingau-de-aveia-basico-mais-delicioso.html",
+  "nota": 4.8,
+  "n_avaliacoes": 151,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Mingau de aveia (básico mais delicioso)",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite integral",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite integral"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "aveia flocos finos",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de aveia flocos finos"
+    },
+    {
+      "nome": "canela para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um copo americano coloque a aveia, o açúcar e um pouco de leite, mexa e reserve.",
+      "Ferva o restante do leite em uma panela e quando começar a levantar fervura coloque a mistura que você reservou.",
+      "Aguarde até começar a quase grudar na panela, mexendo sempre em fogo baixo e está pronto.",
+      "Coloque canela por cima para polvilhar e bom apetite."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Concha",
+    "Prato fundo",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Mingau de aveia (básico mais delicioso). Ingredientes: leite integral, açúcar, aveia flocos finos, canela para polvilhar. Preparo: Em um copo americano coloque a aveia, o açúcar e um pouco de leite, mexa e reserve. Ferva o restante do leite em uma panela e quando começar a levantar fervura coloque a mistura que você reservou. Aguarde até começar a quase grudar na panela, mexendo sempre em fogo baixo e está pronto."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tg-127187",
+  "titulo": "Bolo de caneca sem ovo e sem óleo",
+  "url": "https://www.tudogostoso.com.br/receita/127187-bolo-de-caneca-sem-ovo-e-sem-oleo.html",
+  "nota": 4.3,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de caneca sem ovo e sem óleo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 3,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "colheres",
+      "texto_original": "1 e 1/2 colheres de açúcar"
+    },
+    {
+      "nome": "chocolate",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de chocolate"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo com um garfo em uma caneca,",
+      "Leve ao micro-ondas por 3 minutos aproximadamente, depende da potência de cada um."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de caneca sem ovo e sem óleo. Ingredientes: margarina, leite, açúcar, chocolate, trigo, fermento. Preparo: Bata tudo com um garfo em uma caneca, Leve ao micro-ondas por 3 minutos aproximadamente, depende da potência de cada um."
+}

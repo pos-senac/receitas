@@ -1,0 +1,73 @@
+{
+  "id": "tg-55",
+  "titulo": "Bife à milanesa",
+  "url": "https://www.tudogostoso.com.br/receita/55-bife-a-milanesa.html",
+  "nota": 4.6,
+  "n_avaliacoes": 952,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Bife à milanesa",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "bife patinho, alcatra ou mignon",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de bife patinho, alcatra ou mignon"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos batidos"
+    },
+    {
+      "nome": "farinha de rosca a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca a gosto"
+    },
+    {
+      "nome": "farinha de trigo a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo a gosto"
+    },
+    {
+      "nome": "alho amassados (opcional)",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho amassados (opcional)"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os bifes a gosto e reserve.",
+      "Em um prato fundo, bata os ovos até obter uma mistura homogênea.",
+      "Separe a farinha de rosca e a farinha de trigo em pratos diferentes.",
+      "Passe os bifes na farinha de trigo, depois nos ovos batidos e na farinha de rosca.",
+      "Em uma frigideira, frite os bifes em óleo quente até que fiquem dourados.",
+      "Ao retirar da frigideira, coloque os bifes em papel toalha para que a gordura em excesso seja absorvida."
+    ]
+  },
+  "utensilios": [
+    "Prato fundo",
+    "Frigideira funda",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Bife à milanesa. Ingredientes: bife patinho, alcatra ou mignon, ovos batidos, farinha de rosca a gosto, farinha de trigo a gosto, alho amassados (opcional), sal a gosto, pimenta-do-reino a gosto. Preparo: Tempere os bifes a gosto e reserve. Em um prato fundo, bata os ovos até obter uma mistura homogênea. Separe a farinha de rosca e a farinha de trigo em pratos diferentes."
+}

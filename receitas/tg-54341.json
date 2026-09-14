@@ -1,0 +1,119 @@
+{
+  "id": "tg-54341",
+  "titulo": "Filé mignon ao molho de mostarda com risoto de alho-poró",
+  "url": "https://www.tudogostoso.com.br/receita/54341-file-mignon-ao-molho-de-mostarda-com-risoto-de-alho-poro.html",
+  "nota": 4.5,
+  "n_avaliacoes": 152,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Filé mignon ao molho de mostarda com risoto de alho-poró",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "filé mignon em bifes não muito finos",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé mignon em bifes não muito finos"
+    },
+    {
+      "nome": "alho espremidos",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho espremidos"
+    },
+    {
+      "nome": "Mostarda de dijon a gosto (mais ou menos 1 colher de sopa)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Mostarda de dijon a gosto (mais ou menos 1 colher de sopa)"
+    },
+    {
+      "nome": "Sal e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e pimenta a gosto"
+    },
+    {
+      "nome": "cubo de caldo de legumes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de legumes"
+    },
+    {
+      "nome": "azeite de oliva",
+      "quantidade": "1/2",
+      "unidade": "xícara (café)",
+      "texto_original": "1/2 xícara (café) de azeite de oliva"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "chá de creme de leite fresco",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de creme de leite fresco"
+    },
+    {
+      "nome": "arroz (arbóreo)",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de arroz (arbóreo)"
+    },
+    {
+      "nome": "taça de vinho branco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 taça de vinho branco"
+    },
+    {
+      "nome": "Caldo de legumes fervente",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Caldo de legumes fervente"
+    },
+    {
+      "nome": "chá (mais ou menos) de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá (mais ou menos) de leite"
+    },
+    {
+      "nome": "alho poró-picado",
+      "quantidade": "5",
+      "unidade": "xícaras (chá)",
+      "texto_original": "5 xícaras (chá) de alho poró-picado"
+    },
+    {
+      "nome": "Manteiga e azeite o suficiente para fritar o alho e o alho-poró",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Manteiga e azeite o suficiente para fritar o alho e o alho-poró"
+    },
+    {
+      "nome": "alho espremidos",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho espremidos"
+    }
+  ],
+  "modo_preparo": {
+    "Filé ao molho de mostarda:": [
+      "Grelhar os filés na manteiga e adicionar um mistura de sal com a pimenta.",
+      "Depois de grelhados, reserve.",
+      "Fritar o alho na manteiga com azeite até ficar transparente.",
+      "Acrescente a mostarda o caldo de legumes e o creme de leite, acerte o sal se necessário e despeje sobre os filés, sirva em seguida."
+    ],
+    "Risoto de alho-poró:": [
+      "Frite o alho e o alho-poró na manteiga com um pouco de azeite, acrescente o arroz e adicione o vinho branco e a água fervente aos poucos, sem parar de mexer, até que o arroz esteja no ponto.",
+      "Adicione um pouco de leite, acerte o sal e sirva em seguida."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Filé mignon ao molho de mostarda com risoto de alho-poró. Ingredientes: filé mignon em bifes não muito finos, alho espremidos, Mostarda de dijon a gosto (mais ou menos 1 colher de sopa), Sal e pimenta a gosto, cubo de caldo de legumes, azeite de oliva, manteiga, chá de creme de leite fresco, arroz (arbóreo), taça de vinho branco, Caldo de legumes fervente, chá (mais ou menos) de leite, alho poró-picado, Manteiga e azeite o suficiente para fritar o alho e o alho-poró, alho espremidos. Preparo: Grelhar os filés na manteiga e adicionar um mistura de sal com a pimenta. Depois de grelhados, reserve. Fritar o alho na manteiga com azeite até ficar transparente."
+}

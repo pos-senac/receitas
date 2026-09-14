@@ -1,0 +1,64 @@
+{
+  "id": "tg-2753",
+  "titulo": "Cocada",
+  "url": "https://www.tudogostoso.com.br/receita/2753-cocada.html",
+  "nota": 4.4,
+  "n_avaliacoes": 158,
+  "categoria": "Receitas cocada",
+  "subcategoria": "Cocada",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "coco fresco ralado grosso",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de coco fresco ralado grosso"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 e 1/2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de água"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/4 xícara (chá) de leite condensado"
+    },
+    {
+      "nome": "óleo, o quanto baste para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo, o quanto baste para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte uma assadeira grande com óleo.",
+      "Reserve.",
+      "Coloque a água e o açúcar numa panela e leve ao fogo alto.",
+      "Deixe a calda cozinhar até o ponto de fio médio.",
+      "Despeje o coco na panela com a calda e mexa.",
+      "Acrescente o leite condensado e continue mexendo até que comece a desprender do fundo da panela.",
+      "Retire a cocada do fogo e coloque as colheradas sobre a assadeira untada.",
+      "Espere endurecer um pouco e retire as cocadas da assadeira com uma espátula.",
+      "Se quiser guardar a cocada, deixe esfriar bem e guarde num recipiente com tampa."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Forma"
+  ],
+  "texto_para_embedding": "Cocada. Ingredientes: coco fresco ralado grosso, açúcar, água, leite condensado, óleo, o quanto baste para untar. Preparo: Unte uma assadeira grande com óleo. Reserve. Coloque a água e o açúcar numa panela e leve ao fogo alto."
+}

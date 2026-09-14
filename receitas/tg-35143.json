@@ -1,0 +1,116 @@
+{
+  "id": "tg-35143",
+  "titulo": "Cupcakes de baunilha",
+  "url": "https://www.tudogostoso.com.br/receita/35143-cupcakes-de-baunilha.html",
+  "nota": 4.5,
+  "n_avaliacoes": 355,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cupcakes de baunilha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "125g de farinha de trigo (um pouquinho menos que 1 xícara e meia)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "125g de farinha de trigo (um pouquinho menos que 1 xícara e meia)"
+    },
+    {
+      "nome": "125g de açúcar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "125g de açúcar"
+    },
+    {
+      "nome": "125g de manteiga",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "125g de manteiga"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "chá de baunilha",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de chá de baunilha"
+    },
+    {
+      "nome": "sopa de leite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de leite"
+    },
+    {
+      "nome": "chá de fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de fermento"
+    },
+    {
+      "nome": "200g de chocolate ao leite (ou meio amargo)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de chocolate ao leite (ou meio amargo)"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de creme de leite"
+    },
+    {
+      "nome": "150g de açúcar de confeiteiro (1 xícara e meia)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "150g de açúcar de confeiteiro (1 xícara e meia)"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 claras"
+    },
+    {
+      "nome": "Suco de 1/2 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1/2 limão"
+    }
+  ],
+  "modo_preparo": {
+    "Modo de preparo da massa:": [
+      "junte todos os ingredientes, exceto o leite, e bata no processador ou batedeira.",
+      "Por último, acrescente o leite e mexa com uma colher ou fouet.",
+      "Disponha 15 forminhas de papel em uma assadeira e despeje apenas 1 colher de massa em cada forminha (você pode imaginar que é pouco, mas eles crescem).",
+      "Leve para assar em forno quente por 20 minutos.",
+      "Espere esfriar, de preferência em uma grade.",
+      "Quando estiverem frios, corte uma tampa no bolinho com uma faca pequena.",
+      "Trabalhe com muito cuidado para que ele não quebre.",
+      "Depois de remover a tampa, aplique o recheio, recoloque a tampa e cubra com o glacê."
+    ],
+    "Dica:": [
+      "não se preocupe se você não tem assadeira para assar muffins e cupcakes.",
+      "Pode levar ao forno apenas no papel.",
+      "Use três ou quatro forminhas de papel para cada bolinho, assim não corre o risco de abrir e ficar deformado."
+    ],
+    "Modo de preparo do recheio:": [
+      "derreta o chocolate em banho-maria, acrescente o creme de leite e mexa bem.",
+      "Para derreter o chocolate no microondas, programa a potência média e leve ao microondas por 1 minutos.",
+      "Retire, mexa com uma colher e volte por mais 1 minuto.",
+      "Se não quiser rechear com chocolate, você pode usar doce de leite cremoso ou geléias."
+    ],
+    "Modo de preparo da cobertura:": [
+      "bata as claras em neve, junte o açúcar e o limão.",
+      "Espalhe sobre os bolinhos e salpique confeitos coloridos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cupcakes de baunilha. Ingredientes: 125g de farinha de trigo (um pouquinho menos que 1 xícara e meia), 125g de açúcar, 125g de manteiga, ovos, chá de baunilha, sopa de leite, chá de fermento, 200g de chocolate ao leite (ou meio amargo), creme de leite, 150g de açúcar de confeiteiro (1 xícara e meia), claras, Suco de 1/2 limão. Preparo: junte todos os ingredientes, exceto o leite, e bata no processador ou batedeira. Por último, acrescente o leite e mexa com uma colher ou fouet. Disponha 15 forminhas de papel em uma assadeira e despeje apenas 1 colher de massa em cada forminha (você pode imaginar que é pouco, mas eles crescem)."
+}

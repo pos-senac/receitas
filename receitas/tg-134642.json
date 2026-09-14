@@ -1,0 +1,73 @@
+{
+  "id": "tg-134642",
+  "titulo": "Gelatina arco-íris",
+  "url": "https://www.tudogostoso.com.br/receita/134642-gelatina-arco-iris.html",
+  "nota": 4.5,
+  "n_avaliacoes": 145,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina arco-íris",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "gelatina sabor amora",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina sabor amora"
+    },
+    {
+      "nome": "gelatina sabor tuti-fruit",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina sabor tuti-fruit"
+    },
+    {
+      "nome": "gelatina sabor limão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina sabor limão"
+    },
+    {
+      "nome": "gelatina sabor abacaxi",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina sabor abacaxi"
+    },
+    {
+      "nome": "gelatina sabor morango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina sabor morango"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "água fervente",
+      "quantidade": "750",
+      "unidade": "ml",
+      "texto_original": "750 ml de água fervente"
+    },
+    {
+      "nome": "água fria",
+      "quantidade": "750",
+      "unidade": "ml",
+      "texto_original": "750 ml de água fria"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiro dissolva a gelatina de amora em 150 ml de água fervente e 150 ml de água fria.",
+      "Depois divida em duas partes, uma parte coloque em uma forma untada com oleo e leve à geladeira.",
+      "A outra parte misture quatro colheres de sopa de  leite condensado e quando a parte que foi ao gelo endurecer jogue lentamente por cima e leve novamente à geladeira.",
+      "Faça o mesmo com outras na seguinte ordem, amora, tuti-fruit, limão, abacaxi e morango."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Gelatina arco-íris. Ingredientes: gelatina sabor amora, gelatina sabor tuti-fruit, gelatina sabor limão, gelatina sabor abacaxi, gelatina sabor morango, leite condensado, água fervente, água fria. Preparo: Primeiro dissolva a gelatina de amora em 150 ml de água fervente e 150 ml de água fria. Depois divida em duas partes, uma parte coloque em uma forma untada com oleo e leve à geladeira. A outra parte misture quatro colheres de sopa de  leite condensado e quando a parte que foi ao gelo endurecer jogue lentamente por cima e leve novamente à geladeira."
+}

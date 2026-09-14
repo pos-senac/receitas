@@ -1,0 +1,117 @@
+{
+  "id": "tg-3598",
+  "titulo": "Bolo bomba",
+  "url": "https://www.tudogostoso.com.br/receita/3598-bolo-bomba.html",
+  "nota": 4.5,
+  "n_avaliacoes": 228,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo bomba",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "copos",
+      "texto_original": "3 copos de leite"
+    },
+    {
+      "nome": "gema",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema"
+    },
+    {
+      "nome": "sopa de amido de milho dissolvido no leite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de amido de milho dissolvido no leite"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de açúcar"
+    },
+    {
+      "nome": "sopa cheia de margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa cheia de margarina"
+    },
+    {
+      "nome": "ovos (claras em neve)",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos (claras em neve)"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de fermento em pó"
+    },
+    {
+      "nome": "barra de chocolate ao leite 200 g",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 barra de chocolate ao leite 200 g"
+    },
+    {
+      "nome": "latinha de creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 latinha de creme de leite sem soro"
+    }
+  ],
+  "modo_preparo": {
+    "Creme:": [
+      "Misturar todos os ingredientes do creme em uma panela e levar ao fogo baixo, mexendo até engrossar.",
+      "Reserve e deixe esfriar.",
+      "Depois de frio misturar a latinha de creme de leite."
+    ],
+    "Bolo:": [
+      "Bater todos os ingredientes do bolo e colocar em uma assadeira grande de preferência redonda, untada e polvilhada e sobre a massa crua, acrescentar as colheradas do creme reservado.",
+      "Levar ao forno em temperatura média cerca de 40 minutos."
+    ],
+    "Cobertura:": [
+      "Derreter a barra de chocolate em banho-maria e depois acrescentar o creme de leite.",
+      "Cubra o bolo ja assado e leve a geladeira até gelar.",
+      "Depois é só servir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo bomba. Ingredientes: leite condensado, leite, gema, sopa de amido de milho dissolvido no leite, creme de leite, chá de açúcar, sopa cheia de margarina, ovos (claras em neve), leite, farinha de trigo, chocolate em pó, fermento em pó, barra de chocolate ao leite 200 g, latinha de creme de leite sem soro. Preparo: Misturar todos os ingredientes do creme em uma panela e levar ao fogo baixo, mexendo até engrossar. Reserve e deixe esfriar. Depois de frio misturar a latinha de creme de leite."
+}

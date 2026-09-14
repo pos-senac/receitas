@@ -1,0 +1,90 @@
+{
+  "id": "tg-15762",
+  "titulo": "Arroz carreteiro simples",
+  "url": "https://www.tudogostoso.com.br/receita/15762-arroz-carreteiro-simples.html",
+  "nota": 4.7,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas arroz",
+  "subcategoria": "Arroz carreteiro simples",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "arroz",
+      "quantidade": "3",
+      "unidade": "copos",
+      "texto_original": "3 copos de arroz"
+    },
+    {
+      "nome": "carne seca",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de carne seca"
+    },
+    {
+      "nome": "bacon fatiado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de bacon fatiado"
+    },
+    {
+      "nome": "calabresa",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de calabresa"
+    },
+    {
+      "nome": "tomate grande bem maduro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate grande bem maduro"
+    },
+    {
+      "nome": "cebola grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande"
+    },
+    {
+      "nome": "Pimenta calabresa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta calabresa"
+    },
+    {
+      "nome": "Salsa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsa"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe a carne seca em panela de pressão, retire, espera esfriar e desfie.",
+      "Reserve.",
+      "Retire a pele da calabresa e corte em cubos juntamente com o bacon.",
+      "Corte o tomate em cubos pequenos sem as sementes bem como a cebola.",
+      "Reserve.",
+      "Refogue o bacon e a calabresa até ficar bem dourada, acrescentando depois a cebola, tomate, pimenta calabresa e a carne desfiada.",
+      "Após acrescente o arroz, afogue bem, adicione a água corrigindo o sal se necessário e abaixe o fogo aguardando secar.",
+      "Quando pronto, colocar a salsa em cima."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Prato fundo",
+    "Copo medidor",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Arroz carreteiro simples. Ingredientes: arroz, carne seca, bacon fatiado, calabresa, tomate grande bem maduro, cebola grande, Pimenta calabresa, Salsa, Sal. Preparo: Cozinhe a carne seca em panela de pressão, retire, espera esfriar e desfie. Reserve. Retire a pele da calabresa e corte em cubos juntamente com o bacon."
+}

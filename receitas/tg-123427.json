@@ -1,0 +1,50 @@
+{
+  "id": "tg-123427",
+  "titulo": "Creme de café (café cremoso)",
+  "url": "https://www.tudogostoso.com.br/receita/123427-creme-de-cafe-cafe-cremoso.html",
+  "nota": 4.6,
+  "n_avaliacoes": 165,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Creme de café (café cremoso)",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "café solúvel",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de café solúvel"
+    },
+    {
+      "nome": "açúcar (pode utilizar o pacotinho do café como medidor)",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de açúcar (pode utilizar o pacotinho do café como medidor)"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de água quente"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Colocar na batedeira todos os ingredientes e bater por 5 a 10 minutos até formar um creme pastoso.",
+      "Para beber, é só utilizar uma ou duas colheres do creme em uma xícara e acrescentar leite quente. Fica uma delícia e muito cremoso.",
+      "Outra opção é acrescentar uma pitada de canela e uma colher de chocolate em pó. Fica muito parecido com um cappuccino.",
+      "Se preferir, pode beber gelado!"
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Xícara",
+    "Colher de silicone",
+    "Colher para sobremesa",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Creme de café (café cremoso). Ingredientes: café solúvel, açúcar (pode utilizar o pacotinho do café como medidor), água quente. Preparo: Colocar na batedeira todos os ingredientes e bater por 5 a 10 minutos até formar um creme pastoso. Para beber, é só utilizar uma ou duas colheres do creme em uma xícara e acrescentar leite quente. Fica uma delícia e muito cremoso. Outra opção é acrescentar uma pitada de canela e uma colher de chocolate em pó. Fica muito parecido com um cappuccino."
+}

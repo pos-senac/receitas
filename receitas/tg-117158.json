@@ -1,0 +1,83 @@
+{
+  "id": "tg-117158",
+  "titulo": "Guacamole",
+  "url": "https://www.tudogostoso.com.br/receita/117158-guacamole.html",
+  "nota": 4.8,
+  "n_avaliacoes": 256,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Guacamole",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "abacate brasileiro médio (ou 4 avocados)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abacate brasileiro médio (ou 4 avocados)"
+    },
+    {
+      "nome": "tomate grande sem sementes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate grande sem sementes"
+    },
+    {
+      "nome": "cebola pequena",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena"
+    },
+    {
+      "nome": "alho bem socados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho bem socados"
+    },
+    {
+      "nome": "maço de coentro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de coentro"
+    },
+    {
+      "nome": "pimenta malagueta sem sementes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimenta malagueta sem sementes"
+    },
+    {
+      "nome": "suco de 1 limão grande",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1 limão grande"
+    },
+    {
+      "nome": "azeite extra virgem",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite extra virgem"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse o abacate com um garfo, acrescente o alho socado, o suco de limão, sal e azeite a gosto e misture como um purê.",
+      "Pique a cebola, o tomate e o coentro. Pique bem a pimenta.",
+      "Acrescente os ingredientes picados ao \"purê\" de abacate.",
+      "Sirva com chips, crackers, tacos, no burrito ou mesmo junto com arroz e feijão."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Faca"
+  ],
+  "texto_para_embedding": "Guacamole. Ingredientes: abacate brasileiro médio (ou 4 avocados), tomate grande sem sementes, cebola pequena, alho bem socados, maço de coentro, pimenta malagueta sem sementes, suco de 1 limão grande, azeite extra virgem, sal. Preparo: Amasse o abacate com um garfo, acrescente o alho socado, o suco de limão, sal e azeite a gosto e misture como um purê. Pique a cebola, o tomate e o coentro. Pique bem a pimenta. Acrescente os ingredientes picados ao \"purê\" de abacate."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "tg-4255",
+  "titulo": "Panqueca",
+  "url": "https://www.tudogostoso.com.br/receita/4255-panqueca.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1095,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Panqueca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de farinha de trigo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador todos os ingredientes até obter uma mistura homogênea.",
+      "Depois, leve para fritar em uma frigideira em fogo médio.",
+      "Recheie a gosto."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espatula",
+    "Panquequeira"
+  ],
+  "texto_para_embedding": "Panqueca. Ingredientes: ovo, leite, farinha de trigo, sal, fermento em pó. Preparo: Bata no liquidificador todos os ingredientes até obter uma mistura homogênea. Depois, leve para fritar em uma frigideira em fogo médio. Recheie a gosto."
+}

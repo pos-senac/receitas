@@ -1,0 +1,87 @@
+{
+  "id": "tg-78068",
+  "titulo": "Bolo de maçã com canela",
+  "url": "https://www.tudogostoso.com.br/receita/78068-bolo-de-maca-com-canela.html",
+  "nota": 4.9,
+  "n_avaliacoes": 320,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de maçã com canela",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 140,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "óleo - de preferência para milho ou canola",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo - de preferência para milho ou canola"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos inteiros"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "maçãs, sem casca, picadas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 maçãs, sem casca, picadas"
+    },
+    {
+      "nome": "sopa de fermento para bolo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento para bolo"
+    },
+    {
+      "nome": "café de canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de café de canela em pó"
+    },
+    {
+      "nome": "punhado (a gosto, opcional) de uvas passas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 punhado (a gosto, opcional) de uvas passas"
+    },
+    {
+      "nome": "Açúcar e canela para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar e canela para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o açúcar, os ovos e o óleo.",
+      "Despeje a mistura em uma tigela e acrescente a farinha, misture até a massa ficar uniforme.",
+      "Adicione a canela, as uvas passas, o fermento e as maçãs picadas.",
+      "Leve para assar em forno aquecido. Utilize forma de buraco no meio, untada com açucar e canela (ou, pode ser untada apenas com farinha).",
+      "Asse em forno baixo, por aproximadamente 1 hora e 30 minutos.",
+      "O tempo de forno pode variar dependendo do seu fogão.",
+      "Ponto de faca limpa."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Espátula para bolo",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de maçã com canela. Ingredientes: açúcar, óleo - de preferência para milho ou canola, ovos inteiros, farinha de trigo, maçãs, sem casca, picadas, sopa de fermento para bolo, café de canela em pó, punhado (a gosto, opcional) de uvas passas, Açúcar e canela para untar. Preparo: Bata no liquidificador o açúcar, os ovos e o óleo. Despeje a mistura em uma tigela e acrescente a farinha, misture até a massa ficar uniforme. Adicione a canela, as uvas passas, o fermento e as maçãs picadas."
+}

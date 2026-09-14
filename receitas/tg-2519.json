@@ -1,0 +1,93 @@
+{
+  "id": "tg-2519",
+  "titulo": "Quiche Royale",
+  "url": "https://www.tudogostoso.com.br/receita/2519-quiche-royale.html",
+  "nota": 4.6,
+  "n_avaliacoes": 160,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Quiche Royale",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "200g de manteiga",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de manteiga"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "xícara de água",
+      "quantidade": "1/4",
+      "unidade": null,
+      "texto_original": "1/4 de xícara de água"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "creme de leite, pode ser light",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite, pode ser light"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "100g de champignon",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "100g de champignon"
+    },
+    {
+      "nome": "50g de tomate seco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "50g de tomate seco"
+    },
+    {
+      "nome": "presunto cozido picado",
+      "quantidade": "4",
+      "unidade": "fatias",
+      "texto_original": "4 fatias de presunto cozido picado"
+    },
+    {
+      "nome": "50g de queijo ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "50g de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Misture a farinha de trigo com a manteiga até fazer uma farofa. Acrescente a água e misture até formar uma massa homogênea.",
+      "Forre uma forma de fundo removível com essa massa."
+    ],
+    "Recheio:": [
+      "Bata os ovos com um batedor de arame como se tivesse fazendo omelete. Misture o creme de leite e sal a gosto. Coloque a mistura sobre a massa da forma. distribua sobre o recheio o presunto, o champignon, o tomate seco, faça que esses ingredientes fiquem cobertinhos pelo recheio. salpique por cima o queijo ralado.",
+      "Leve para assar em forno pré-aquecido, em temperatura média por aproximadamente 40 minutos ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Quiche Royale. Ingredientes: chá de farinha de trigo, 200g de manteiga, sal a gosto, xícara de água, ovos, creme de leite, pode ser light, sal a gosto, 100g de champignon, 50g de tomate seco, presunto cozido picado, 50g de queijo ralado. Preparo: Misture a farinha de trigo com a manteiga até fazer uma farofa. Acrescente a água e misture até formar uma massa homogênea. Forre uma forma de fundo removível com essa massa. Bata os ovos com um batedor de arame como se tivesse fazendo omelete. Misture o creme de leite e sal a gosto. Coloque a mistura sobre a massa da forma. distribua sobre o recheio o presunto, o champignon, o tomate seco, faça que esses ingredientes fiquem cobertinhos pelo recheio. salpique por cima o queijo ralado."
+}

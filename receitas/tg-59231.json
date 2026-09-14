@@ -1,0 +1,59 @@
+{
+  "id": "tg-59231",
+  "titulo": "Chocolate quente simples",
+  "url": "https://www.tudogostoso.com.br/receita/59231-chocolate-quente-simples.html",
+  "nota": 4.5,
+  "n_avaliacoes": 138,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Chocolate quente simples",
+  "nivel": "facil",
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1/2",
+      "unidade": "colher (café)",
+      "texto_original": "1/2 colher (café) de canela em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "rasa de amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) rasa de amido de milho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture o açúcar, o chocolate, a canela, parte do leite e leve ao fogo.",
+      "Dissolva o amido de milho no restante do leite para que ele não empelote quando for adicionado ao restante dos ingredientes.",
+      "Adicione o leite com amido à mistura e mexa com uma colher até engrossar e ferver.",
+      "Sirva quente."
+    ]
+  },
+  "utensilios": [
+    "Caneca",
+    "Espátula de silicone",
+    "Leiteira"
+  ],
+  "texto_para_embedding": "Chocolate quente simples. Ingredientes: leite, canela em pó, açúcar, chocolate em pó, rasa de amido de milho. Preparo: Misture o açúcar, o chocolate, a canela, parte do leite e leve ao fogo. Dissolva o amido de milho no restante do leite para que ele não empelote quando for adicionado ao restante dos ingredientes. Adicione o leite com amido à mistura e mexa com uma colher até engrossar e ferver."
+}

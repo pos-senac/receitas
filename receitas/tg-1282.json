@@ -1,0 +1,134 @@
+{
+  "id": "tg-1282",
+  "titulo": "Torta de frango",
+  "url": "https://www.tudogostoso.com.br/receita/1282-torta-de-frango.html",
+  "nota": 4.7,
+  "n_avaliacoes": 3716,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Torta de frango",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "peito de frango sem pele",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de peito de frango sem pele"
+    },
+    {
+      "nome": "litro de caldo de galinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de caldo de galinha"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho amassado"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "tomates sem pele e sem sementes",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates sem pele e sem sementes"
+    },
+    {
+      "nome": "ervilhas",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de ervilhas"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite"
+    },
+    {
+      "nome": "xícara (chá) de óleo",
+      "quantidade": "3/4",
+      "unidade": null,
+      "texto_original": "3/4 de xícara (chá) de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "queijo ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio:": [
+      "Cozinhe o peito de frango no caldo até ficar macio.",
+      "Separe 1 xícara (chá) de caldo do cozimento e reserve.",
+      "Refogue os demais ingredientes e acrescente as ervilhas por último.",
+      "Desfie o frango, misture ao caldo e deixe cozinhar até secar."
+    ],
+    "Massa:": [
+      "Bata o leite, o óleo e os ovos no liquidificador em velocidade baixa.",
+      "Acrescente aos poucos a farinha, o sal e o fermento.",
+      "Despeje metade da massa em uma forma untada e adicione o recheio sobre ela.",
+      "Cubra com o restante de massa e o queijo ralado.",
+      "Leve ao forno preaquecido (180° C) até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Espatula",
+    "Espátula para bolo",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Torta de frango. Ingredientes: peito de frango sem pele, litro de caldo de galinha, óleo, alho amassado, cebola picada, tomates sem pele e sem sementes, ervilhas, sal a gosto, pimenta-do-reino a gosto, leite, xícara (chá) de óleo, ovos, farinha de trigo, sal a gosto, fermento em pó, queijo ralado a gosto. Preparo: Cozinhe o peito de frango no caldo até ficar macio. Separe 1 xícara (chá) de caldo do cozimento e reserve. Refogue os demais ingredientes e acrescente as ervilhas por último."
+}

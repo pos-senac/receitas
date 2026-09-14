@@ -1,0 +1,55 @@
+{
+  "id": "tg-15577",
+  "titulo": "Milk shake (ovomaltine original)",
+  "url": "https://www.tudogostoso.com.br/receita/15577-milk-shake-ovomaltine-original.html",
+  "nota": 4.4,
+  "n_avaliacoes": 352,
+  "categoria": "Receitas drinks e Coquetéis não alcoólicos",
+  "subcategoria": "Milk shake (ovomaltine original)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "bolas grandes de sorvete de creme",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 bolas grandes de sorvete de creme"
+    },
+    {
+      "nome": "calda de chocolate ou cobertura de sorvete",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de calda de chocolate ou cobertura de sorvete"
+    },
+    {
+      "nome": "e 1/2 de leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo e 1/2 de leite"
+    },
+    {
+      "nome": "ovomaltine",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de ovomaltine"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misturar primeiramente sorvete e leite no liquidificador.",
+      "Depois acrescentar os outros ingredientes e servir.",
+      "Se preferível, adicionar algumas pastilhas de halls de menta, para um ovomaltine mais refrescante."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Refratário",
+    "Colher para sobremesa",
+    "Taça de sobremesa",
+    "Colher medidora",
+    "Colher de sorvete"
+  ],
+  "texto_para_embedding": "Milk shake (ovomaltine original). Ingredientes: bolas grandes de sorvete de creme, calda de chocolate ou cobertura de sorvete, e 1/2 de leite, ovomaltine. Preparo: Misturar primeiramente sorvete e leite no liquidificador. Depois acrescentar os outros ingredientes e servir. Se preferível, adicionar algumas pastilhas de halls de menta, para um ovomaltine mais refrescante."
+}

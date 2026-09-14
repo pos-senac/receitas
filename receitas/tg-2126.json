@@ -1,0 +1,49 @@
+{
+  "id": "tg-2126",
+  "titulo": "Mousse de gelatina",
+  "url": "https://www.tudogostoso.com.br/receita/2126-mousse-de-gelatina.html",
+  "nota": 4.6,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de gelatina",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "gelatina de morango (ou de sua preferência) Dr. Oetker",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina de morango (ou de sua preferência) Dr. Oetker"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água quente"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite ou 1 lata de creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite ou 1 lata de creme de leite sem soro"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a água pra ferver desligue o fogão e misture bem a gelatina DrOetker.",
+      "Deixe amornar e depois coloque o leite condensado.",
+      "Misture bem e coloque o creme de leite.",
+      "Despeje em uma forma e leve à geladeira por cerca de 5 horas ou até que fique firme."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Mousse de gelatina. Ingredientes: gelatina de morango (ou de sua preferência) Dr. Oetker, água quente, leite condensado, creme de leite ou 1 lata de creme de leite sem soro. Preparo: Coloque a água pra ferver desligue o fogão e misture bem a gelatina DrOetker. Deixe amornar e depois coloque o leite condensado. Misture bem e coloque o creme de leite."
+}

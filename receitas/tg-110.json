@@ -1,0 +1,64 @@
+{
+  "id": "tg-110",
+  "titulo": "Torta de abacaxi",
+  "url": "https://www.tudogostoso.com.br/receita/110-torta-de-abacaxi.html",
+  "nota": 4.4,
+  "n_avaliacoes": 149,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Torta de abacaxi",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "abacaxi em calda (rodelas)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de abacaxi em calda (rodelas)"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "biscoito champagne",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de biscoito champagne"
+    },
+    {
+      "nome": "sopa de maisena",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de maisena"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Para fazer o creme leve ao fogo em uma panela o leite condensado, o leite, a maisena e as gemas, mexa até ferver e virar um creme.Depois forre o fundo de um pirex com um pouco de creme, coloque em cima uma camada de biscoito molhado na calda do abacaxi e depois uma camada de abacaxi e coco ralado. Outra camada de creme e por fim coco ralado. Leve a geladeira e sirva gelado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de abacaxi. Ingredientes: abacaxi em calda (rodelas), leite condensado, biscoito champagne, sopa de maisena, leite, coco ralado, ovos. Preparo: Para fazer o creme leve ao fogo em uma panela o leite condensado, o leite, a maisena e as gemas, mexa até ferver e virar um creme.Depois forre o fundo de um pirex com um pouco de creme, coloque em cima uma camada de biscoito molhado na calda do abacaxi e depois uma camada de abacaxi e coco ralado. Outra camada de creme e por fim coco ralado. Leve a geladeira e sirva gelado."
+}

@@ -1,0 +1,77 @@
+{
+  "id": "tg-7201",
+  "titulo": "Joelho",
+  "url": "https://www.tudogostoso.com.br/receita/7201-joelho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 934,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Joelho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite morno"
+    },
+    {
+      "nome": "fermento para pão",
+      "quantidade": "30",
+      "unidade": "g",
+      "texto_original": "30 g de fermento para pão"
+    },
+    {
+      "nome": "sopa rasa açúcar",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher sopa rasa açúcar"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher chá de sal"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "farinha de trigo (mais ou menos)",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de farinha de trigo (mais ou menos)"
+    },
+    {
+      "nome": "Queijo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo"
+    },
+    {
+      "nome": "Presunto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Presunto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolve o fermento com o açúcar. Colocar o óleo o leite e todos os ingredientes. Deixar descansar por 15 minutos.",
+      "Faça bolinhas pequenas. Depois abra a massa e recheio com uma fatia de queijo e outra de presunto. Enrole como rocambole e pincele com gema. Leve ao forno até dourar."
+    ]
+  },
+  "utensilios": [
+    "Pincel de silicone",
+    "Bowl",
+    "Colher de pau",
+    "Forma",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Joelho. Ingredientes: leite morno, fermento para pão, sopa rasa açúcar, chá de sal, óleo, farinha de trigo (mais ou menos), Queijo, Presunto. Preparo: Dissolve o fermento com o açúcar. Colocar o óleo o leite e todos os ingredientes. Deixar descansar por 15 minutos. Faça bolinhas pequenas. Depois abra a massa e recheio com uma fatia de queijo e outra de presunto. Enrole como rocambole e pincele com gema. Leve ao forno até dourar."
+}

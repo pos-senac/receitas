@@ -1,0 +1,105 @@
+{
+  "id": "tg-162225",
+  "titulo": "Torta portuguesa de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/162225-torta-portuguesa-de-liquidificador.html",
+  "nota": 4.6,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Torta portuguesa de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de leite"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de azeite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "creme de cebola",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de creme de cebola"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de fermento em pó"
+    },
+    {
+      "nome": "ovos cozidos e picados",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos cozidos e picados"
+    },
+    {
+      "nome": "queijo mussarela ralado (parte grossa do ralo)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de queijo mussarela ralado (parte grossa do ralo)"
+    },
+    {
+      "nome": "presunto fatiado cortado em tiras",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de presunto fatiado cortado em tiras"
+    },
+    {
+      "nome": "milho-verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho-verde"
+    },
+    {
+      "nome": "cebola cortada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola cortada em rodelas"
+    },
+    {
+      "nome": "grandes de bacon",
+      "quantidade": "8",
+      "unidade": "fatias",
+      "texto_original": "8 fatias grandes de bacon"
+    },
+    {
+      "nome": "azeitona",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de azeitona"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata os ovos, o leite, o azeite, a farinha de trigo e o creme de cebola no liquidificador.",
+      "Misture o fermento em pó com o auxílio de uma colher.",
+      "Despeje em uma forma redonda de 30 cm de diâmetro, de preferência uma que solta o aro.",
+      "Coloque o queijo sobre a massa.",
+      "Coloque o presunto, o milho, os ovos picados, a cebola e o bacon e espalhe as azeitonas.",
+      "Asse em forno convencional a 180ºC preaquecido por 30 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta portuguesa de liquidificador. Ingredientes: ovos, leite, azeite, farinha de trigo, creme de cebola, fermento em pó, ovos cozidos e picados, queijo mussarela ralado (parte grossa do ralo), presunto fatiado cortado em tiras, milho-verde, cebola cortada em rodelas, grandes de bacon, azeitona. Preparo: Bata os ovos, o leite, o azeite, a farinha de trigo e o creme de cebola no liquidificador. Misture o fermento em pó com o auxílio de uma colher. Despeje em uma forma redonda de 30 cm de diâmetro, de preferência uma que solta o aro."
+}

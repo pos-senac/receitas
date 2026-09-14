@@ -1,0 +1,89 @@
+{
+  "id": "tg-188774",
+  "titulo": "Bolo de banana fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/188774-bolo-de-banana-fofinho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 166,
+  "categoria": "Receitas bolo de banana",
+  "subcategoria": "Bolo de banana fofinho",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 45,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "bananas nanicas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 bananas nanicas"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de amido de milho"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "açúcar e canela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar e canela a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o leite, o óleo, o açúcar e os ovos até que fique homogêneo e cremoso.",
+      "Junte as bananas picadas e bata até triturar levemente.",
+      "Passe a mistura para um recipiente",
+      "Peneire o trigo, o amido e adicione aos poucos na mistura até obter uma massa cremosa e homogênea.",
+      "Junte o fermente e misture delicadamente",
+      "Coloque a massa em uma forma redonda com furo central (20 cm de diâmetro) untada e enfarinhada",
+      "Polvilhe com o açúcar e a canela e leve ao forno preaquecido em temperatura média (180° C) por 40 minutos ou até que um palito saia limpo, depois de espetado na massa.",
+      "Espere amornar e desenforme."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Formo de bolo",
+    "Fouet",
+    "Peneira"
+  ],
+  "texto_para_embedding": "Bolo de banana fofinho. Ingredientes: leite, óleo, açúcar, ovos, bananas nanicas, farinha de trigo, amido de milho, fermento em pó, açúcar e canela a gosto. Preparo: Bata no liquidificador o leite, o óleo, o açúcar e os ovos até que fique homogêneo e cremoso. Junte as bananas picadas e bata até triturar levemente. Passe a mistura para um recipiente"
+}

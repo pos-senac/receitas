@@ -1,0 +1,48 @@
+{
+  "id": "tg-18897",
+  "titulo": "Batata frita sequinha",
+  "url": "https://www.tudogostoso.com.br/receita/18897-batata-frita-sequinha.html",
+  "nota": 3.9,
+  "n_avaliacoes": 172,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Batata frita sequinha",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "Batatas (quantidade a gosto) cortadas em palitos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Batatas (quantidade a gosto) cortadas em palitos"
+    },
+    {
+      "nome": "frigideira com óleo o suficiente para cobrir as batatas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 frigideira com óleo o suficiente para cobrir as batatas"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de amido de milho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte as batas em palito e seque-as com papel toalha.",
+      "Coloque o óleo para esquentar, quando estiver bem quente, retire 1/2 xícara desse óleo e misture a 1/2 colher de amido de milho.",
+      "Após misturado, volte esse óleo para frigideira, frite as batatas em fogo médio até dourarem.",
+      "É uma dica que vale muito a pena, pois as batas ficam bem sequinhas."
+    ]
+  },
+  "utensilios": [
+    "Escumadeira",
+    "Faca",
+    "Frigideira funda",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Batata frita sequinha. Ingredientes: Batatas (quantidade a gosto) cortadas em palitos, frigideira com óleo o suficiente para cobrir as batatas, amido de milho. Preparo: Corte as batas em palito e seque-as com papel toalha. Coloque o óleo para esquentar, quando estiver bem quente, retire 1/2 xícara desse óleo e misture a 1/2 colher de amido de milho. Após misturado, volte esse óleo para frigideira, frite as batatas em fogo médio até dourarem."
+}

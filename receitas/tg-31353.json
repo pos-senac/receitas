@@ -1,0 +1,51 @@
+{
+  "id": "tg-31353",
+  "titulo": "Massa para churros",
+  "url": "https://www.tudogostoso.com.br/receita/31353-massa-para-churros.html",
+  "nota": 4.3,
+  "n_avaliacoes": 250,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Massa para churros",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de água"
+    },
+    {
+      "nome": "sopa bem cheia de margarina ou manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa bem cheia de margarina ou manteiga"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "2 e 1/2 xícara de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo a água, a margarina ou manteiga e a pitada de sal.",
+      "Quando ferver, apague o fogo e adicione a farinha de trigo.",
+      "Mexa bem até formar uma bola e desgrudar da panela.",
+      "Depois frite em óleo bem quente ( 3 churros por vez).",
+      "Pode passar no açúcar e canela em pó.",
+      "Recheio a gosto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa para churros. Ingredientes: água, sopa bem cheia de margarina ou manteiga, sal, farinha de trigo. Preparo: Leve ao fogo a água, a margarina ou manteiga e a pitada de sal. Quando ferver, apague o fogo e adicione a farinha de trigo. Mexa bem até formar uma bola e desgrudar da panela."
+}

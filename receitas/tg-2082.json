@@ -1,0 +1,72 @@
+{
+  "id": "tg-2082",
+  "titulo": "Bolinha de queijo",
+  "url": "https://www.tudogostoso.com.br/receita/2082-bolinha-de-queijo.html",
+  "nota": 4.4,
+  "n_avaliacoes": 1085,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Bolinha de queijo",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "gema",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "queijo branco ou mussarela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo branco ou mussarela a gosto"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, adicione o leite, a farinha de trigo, a margarina, a gema e o sal.",
+      "Leve ao fogo e mexa com um garfo até que a massa solte da panela, depois deixe esfriar.",
+      "Modele a massa em bolinhas e recheie com o queijo, depois passe o bolinho na gema de ovo e na farinha de rosca.",
+      "Em uma panela, adicione o óleo, depois de quente adicione as bolinhas e frite-as."
+    ]
+  },
+  "utensilios": [
+    "Escumadeira",
+    "Espátula de silicone",
+    "Panela com cabo",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Bolinha de queijo. Ingredientes: leite, farinha de trigo, margarina, gema, sal, queijo branco ou mussarela a gosto, óleo para fritar. Preparo: Em uma panela, adicione o leite, a farinha de trigo, a margarina, a gema e o sal. Leve ao fogo e mexa com um garfo até que a massa solte da panela, depois deixe esfriar. Modele a massa em bolinhas e recheie com o queijo, depois passe o bolinho na gema de ovo e na farinha de rosca."
+}

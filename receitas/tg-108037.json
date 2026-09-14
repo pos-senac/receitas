@@ -1,0 +1,86 @@
+{
+  "id": "tg-108037",
+  "titulo": "Bolo Integral de Maçã",
+  "url": "https://www.tudogostoso.com.br/receita/108037-bolo-integral-de-maca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 156,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo Integral de Maçã",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "maçãs inteiras e com casca",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 maçãs inteiras e com casca"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açucar mascavo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açucar mascavo"
+    },
+    {
+      "nome": "oleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de oleo"
+    },
+    {
+      "nome": "farinha de trigo integral",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo integral"
+    },
+    {
+      "nome": "aveia em flocos",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de aveia em flocos"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "sopa de canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de canela em pó"
+    },
+    {
+      "nome": "Açúcar demerara e canela para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar demerara e canela para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador bater os ovos, o açúcar mascavo, oleo e as cascas das maçãs.",
+      "Numa tigela, misture a farinha com a aveia, o fermento e a mistura do liquidificador. Junte à mistura, as maçãs picadas e a canela.",
+      "Em uma assadeira com furo no meio ou retangular, untada com oleo e farinha integral, coloque a mistura do bolo. Por cima salpique a mistura de açúcar demerara com canela. Asse em forno pré-aquecido e em 180ºC.",
+      "Se desejar, coloque na mistura do bolo, junto com as maçãs, passas e castanha-do-pará."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Colher de silicone",
+    "Faca",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo Integral de Maçã. Ingredientes: maçãs inteiras e com casca, ovos, açucar mascavo, oleo, farinha de trigo integral, aveia em flocos, sopa de fermento em pó, sopa de canela em pó, Açúcar demerara e canela para polvilhar. Preparo: No liquidificador bater os ovos, o açúcar mascavo, oleo e as cascas das maçãs. Numa tigela, misture a farinha com a aveia, o fermento e a mistura do liquidificador. Junte à mistura, as maçãs picadas e a canela. Em uma assadeira com furo no meio ou retangular, untada com oleo e farinha integral, coloque a mistura do bolo. Por cima salpique a mistura de açúcar demerara com canela. Asse em forno pré-aquecido e em 180ºC."
+}

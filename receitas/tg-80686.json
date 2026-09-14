@@ -1,0 +1,67 @@
+{
+  "id": "tg-80686",
+  "titulo": "Massa de coxinha fácil da Andriele",
+  "url": "https://www.tudogostoso.com.br/receita/80686-massa-de-coxinha-facil-da-andriele.html",
+  "nota": 4.6,
+  "n_avaliacoes": 849,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Massa de coxinha fácil da Andriele",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de água"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "cubo de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de galinha"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a água, o leite, a margarina, o caldo e o sal em uma panela e misture até ferver.",
+      "Abaixe o fogo e acrescente o trigo de uma só vez.",
+      "Mexa até obter uma massa lisa e homogênea.",
+      "Recheie da maneira que preferir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Escumadeira",
+    "Espátula de silicone",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Massa de coxinha fácil da Andriele. Ingredientes: água, leite, margarina, cubo de caldo de galinha, sal a gosto, trigo. Preparo: Coloque a água, o leite, a margarina, o caldo e o sal em uma panela e misture até ferver. Abaixe o fogo e acrescente o trigo de uma só vez. Mexa até obter uma massa lisa e homogênea."
+}

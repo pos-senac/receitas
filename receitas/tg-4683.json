@@ -1,0 +1,71 @@
+{
+  "id": "tg-4683",
+  "titulo": "Bolinho de chuva",
+  "url": "https://www.tudogostoso.com.br/receita/4683-bolinho-de-chuva.html",
+  "nota": 4.6,
+  "n_avaliacoes": 3819,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinho de chuva",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "canela",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de canela"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, adicione os ovos, o açúcar, o leite, a farinha de trigo e o fermento, depois misture-os até obter uma massa lisa e homogênea.",
+      "Com a ajuda de uma colher, pegue porções da mistura e despeje em uma panela com o óleo quente.",
+      "Retire do fogo quando estiver no ponto, depois misture a canela com açúcar e salpique no bolinho de chuva já frito."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Fouet",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolinho de chuva. Ingredientes: ovos, açúcar, leite, farinha de trigo, fermento, açúcar, canela. Preparo: Em um recipiente, adicione os ovos, o açúcar, o leite, a farinha de trigo e o fermento, depois misture-os até obter uma massa lisa e homogênea. Com a ajuda de uma colher, pegue porções da mistura e despeje em uma panela com o óleo quente. Retire do fogo quando estiver no ponto, depois misture a canela com açúcar e salpique no bolinho de chuva já frito."
+}

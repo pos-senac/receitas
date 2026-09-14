@@ -1,0 +1,95 @@
+{
+  "id": "tg-31016",
+  "titulo": "Filé de frango à parmegiana",
+  "url": "https://www.tudogostoso.com.br/receita/31016-file-de-frango-a-parmegiana.html",
+  "nota": 4.7,
+  "n_avaliacoes": 464,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Filé de frango à parmegiana",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 50,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "filés de peito de frango",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 filés de peito de frango"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "(sopa) de maionese",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de (sopa) de maionese"
+    },
+    {
+      "nome": "(chá) de farinha de rosca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de (chá) de farinha de rosca"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela"
+    },
+    {
+      "nome": "óleo o suficiente para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo o suficiente para untar"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque os filés entre 2 filmes plásticos.",
+      "Bata suavemente com o martelo de carne para ficarem com a mesma espessura.",
+      "Tempere-os com o alho, o sal e a pimenta.",
+      "Passe-os pela maionese e pela farinha de rosca.",
+      "Coloque em uma assadeira untado com o óleo.",
+      "Leve ao forno médio por uns 30 minutos.",
+      "Retire do forno e cubra com a mussarela, o molho e o óregano.",
+      "Leve ao forno novamente só para gratinar.",
+      "Sirva em seguida acompanhado de arroz branco e batata palha."
+    ]
+  },
+  "utensilios": [
+    "Concha",
+    "Luva térmica",
+    "Tigela",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Filé de frango à parmegiana. Ingredientes: filés de peito de frango, alho, sal a gosto, pimenta-do-reino a gosto, (sopa) de maionese, (chá) de farinha de rosca, molho de tomate, mussarela, óleo o suficiente para untar, orégano a gosto. Preparo: Coloque os filés entre 2 filmes plásticos. Bata suavemente com o martelo de carne para ficarem com a mesma espessura. Tempere-os com o alho, o sal e a pimenta."
+}

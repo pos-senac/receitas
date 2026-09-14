@@ -1,0 +1,70 @@
+{
+  "id": "tg-72",
+  "titulo": "Salpicão de frango",
+  "url": "https://www.tudogostoso.com.br/receita/72-salpicao-de-frango.html",
+  "nota": 4.5,
+  "n_avaliacoes": 195,
+  "categoria": "Receitas saladas",
+  "subcategoria": "Salpicão de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "frango inteiro assado pequeno desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 frango inteiro assado pequeno desfiado"
+    },
+    {
+      "nome": "passas sem semente",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de passas sem semente"
+    },
+    {
+      "nome": "talos de salsão picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 talos de salsão picados"
+    },
+    {
+      "nome": "maçã cortada em pequenos quadradinhos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maçã cortada em pequenos quadradinhos"
+    },
+    {
+      "nome": "suco de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1 limão"
+    },
+    {
+      "nome": "molho de maionese",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de molho de maionese"
+    },
+    {
+      "nome": "pote de iogurte natural",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de iogurte natural"
+    },
+    {
+      "nome": "manjericão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manjericão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Desfie o frango assado. Junte as passas, o salsão picado e a maçã regada com suco de limão para não escurecer. Junte o iogurte à maionese e tempere com manjericão. Misture tudo e ponha um ramo de salsinha para enfeitar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Salpicão de frango. Ingredientes: frango inteiro assado pequeno desfiado, passas sem semente, talos de salsão picados, maçã cortada em pequenos quadradinhos, suco de 1 limão, molho de maionese, pote de iogurte natural, manjericão. Preparo: Desfie o frango assado. Junte as passas, o salsão picado e a maçã regada com suco de limão para não escurecer. Junte o iogurte à maionese e tempere com manjericão. Misture tudo e ponha um ramo de salsinha para enfeitar."
+}

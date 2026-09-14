@@ -1,0 +1,85 @@
+{
+  "id": "tg-63768",
+  "titulo": "Sopa de mandioca e carne",
+  "url": "https://www.tudogostoso.com.br/receita/63768-sopa-de-mandioca-e-carne.html",
+  "nota": 4.5,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de mandioca e carne",
+  "nivel": "medio",
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "mandioca (de preferência amarela)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de mandioca (de preferência amarela)"
+    },
+    {
+      "nome": "paleta ou costela de boi",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de paleta ou costela de boi"
+    },
+    {
+      "nome": "cubo de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de carne"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "Cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro-verde a gosto"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Óleo para refogar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para refogar"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pique a mandioca e a carne em cubos médios.",
+      "Corte o bacon em cubinhos e leve ao fogo, em uma panela de pressão, para fritar.",
+      "Acrescente o alho e a cebola e deixe dourar.",
+      "Adicione a carne e deixe refogar, até secar a água.",
+      "Coloque a mandioca e acrescente água suficiente para cobrir os ingredientes.",
+      "Acrescente o caldo de carne, sal e pimenta.",
+      "Tampe a panela de pressão e deixe cozinhar por 25 minutos, depois que começar a chiar.",
+      "Retire a pressão e adicione o cheiro verde.",
+      "Dependendo do tipo de mandioca, pode ser necessário um tempo maior de cozimento. Então retorne ao fogo com a panela tampada por mais uns 5 minutos, verificando antes o nível de água para não queimar.",
+      "O ponto correto é quando a carne e mandioca estão bem molinhas e formam um caldo grosso."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sopa de mandioca e carne. Ingredientes: mandioca (de preferência amarela), paleta ou costela de boi, cubo de caldo de carne, alho, cebola picadinha, Cheiro-verde a gosto, Sal a gosto, Óleo para refogar, Pimenta-do-reino a gosto. Preparo: Pique a mandioca e a carne em cubos médios. Corte o bacon em cubinhos e leve ao fogo, em uma panela de pressão, para fritar. Acrescente o alho e a cebola e deixe dourar."
+}

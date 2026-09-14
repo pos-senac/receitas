@@ -1,0 +1,135 @@
+{
+  "id": "tg-75383",
+  "titulo": "Surpresa de Sonho de Valsa",
+  "url": "https://www.tudogostoso.com.br/receita/75383-surpresa-de-sonho-de-valsa.html",
+  "nota": 4.6,
+  "n_avaliacoes": 150,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Surpresa de Sonho de Valsa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite comum",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite comum"
+    },
+    {
+      "nome": "garrafinha de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafinha de leite de coco"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de amido de milho"
+    },
+    {
+      "nome": "Essência de baunilha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Essência de baunilha a gosto"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de leite"
+    },
+    {
+      "nome": "sopa de açucar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açucar"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de amido de milho"
+    },
+    {
+      "nome": "bombons sonho de valsa picados",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 bombons sonho de valsa picados"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras"
+    },
+    {
+      "nome": "sopa de suco de limão",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de suco de limão"
+    },
+    {
+      "nome": "Decoração a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Decoração a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Creme claro:": [
+      "Leve ao fogo até engrossar os ingredientes menos a baunilha.",
+      "Retire do fogo coloque a baunilha mexa bem.",
+      "Deixe esfriar com filme plástico encostado no creme."
+    ],
+    "Creme escuro:": [
+      "Leve ao fogo até engrossar os ingredientes.",
+      "Retire deixe esfriar."
+    ],
+    "Cobertura:": [
+      "Leve ao fogo o açúcar com a água, mexa bem até dissolver.",
+      "Deixe no fogo sem mexer por 20 minutos ou até uma calda em ponto de fio grosso.",
+      "Enquanto isso bata as claras em neve firme.",
+      "Sem parar de bater despeje a calda fervente e o suco de limão.",
+      "Continue a bater até amornar."
+    ],
+    "Montagem:": [
+      "Creme claro, Sonho de Valsa, creme escuro, marshmallow.",
+      "Decore a gosto e leve para gelar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Surpresa de Sonho de Valsa. Ingredientes: leite condensado, leite comum, garrafinha de leite de coco, gemas, sopa de amido de milho, Essência de baunilha a gosto, litro de leite, sopa de açucar, sopa de chocolate em pó, sopa de amido de milho, bombons sonho de valsa picados, açúcar, água, claras, sopa de suco de limão, Decoração a gosto. Preparo: Leve ao fogo até engrossar os ingredientes menos a baunilha. Retire do fogo coloque a baunilha mexa bem. Deixe esfriar com filme plástico encostado no creme."
+}

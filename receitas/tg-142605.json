@@ -1,0 +1,56 @@
+{
+  "id": "tg-142605",
+  "titulo": "Pudim que não vai ao fogo, fácil, rápido e delicioso",
+  "url": "https://www.tudogostoso.com.br/receita/142605-pudim-que-nao-vai-ao-fogo-facil-rapido-e-delicioso.html",
+  "nota": 4.3,
+  "n_avaliacoes": 524,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pudim que não vai ao fogo, fácil, rápido e delicioso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "caixinha de creme de leite (previamente gelado)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite (previamente gelado)"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "gelatina sem sabor",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina sem sabor"
+    },
+    {
+      "nome": "sopa de açúcar (para a calda)",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açúcar (para a calda)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Hidrate a gelatina em pó sem sabor e dissolva no leite.",
+      "Num liquidificador coloque 1 lata de leite condensado, 1 caixinha de creme de leite e a gelatina já hidratada e dissolvida no leite e bata bem até formar uma mistura homogênea - reserve.",
+      "Em uma fôrma de pudim  coloque o açúcar e mexa bem até dissolver e formar uma calda, unte toda a forma.",
+      "Coloque a mistura batida no liquidificador.",
+      "Leve ao freezer por aproximadamente 1 hora, desenforme e sirva e depois, manter em geladeira."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim que não vai ao fogo, fácil, rápido e delicioso. Ingredientes: leite condensado, caixinha de creme de leite (previamente gelado), chá de leite, gelatina sem sabor, sopa de açúcar (para a calda). Preparo: Hidrate a gelatina em pó sem sabor e dissolva no leite. Num liquidificador coloque 1 lata de leite condensado, 1 caixinha de creme de leite e a gelatina já hidratada e dissolvida no leite e bata bem até formar uma mistura homogênea - reserve. Em uma fôrma de pudim  coloque o açúcar e mexa bem até dissolver e formar uma calda, unte toda a forma."
+}

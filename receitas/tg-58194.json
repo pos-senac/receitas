@@ -1,0 +1,52 @@
+{
+  "id": "tg-58194",
+  "titulo": "Pudim de leite condensado simples",
+  "url": "https://www.tudogostoso.com.br/receita/58194-pudim-de-leite-condensado-simples.html",
+  "nota": 4.6,
+  "n_avaliacoes": 117,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de leite condensado simples",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite de vaca",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite de vaca"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos inteiros"
+    },
+    {
+      "nome": "1/2 xícaras de açúcar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícaras de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "Pudim:": [
+      "Bater todos os ingredientes no liquidificador.",
+      "Quanto mais bater o pudim, mais areado ele fica."
+    ],
+    "Calda:": [
+      "Coloque o açúcar numa forma redonda com furo no meio, leve ao fogo mexendo sempre, até formar o caramelo na cor desejada.",
+      "Depois despeje o pudim e leve para assar em banho-maria por aproximadamente 40 minutos.",
+      "Para acelerar o processo de cozimento do pudim e para economizar gás, coloque água quente na forma do banho-maria e 1 colher de sopa de vinagre para não manchá-la."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim de leite condensado simples. Ingredientes: leite condensado, leite de vaca, ovos inteiros, 1/2 xícaras de açúcar. Preparo: Bater todos os ingredientes no liquidificador. Quanto mais bater o pudim, mais areado ele fica. Coloque o açúcar numa forma redonda com furo no meio, leve ao fogo mexendo sempre, até formar o caramelo na cor desejada."
+}

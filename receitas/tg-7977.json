@@ -1,0 +1,83 @@
+{
+  "id": "tg-7977",
+  "titulo": "Repolho ao forno",
+  "url": "https://www.tudogostoso.com.br/receita/7977-repolho-ao-forno.html",
+  "nota": 4.5,
+  "n_avaliacoes": 182,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Repolho ao forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "repolho cru picadinho",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de repolho cru picadinho"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "tomates picadinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates picadinhos"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picadinha"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara chá de óleo"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de farinha de trigo"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Pimenta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta"
+    },
+    {
+      "nome": "Cebolinha e salsa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebolinha e salsa"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes.",
+      "Coloque a massa em uma assadeira untada e leve ao forno préviamente aquecido para assar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Repolho ao forno. Ingredientes: repolho cru picadinho, ovos, tomates picadinhos, cebola picadinha, queijo ralado, chá de óleo, chá de farinha de trigo, Sal, Pimenta, Cebolinha e salsa. Preparo: Misture todos os ingredientes. Coloque a massa em uma assadeira untada e leve ao forno préviamente aquecido para assar."
+}

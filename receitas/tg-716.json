@@ -1,0 +1,47 @@
+{
+  "id": "tg-716",
+  "titulo": "Batida de Sonho de Valsa",
+  "url": "https://www.tudogostoso.com.br/receita/716-batida-de-sonho-de-valsa.html",
+  "nota": 4.3,
+  "n_avaliacoes": 173,
+  "categoria": "Receitas drinks e Coquetéis alcoólicos",
+  "subcategoria": "Batida de Sonho de Valsa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "bombons sonho de valsa",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 bombons sonho de valsa"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "garrafa de pinga",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 garrafa de pinga"
+    },
+    {
+      "nome": "latinha de guaraná",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 latinha de guaraná"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater tudo no liquidificador, ficando os chocolates crocantes por cima.",
+      "Servir gelado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Batida de Sonho de Valsa. Ingredientes: bombons sonho de valsa, leite condensado, garrafa de pinga, latinha de guaraná. Preparo: Bater tudo no liquidificador, ficando os chocolates crocantes por cima. Servir gelado."
+}

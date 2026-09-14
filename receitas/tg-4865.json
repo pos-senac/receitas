@@ -1,0 +1,43 @@
+{
+  "id": "tg-4865",
+  "titulo": "Doce de leite caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/4865-doce-de-leite-caseiro.html",
+  "nota": 4.1,
+  "n_avaliacoes": 913,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Doce de leite caseiro",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 1,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "litros de leite",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 litros de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite e o açúcar em uma panela grande de fundo largo.",
+      "Leve ao fogo médio, mexendo sempre com uma colher de pau, até obter fervura (cerca de 15 minutos).",
+      "Diminua o fogo e continue mexendo até obter um doce marrom claro de consistência cremosa (cerca de 45 minutos).",
+      "Passe o doce para um refratário, deixe esfriar bem e sirva colheradas em pratos de sobremesa com fatias de queijo branco."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Colher para sobremesa",
+    "Prato de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Doce de leite caseiro. Ingredientes: litros de leite, açúcar. Preparo: Coloque o leite e o açúcar em uma panela grande de fundo largo. Leve ao fogo médio, mexendo sempre com uma colher de pau, até obter fervura (cerca de 15 minutos). Diminua o fogo e continue mexendo até obter um doce marrom claro de consistência cremosa (cerca de 45 minutos)."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "tg-90801",
+  "titulo": "Enroladinho de salsicha frito",
+  "url": "https://www.tudogostoso.com.br/receita/90801-enroladinho-de-salsicha-frito.html",
+  "nota": 4.5,
+  "n_avaliacoes": 165,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Enroladinho de salsicha frito",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "copos (requeijão)",
+      "texto_original": "2 copos (requeijão) de água"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "copos (requeijão)",
+      "texto_original": "3 copos (requeijão) de leite"
+    },
+    {
+      "nome": "tablete de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de margarina"
+    },
+    {
+      "nome": "rasa de sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de sal"
+    },
+    {
+      "nome": "ovo batido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo batido"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "5",
+      "unidade": "xícaras (chá)",
+      "texto_original": "5 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "Salsicha aferventada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsicha aferventada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo em uma panela alta a água, o leite, o caldo de carne, a margarina e o sal até ferver.",
+      "Retire do fogo e acrescente a farinha de trigo e o ovo. Leve ao fogo até desprender da panela.",
+      "Sove a massa. Abra recheiecom um pedaço de salsicha.",
+      "Enrole em forma de croquete. Passe no leite e na farinha de rosca. Frite em óleo quente."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Papel-toalha",
+    "Bowl",
+    "Colher de pau",
+    "Escumadeira"
+  ],
+  "texto_para_embedding": "Enroladinho de salsicha frito. Ingredientes: água, leite, tablete de caldo de carne, margarina, rasa de sal, ovo batido, farinha de trigo, Salsicha aferventada. Preparo: Leve ao fogo em uma panela alta a água, o leite, o caldo de carne, a margarina e o sal até ferver. Retire do fogo e acrescente a farinha de trigo e o ovo. Leve ao fogo até desprender da panela. Sove a massa. Abra recheiecom um pedaço de salsicha."
+}

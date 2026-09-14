@@ -1,0 +1,97 @@
+{
+  "id": "tg-1348",
+  "titulo": "Nhoque de batata",
+  "url": "https://www.tudogostoso.com.br/receita/1348-nhoque-de-batata.html",
+  "nota": 4.4,
+  "n_avaliacoes": 1091,
+  "categoria": "Receitas massas",
+  "subcategoria": "Nhoque de batata",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "batatas médias",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 batatas médias"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de azeite"
+    },
+    {
+      "nome": "tabletes de caldo de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de carne"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne moída"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe as batatas, em água, até que estejam macias.",
+      "Descasque-as e passe pelo espremedor ainda quentes.",
+      "Vá acrescentando a farinha aos poucos e o sal, amasse bem.",
+      "Coloque a massa sobre uma mesa enfarinhada e faça rolinhos.",
+      "Corte cada rolinho em pedaços de mais ou menos 2 cm.",
+      "Leve ao fogo, em uma panela com bastante água temperada com sal.",
+      "Quando a água levantar fervura, vá colocando os nhoques, até eles começarem a subir.",
+      "Coloque água fria em uma bacia com um escorredor dentro, retire os nhoques já cozidos e coloque-os no escorredor para dar choque térmico.",
+      "Repita o processo até toda massa estar cozida.",
+      "Escorra bem e coloque o nhoque em um refratário, reserve."
+    ],
+    "Molho": [
+      "Pique a cebola, bem miudinha e, em uma panela, frite com azeite.",
+      "Acrescente a carne e os tabletes de caldo de carne.",
+      "Mexa bem, quando a carne já estiver cozida, acrescente o molho e deixe cozinhar por mais 4 min.",
+      "Despeje-o sobre o nhoque, salpique queijo em cima e leve ao forno para gratinar, sirva quente e bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Descascador de legumes",
+    "Escorredor de massa",
+    "Expremedor de Batata"
+  ],
+  "texto_para_embedding": "Nhoque de batata. Ingredientes: batatas médias, farinha de trigo, sal a gosto, molho de tomate, cebola, azeite, tabletes de caldo de carne, carne moída, queijo ralado. Preparo: Cozinhe as batatas, em água, até que estejam macias. Descasque-as e passe pelo espremedor ainda quentes. Vá acrescentando a farinha aos poucos e o sal, amasse bem."
+}

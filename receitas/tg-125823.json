@@ -1,0 +1,71 @@
+{
+  "id": "tg-125823",
+  "titulo": "Pudim de pão de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/125823-pudim-de-pao-de-liquidificador.html",
+  "nota": 4.5,
+  "n_avaliacoes": 463,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pudim de pão de liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 50,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "pães (francês)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 pães (francês)"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "medidas de leite (medir na lata de leite condensado)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 medidas de leite (medir na lata de leite condensado)"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "açúcar para a calda",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar para a calda"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes no liquidificador e bata bem.",
+      "Reserve.",
+      "Em uma forma própria para pudim derreta o açúcar para fazer a calda, espere endurecer um pouco e coloque o líquido que está no liquidificador.",
+      "Leve ao fogo por uns 35 minutos ou até você enfiar um garfo e ele sair limpo."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espatula"
+  ],
+  "texto_para_embedding": "Pudim de pão de liquidificador. Ingredientes: ovos, leite condensado, pães (francês), margarina, medidas de leite (medir na lata de leite condensado), açúcar, açúcar para a calda. Preparo: Misture todos os ingredientes no liquidificador e bata bem. Reserve. Em uma forma própria para pudim derreta o açúcar para fazer a calda, espere endurecer um pouco e coloque o líquido que está no liquidificador."
+}

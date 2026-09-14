@@ -1,0 +1,52 @@
+{
+  "id": "tg-19728",
+  "titulo": "Danoninho caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/19728-danoninho-caseiro.html",
+  "nota": 4.7,
+  "n_avaliacoes": 3479,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Danoninho caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de creme de leite"
+    },
+    {
+      "nome": "iogurte natural",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de iogurte natural"
+    },
+    {
+      "nome": "suco em pó sabor morango",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de suco em pó sabor morango"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador, bata todos os ingrediente até obter uma consistência cremosa.",
+      "Dispense a mistura em um recipiente e leve à geladeira até que esteja firme."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher de silicone",
+    "Colher para sobremesa",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Danoninho caseiro. Ingredientes: leite condensado, creme de leite, iogurte natural, suco em pó sabor morango. Preparo: Em um liquidificador, bata todos os ingrediente até obter uma consistência cremosa. Dispense a mistura em um recipiente e leve à geladeira até que esteja firme."
+}

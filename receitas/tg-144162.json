@@ -1,0 +1,78 @@
+{
+  "id": "tg-144162",
+  "titulo": "Bolo de fubá superfofo",
+  "url": "https://www.tudogostoso.com.br/receita/144162-bolo-de-fuba-super-fofo.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1597,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá superfofo",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 50,
+  "porcoes": 18,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de fubá"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "2",
+      "unidade": "colheres (chá)",
+      "texto_original": "2 colheres (chá) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador em velocidade alta, os ovos, o óleo, o leite e o açúcar.",
+      "Quando estiver homogêneo, vá acrescentando a farinha e o fubá.",
+      "A massa vai começar a ficar grossa, então ajude mexendo com uma colher.",
+      "Quando estiver tudo bem misturado acrescente o fermento em pó e misture bem.",
+      "Unte uma assadeira grande de buraco no meio com óleo e açúcar (de preferência cristal).",
+      "Leve ao forno médio até dourar (cerca de 40 minutos).",
+      "Espete um palito ou faca para ter certeza de estar assado.",
+      "Quando estiver quase totalmente frio pode desenformar.",
+      "Fica macio, não é um bolo de fubá seco e fica maravilhoso!"
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espatula",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de fubá superfofo. Ingredientes: ovos, leite, açúcar, fubá, farinha de trigo, óleo, fermento em pó. Preparo: Bata no liquidificador em velocidade alta, os ovos, o óleo, o leite e o açúcar. Quando estiver homogêneo, vá acrescentando a farinha e o fubá. A massa vai começar a ficar grossa, então ajude mexendo com uma colher."
+}

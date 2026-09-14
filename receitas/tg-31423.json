@@ -1,0 +1,73 @@
+{
+  "id": "tg-31423",
+  "titulo": "Torta de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/31423-torta-de-liquidificador.html",
+  "nota": 4.7,
+  "n_avaliacoes": 236,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Torta de liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de sal"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de queijo ralado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Despeje a massa em uma assadeira.",
+      "Junte o recheio de sua preferência.",
+      "Adicione a massa novamente.",
+      "Asse em forno quente até ficar dourada."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Forma com fundo removível",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Torta de liquidificador. Ingredientes: leite, farinha de trigo, óleo, sal, queijo ralado, fermento em pó, ovos. Preparo: Bata todos os ingredientes no liquidificador. Despeje a massa em uma assadeira. Junte o recheio de sua preferência."
+}

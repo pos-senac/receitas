@@ -1,0 +1,106 @@
+{
+  "id": "tg-87189",
+  "titulo": "Croquete de Frango",
+  "url": "https://www.tudogostoso.com.br/receita/87189-croquete-de-frango.html",
+  "nota": 4.7,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Croquete de Frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "peito de frango moído",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de peito de frango moído"
+    },
+    {
+      "nome": "Suco de 1/2 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1/2 limão"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de azeite"
+    },
+    {
+      "nome": "tabletes de caldo de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de galinha"
+    },
+    {
+      "nome": "molho de tomate pronto",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de molho de tomate pronto"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de água"
+    },
+    {
+      "nome": "cheia de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara cheia de farinha de trigo"
+    },
+    {
+      "nome": "Pimenta, salsinha e orégano à gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta, salsinha e orégano à gosto"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    },
+    {
+      "nome": "Ovos e farinha de rosca para empanar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Ovos e farinha de rosca para empanar"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Frite muito bem o peito de frango moído com a cebola e o alho no azeite.",
+      "Coloque o suco de limão, o caldo de galinha, o molho de tomate, a pimenta, o orégano, a água e deixe apurar sem secar.",
+      "Despeje de uma vez a farinha de trigo e mexa sem parar até que solte do fundo da panela.",
+      "Desligue, acrescente o queijo ralado e a salsinha.",
+      "Misture bem.",
+      "Modele os croquetes,passe em ovos batidos em farinha de rosca e frite em óleo quente.",
+      "Escorra sobre papel absorvente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Croquete de Frango. Ingredientes: peito de frango moído, Suco de 1/2 limão, cebola picadinha, alho amassados, sopa de azeite, tabletes de caldo de galinha, molho de tomate pronto, água, cheia de farinha de trigo, Pimenta, salsinha e orégano à gosto, queijo ralado, Ovos e farinha de rosca para empanar, Óleo para fritar. Preparo: Frite muito bem o peito de frango moído com a cebola e o alho no azeite. Coloque o suco de limão, o caldo de galinha, o molho de tomate, a pimenta, o orégano, a água e deixe apurar sem secar. Despeje de uma vez a farinha de trigo e mexa sem parar até que solte do fundo da panela."
+}

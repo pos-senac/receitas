@@ -1,0 +1,91 @@
+{
+  "id": "tg-147577",
+  "titulo": "Pão sem glúten de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/147577-pao-sem-gluten-de-liquidificador.html",
+  "nota": 3.8,
+  "n_avaliacoes": 110,
+  "categoria": "Receitas massas",
+  "subcategoria": "Pão sem glúten de liquidificador",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "de fermento biológico para pão",
+      "quantidade": "25",
+      "unidade": "g",
+      "texto_original": "25 g de de fermento biológico para pão"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de açúcar"
+    },
+    {
+      "nome": "leite levemente aquecidos",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de leite levemente aquecidos"
+    },
+    {
+      "nome": "farinha de arroz",
+      "quantidade": "10",
+      "unidade": "colheres (sopa)",
+      "texto_original": "10 colheres (sopa) de farinha de arroz"
+    },
+    {
+      "nome": "polvilho doce",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de polvilho doce"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de amido de milho"
+    },
+    {
+      "nome": "fécula de batata",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de fécula de batata"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque no liquidificador o fermento biológico, o açúcar e o leite (ou água) levemente aquecido. Dica: a temperatura do leite ou água deve ser morna, em que você consegue encostar o dedo sem se queimar. Caso esteja muito quente, aguarde alguns minutos.",
+      "Ligue o liquidificador e acrescente a farinha de arroz, o polvilho doce, o amido de milho, a fécula de batata, os ovos, o óleo e sal aos poucos até ficar homogêneo.",
+      "Desligue, tampe e deixe crescer até atingir a tampa do liquidificador. Se fizer numa tigela com um mixer, cubra-a com filme plastico. Demora de 15 a 20 minutos.",
+      "Unte duas formas para pão com óleo e polvilhe com farinha de arroz. Coloque a massa nas duas formas e ponha no forno preaquecido a 180°C.",
+      "Asse por 30 minutos ou até fazer o teste do palito e verificar que a massa não está mais grudando."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Forma",
+    "Luva térmica",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Pão sem glúten de liquidificador. Ingredientes: de fermento biológico para pão, açúcar, leite levemente aquecidos, farinha de arroz, polvilho doce, amido de milho, fécula de batata, ovos inteiros, óleo, sal. Preparo: Coloque no liquidificador o fermento biológico, o açúcar e o leite (ou água) levemente aquecido. Dica: a temperatura do leite ou água deve ser morna, em que você consegue encostar o dedo sem se queimar. Caso esteja muito quente, aguarde alguns minutos. Ligue o liquidificador e acrescente a farinha de arroz, o polvilho doce, o amido de milho, a fécula de batata, os ovos, o óleo e sal aos poucos até ficar homogêneo. Desligue, tampe e deixe crescer até atingir a tampa do liquidificador. Se fizer numa tigela com um mixer, cubra-a com filme plastico. Demora de 15 a 20 minutos."
+}

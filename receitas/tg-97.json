@@ -1,0 +1,94 @@
+{
+  "id": "tg-97",
+  "titulo": "Bolo de fubá cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/97-bolo-de-fuba-cremoso.html",
+  "nota": 4.2,
+  "n_avaliacoes": 382,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá cremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de fubá"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de leite"
+    },
+    {
+      "nome": "manteiga para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manteiga para untar"
+    },
+    {
+      "nome": "fubá para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "fubá para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata na batedeira a manteiga, o leite condensado e os ovos.",
+      "Junte o queijo parmesão, o fubá, a farinha peneirada com o fermento e, por último, o leite.",
+      "Bata bem após cada adição.",
+      "Unte com manteiga e polvilhe com fubá uma assadeira retangular pequena.",
+      "Despeje a massa do bolo.",
+      "Asse em forno quente (200°C), previamente aquecido, durante 25 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de fubá cremoso. Ingredientes: manteiga, leite condensado, ovos, queijo parmesão ralado, fubá, farinha de trigo, fermento em pó, leite, manteiga para untar, fubá para polvilhar. Preparo: Bata na batedeira a manteiga, o leite condensado e os ovos. Junte o queijo parmesão, o fubá, a farinha peneirada com o fermento e, por último, o leite. Bata bem após cada adição."
+}

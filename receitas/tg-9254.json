@@ -1,0 +1,71 @@
+{
+  "id": "tg-9254",
+  "titulo": "Bolo de fubá",
+  "url": "https://www.tudogostoso.com.br/receita/9254-bolo-de-fuba.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1399,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de fubá"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo (americano)",
+      "texto_original": "1/2 copo (americano) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador, adicione os ovos, o açúcar, o fubá, a farinha de trigo, o óleo, o leite e o fermento, depois bata até a massa ficar lisa e homogênea.",
+      "Despeje a massa em uma forma untada e polvilhada.",
+      "Leve para assar em forno médio 180 °C preaquecido por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de fubá. Ingredientes: ovos inteiros, açúcar, fubá, farinha de trigo, óleo, leite, fermento em pó. Preparo: Em um liquidificador, adicione os ovos, o açúcar, o fubá, a farinha de trigo, o óleo, o leite e o fermento, depois bata até a massa ficar lisa e homogênea. Despeje a massa em uma forma untada e polvilhada. Leve para assar em forno médio 180 °C preaquecido por 40 minutos."
+}

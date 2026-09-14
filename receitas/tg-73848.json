@@ -1,0 +1,61 @@
+{
+  "id": "tg-73848",
+  "titulo": "Pudim de leite condensado com creme de leite",
+  "url": "https://www.tudogostoso.com.br/receita/73848-pudim-de-leite-condensado-com-creme-de-leite.html",
+  "nota": 4.5,
+  "n_avaliacoes": 181,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de leite condensado com creme de leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "Leite (a mesma quantidade da lata de leite condensado)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite (a mesma quantidade da lata de leite condensado)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "açúcar para a calda",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar para a calda"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador por aproximadamente 7 minutos, reserve.",
+      "Derreta o açúcar em fogo brando e coloque a calda em uma forma de furo central.",
+      "Adicione a mistura.",
+      "Leve ao fogo em banho-maria por aproximadamente 1 hora.",
+      "Deixe esfriar (pode ser geladeira) e, só então, desenfome."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espátula para bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Pudim de leite condensado com creme de leite. Ingredientes: leite condensado, caixinha de creme de leite, Leite (a mesma quantidade da lata de leite condensado), ovos, açúcar para a calda. Preparo: Bata tudo no liquidificador por aproximadamente 7 minutos, reserve. Derreta o açúcar em fogo brando e coloque a calda em uma forma de furo central. Adicione a mistura."
+}

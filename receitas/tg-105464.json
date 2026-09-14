@@ -1,0 +1,105 @@
+{
+  "id": "tg-105464",
+  "titulo": "Caldo verde",
+  "url": "https://www.tudogostoso.com.br/receita/105464-caldo-verde.html",
+  "nota": 4.7,
+  "n_avaliacoes": 457,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Caldo verde",
+  "nivel": "medio",
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "batata",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batata"
+    },
+    {
+      "nome": "calabresa defumada",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de calabresa defumada"
+    },
+    {
+      "nome": "bacon",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de bacon"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de óleo"
+    },
+    {
+      "nome": "cubos de caldo de bacon",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubos de caldo de bacon"
+    },
+    {
+      "nome": "cebola pequena",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "molho de coentro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 molho de coentro"
+    },
+    {
+      "nome": "porção de couve (cortado bem fininho)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 porção de couve (cortado bem fininho)"
+    },
+    {
+      "nome": "pimenta-do-reino",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de pimenta-do-reino"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque as batatas e leve para cozinhar.",
+      "Corte em cubinhos a calabresa e o bacon.",
+      "Pique todos os temperos (separadamente).",
+      "Frite a calabresa (reserve).",
+      "Frite o bacon (reserve).",
+      "Quando as batatas estiverem cozidas, bata com água no liquidificador até formar um caldo grosso (reserve).",
+      "Aqueça o óleo, frite a cebola, acrescente o alho, logo após os cubinhos de bacon e a pimenta cominho.",
+      "Despeje o caldo batido (batata) na panela do recheio e acrescente a calabresa e o bacon (fritos).",
+      "Mexa o caldo para não grudar na panela.",
+      "Quando ferver acrescente o sal (a gosto), o coentro e o couve.",
+      "Sirva com vinagrete, torradas e patê."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Concha",
+    "Faca",
+    "Fogão"
+  ],
+  "texto_para_embedding": "Caldo verde. Ingredientes: batata, calabresa defumada, bacon, sopa de óleo, cubos de caldo de bacon, cebola pequena, alho, molho de coentro, porção de couve (cortado bem fininho), pimenta-do-reino, sal a gosto. Preparo: Descasque as batatas e leve para cozinhar. Corte em cubinhos a calabresa e o bacon. Pique todos os temperos (separadamente)."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tg-514",
+  "titulo": "Creme branco para recheio e cobertura de bolo",
+  "url": "https://www.tudogostoso.com.br/receita/514-creme-branco-para-recheio-e-cobertura-de-bolo.html",
+  "nota": 3.6,
+  "n_avaliacoes": 169,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Creme branco para recheio e cobertura de bolo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina ou manteiga"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    },
+    {
+      "nome": "½ lata de leite condensado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ lata de leite condensado"
+    },
+    {
+      "nome": "½ lata de creme de leite sem soro",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ lata de creme de leite sem soro"
+    },
+    {
+      "nome": "leite em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater na batedeira até ficar um creme e depois juntar o leite condensado e o creme de leite sem soro.",
+      "Bater novamente apenas para misturar os ingredientes acrescentados e colocar o leite em pó; mexer agora com uma colher e colocar um pouco na geladeira e depois rechear e cobrir o bolo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Creme branco para recheio e cobertura de bolo. Ingredientes: gemas, margarina ou manteiga, açúcar, ½ lata de leite condensado, ½ lata de creme de leite sem soro, leite em pó. Preparo: Bater na batedeira até ficar um creme e depois juntar o leite condensado e o creme de leite sem soro. Bater novamente apenas para misturar os ingredientes acrescentados e colocar o leite em pó; mexer agora com uma colher e colocar um pouco na geladeira e depois rechear e cobrir o bolo."
+}

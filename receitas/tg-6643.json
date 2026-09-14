@@ -1,0 +1,73 @@
+{
+  "id": "tg-6643",
+  "titulo": "Torta Salgada",
+  "url": "https://www.tudogostoso.com.br/receita/6643-torta-salgada.html",
+  "nota": 4.8,
+  "n_avaliacoes": 329,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta Salgada",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "12",
+      "unidade": "colheres",
+      "texto_original": "12 colheres de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de óleo"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    },
+    {
+      "nome": "mussarela ralada (opcional)",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de mussarela ralada (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Depois coloque a metade da massa em uma forma untada e coloque o recheio.",
+      "Depois coloque o resto da massa.",
+      "Leve para assar até ficar dourado.",
+      "Recheio a gosto (ex frango, sardinha, etc)."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Liquidificador",
+    "Espatula",
+    "Forma"
+  ],
+  "texto_para_embedding": "Torta Salgada. Ingredientes: farinha de trigo, óleo, ovos inteiros, sal a gosto, leite, fermento, mussarela ralada (opcional). Preparo: Bata todos os ingredientes no liquidificador. Depois coloque a metade da massa em uma forma untada e coloque o recheio. Depois coloque o resto da massa."
+}

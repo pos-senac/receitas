@@ -1,0 +1,111 @@
+{
+  "id": "tg-106372",
+  "titulo": "Crepe suíço de sanduicheira",
+  "url": "https://www.tudogostoso.com.br/receita/106372-crepe-suico-de-sanduicheira.html",
+  "nota": 4.4,
+  "n_avaliacoes": 441,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Crepe suíço de sanduicheira",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3/4",
+      "unidade": "xicara",
+      "texto_original": "3/4 xicara de farinha de trigo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de fermento"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "presunto"
+    },
+    {
+      "nome": "queijo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo"
+    },
+    {
+      "nome": "chocolate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate"
+    },
+    {
+      "nome": "goiabada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "goiabada"
+    },
+    {
+      "nome": "calabresa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "calabresa"
+    },
+    {
+      "nome": "frango desfiado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "frango desfiado"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "carne moída"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o ovo, o óleo e o leite.",
+      "Acrescente o sal e a farinha e bata bem.",
+      "Por último, acrescente o fermento e dê uma mexida rápida.",
+      "Esquente a sanduicheira, despeje metade da massa, coloque o recheio de sua preferência e cubra com o restante da massa.",
+      "Feche e espere dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Concha",
+    "Espátula de silicone",
+    "Faca",
+    "Prato raso",
+    "Sanduicheira"
+  ],
+  "texto_para_embedding": "Crepe suíço de sanduicheira. Ingredientes: ovo, óleo, leite, farinha de trigo, sal, fermento, presunto, queijo, chocolate, goiabada, calabresa, frango desfiado, carne moída. Preparo: Bata no liquidificador o ovo, o óleo e o leite. Acrescente o sal e a farinha e bata bem. Por último, acrescente o fermento e dê uma mexida rápida."
+}

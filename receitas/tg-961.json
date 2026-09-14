@@ -1,0 +1,78 @@
+{
+  "id": "tg-961",
+  "titulo": "Feijão tropeiro",
+  "url": "https://www.tudogostoso.com.br/receita/961-feijao-tropeiro.html",
+  "nota": 4.4,
+  "n_avaliacoes": 372,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Feijão tropeiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "500g de feijão carioquinha cozido",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "500g de feijão carioquinha cozido"
+    },
+    {
+      "nome": "200g de toucinho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de toucinho"
+    },
+    {
+      "nome": "concha de óleo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 concha de óleo"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos"
+    },
+    {
+      "nome": "sopa de sal com alho",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de sal com alho"
+    },
+    {
+      "nome": "Cheiro verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro verde a gosto"
+    },
+    {
+      "nome": "200g de farinha de mandioca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de farinha de mandioca"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o óleo em uma panela e doure a cebola, acrescente o bacon e frite bem.",
+      "Adicione o alho, sal e os ovos, misturando com cuidado para que não se despedacem muito.",
+      "Refogue o feijão, baixe o fogo, misture a farinha aos poucos e o cheiro verde."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Feijão tropeiro. Ingredientes: 500g de feijão carioquinha cozido, 200g de toucinho, concha de óleo, cebola média picada, alho, ovos, sopa de sal com alho, Cheiro verde a gosto, 200g de farinha de mandioca. Preparo: Coloque o óleo em uma panela e doure a cebola, acrescente o bacon e frite bem. Adicione o alho, sal e os ovos, misturando com cuidado para que não se despedacem muito. Refogue o feijão, baixe o fogo, misture a farinha aos poucos e o cheiro verde."
+}

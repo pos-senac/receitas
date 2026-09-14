@@ -1,0 +1,95 @@
+{
+  "id": "tg-75879",
+  "titulo": "Gelatina colorida em camadas",
+  "url": "https://www.tudogostoso.com.br/receita/75879-gelatina-colorida-em-camadas.html",
+  "nota": 4.7,
+  "n_avaliacoes": 194,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina colorida em camadas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 150,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "gelatina sabor uva",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina sabor uva"
+    },
+    {
+      "nome": "gelatina sabor tutti-frutti",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina sabor tutti-frutti"
+    },
+    {
+      "nome": "gelatina sabor abacaxi",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina sabor abacaxi"
+    },
+    {
+      "nome": "gelatina sabor limão",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina sabor limão"
+    },
+    {
+      "nome": "gelatina sabor maracujá",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina sabor maracujá"
+    },
+    {
+      "nome": "gelatina sabor morango",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina sabor morango"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "900",
+      "unidade": "ml",
+      "texto_original": "900 ml de água quente"
+    },
+    {
+      "nome": "água gelada",
+      "quantidade": "900",
+      "unidade": "ml",
+      "texto_original": "900 ml de água gelada"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1 e 1/2",
+      "unidade": "latas",
+      "texto_original": "1 e 1/2 latas de leite condensado"
+    },
+    {
+      "nome": "vidro de leite de coco (200 ml)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "nome": "Óleo para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva a gelatina de uva em 150 ml de água quente e misture 150ml de água gelada.",
+      "Despeje metade (150 ml) em uma forma decorada com buraco no meio (forma de pudim para micro-ondas é ideal), untada com óleo.",
+      "Leve para o congelador por 10 minutos, ou até endurecer um pouco.",
+      "Misture na outra parte (150 ml) 6 colheres (sopa) de leite condensado e 4 colheres (sopa) de leite de coco.",
+      "Coloque por cima da outra com cuidado pelas paredes da forma, leve para endurecer novamente um pouco no congelador, cerca de 15 minutos.",
+      "Repita o mesmo processo com as outras gelatinas, na ordem de sabores (para dar contraste das cores).",
+      "Terminando cubra com papel filme leve à geladeira por 6 horas.",
+      "Desenforme e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Gelatina colorida em camadas. Ingredientes: gelatina sabor uva, gelatina sabor tutti-frutti, gelatina sabor abacaxi, gelatina sabor limão, gelatina sabor maracujá, gelatina sabor morango, água quente, água gelada, leite condensado, vidro de leite de coco (200 ml), Óleo para untar. Preparo: Dissolva a gelatina de uva em 150 ml de água quente e misture 150ml de água gelada. Despeje metade (150 ml) em uma forma decorada com buraco no meio (forma de pudim para micro-ondas é ideal), untada com óleo. Leve para o congelador por 10 minutos, ou até endurecer um pouco."
+}

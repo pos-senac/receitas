@@ -1,0 +1,131 @@
+{
+  "id": "tg-80799",
+  "titulo": "Almôndega ao molho de tomate - rápida, prática e gostosa",
+  "url": "https://www.tudogostoso.com.br/receita/80799-almondega-ao-molho-de-tomate-rapida-pratica-e-gostosa.html",
+  "nota": 4.8,
+  "n_avaliacoes": 233,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Almôndega ao molho de tomate - rápida, prática e gostosa",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "500g de carne moída (coxão mole)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "500g de carne moída (coxão mole)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de farinha de rosca"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picada"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picada"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 alho picado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) óleo"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de água"
+    },
+    {
+      "nome": "cubo de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de galinha"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "pimenta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta"
+    },
+    {
+      "nome": "salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Almôndegas": [
+      "Junte todos os ingredientes em uma vasilha e misture bem.",
+      "Pegue uma colher de sobremesa como medida e faça as bolinhas (rende em torno de umas 45 unidades).",
+      "Esquente uma panela com 2 a 3 dedos de óleo e frite as almôndegas até que fiquem levemente douradas (dentro poderá ficar crú, pois elas terminarão de cozinhar junto ao molho de tomate e ficarão mais suculentas).",
+      "Reserve-as."
+    ],
+    "Molho": [
+      "Refogue a cebola e o alho no óleo.",
+      "Junte o molho de tomate, a água, o caldo de galinha, os temperos a gosto e deixe ferventar em fogo médio.",
+      "Assim que o molho começar a borbulhar, junte as almôndegas (coloque também o caldinho que elas devem ter soltado no recipiente em que ficaram reservadas), tampe a panela e deixe em fogo baixo/médio por mais 5 minutos.",
+      "Coloque em um prato, decore com salsinha desidratada e bom apetite!"
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Almôndega ao molho de tomate - rápida, prática e gostosa. Ingredientes: 500g de carne moída (coxão mole), ovos, farinha de rosca, cebola picada, sal a gosto, pimenta a gosto, cebola picada, alho picado, óleo, molho de tomate, água, cubo de caldo de galinha, açúcar, sal, pimenta, salsinha a gosto. Preparo: Junte todos os ingredientes em uma vasilha e misture bem. Pegue uma colher de sobremesa como medida e faça as bolinhas (rende em torno de umas 45 unidades). Esquente uma panela com 2 a 3 dedos de óleo e frite as almôndegas até que fiquem levemente douradas (dentro poderá ficar crú, pois elas terminarão de cozinhar junto ao molho de tomate e ficarão mais suculentas)."
+}

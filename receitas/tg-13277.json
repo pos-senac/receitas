@@ -1,0 +1,63 @@
+{
+  "id": "tg-13277",
+  "titulo": "Cocada com leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/13277-cocada-com-leite-condensado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 314,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Cocada com leite condensado",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "coco fresco ralado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de coco fresco ralado"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "Óleo para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte uma pedra de mármore ou uma assadeira com um pouco de óleo.",
+      "Misture em uma panela o coco, o leite condensado e o açúcar.",
+      "Leve ao fogo e misture bem, cozinhe misturando regularmente com uma colher de pau.",
+      "Quando o doce começar a ser soltar do fundo da panela, retire do fogo e acrescente a manteiga.",
+      "Bata bem com a colher de pau para que o doce açucare.",
+      "Despeje sobre o mármore untado e deixe esfriar.",
+      "Corte quadrados de 10 x 10 cm."
+    ]
+  },
+  "utensilios": [
+    "Colher de pau",
+    "Espatula",
+    "Panela com cabo",
+    "Ralador"
+  ],
+  "texto_para_embedding": "Cocada com leite condensado. Ingredientes: coco fresco ralado, leite condensado, açúcar, manteiga, Óleo para untar. Preparo: Unte uma pedra de mármore ou uma assadeira com um pouco de óleo. Misture em uma panela o coco, o leite condensado e o açúcar. Leve ao fogo e misture bem, cozinhe misturando regularmente com uma colher de pau."
+}

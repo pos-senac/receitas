@@ -1,0 +1,106 @@
+{
+  "id": "tg-167632",
+  "titulo": "Bolo junino de paçoca",
+  "url": "https://www.tudogostoso.com.br/receita/167632-bolo-junino-de-pacoca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 179,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo junino de paçoca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "1 e 1/2 xícaras de açúcar"
+    },
+    {
+      "nome": "paçoca",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de paçoca"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "doce de leite",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de doce de leite"
+    },
+    {
+      "nome": "rasa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de manteiga"
+    },
+    {
+      "nome": "paçocas esfareladas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 paçocas esfareladas"
+    },
+    {
+      "nome": "paçocas esfareladas para enfeitar",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 paçocas esfareladas para enfeitar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata tudo no liquidificador.",
+      "Coloque em forma untada com óleo ou manteiga e enfarinhada (utilize papel-toalha para untar a forma).",
+      "Asse em forno médio, preaquecido, por cerca de 40 minutos, ou até dourar.",
+      "Após frio, desenforme e coloque a cobertura."
+    ],
+    "Cobertura:": [
+      "Leve os ingredientes ao fogo baixo, mexendo sem parar, até atingir o ponto de brigadeiro mole.",
+      "Coloque sobre o bolo e adicione as 3 paçocas esfareladas por cima."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo junino de paçoca. Ingredientes: ovos, óleo, leite, açúcar, paçoca, farinha de trigo, fermento, leite condensado, doce de leite, rasa de manteiga, paçocas esfareladas, paçocas esfareladas para enfeitar. Preparo: Bata tudo no liquidificador. Coloque em forma untada com óleo ou manteiga e enfarinhada (utilize papel-toalha para untar a forma). Asse em forno médio, preaquecido, por cerca de 40 minutos, ou até dourar."
+}

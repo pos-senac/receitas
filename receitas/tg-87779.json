@@ -1,0 +1,83 @@
+{
+  "id": "tg-87779",
+  "titulo": "Filé de salmão ao forno facílimo",
+  "url": "https://www.tudogostoso.com.br/receita/87779-file-de-salmao-ao-forno-facilimo.html",
+  "nota": 4.7,
+  "n_avaliacoes": 314,
+  "categoria": "Receitas salmão",
+  "subcategoria": "Filé de salmão ao forno facílimo",
+  "nivel": "facil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 50,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "filé de salmão",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de filé de salmão"
+    },
+    {
+      "nome": "Azeitonas fatiadas sem caroço",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeitonas fatiadas sem caroço"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    },
+    {
+      "nome": "sopa de Molho de soja (shoyu)",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de Molho de soja (shoyu)"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Azeite a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite a gosto"
+    },
+    {
+      "nome": "Limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Limão"
+    },
+    {
+      "nome": "cebola fatiada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola fatiada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave o salmão com suco de limão.",
+      "Aqueça o azeite e adicione a cebola fatiada, deixando no fogo até que fique transparente. Reserve.",
+      "Cubra uma assadeira com papel alumínio de maneira que a sobra dê para forrar todo o peixe.",
+      "Sobre o papel alumínio na assadeira, coloque o peixe já temperado com sal, regue com azeite e shoyu.",
+      "Decore com fatias de azeitonas e um pouco de orégano.",
+      "Despeje a cebola por cima.",
+      "Embrulhe com o papel alumínio, de maneira que o líquido não derrame quando começar a esquentar.",
+      "Leve ao forno médio para assar por cerca de 30 minutos.",
+      "Sirva com legumes e salada verde."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Panela",
+    "Papel-alumínio",
+    "Colher de silicone"
+  ],
+  "texto_para_embedding": "Filé de salmão ao forno facílimo. Ingredientes: filé de salmão, Azeitonas fatiadas sem caroço, Orégano, sopa de Molho de soja (shoyu), Sal a gosto, Azeite a gosto, Limão, cebola fatiada. Preparo: Lave o salmão com suco de limão. Aqueça o azeite e adicione a cebola fatiada, deixando no fogo até que fique transparente. Reserve. Cubra uma assadeira com papel alumínio de maneira que a sobra dê para forrar todo o peixe."
+}

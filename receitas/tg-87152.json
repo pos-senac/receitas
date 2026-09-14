@@ -1,0 +1,63 @@
+{
+  "id": "tg-87152",
+  "titulo": "Bolinho de chuva muito simples e gostoso",
+  "url": "https://www.tudogostoso.com.br/receita/87152-bolinho-de-chuva-muito-simples-e-gostoso.html",
+  "nota": 4.6,
+  "n_avaliacoes": 299,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinho de chuva muito simples e gostoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar refinado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "farinha de trigo até dar ponto para fritar (colheradas)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo até dar ponto para fritar (colheradas)"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque primeiro o ovo com o açúcar e bata até ficar homogêneo (pode bater à mão, mas eu uso uma batedeira).",
+      "Acrescente o leite e o fermento, bata um pouco e coloque a farinha de trigo até que a massa esteja mole, mas consistente, que não caia muito rápido da colher.",
+      "Se preferir, pode colocar o óleo para aquecer enquanto bate a massa, óleo quente, mas não muito.",
+      "Comece a fritar os bolinhos, com a ajuda de 2 colheres, pegue um pouco de massa com uma colher e com a ajuda da outra, despeje a massa dentro do óleo.",
+      "Frite até que fiquem morenos (geralmente eles viram sozinhos).",
+      "Deixe escorrer no papel absorvente e sirva com café ou sua bebida preferida."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolinho de chuva muito simples e gostoso. Ingredientes: ovo, açúcar refinado, leite, fermento em pó, farinha de trigo até dar ponto para fritar (colheradas), óleo para fritar. Preparo: Coloque primeiro o ovo com o açúcar e bata até ficar homogêneo (pode bater à mão, mas eu uso uma batedeira). Acrescente o leite e o fermento, bata um pouco e coloque a farinha de trigo até que a massa esteja mole, mas consistente, que não caia muito rápido da colher. Se preferir, pode colocar o óleo para aquecer enquanto bate a massa, óleo quente, mas não muito."
+}

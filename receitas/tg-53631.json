@@ -1,0 +1,96 @@
+{
+  "id": "tg-53631",
+  "titulo": "Bolo de cenoura fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/53631-bolo-de-cenoura-fofinho.html",
+  "nota": 4.8,
+  "n_avaliacoes": 726,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura fofinho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "cenoura picada",
+      "quantidade": "2",
+      "unidade": "xícara (chá)",
+      "texto_original": "2 xícara (chá) de cenoura picada"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "cheia de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher cheia de margarina"
+    },
+    {
+      "nome": "cheias de chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres cheias de chocolate em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Separe as claras das gemas.",
+      "Bata as claras em neve e reserve.",
+      "No liquidificador coloque a cenoura, o óleo e as gemas e bata por 5 minutos.",
+      "Em uma tigela misture a farinha de trigo, o fermento e o açúcar, misture bem.",
+      "Depois junte os ingredientes batidos, misture bem, por último junte as claras em neve.",
+      "Em uma assadeira untada leve para assar em forno médio, pré-aquecido, por aproximadamente 40 minutos, ou até que fure com um palito e ele saia limpo."
+    ],
+    "Cobertura": [
+      "Leve todos os ingredientes ao fogo e mexa até que desgrude da panela."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de cenoura fofinho. Ingredientes: cenoura picada, ovos, açúcar, farinha de trigo, óleo, fermento em pó, leite condensado, caixinha de creme de leite, cheia de margarina, cheias de chocolate em pó. Preparo: Separe as claras das gemas. Bata as claras em neve e reserve. No liquidificador coloque a cenoura, o óleo e as gemas e bata por 5 minutos."
+}

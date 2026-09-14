@@ -1,0 +1,56 @@
+{
+  "id": "tg-28672",
+  "titulo": "Pé de moleque",
+  "url": "https://www.tudogostoso.com.br/receita/28672-pe-de-moleque.html",
+  "nota": 4.7,
+  "n_avaliacoes": 142,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pé de moleque",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "amendoim torrado e descascado",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de amendoim torrado e descascado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de açúcar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Colocar na panela o amendoim, o açúcar e a margarina.",
+      "Levar ao fogo, mexendo sempre.",
+      "Quando começar a formar uma calda, coloque o leite condensado.",
+      "Mexa bem, até soltar do fundo da panela, como brigadeiro.",
+      "Coloque no tabuleiro untado com margarina.",
+      "Deixe esfriar e corte em pedaços."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Forma"
+  ],
+  "texto_para_embedding": "Pé de moleque. Ingredientes: amendoim torrado e descascado, açúcar, leite condensado, margarina. Preparo: Colocar na panela o amendoim, o açúcar e a margarina. Levar ao fogo, mexendo sempre. Quando começar a formar uma calda, coloque o leite condensado."
+}

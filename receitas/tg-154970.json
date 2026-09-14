@@ -1,0 +1,51 @@
+{
+  "id": "tg-154970",
+  "titulo": "Cobertura para bolo de cenoura com casquinha crocante",
+  "url": "https://www.tudogostoso.com.br/receita/154970-cobertura-para-bolo-de-cenoura-com-casquinha-crocante.html",
+  "nota": 4.1,
+  "n_avaliacoes": 176,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Cobertura para bolo de cenoura com casquinha crocante",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 15,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina ou manteiga"
+    },
+    {
+      "nome": "leite de vaca",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de leite de vaca"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de achocolatado em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, misture todos os ingredientes e leve ao fogo baixo até que a mistura desgrude da panela.",
+      "Despeje a cobertura ainda quente sobre o bolo de cenoura."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Espátula para bolo",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Cobertura para bolo de cenoura com casquinha crocante. Ingredientes: margarina ou manteiga, leite de vaca, achocolatado em pó, açúcar. Preparo: Em uma panela, misture todos os ingredientes e leve ao fogo baixo até que a mistura desgrude da panela. Despeje a cobertura ainda quente sobre o bolo de cenoura."
+}

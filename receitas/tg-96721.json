@@ -1,0 +1,83 @@
+{
+  "id": "tg-96721",
+  "titulo": "Pão Caseiro Fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/96721-pao-caseiro-fofinho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 180,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão Caseiro Fofinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "água quente",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água quente"
+    },
+    {
+      "nome": "leite frio",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite frio"
+    },
+    {
+      "nome": "rasas de açucar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) rasas de açucar"
+    },
+    {
+      "nome": "rasas de margarina ou manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres rasas de margarina ou manteiga"
+    },
+    {
+      "nome": "cheia de sal",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) cheia de sal"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "pacotinho de fermento seco para massas ou 1 cubo e 1/2 de fermento biológico",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pacotinho de fermento seco para massas ou 1 cubo e 1/2 de fermento biológico"
+    },
+    {
+      "nome": "Cerca de 1 kg de farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cerca de 1 kg de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Siga exatamente como o indicado.",
+      "Acrescente a água quente , o leite frio (não pode estar quente), o açúcar, a margarina, o sal, os ovos e o fermento no liquidificador e bata por uns 2 minutos.",
+      "Despeje em uma bacia e deixe descansar por 15 minutos.",
+      "Acrescente farinha de trigo aos poucos e misture lentamente com uma colher, suavemente, para a massa não embatumar.",
+      "Acrescente a farinha aos poucos, misturando, até que fique difícil mexer com a colher. Nesse ponto, você poderá colocar a mão na massa e sovar com suavidade, até que a massa desprenda das mãos.",
+      "Pode ser que ela fique meio pegajosa, mas sem grudar nas mãos.",
+      "Unte as formas com margarina e reserve.",
+      "Corte pequenas tiras, abra com o rolo e enrole como se fosse fazer um rocambole.",
+      "Coloque nas formas, até a massa terminar.",
+      "Você pode fazer o tamanho que quiser.",
+      "Aguarde até a massa crescer (cerca de 1 a 2 horas, depende do tempo).",
+      "Tem uma outra dica, que você pode colocar uma bolinha da massa em um copo de água, quando ela subir, a massa está pronta pra assar.",
+      "Lembrando que a massa cresce bastante, então, coloque os pães bem espaçados entre si.",
+      "Você vai adorar essa receita prática e super fácil para fazer todos os dias."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão Caseiro Fofinho. Ingredientes: água quente, leite frio, rasas de açucar, rasas de margarina ou manteiga, cheia de sal, ovos, pacotinho de fermento seco para massas ou 1 cubo e 1/2 de fermento biológico, Cerca de 1 kg de farinha de trigo. Preparo: Siga exatamente como o indicado. Acrescente a água quente , o leite frio (não pode estar quente), o açúcar, a margarina, o sal, os ovos e o fermento no liquidificador e bata por uns 2 minutos. Despeje em uma bacia e deixe descansar por 15 minutos."
+}

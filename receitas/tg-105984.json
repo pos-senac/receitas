@@ -1,0 +1,55 @@
+{
+  "id": "tg-105984",
+  "titulo": "Biscoito de Leite Condensado",
+  "url": "https://www.tudogostoso.com.br/receita/105984-biscoito-de-leite-condensado.html",
+  "nota": 4.5,
+  "n_avaliacoes": 157,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de Leite Condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 18,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de manteiga ou margarina"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de maisena"
+    },
+    {
+      "nome": "fermento em pó químico",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de fermento em pó químico"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misturar os ingredientes amassandoe sovando bem a massa.",
+      "Faça cordões e corte como se fosse nhoque.",
+      "Leve para assar em tabuleiro ligeiramente untado e assar em forno com fogo médio durante mais ou menos 15 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Bandeja",
+    "Bowl",
+    "Espátula de silicone",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Biscoito de Leite Condensado. Ingredientes: leite condensado, manteiga ou margarina, maisena, fermento em pó químico. Preparo: Misturar os ingredientes amassandoe sovando bem a massa. Faça cordões e corte como se fosse nhoque. Leve para assar em tabuleiro ligeiramente untado e assar em forno com fogo médio durante mais ou menos 15 minutos."
+}

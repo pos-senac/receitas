@@ -1,0 +1,72 @@
+{
+  "id": "tg-108951",
+  "titulo": "Bolo fácil de banana no liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/108951-bolo-facil-de-banana-no-liquidificador.html",
+  "nota": 3.9,
+  "n_avaliacoes": 158,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo fácil de banana no liquidificador",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "rasas de sopa de fermento",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres rasas de sopa de fermento"
+    },
+    {
+      "nome": "bananas nanicas picadas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 bananas nanicas picadas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater todos os ingredientes no liquidificador, exceto a banana.",
+      "Quando a massa já estiver bem batida colocar as bananas e bata por 5 segundos.",
+      "Coloque numa forma untada (redonda com furo central de preferencia) e levar ao forno até por aproximadamente 35 minutos, vai depender de cada forno, é sempre bom espetar um garfo no bolo para ver se ele não está cru.",
+      "Fica muito fofinho."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo fácil de banana no liquidificador. Ingredientes: chá de farinha de trigo, chá de leite, açúcar, óleo, ovos, rasas de sopa de fermento, bananas nanicas picadas. Preparo: Bater todos os ingredientes no liquidificador, exceto a banana. Quando a massa já estiver bem batida colocar as bananas e bata por 5 segundos. Coloque numa forma untada (redonda com furo central de preferencia) e levar ao forno até por aproximadamente 35 minutos, vai depender de cada forno, é sempre bom espetar um garfo no bolo para ver se ele não está cru."
+}

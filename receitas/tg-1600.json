@@ -1,0 +1,126 @@
+{
+  "id": "tg-1600",
+  "titulo": "Torta salgada de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/1600-torta-salgada-de-liquidificador.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1798,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Torta salgada de liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "13",
+      "unidade": "colheres",
+      "texto_original": "13 colheres de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de leite"
+    },
+    {
+      "nome": "queijo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de queijo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "alho e sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alho e sal a gosto"
+    },
+    {
+      "nome": "pimentão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão"
+    },
+    {
+      "nome": "tomates sem pele",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates sem pele"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "pimenta-de-cheiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimenta-de-cheiro"
+    },
+    {
+      "nome": "cheiro verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro verde"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio": [
+      "Em uma panela com óleo, coloque a cebola e o alho para dourar.",
+      "Acrescente o recheio escolhido e refogue.",
+      "Coloque os demais ingredientes e deixe cozinhar por alguns minutos."
+    ],
+    "Massa": [
+      "Bata todos ingredientes da massa no liquidificador e adicione por último o fermento.",
+      "Unte uma forma retangular com margarina e polvilhe com farinha de trigo.",
+      "Despeje a massa e espalhe cuidadosamente o recheio.",
+      "Se desejar, salpique queijo por cima.",
+      "Leve ao forno preaquecido a 180º C e asse por aproximadamente 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Torta salgada de liquidificador. Ingredientes: ovos, farinha de trigo, leite, queijo, fermento, óleo, sal a gosto, cebola, alho e sal a gosto, pimentão, tomates sem pele, orégano, pimenta-de-cheiro, cheiro verde, óleo. Preparo: Em uma panela com óleo, coloque a cebola e o alho para dourar. Acrescente o recheio escolhido e refogue. Coloque os demais ingredientes e deixe cozinhar por alguns minutos."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "tg-9306",
+  "titulo": "Gelatina colorida",
+  "url": "https://www.tudogostoso.com.br/receita/9306-gelatina-colorida.html",
+  "nota": 4.5,
+  "n_avaliacoes": 520,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina colorida",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "gelatina (sabores a gosto)",
+      "quantidade": "4",
+      "unidade": "caixas",
+      "texto_original": "4 caixas de gelatina (sabores a gosto)"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "gelatina sabor morango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina sabor morango"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare as 4 caixas de gelatina separadas de acordo com as instruções do fabricante, corte em quadradinhos e leve à geladeira.",
+      "Bata no liquidificador o leite condensado, o creme de leite e a gelatina sabor morango dissolvida em 1 copo de água fria e 1 copo de água quente, por aproximadamente 5 minutos.",
+      "Misture este creme na gelatina colorida, misture e leve à geladeira até obter uma consistência firme."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Gelatina colorida. Ingredientes: gelatina (sabores a gosto), leite condensado, creme de leite, gelatina sabor morango. Preparo: Prepare as 4 caixas de gelatina separadas de acordo com as instruções do fabricante, corte em quadradinhos e leve à geladeira. Bata no liquidificador o leite condensado, o creme de leite e a gelatina sabor morango dissolvida em 1 copo de água fria e 1 copo de água quente, por aproximadamente 5 minutos. Misture este creme na gelatina colorida, misture e leve à geladeira até obter uma consistência firme."
+}

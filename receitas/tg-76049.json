@@ -1,0 +1,79 @@
+{
+  "id": "tg-76049",
+  "titulo": "Bolinho de chuva",
+  "url": "https://www.tudogostoso.com.br/receita/76049-bolinho-de-chuva.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1635,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinho de chuva",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "2 e 1/2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "açúcar para polvilhar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar para polvilhar"
+    },
+    {
+      "nome": "canela para polvilhar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de canela para polvilhar"
+    },
+    {
+      "nome": "litro de óleo para fritar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes até obter uma massa cremosa e homogênea.",
+      "Deixe aquecer uma panela com bastante óleo para que os bolinhos possam boiar.",
+      "Quando o óleo estiver bem quente (180º C), com uma colher, comece a colocar pequenas quantidades de massa, e frite até que dourem por inteiro.",
+      "Coloque os bolinhos sobre papel absorvente e depois passe-os no açúcar com canela."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Fouet",
+    "Frigideira funda",
+    "Jarra medidora"
+  ],
+  "texto_para_embedding": "Bolinho de chuva. Ingredientes: ovos, açúcar, leite, farinha de trigo, fermento em pó, açúcar para polvilhar, canela para polvilhar, litro de óleo para fritar. Preparo: Misture todos os ingredientes até obter uma massa cremosa e homogênea. Deixe aquecer uma panela com bastante óleo para que os bolinhos possam boiar. Quando o óleo estiver bem quente (180º C), com uma colher, comece a colocar pequenas quantidades de massa, e frite até que dourem por inteiro."
+}

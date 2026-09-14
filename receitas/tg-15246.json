@@ -1,0 +1,89 @@
+{
+  "id": "tg-15246",
+  "titulo": "Bolo de rolo de Recife",
+  "url": "https://www.tudogostoso.com.br/receita/15246-bolo-de-rolo-de-recife.html",
+  "nota": 4.6,
+  "n_avaliacoes": 148,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de rolo de Recife",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 70,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "200g de manteiga",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de manteiga"
+    },
+    {
+      "nome": "200g de açúcar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "200g de açúcar"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 gemas"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de farinha de trigo"
+    },
+    {
+      "nome": "clara em neve",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 clara em neve"
+    },
+    {
+      "nome": "500g de goiabada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "500g de goiabada"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água"
+    },
+    {
+      "nome": "Açúcar p/ povilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar p/ povilhar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "bata na batedeira a manteiga com o açucar até formar um creme coloque as gemas e continue batendo até ficar cremoso.",
+      "Junte a farinha de trigo, por último as claras em neve."
+    ],
+    "Recheio:": [
+      "leve ao fogo a goiabada com a água e deixer amolecer, fica como uma geleia mole."
+    ],
+    "Montagem:": [
+      "Coloque de 5 a 6 colheres sopa de massa para assar cada bolo em uma forma retangular de 30x40cm untada com margarina e enfarinhada, leve ao forno pré aquecido 5 minutos aproximadamente.",
+      "Vire o bolo sobre um pano úmido polvilhado com açúcar, passe uma camada bem fina da goiabada e enrole.",
+      "Asse o segundo bolo passe o receheio e enrole com o primeiro bolo, faça o mesmo procedimento com toda massa dá mais ou menos 5 bolos.",
+      "por último povilhe com açúcar.",
+      "Espalhe bem fina a massa na forma."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Colher de silicone",
+    "Forma",
+    "Formo de bolo",
+    "Rolo de massa",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de rolo de Recife. Ingredientes: 200g de manteiga, 200g de açúcar, gemas, farinha de trigo, clara em neve, 500g de goiabada, água, Açúcar p/ povilhar. Preparo: bata na batedeira a manteiga com o açucar até formar um creme coloque as gemas e continue batendo até ficar cremoso. Junte a farinha de trigo, por último as claras em neve. leve ao fogo a goiabada com a água e deixer amolecer, fica como uma geleia mole."
+}

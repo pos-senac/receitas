@@ -1,0 +1,71 @@
+{
+  "id": "tg-39547",
+  "titulo": "Bolo cremoso de fubá",
+  "url": "https://www.tudogostoso.com.br/receita/39547-bolo-cremoso-de-fuba.html",
+  "nota": 4.7,
+  "n_avaliacoes": 157,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo cremoso de fubá",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de açúcar"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "1",
+      "unidade": "copo (americano)",
+      "texto_original": "1 copo (americano) de fubá"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "copos",
+      "texto_original": "3 copos de leite"
+    },
+    {
+      "nome": "50 g de queijo ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de 50 g de queijo ralado"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador.",
+      "Leve ao forno médio, pré-aquecido, por aproximadamente 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo cremoso de fubá. Ingredientes: açúcar, fubá, ovos, farinha de trigo, margarina, leite, 50 g de queijo ralado, fermento. Preparo: Bata tudo no liquidificador. Leve ao forno médio, pré-aquecido, por aproximadamente 40 minutos, ou até dourar."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "tg-13291",
+  "titulo": "Mousse de morango da Carmelita",
+  "url": "https://www.tudogostoso.com.br/receita/13291-mousse-de-morango-da-carmelita.html",
+  "nota": 4.4,
+  "n_avaliacoes": 231,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de morango da Carmelita",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "morangos frescos",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de morangos frescos"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "caixinha de gelatina de morango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de gelatina de morango"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os morangos no liquidificador e acrescente aos poucos o leite condensado e o creme de leite.",
+      "Prepare a gelatina conforme as instruções do fabricante e acrescente à mistura do liquidificador.",
+      "Bata todos os ingredientes juntos por 2 minutos.",
+      "Despeje o creme em uma travessa de vidro e leve à geladeira por 1 hora.",
+      "Ao retirar da geladeira, decore a mousse com a outra caixa de morangos, mantendo-o na geladeira até o momento de servir."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher de silicone",
+    "Faca",
+    "Taça de sobremesa",
+    "Tigela",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Mousse de morango da Carmelita. Ingredientes: morangos frescos, leite condensado, creme de leite, caixinha de gelatina de morango. Preparo: Bata os morangos no liquidificador e acrescente aos poucos o leite condensado e o creme de leite. Prepare a gelatina conforme as instruções do fabricante e acrescente à mistura do liquidificador. Bata todos os ingredientes juntos por 2 minutos."
+}

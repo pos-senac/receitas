@@ -1,0 +1,152 @@
+{
+  "id": "tg-30",
+  "titulo": "Bacalhau ao Forno",
+  "url": "https://www.tudogostoso.com.br/receita/30-bacalhau-ao-forno.html",
+  "nota": 4.7,
+  "n_avaliacoes": 222,
+  "categoria": "Receitas bacalhau",
+  "subcategoria": "Bacalhau ao Forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 150,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "bacalhau",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de bacalhau"
+    },
+    {
+      "nome": "batata",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de batata"
+    },
+    {
+      "nome": "cenoura",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de cenoura"
+    },
+    {
+      "nome": "cebolas grandes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas grandes"
+    },
+    {
+      "nome": "tomates vermelhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates vermelhos"
+    },
+    {
+      "nome": "pimentão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão"
+    },
+    {
+      "nome": "sopa de extrato de tomate",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de extrato de tomate"
+    },
+    {
+      "nome": "Leite de coco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite de coco"
+    },
+    {
+      "nome": "Azeitonas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeitonas"
+    },
+    {
+      "nome": "Alho a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Alho a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "coentro a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coentro a gosto"
+    },
+    {
+      "nome": "azeite de oliva a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite de oliva a gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "1/2 colher de sopa de farinha de trigo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 colher de sopa de farinha de trigo"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de creme de leite"
+    },
+    {
+      "nome": "noz-moscada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "noz-moscada"
+    },
+    {
+      "nome": "pimenta-do-reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixe o bacalhau de molho por 24 horas mudando sempre a água. Escalde numa rápida fervura removendo peles e espinhas. Coe a água onde o bacalhau foi cozido e reserve. Tempere o bacalhau em lasquinhas, com alho, sal e coentro. À parte, coloque uma caçarola no fogo com azeite de oliva e as cebolas em rodelas. Adicione os tomates sem pele e sem sementes, o pimentão e as azeitonas picadas. Junte o bacalhau, o extrato de tomate, o leite de coco e um pouco da água onde foi cozido o bacalhau. Deixe tudo cozinhar bastante. Fica com farto molho. Prove para ver se o sal está a gosto. Cozinhe as batatas e as cenouras em rodelas."
+    ],
+    "MOLHO": [
+      "Bata no liquidificador o leite, o trigo e a manteiga derretida. Leve ao fogo e mexa bastante até engrossar a mistura. Finalmente, junte o creme de leite, a noz-moscada, a pimenta-do-reino, o sal e o ovo batido.",
+      "Unte um pirex grande com azeite depois de ter esfregado por dentro dele um dente de alho. Deixa um gosto bom. Arrume em camadas alternadas o bacalhau, a batata e a cenoura. Cubra tudo com molho e leve ao forno para gratinar. Ao sair do forno, enfeite com azeitonas e salsa. Sirva com arroz branco."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bacalhau ao Forno. Ingredientes: bacalhau, batata, cenoura, cebolas grandes, tomates vermelhos, pimentão, sopa de extrato de tomate, Leite de coco, Azeitonas, Alho a gosto, sal a gosto, coentro a gosto, azeite de oliva a gosto, leite, 1/2 colher de sopa de farinha de trigo, sopa de manteiga, ovo, creme de leite, noz-moscada, pimenta-do-reino, sal. Preparo: Deixe o bacalhau de molho por 24 horas mudando sempre a água. Escalde numa rápida fervura removendo peles e espinhas. Coe a água onde o bacalhau foi cozido e reserve. Tempere o bacalhau em lasquinhas, com alho, sal e coentro. À parte, coloque uma caçarola no fogo com azeite de oliva e as cebolas em rodelas. Adicione os tomates sem pele e sem sementes, o pimentão e as azeitonas picadas. Junte o bacalhau, o extrato de tomate, o leite de coco e um pouco da água onde foi cozido o bacalhau. Deixe tudo cozinhar bastante. Fica com farto molho. Prove para ver se o sal está a gosto. Cozinhe as batatas e as cenouras em rodelas. Bata no liquidificador o leite, o trigo e a manteiga derretida. Leve ao fogo e mexa bastante até engrossar a mistura. Finalmente, junte o creme de leite, a noz-moscada, a pimenta-do-reino, o sal e o ovo batido. Unte um pirex grande com azeite depois de ter esfregado por dentro dele um dente de alho. Deixa um gosto bom. Arrume em camadas alternadas o bacalhau, a batata e a cenoura. Cubra tudo com molho e leve ao forno para gratinar. Ao sair do forno, enfeite com azeitonas e salsa. Sirva com arroz branco."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "tg-756",
+  "titulo": "Cappuccino fácil",
+  "url": "https://www.tudogostoso.com.br/receita/756-cappuccino-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 534,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Cappuccino fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "leite em pó integral",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de leite em pó integral"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "230",
+      "unidade": "g",
+      "texto_original": "230 g de açúcar"
+    },
+    {
+      "nome": "café solúvel",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de café solúvel"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "bicarbonato de sódio",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) bicarbonato de sódio"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "Montagem:": [
+      "Misture no liquidificador o leite em pó e o café solúvel (para triturar o café).",
+      "Coloque a mistura em um recipiente com tampa e acrescente os outros ingredientes.",
+      "Agite vigorosamente o recipiente até que a mistura esteja homogênea."
+    ],
+    "Preparo:": [
+      "Ferva 180 ml de água.",
+      "Coloque a água em um copo alto (vai dobrar de volume).",
+      "Acrescente 3 colheres (sopa) bem cheias de capuccino e misture bem até ficar cremoso.",
+      "Pronto!",
+      "A dica é colocar por cima chantili e cobertura de chocolate."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cappuccino fácil. Ingredientes: leite em pó integral, açúcar, café solúvel, chocolate em pó, bicarbonato de sódio, canela em pó. Preparo: Misture no liquidificador o leite em pó e o café solúvel (para triturar o café). Coloque a mistura em um recipiente com tampa e acrescente os outros ingredientes. Agite vigorosamente o recipiente até que a mistura esteja homogênea."
+}

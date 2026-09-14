@@ -1,0 +1,58 @@
+{
+  "id": "tg-1897",
+  "titulo": "Bolo de laranja com casca",
+  "url": "https://www.tudogostoso.com.br/receita/1897-bolo-de-laranja-com-casca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 134,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de laranja com casca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "laranja inteira com casca e sem sementes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 laranja inteira com casca e sem sementes"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "e meia de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e meia de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater os quatro primeiros ingredientes no liqüidificador e por tudo numa tigela misturar a farinha de trigo e o fermento a essa massa e assar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de laranja com casca. Ingredientes: laranja inteira com casca e sem sementes, ovos inteiros, e meia de açúcar, óleo, fermento, farinha de trigo. Preparo: Bater os quatro primeiros ingredientes no liqüidificador e por tudo numa tigela misturar a farinha de trigo e o fermento a essa massa e assar."
+}

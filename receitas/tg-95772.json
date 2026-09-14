@@ -1,0 +1,88 @@
+{
+  "id": "tg-95772",
+  "titulo": "Macarrão com estrogonofe de frango rápido e fácil",
+  "url": "https://www.tudogostoso.com.br/receita/95772-macarrao-com-estrogonofe-de-frango-rapido-e-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão com estrogonofe de frango rápido e fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "peito de frango grande cortado em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango grande cortado em cubos"
+    },
+    {
+      "nome": "alhos amassados",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 alhos amassados"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "creme de leite"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "molho de tomate"
+    },
+    {
+      "nome": "caldo de galinha dissolvido em 1 copo e 1/2 de água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de galinha dissolvido em 1 copo e 1/2 de água"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "milho verde"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "salsinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o macarrão para cozinhar.",
+      "Enquanto isso prepare o frango.",
+      "Refogue a cebola e o alho no óleo e acrescente o frango para fritar.",
+      "Depois de frito coloque a água com o caldo de galinha dissolvido.",
+      "Deixe ferver e acrescente o milho, a salsinha, sal a gosto, e depois o molho de tomate.",
+      "Deixe levantar fervura em fogo baixo, desligue o fogo e acrescente o creme de leite.",
+      "Jogar o molho em cima do macarrão e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão com estrogonofe de frango rápido e fácil. Ingredientes: peito de frango grande cortado em cubos, alhos amassados, cebola, creme de leite, molho de tomate, caldo de galinha dissolvido em 1 copo e 1/2 de água, milho verde, sal, pimenta-do-reino a gosto, salsinha. Preparo: Coloque o macarrão para cozinhar. Enquanto isso prepare o frango. Refogue a cebola e o alho no óleo e acrescente o frango para fritar."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tg-2137",
+  "titulo": "Brigadeiro de colher",
+  "url": "https://www.tudogostoso.com.br/receita/2137-brigadeiro-de-colher.html",
+  "nota": 4.8,
+  "n_avaliacoes": 214,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Brigadeiro de colher",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga ou margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a manteiga em uma panela e espere derreter.",
+      "Coloque o leite condesado e o chocolate em pó e deixe em fogo médio.",
+      "deixe até quando estiver soltando da panela."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher para sobremesa",
+    "Espátula de silicone",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Brigadeiro de colher. Ingredientes: leite condensado, sopa de chocolate em pó, manteiga ou margarina. Preparo: Coloque a manteiga em uma panela e espere derreter. Coloque o leite condesado e o chocolate em pó e deixe em fogo médio. deixe até quando estiver soltando da panela."
+}

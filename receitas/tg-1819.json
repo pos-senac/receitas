@@ -1,0 +1,58 @@
+{
+  "id": "tg-1819",
+  "titulo": "Macarrão Alho e Óleo com Sardinha",
+  "url": "https://www.tudogostoso.com.br/receita/1819-macarrao-alho-e-oleo-com-sardinha.html",
+  "nota": 4.2,
+  "n_avaliacoes": 129,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão Alho e Óleo com Sardinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "macarrão",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de macarrão"
+    },
+    {
+      "nome": "litro de agua",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de agua"
+    },
+    {
+      "nome": "alho picados",
+      "quantidade": "5",
+      "unidade": "dentes",
+      "texto_original": "5 dentes de alho picados"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de óleo"
+    },
+    {
+      "nome": "sardinha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de sardinha"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "coloque meio litro de água e sal a gosto numa panela e coloque no fogo. Quando a água estiver fervendo coloque o macarrão, sempre mexer para não grudar. quando o macarrão estiver mole retire do fogo e escorra a água. em seguida refogue os dentes de alho no óleo por alguns minutos. Misture o macarrão, o alho e as sardinhas, depois é só servir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão Alho e Óleo com Sardinha. Ingredientes: macarrão, litro de agua, alho picados, sopa de óleo, sardinha, sal a gosto. Preparo: coloque meio litro de água e sal a gosto numa panela e coloque no fogo. Quando a água estiver fervendo coloque o macarrão, sempre mexer para não grudar. quando o macarrão estiver mole retire do fogo e escorra a água. em seguida refogue os dentes de alho no óleo por alguns minutos. Misture o macarrão, o alho e as sardinhas, depois é só servir."
+}

@@ -1,0 +1,103 @@
+{
+  "id": "tg-73010",
+  "titulo": "Filé à parmegiana",
+  "url": "https://www.tudogostoso.com.br/receita/73010-file-a-parmegiana.html",
+  "nota": 4.7,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Filé à parmegiana",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "alcatra ou contra filé em bifes",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de alcatra ou contra filé em bifes"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "vinagre a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "vinagre a gosto"
+    },
+    {
+      "nome": "ovos batidos com 1 pitada de sal",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batidos com 1 pitada de sal"
+    },
+    {
+      "nome": "farinha de rosca, o suficiente",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca, o suficiente"
+    },
+    {
+      "nome": "litro de molho de tomate pronto",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de molho de tomate pronto"
+    },
+    {
+      "nome": "mussarela em fatias",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de mussarela em fatias"
+    },
+    {
+      "nome": "queijo parmesão ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo parmesão ralado para polvilhar"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os filés com o alho, orégano, sal, pimenta e vinagre.",
+      "Passe pela farinha de rosca, nos ovos batidos e novamente pela farinha de rosca.",
+      "Frite em óleo quente.",
+      "Escorra sobre papel absorvente.",
+      "Acomode os filés em um refratário regado com um pouco de molho.",
+      "Coloque fatias de mussarela sobre os filés.",
+      "Regue com o molho.",
+      "Polvilhe o queijo parmesão ralado.",
+      "Leve ao forno pré-aquecido para derreter a mussarela.",
+      "Sirva com arroz ou purê e uma salada."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Frigideira",
+    "Papel-toalha",
+    "Refratário",
+    "Escumadeira"
+  ],
+  "texto_para_embedding": "Filé à parmegiana. Ingredientes: alcatra ou contra filé em bifes, alho amassados, orégano, sal a gosto, vinagre a gosto, ovos batidos com 1 pitada de sal, farinha de rosca, o suficiente, litro de molho de tomate pronto, mussarela em fatias, queijo parmesão ralado para polvilhar, Pimenta-do-reino a gosto. Preparo: Tempere os filés com o alho, orégano, sal, pimenta e vinagre. Passe pela farinha de rosca, nos ovos batidos e novamente pela farinha de rosca. Frite em óleo quente."
+}

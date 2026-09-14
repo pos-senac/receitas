@@ -1,0 +1,67 @@
+{
+  "id": "tg-130871",
+  "titulo": "Chocolate quente cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/130871-chocolate-quente-cremoso.html",
+  "nota": 4.6,
+  "n_avaliacoes": 3104,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Chocolate quente cremoso",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "canela em pau",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 canela em pau"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador, bata o leite, o amido de milho, o chocolate em pó e o açúcar.",
+      "Despeje a mistura em uma panela com a canela e leve ao fogo baixo, mexendo sempre até ferver.",
+      "Desligue, adicione o creme de leite e mexa bem até obter uma mistura homogênea.",
+      "Retire a canela e sirva quente."
+    ]
+  },
+  "utensilios": [
+    "Caneca",
+    "Liquidificador",
+    "Colher de silicone",
+    "Copo medidor",
+    "Leiteira"
+  ],
+  "texto_para_embedding": "Chocolate quente cremoso. Ingredientes: leite, amido de milho, chocolate em pó, açúcar, canela em pau, caixinha de creme de leite. Preparo: Em um liquidificador, bata o leite, o amido de milho, o chocolate em pó e o açúcar. Despeje a mistura em uma panela com a canela e leve ao fogo baixo, mexendo sempre até ferver. Desligue, adicione o creme de leite e mexa bem até obter uma mistura homogênea."
+}

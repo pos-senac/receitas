@@ -1,0 +1,59 @@
+{
+  "id": "tg-71890",
+  "titulo": "Bolo de leite",
+  "url": "https://www.tudogostoso.com.br/receita/71890-bolo-de-leite.html",
+  "nota": 4.4,
+  "n_avaliacoes": 233,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de leite",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 50,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar refinado"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de manteiga"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque em uma forma untada e povilhada.",
+      "Leve ao forno médio, pré-aquecido, por 40 minutos ou até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de leite. Ingredientes: leite, farinha de trigo, açúcar refinado, manteiga, ovos. Preparo: Bata todos os ingredientes no liquidificador. Coloque em uma forma untada e povilhada. Leve ao forno médio, pré-aquecido, por 40 minutos ou até dourar."
+}

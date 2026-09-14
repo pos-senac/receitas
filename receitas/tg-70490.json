@@ -1,0 +1,120 @@
+{
+  "id": "tg-70490",
+  "titulo": "Rocambole de forno",
+  "url": "https://www.tudogostoso.com.br/receita/70490-rocambole-de-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 204,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Rocambole de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 120,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "tabletes de fermento biológico (15 g cada)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tabletes de fermento biológico (15 g cada)"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite morno"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "xícara de óleo",
+      "quantidade": "3/4",
+      "unidade": null,
+      "texto_original": "3/4 de xícara de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "a 5 xícaras de farinha de trigo",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 a 5 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "gema de ovo ligeiramente batida para pincelar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema de ovo ligeiramente batida para pincelar"
+    },
+    {
+      "nome": "tomates grandes sem pele cortados em cubinhos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates grandes sem pele cortados em cubinhos"
+    },
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de azeite"
+    },
+    {
+      "nome": "sopa de vinagre",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de sopa de vinagre"
+    },
+    {
+      "nome": "Sal e orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e orégano a gosto"
+    },
+    {
+      "nome": "presunto cortado em fatias finas",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de presunto cortado em fatias finas"
+    },
+    {
+      "nome": "mussarela cortada em fatias finas",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de mussarela cortada em fatias finas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva o fermento no leite com o açúcar.",
+      "Reserve.",
+      "Em uma tigela grande misture os ovos com o óleo e o sal.",
+      "Junte o fermento dissolvido e acrescente a farinha pouco a pouco, mexendo sem parar.",
+      "Quando a massa ganhar consistência, coloque sobre uma superfície lisa e polvilhada e amasse, adicione mais farinha até que solte das mãos.",
+      "Sove bem, volte a massa para a tigela cubra com um pano e deixe descansar em lugar protegido de corrente de ar (pode ser dentro do forno desligado), até dobrar de volume por cerca de 1 hora."
+    ],
+    "Recheio:": [
+      "Tempere o tomate picado com azeite, vinagre, sal e orégano a gosto.",
+      "Reserve.",
+      "Divida a massa em 2 partes, coloque uma delas sobre uma superfície polvilhada com farinha e abra com rolo de macarrão, no formato de um retângulo, sem deixar uma espessura muito grossa.",
+      "Por cima distribua a metade do tomate, do presunto e da mussarela, deixando um espaço livre de 1 cm nas bordas.",
+      "Enrole, como rocambole, comece pelo lado mais comprido e depois feche as laterais, dobrando-as para baixo para não vazar o receio.",
+      "Transfira para uma assadeira untada e enfarinhada, pincele com a gema (se quiser polvilhe orégano ou queijo ralado) repita o processo com a outra parte da massa.",
+      "Leve ao forno moderado (180°), pré-aquecido, por 40 minutos até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Rocambole de forno. Ingredientes: tabletes de fermento biológico (15 g cada), leite morno, açúcar, ovos, xícara de óleo, sal, a 5 xícaras de farinha de trigo, gema de ovo ligeiramente batida para pincelar, tomates grandes sem pele cortados em cubinhos, sopa de azeite, sopa de vinagre, Sal e orégano a gosto, presunto cortado em fatias finas, mussarela cortada em fatias finas. Preparo: Dissolva o fermento no leite com o açúcar. Reserve. Em uma tigela grande misture os ovos com o óleo e o sal."
+}

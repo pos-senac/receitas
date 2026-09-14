@@ -1,0 +1,74 @@
+{
+  "id": "tg-127620",
+  "titulo": "Bolo mole com leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/127620-bolo-mole-com-leite-condensado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 242,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo mole com leite condensado",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "A mesma medida (da lata) de leite de vaca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "A mesma medida (da lata) de leite de vaca"
+    },
+    {
+      "nome": "A mesma medida (da lata) de leite de coco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "A mesma medida (da lata) de leite de coco"
+    },
+    {
+      "nome": "A mesma medida (da lata) de farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "A mesma medida (da lata) de farinha de trigo"
+    },
+    {
+      "nome": "medida (da lata) de açúcar",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 medida (da lata) de açúcar"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque em uma forma untada e polvilhada.",
+      "Leve ao forno médio até que fique dourado.",
+      "Tem uma consistência de pudim."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Bowl",
+    "Colher de silicone",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo mole com leite condensado. Ingredientes: leite condensado, A mesma medida (da lata) de leite de vaca, A mesma medida (da lata) de leite de coco, A mesma medida (da lata) de farinha de trigo, medida (da lata) de açúcar, ovos inteiros, margarina. Preparo: Bata todos os ingredientes no liquidificador. Coloque em uma forma untada e polvilhada. Leve ao forno médio até que fique dourado."
+}

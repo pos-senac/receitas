@@ -1,0 +1,80 @@
+{
+  "id": "tg-65998",
+  "titulo": "Bolo de banana e maçã",
+  "url": "https://www.tudogostoso.com.br/receita/65998-bolo-de-banana-e-maca.html",
+  "nota": 4.6,
+  "n_avaliacoes": 129,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana e maçã",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "bananas caturras maduras",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 bananas caturras maduras"
+    },
+    {
+      "nome": "maçã (pode ser com casca)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maçã (pode ser com casca)"
+    },
+    {
+      "nome": "açúcar mascavo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar mascavo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "óleo (qualquer tipo)",
+      "quantidade": "1/4",
+      "unidade": "xícara",
+      "texto_original": "1/4 xícara de óleo (qualquer tipo)"
+    },
+    {
+      "nome": "leite de soja (ou o leite preferido)",
+      "quantidade": "1/4",
+      "unidade": "xícara",
+      "texto_original": "1/4 xícara de leite de soja (ou o leite preferido)"
+    },
+    {
+      "nome": "sopa fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher sopa fermento em pó"
+    },
+    {
+      "nome": "Canela em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Na vasilha onde o bolo será misturado, amassar as bananas, até que fiquem com a forma de uma pasta.",
+      "Adicionar, nesta ordem: o açúcar mascavo, os ovos, o óleo, o leite, o fermento e a farinha, sempre mexendo.",
+      "Mas atenção: não é para jogar tudo na vasilha e mexer depois, mas sim adicionar o próximo ingrediente somente quando a mistura atual estiver homogênea.",
+      "Transferir a mistura para uma forma untada (com manteiga e farinha), picar a maçã e distribuir os pedaços em cima da massa.",
+      "Salpicar a canela em pó e levar ao forno por 50 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de banana e maçã. Ingredientes: bananas caturras maduras, maçã (pode ser com casca), açúcar mascavo, farinha de trigo, ovos, óleo (qualquer tipo), leite de soja (ou o leite preferido), sopa fermento em pó, Canela em pó. Preparo: Na vasilha onde o bolo será misturado, amassar as bananas, até que fiquem com a forma de uma pasta. Adicionar, nesta ordem: o açúcar mascavo, os ovos, o óleo, o leite, o fermento e a farinha, sempre mexendo. Mas atenção: não é para jogar tudo na vasilha e mexer depois, mas sim adicionar o próximo ingrediente somente quando a mistura atual estiver homogênea."
+}

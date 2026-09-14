@@ -1,0 +1,55 @@
+{
+  "id": "tg-79394",
+  "titulo": "Bolo de milho (parece pudim)",
+  "url": "https://www.tudogostoso.com.br/receita/79394-bolo-de-milho-parece-pudim.html",
+  "nota": 4.7,
+  "n_avaliacoes": 332,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de milho (parece pudim)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "milho verde sem a água",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde sem a água"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de coco ralado"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador muito bem: ovos, milho e leite condensado.",
+      "Acrescente o coco ralado e o fermento em pó e bata rápidamente.",
+      "Coloque em forma de furo central de 20 a 25 cm, bem untada e enfarinhada.",
+      "Leve ao forno por 30 minutos ou até que espetando um palito saia seco."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de milho (parece pudim). Ingredientes: ovos, milho verde sem a água, coco ralado, leite condensado, fermento em pó. Preparo: Bata no liquidificador muito bem: ovos, milho e leite condensado. Acrescente o coco ralado e o fermento em pó e bata rápidamente. Coloque em forma de furo central de 20 a 25 cm, bem untada e enfarinhada."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "tg-11367",
+  "titulo": "Misto quente de forno",
+  "url": "https://www.tudogostoso.com.br/receita/11367-misto-quente-de-forno.html",
+  "nota": 4.8,
+  "n_avaliacoes": 152,
+  "categoria": "Receitas sanduíches",
+  "subcategoria": "Misto quente de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "presunto magro",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de presunto magro"
+    },
+    {
+      "nome": "queijo",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de queijo"
+    },
+    {
+      "nome": "Extrato de tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Extrato de tomate"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "pão de sanduíche",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de pão de sanduíche"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma forma colocar uma camada de pão de forma, cuidar para que toda a forma fique coberta, passar sobre esta camada o extrato de tomate.",
+      "Feito isso coloque uma camada de presunto e uma de queijo, cubra com outra camada de pão.",
+      "Passe o creme de leite uniformemente, e logo após coloque a 2ª camada de presunto, deixe o queijo por último.",
+      "Por cima do queijo despeje o orégano, que dá um gostinho todo especial.",
+      "Leve ao forno até derreter o queijo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Misto quente de forno. Ingredientes: presunto magro, queijo, Extrato de tomate, caixinha de creme de leite, pão de sanduíche, Orégano. Preparo: Em uma forma colocar uma camada de pão de forma, cuidar para que toda a forma fique coberta, passar sobre esta camada o extrato de tomate. Feito isso coloque uma camada de presunto e uma de queijo, cubra com outra camada de pão. Passe o creme de leite uniformemente, e logo após coloque a 2ª camada de presunto, deixe o queijo por último."
+}

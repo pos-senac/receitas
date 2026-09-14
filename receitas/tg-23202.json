@@ -1,0 +1,56 @@
+{
+  "id": "tg-23202",
+  "titulo": "Bicho de pé",
+  "url": "https://www.tudogostoso.com.br/receita/23202-bicho-de-pe.html",
+  "nota": 4.4,
+  "n_avaliacoes": 129,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Bicho de pé",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 80,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "pacotinho de gelatina de qualquer sabor (seu preferido)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pacotinho de gelatina de qualquer sabor (seu preferido)"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "Cravo da índia",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cravo da índia"
+    },
+    {
+      "nome": "Açúcar cristal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar cristal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite condensado, a manteiga e a gelatina numa panela em fogo brando.",
+      "Mexa sem parar até desgrudar da panela, mesmo ponto do brigadeiro.",
+      "Despeje em uma vasilha untada, deixe esfriar um pouco.",
+      "Depois, faça bolinha e passe na açúcar cristal.",
+      "Acrescente o cravo da índia em cima."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bicho de pé. Ingredientes: leite condensado, pacotinho de gelatina de qualquer sabor (seu preferido), manteiga, Cravo da índia, Açúcar cristal. Preparo: Coloque o leite condensado, a manteiga e a gelatina numa panela em fogo brando. Mexa sem parar até desgrudar da panela, mesmo ponto do brigadeiro. Despeje em uma vasilha untada, deixe esfriar um pouco."
+}

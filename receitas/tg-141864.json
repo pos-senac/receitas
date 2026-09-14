@@ -1,0 +1,80 @@
+{
+  "id": "tg-141864",
+  "titulo": "Pão integral de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/141864-pao-integral-de-liquidificador.html",
+  "nota": 4.5,
+  "n_avaliacoes": 157,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão integral de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo branca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo branca"
+    },
+    {
+      "nome": "farinha de trigo integral",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo integral"
+    },
+    {
+      "nome": "aveia",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de aveia"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "rasa de sal",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) rasa de sal"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite morno"
+    },
+    {
+      "nome": "envelope de fermento para pão (10 g)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de fermento para pão (10 g)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater no liquidificador: leite, ovos, açúcar, sal, óleo e o fermento.",
+      "Despejar em um recipiente com as farinhas e a aveia, misturar bem (massa mole).",
+      "Colocar em assadeira retangular (35 cm) ou forma para pão (30 cm) untada e enfarinhada.",
+      "Descansar por aproximadamente 1 hora, até dobrar de volume.",
+      "Assar em forno preaquecido por cerca de 30 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão integral de liquidificador. Ingredientes: farinha de trigo branca, farinha de trigo integral, aveia, ovos, açúcar, rasa de sal, óleo, leite morno, envelope de fermento para pão (10 g). Preparo: Bater no liquidificador: leite, ovos, açúcar, sal, óleo e o fermento. Despejar em um recipiente com as farinhas e a aveia, misturar bem (massa mole). Colocar em assadeira retangular (35 cm) ou forma para pão (30 cm) untada e enfarinhada."
+}

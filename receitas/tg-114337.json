@@ -1,0 +1,147 @@
+{
+  "id": "tg-114337",
+  "titulo": "Polenta com carne moida",
+  "url": "https://www.tudogostoso.com.br/receita/114337-polenta-com-carne-moida.html",
+  "nota": 4.7,
+  "n_avaliacoes": 169,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Polenta com carne moida",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "água fria",
+      "quantidade": "5",
+      "unidade": "xícaras (chá)",
+      "texto_original": "5 xícaras (chá) de água fria"
+    },
+    {
+      "nome": "fubá pré-cozido",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de fubá pré-cozido"
+    },
+    {
+      "nome": "azeite ou margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de azeite ou margarina"
+    },
+    {
+      "nome": "tablete de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne"
+    },
+    {
+      "nome": "carne moida",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de carne moida"
+    },
+    {
+      "nome": "óleo ou azeite",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo ou azeite"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "alho picadinhos",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picadinhos"
+    },
+    {
+      "nome": "tomates maduros picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates maduros picados"
+    },
+    {
+      "nome": "caixinha de molho de tomate pronto",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de molho de tomate pronto"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "tablete de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    },
+    {
+      "nome": "salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    },
+    {
+      "nome": "sal a gosto se necessário",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto se necessário"
+    },
+    {
+      "nome": "Mussarela em fatias a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Mussarela em fatias a gosto"
+    },
+    {
+      "nome": "Queijo parmesão ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo parmesão ralado para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "Para a polenta:": [
+      "Levar os ingredientes ao fogo e deixar cozinhar por 10 minutos, mexendo sempre."
+    ],
+    "Para o molho:": [
+      "Refogar no óleo ou azeite a cebola, o alho e a carne moída até ficar bem soltinha.",
+      "Colocar os tomates, o molho, a água e o caldo de carne.",
+      "Deixar apurar bem, mais ou menos, por 15 minutos.",
+      "Colocar os temperos e desligar."
+    ],
+    "Montagem:": [
+      "Colocar a polenta em uma travessa, as fatias de mussarela e o molho.",
+      "Polvilhar com o queijo parmesão ralado e levar ao forno já aquecido por 10 a 15 minutos."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Espátula de silicone",
+    "Expremedor de alho",
+    "Forno elétrico",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Polenta com carne moida. Ingredientes: água fria, fubá pré-cozido, azeite ou margarina, tablete de caldo de carne, carne moida, óleo ou azeite, cebola picadinha, alho picadinhos, tomates maduros picados, caixinha de molho de tomate pronto, água, tablete de caldo de carne, orégano a gosto, salsinha a gosto, pimenta a gosto, sal a gosto se necessário, Mussarela em fatias a gosto, Queijo parmesão ralado para polvilhar. Preparo: Levar os ingredientes ao fogo e deixar cozinhar por 10 minutos, mexendo sempre. Refogar no óleo ou azeite a cebola, o alho e a carne moída até ficar bem soltinha. Colocar os tomates, o molho, a água e o caldo de carne."
+}

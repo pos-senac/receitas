@@ -1,0 +1,61 @@
+{
+  "id": "tg-10041",
+  "titulo": "Biscoitos de fubá super fáceis",
+  "url": "https://www.tudogostoso.com.br/receita/10041-biscoitos-de-fuba-super-faceis.html",
+  "nota": 4.4,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoitos de fubá super fáceis",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 100,
+  "ingredientes": [
+    {
+      "nome": "fubá",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de fubá"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "cheia de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara cheia de açúcar"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 gemas"
+    },
+    {
+      "nome": "erva doce",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de erva doce"
+    },
+    {
+      "nome": "margarina cheia",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de margarina cheia"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture tudo e vá amassando bem com as mãos, até que vire uma massa homogênea, deixe descansar por 15 minutos.",
+      "Faça bolinhas , colocando-as em um tabuleiro, untado e enfarinhado, com fubá, deixando um pequeno espaço entre elas, depois achate-as levemente com um garfo.",
+      "Leve ao forno preaquecido em temperatura média, por cerca de 10 a 15 minutos, ou até que os biscoitos estejam dourados embaixo e levemente dourados em cima.",
+      "Espere esfriar e guarde em um recipiente fechado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Biscoitos de fubá super fáceis. Ingredientes: fubá, farinha de trigo, cheia de açúcar, gemas, erva doce, margarina cheia. Preparo: Misture tudo e vá amassando bem com as mãos, até que vire uma massa homogênea, deixe descansar por 15 minutos. Faça bolinhas , colocando-as em um tabuleiro, untado e enfarinhado, com fubá, deixando um pequeno espaço entre elas, depois achate-as levemente com um garfo. Leve ao forno preaquecido em temperatura média, por cerca de 10 a 15 minutos, ou até que os biscoitos estejam dourados embaixo e levemente dourados em cima."
+}

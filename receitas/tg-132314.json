@@ -1,0 +1,75 @@
+{
+  "id": "tg-132314",
+  "titulo": "Pão caseiro fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/132314-pao-caseiro-fofinho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 258,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão caseiro fofinho",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 180,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "fermento biológico em pó",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de fermento biológico em pó"
+    },
+    {
+      "nome": "sopa (bem cheia) de açúcar",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de sopa (bem cheia) de açúcar"
+    },
+    {
+      "nome": "sopa de sal",
+      "quantidade": "1",
+      "unidade": "colher (rasa)",
+      "texto_original": "1 colher (rasa) de sopa de sal"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "2",
+      "unidade": "colheres (rasa)",
+      "texto_original": "2 colheres (rasa) de sopa de margarina"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite morno"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a margarina no leite e leve ao micro-ondas para aquecer.",
+      "Coloque todos os ingredientes em uma bacia grande e só adicione o leite, aos poucos adicione a farinha.",
+      "Sove bastante e deixe descansar até que dobre de volume. Depois sove nomente e modele tamanho e formato que deseja o pão.",
+      "Unte uma forma com farinha de trigo e deixe que cresça até dobrar o tamanho.",
+      "Leve para assar em forno 180ºC por mais ou menos 30 a 40 minutos ou até que esteja assado.",
+      "O tempo varia, depende de cada forno.",
+      "Rende 4 pães."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Faca de pão",
+    "Forma"
+  ],
+  "texto_para_embedding": "Pão caseiro fofinho. Ingredientes: fermento biológico em pó, sopa (bem cheia) de açúcar, sopa de sal, sopa de margarina, ovos, leite morno, farinha de trigo. Preparo: Coloque a margarina no leite e leve ao micro-ondas para aquecer. Coloque todos os ingredientes em uma bacia grande e só adicione o leite, aos poucos adicione a farinha. Sove bastante e deixe descansar até que dobre de volume. Depois sove nomente e modele tamanho e formato que deseja o pão."
+}

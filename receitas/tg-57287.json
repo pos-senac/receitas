@@ -1,0 +1,54 @@
+{
+  "id": "tg-57287",
+  "titulo": "Mousse fácil de morango",
+  "url": "https://www.tudogostoso.com.br/receita/57287-mousse-facil-de-morango.html",
+  "nota": 4.7,
+  "n_avaliacoes": 116,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse fácil de morango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite"
+    },
+    {
+      "nome": "suco Mid de morango",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de suco Mid de morango"
+    },
+    {
+      "nome": "pacotinho de gelatina sem sabor dissolvida conforme instruções",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pacotinho de gelatina sem sabor dissolvida conforme instruções"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata tudo no liquidificador e coloque em taças.",
+      "Se desejar decore com morangos.",
+      "Leve à geladeira até endurecer."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Mousse fácil de morango. Ingredientes: leite condensado, creme de leite, leite, suco Mid de morango, pacotinho de gelatina sem sabor dissolvida conforme instruções. Preparo: Bata tudo no liquidificador e coloque em taças. Se desejar decore com morangos. Leve à geladeira até endurecer."
+}

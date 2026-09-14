@@ -1,0 +1,82 @@
+{
+  "id": "tg-144297",
+  "titulo": "Couve-flor gratinada",
+  "url": "https://www.tudogostoso.com.br/receita/144297-couve-flor-gratinada.html",
+  "nota": 4.8,
+  "n_avaliacoes": 266,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Couve-flor gratinada",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "couve-flor média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 couve-flor média"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela"
+    },
+    {
+      "nome": "cheiro-verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde"
+    },
+    {
+      "nome": "tomate picadinho",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picadinho"
+    },
+    {
+      "nome": "margarina para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "margarina para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhar a couve-flor com sal até ficar bem macia.",
+      "Escorra e coloque em forma untada com margarina.",
+      "Acrescente o requeijão (colheradas espalhadas).",
+      "Bata os ovos e junte 25 g de queijo ralado, cheiro verde e o tomate.",
+      "Jogue os ovos batidos por cima da couve-flor.",
+      "Cubra com a mussarela, polvilhe com o restante do queijo ralado.",
+      "Leve ao forno para gratinar."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espatula",
+    "Forma",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Couve-flor gratinada. Ingredientes: couve-flor média, requeijão, ovos, queijo ralado, mussarela, cheiro-verde, tomate picadinho, margarina para untar. Preparo: Cozinhar a couve-flor com sal até ficar bem macia. Escorra e coloque em forma untada com margarina. Acrescente o requeijão (colheradas espalhadas)."
+}

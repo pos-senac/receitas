@@ -1,0 +1,90 @@
+{
+  "id": "tg-8738",
+  "titulo": "Pão recheado da Tânia",
+  "url": "https://www.tudogostoso.com.br/receita/8738-pao-recheado-da-tania.html",
+  "nota": 4.8,
+  "n_avaliacoes": 333,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão recheado da Tânia",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 100,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de farinha de trigo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "tablete de fermento de pão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de fermento de pão"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) sal"
+    },
+    {
+      "nome": "americano de água morna",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo americano de água morna"
+    },
+    {
+      "nome": "ovo p/ pincelar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo p/ pincelar"
+    },
+    {
+      "nome": "Parmesão ralado para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Parmesão ralado para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes (menos a farinha) no liquidificador até misturar bem.",
+      "Coloque esse liquido em uma vasilha e vá adicionando farinha aos poucos até desgrudar das mãos (pode passar de 1/2 kg).",
+      "Deixe descansar até dobrar de volume.",
+      "Abra a massa com auxílio de um rolo, recheie ao seu gosto e enrole.",
+      "Pincele o ovo e polvilhe o parmesão ralado.",
+      "Leve ao forno + ou - 180° até obter a cor dourada."
+    ],
+    "Opções de recheio:": [
+      "salame com provolone, queijo e presunto, frango com catupiry, etc."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão recheado da Tânia. Ingredientes: farinha de trigo, ovo, tablete de fermento de pão, margarina, óleo, açúcar, sal, americano de água morna, ovo p/ pincelar, Parmesão ralado para polvilhar. Preparo: Bata todos os ingredientes (menos a farinha) no liquidificador até misturar bem. Coloque esse liquido em uma vasilha e vá adicionando farinha aos poucos até desgrudar das mãos (pode passar de 1/2 kg). Deixe descansar até dobrar de volume."
+}

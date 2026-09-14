@@ -1,0 +1,77 @@
+{
+  "id": "tg-94018",
+  "titulo": "Bolo de milho cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/94018-bolo-de-milho-cremoso.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1981,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de milho cremoso",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 90,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "óleo (medida da lata de milho)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de óleo (medida da lata de milho)"
+    },
+    {
+      "nome": "açúcar (medida da lata de milho)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de açúcar (medida da lata de milho)"
+    },
+    {
+      "nome": "fubá (medida da lata de milho)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de fubá (medida da lata de milho)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de coco ralado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1 e 1/2",
+      "unidade": "colher (chá)",
+      "texto_original": "1 e 1/2 colher (chá) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador, adicione o milho verde, o óleo, o açúcar, o fubá, os ovos e a farinha de trigo, depois bata até obter uma consistência cremosa.",
+      "Depois, acrescente o coco ralado e o fermento, misture novamente.",
+      "Despeje a massa em uma assadeira untada e leve para assar, em um forno médio a 180 °C, preaquecido por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Prato fundo",
+    "Copo medidor",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de milho cremoso. Ingredientes: milho verde, óleo (medida da lata de milho), açúcar (medida da lata de milho), fubá (medida da lata de milho), ovos, farinha de trigo, coco ralado, fermento em pó. Preparo: Em um liquidificador, adicione o milho verde, o óleo, o açúcar, o fubá, os ovos e a farinha de trigo, depois bata até obter uma consistência cremosa. Depois, acrescente o coco ralado e o fermento, misture novamente. Despeje a massa em uma assadeira untada e leve para assar, em um forno médio a 180 °C, preaquecido por 40 minutos."
+}

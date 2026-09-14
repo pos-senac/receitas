@@ -1,0 +1,71 @@
+{
+  "id": "tg-1125",
+  "titulo": "Caçarola italiana",
+  "url": "https://www.tudogostoso.com.br/receita/1125-cacarola-italiana.html",
+  "nota": 4.4,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Caçarola italiana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "copos (americano)",
+      "texto_original": "3 copos (americano) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de queijo ralado"
+    },
+    {
+      "nome": "100grs de coco ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "100grs de coco ralado"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater todos os ingredientes no liquidificador. Assar em forma untada por 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Bowl",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Caçarola italiana. Ingredientes: ovos, açúcar, leite, margarina, queijo ralado, 100grs de coco ralado, farinha de trigo. Preparo: Bater todos os ingredientes no liquidificador. Assar em forma untada por 30 minutos."
+}

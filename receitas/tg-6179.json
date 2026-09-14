@@ -1,0 +1,70 @@
+{
+  "id": "tg-6179",
+  "titulo": "Petit gateau",
+  "url": "https://www.tudogostoso.com.br/receita/6179-petit-gateau.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1056,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Petit gateau",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "chocolate meio amargo",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de chocolate meio amargo"
+    },
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga sem sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/4 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "rasas de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) rasas de farinha de trigo"
+    },
+    {
+      "nome": "ovos inteiros (tire a pele da gema)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros (tire a pele da gema)"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Derreta a manteiga e o chocolate em banho-maria.",
+      "Bata os ovos e as gemas com açúcar na batedeira, até ficar bem claro.",
+      "Junte o chocolate derretido e a farinha de trigo, misturando com uma espátula.",
+      "Depois, unte as forminhas de empadinha, passe farinha de trigo e coloque a massa.",
+      "Preaqueça o forno e leve para assar de 6 a 10 minutos (em fogo alto) até os bolinhos crescerem, mas o meio deve ficar molinho.",
+      "Deve-se desenformar ainda quente.",
+      "Sirva diretamente no prato, acompanhado com sorvete de creme."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Espátula de silicone",
+    "Luva térmica",
+    "Prato raso",
+    "Forma para cupcake"
+  ],
+  "texto_para_embedding": "Petit gateau. Ingredientes: chocolate meio amargo, manteiga sem sal, açúcar, rasas de farinha de trigo, ovos inteiros (tire a pele da gema), gemas. Preparo: Derreta a manteiga e o chocolate em banho-maria. Bata os ovos e as gemas com açúcar na batedeira, até ficar bem claro. Junte o chocolate derretido e a farinha de trigo, misturando com uma espátula."
+}

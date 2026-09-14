@@ -1,0 +1,92 @@
+{
+  "id": "tg-119737",
+  "titulo": "Bolo de banana rápido de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/119737-bolo-de-banana-rapido-de-liquidificador.html",
+  "nota": 4.6,
+  "n_avaliacoes": 2549,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana rápido de liquidificador",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento químico",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento químico"
+    },
+    {
+      "nome": "bananas",
+      "quantidade": "7",
+      "unidade": null,
+      "texto_original": "7 bananas"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "3/4 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de água quente"
+    }
+  ],
+  "modo_preparo": {
+    "Cobertura": [
+      "Em uma panela, adicione o açúcar e misture até derreter.",
+      "Despeje a água quente e mexa até dissolver o açúcar.",
+      "Deixe engrossar até chegar ao ponto de calda e reserve."
+    ],
+    "Massa": [
+      "Bata no liquidificador os ovos, o açúcar, o óleo e o leite.",
+      "Acrescente a farinha de trigo aos poucos e continue batendo até obter uma massa lisa e homogênea.",
+      "Adicione por último o fermento e bata na velocidade mínima do liquidificador.",
+      "Unte uma forma média com margarina e farinha.",
+      "Despeje o caramelo e as bananas cortadas no comprimento.",
+      "Leve para assar em forno médio 180º C, preaquecido por aproximadamente 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Faca",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de banana rápido de liquidificador. Ingredientes: ovos, açúcar, leite, óleo, farinha de trigo, fermento químico, bananas, açúcar, água quente. Preparo: Em uma panela, adicione o açúcar e misture até derreter. Despeje a água quente e mexa até dissolver o açúcar. Deixe engrossar até chegar ao ponto de calda e reserve."
+}

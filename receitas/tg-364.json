@@ -1,0 +1,61 @@
+{
+  "id": "tg-364",
+  "titulo": "Manjar de coco",
+  "url": "https://www.tudogostoso.com.br/receita/364-manjar-de-coco.html",
+  "nota": 4.5,
+  "n_avaliacoes": 496,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Manjar de coco",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "vidro pequeno de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de leite de coco"
+    },
+    {
+      "nome": "coco ralado seco sem açúcar",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado seco sem açúcar"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) amido de milho"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite, o açúcar, o leite de coco e o coco ralado em uma panela, misture bem.",
+      "Leve ao fogo e junte o amido de milho dissolvido em um copo de leite.",
+      "Mexa sempre até engrossar, aguarde mais um minuto.",
+      "Despeje em uma forma decorada, untada com óleo ou simplesmente molhada.",
+      "Deixe esfriar e leve à geladeira por 2 horas.",
+      "Sirva com calda de ameixa ou calda de morangos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Manjar de coco. Ingredientes: litro de leite, vidro pequeno de leite de coco, coco ralado seco sem açúcar, amido de milho, açúcar. Preparo: Coloque o leite, o açúcar, o leite de coco e o coco ralado em uma panela, misture bem. Leve ao fogo e junte o amido de milho dissolvido em um copo de leite. Mexa sempre até engrossar, aguarde mais um minuto."
+}

@@ -1,0 +1,74 @@
+{
+  "id": "tg-78121",
+  "titulo": "Pão caseiro feito na panificadora doméstica",
+  "url": "https://www.tudogostoso.com.br/receita/78121-pao-caseiro-feito-na-panificadora-domestica.html",
+  "nota": 4.6,
+  "n_avaliacoes": 130,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão caseiro feito na panificadora doméstica",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 180,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "copos (da máquina)",
+      "texto_original": "4 copos (da máquina) de farinha de trigo"
+    },
+    {
+      "nome": "fermento biológico",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento biológico"
+    },
+    {
+      "nome": "e 1/2 (da máquina) de água ou leite bem morno",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo e 1/2 (da máquina) de água ou leite bem morno"
+    },
+    {
+      "nome": "ovo (opcional)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes na panificadora, programe-a para preparar o pão em 3 horas, escolha a cor clara para a casca.",
+      "Esta receita fica deliciosa e pode ser feita com farinha integral, de soja, linho.",
+      "Nas farinhas integrais (soja, linho, integral) pode-se substituir o açúcar branco pelo mascavo.",
+      "Fica light."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Copo medidor",
+    "Faca de pão",
+    "Tigela",
+    "Colher medidora",
+    "Panificadora"
+  ],
+  "texto_para_embedding": "Pão caseiro feito na panificadora doméstica. Ingredientes: óleo, açúcar, sal, farinha de trigo, fermento biológico, e 1/2 (da máquina) de água ou leite bem morno, ovo (opcional). Preparo: Coloque todos os ingredientes na panificadora, programe-a para preparar o pão em 3 horas, escolha a cor clara para a casca. Esta receita fica deliciosa e pode ser feita com farinha integral, de soja, linho. Nas farinhas integrais (soja, linho, integral) pode-se substituir o açúcar branco pelo mascavo."
+}

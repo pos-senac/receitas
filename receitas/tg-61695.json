@@ -1,0 +1,92 @@
+{
+  "id": "tg-61695",
+  "titulo": "Torta de banana",
+  "url": "https://www.tudogostoso.com.br/receita/61695-torta-de-banana.html",
+  "nota": 4.7,
+  "n_avaliacoes": 134,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de banana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras (chá)",
+      "texto_original": "4 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de leite"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "2",
+      "unidade": "colheres(chá)",
+      "texto_original": "2 colheres(chá) de fermento"
+    },
+    {
+      "nome": "bananas",
+      "quantidade": "12",
+      "unidade": null,
+      "texto_original": "12 bananas"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque na batedeira a margarina, o açúcar e os ovos, bata bem.",
+      "Adicione a farinha e o leite e bata até obter uma massa homogênea.",
+      "Junte o fermento à massa e bata novamente.",
+      "Reserve.",
+      "Leve ao fogo baixo as 2 xícaras de açúcar e mexa até assumir uma consistência líquida.",
+      "Jogue a água e deixe derreter o açúcar até formar a calda.",
+      "Reserve.",
+      "Descasque as bananas e corte-as no meio (na horizontal) e disponha no fundo de uma forma redonda e diâmetro de aproximadamente 40 cm.",
+      "Acrescente a calda em cima das bananas, depois a massa.",
+      "Leve ao forno pré-aquecido, em temperatura média, por cerca de 40 minutos, ou até dourar.",
+      "Quando estiver pronto, retire do forno e vire em uma bandeja, ainda quente.",
+      "Se preferir, polvilhe a canela em pó em cima da torta."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Colher de pau",
+    "Forma"
+  ],
+  "texto_para_embedding": "Torta de banana. Ingredientes: farinha de trigo, ovos, açúcar, margarina, leite, fermento, bananas, açúcar, água. Preparo: Coloque na batedeira a margarina, o açúcar e os ovos, bata bem. Adicione a farinha e o leite e bata até obter uma massa homogênea. Junte o fermento à massa e bata novamente."
+}

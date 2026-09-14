@@ -1,0 +1,124 @@
+{
+  "id": "tg-115077",
+  "titulo": "Bolo de morango ótimo para aniversário",
+  "url": "https://www.tudogostoso.com.br/receita/115077-bolo-de-morango-otimo-para-aniversario.html",
+  "nota": 4.6,
+  "n_avaliacoes": 163,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de morango ótimo para aniversário",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 90,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "leite quente",
+      "quantidade": "1",
+      "unidade": "xícara (cha)",
+      "texto_original": "1 xícara (cha) de leite quente"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de amido de milho"
+    },
+    {
+      "nome": "caixinhas de morango",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caixinhas de morango"
+    },
+    {
+      "nome": "caixinhas de chantilly",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caixinhas de chantilly"
+    },
+    {
+      "nome": "caixinha de morango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de morango"
+    }
+  ],
+  "modo_preparo": {
+    "Pão-de-ló:": [
+      "Bata na batedeira as claras em neve, adicione as gemas uma a uma e continue batendo, junte o açúcar e bata mais um pouco.",
+      "Junte a farinha peneirada e o leite bem quente e mexa bem, sem bater, por último coloque o fermento.",
+      "Leve para assar em forma redonda sem buraco no meio, untada e enfarinhada em forno pré-aquecido em temperatura média por no máximo 30 minutos ou quando tiver dourado e bem sequinho.",
+      "Cresce bastante e fica bem fofinho."
+    ],
+    "Recheio:": [
+      "Coloque em uma panela o leite e deixe aquecer, junte as gemas batidas, o leite condensado e o amido de milho e deixe engrossar, mexendo sempre.",
+      "Retire do fogo e coloque o creme de leite."
+    ],
+    "Montagem do bolo:": [
+      "Desenforme o bolo quando estiver morno (fica mais fácil).",
+      "Corte ao meio com uma faca de serrinha.",
+      "Faça um purê com alguns morangos (amasse os morangos com o garfo, coloque um pouco de açúcar e um pouco de água).",
+      "Regue uma metade do bolo com a calda que formou do purê, coloque o recheio e morangos picados e coloque a outra metade do bolo por cima."
+    ],
+    "Cobertura:": [
+      "Bata na batedeira o chantilly até ficar bem fofo (é bem rápido).",
+      "Cubra o bolo e enfeite com metades de morango."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Panela",
+    "Forma",
+    "Forno elétrico",
+    "Peneira",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de morango ótimo para aniversário. Ingredientes: ovos, açúcar, farinha de trigo, leite quente, fermento em pó, litro de leite, leite condensado, creme de leite, gemas, amido de milho, caixinhas de morango, caixinhas de chantilly, caixinha de morango. Preparo: Bata na batedeira as claras em neve, adicione as gemas uma a uma e continue batendo, junte o açúcar e bata mais um pouco. Junte a farinha peneirada e o leite bem quente e mexa bem, sem bater, por último coloque o fermento. Leve para assar em forma redonda sem buraco no meio, untada e enfarinhada em forno pré-aquecido em temperatura média por no máximo 30 minutos ou quando tiver dourado e bem sequinho."
+}

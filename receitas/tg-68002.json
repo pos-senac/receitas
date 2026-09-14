@@ -1,0 +1,61 @@
+{
+  "id": "tg-68002",
+  "titulo": "Bolo de caneca sem ovo",
+  "url": "https://www.tudogostoso.com.br/receita/68002-bolo-de-caneca-sem-ovo.html",
+  "nota": 4.0,
+  "n_avaliacoes": 125,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de caneca sem ovo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "colher",
+      "texto_original": "1 e 1/2 colher de açúcar"
+    },
+    {
+      "nome": "Nescau",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de Nescau"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de leite"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de fermento"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de azeite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misturar em uma vasilha o trigo, açúcar, Nescau e fermento.",
+      "Acrescentar o leite e o azeite.",
+      "Misturar bem com o garfo.",
+      "Coloque no micro-ondas por 4 minutos na potência máxima."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de caneca sem ovo. Ingredientes: farinha de trigo, açúcar, Nescau, leite, fermento, azeite. Preparo: Misturar em uma vasilha o trigo, açúcar, Nescau e fermento. Acrescentar o leite e o azeite. Misturar bem com o garfo."
+}

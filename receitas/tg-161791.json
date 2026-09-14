@@ -1,0 +1,49 @@
+{
+  "id": "tg-161791",
+  "titulo": "Chocolate quente sem leite ou leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/161791-chocolate-quente-sem-leite-ou-leite-condensado.html",
+  "nota": 4.3,
+  "n_avaliacoes": 238,
+  "categoria": "Receitas drinks e Coquetéis não alcoólicos",
+  "subcategoria": "Chocolate quente sem leite ou leite condensado",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de achocolatado em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "água filtrada ou fervida",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de água filtrada ou fervida"
+    },
+    {
+      "nome": "rasa de amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de amido de milho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture o achocolatado e a margarina e leve ao fogo.",
+      "Misture a água com o amido de milho.",
+      "Quando a margarina com o chocolate levantar fervura, coloque a água.",
+      "Quando der o ponto de brigadeiro, desligue, coloque em uma caneca e sirva quente."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Chocolate quente sem leite ou leite condensado. Ingredientes: achocolatado em pó, margarina, água filtrada ou fervida, rasa de amido de milho. Preparo: Misture o achocolatado e a margarina e leve ao fogo. Misture a água com o amido de milho. Quando a margarina com o chocolate levantar fervura, coloque a água."
+}

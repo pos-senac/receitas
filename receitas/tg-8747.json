@@ -1,0 +1,65 @@
+{
+  "id": "tg-8747",
+  "titulo": "Suco de milho",
+  "url": "https://www.tudogostoso.com.br/receita/8747-suco-de-milho.html",
+  "nota": 4.4,
+  "n_avaliacoes": 111,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Suco de milho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "espigas de milho",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 espigas de milho"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "6",
+      "unidade": "xícaras (chá)",
+      "texto_original": "6 xícaras (chá) de leite"
+    },
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de água"
+    },
+    {
+      "nome": "lata de leite condensado",
+      "quantidade": "1/4",
+      "unidade": null,
+      "texto_original": "1/4 de lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Retire os grãos de milho das espigas com uma faca.",
+      "Bata no liquidificador o milho, as 3 xícaras de leite, a 1 e 1/2 xícara de água e o açúcar.",
+      "Levar ao fogo até engrossar bem.",
+      "Deixe esfriar.",
+      "Bata no liquidificador esse curau com o restante da água e do leite e acrescente o leite condensado.",
+      "Leve para geladeira.",
+      "Sirva bem gelado."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Copo medidor",
+    "Faca",
+    "Fogão",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Suco de milho. Ingredientes: espigas de milho, açúcar, leite, água, lata de leite condensado. Preparo: Retire os grãos de milho das espigas com uma faca. Bata no liquidificador o milho, as 3 xícaras de leite, a 1 e 1/2 xícara de água e o açúcar. Levar ao fogo até engrossar bem."
+}

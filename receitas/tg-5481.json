@@ -1,0 +1,55 @@
+{
+  "id": "tg-5481",
+  "titulo": "Polenta básica",
+  "url": "https://www.tudogostoso.com.br/receita/5481-polenta-basica.html",
+  "nota": 4.2,
+  "n_avaliacoes": 161,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Polenta básica",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "litros de água",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 litros de água"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de fubá"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, leve a água ao fogo e acrescente o sal e a manteiga.",
+      "Quando iniciar a fervura, acrescente o fuba e mexa sem parar para não empelotar.",
+      "Deixe a polenta cozinhar por 30 minutos em fogo baixo.",
+      "Despeje a polenta em um refratário, salpique com parmesão e cubra com o molho de sua preferência."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espátula de silicone",
+    "Fouet",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Polenta básica. Ingredientes: litros de água, fubá, manteiga, sal. Preparo: Em uma panela, leve a água ao fogo e acrescente o sal e a manteiga. Quando iniciar a fervura, acrescente o fuba e mexa sem parar para não empelotar. Deixe a polenta cozinhar por 30 minutos em fogo baixo."
+}

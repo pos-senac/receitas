@@ -1,0 +1,114 @@
+{
+  "id": "tg-12216",
+  "titulo": "Nachos mexicanos",
+  "url": "https://www.tudogostoso.com.br/receita/12216-nachos-mexicanos.html",
+  "nota": 4.6,
+  "n_avaliacoes": 155,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Nachos mexicanos",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "carne moída",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne moída"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de óleo"
+    },
+    {
+      "nome": "cebola grande ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande ralada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "5",
+      "unidade": "dentes",
+      "texto_original": "5 dentes de alho amassados"
+    },
+    {
+      "nome": "Doritos (grande)",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de Doritos (grande)"
+    },
+    {
+      "nome": "queijo cheddar (aquele de bisnaga)",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de queijo cheddar (aquele de bisnaga)"
+    },
+    {
+      "nome": "e 1/2 de sopa bem cheias de pimenta chilli",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher e 1/2 de sopa bem cheias de pimenta chilli"
+    },
+    {
+      "nome": "sopa de molho inglês",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de molho inglês"
+    },
+    {
+      "nome": "Sal e temperos como ervas finas, manjerona e outros, a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e temperos como ervas finas, manjerona e outros, a gosto"
+    },
+    {
+      "nome": "caixinha de creme de leite (o de caixinha é menos consistente, por isso é melhor)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite (o de caixinha é menos consistente, por isso é melhor)"
+    },
+    {
+      "nome": "pote de cream cheese",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de cream cheese"
+    },
+    {
+      "nome": "sopa de vinagre branco",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de vinagre branco"
+    },
+    {
+      "nome": "Suco de 1/2 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1/2 limão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Para o preparo do sour cream, bata no liquidificar o creme de leite, o cream cheese, o vinagre e o limão.",
+      "Reserve.",
+      "Coloque numa panela o óleo a cebola e o alho e doure, em seguida acrescente a carne moída e frite bem.",
+      "Então coloque os temperos do seu gosto, o sal, o molho inglês e a pimenta chilli.",
+      "Depois de preparada a carne, forre uma travessa com o doritos, coloque a carne por cima, depois o sour cream e por último o queijo cheddar.",
+      "Coloque no forno por cerca de 15 minutos numa temperatura de cerca de 180º graus.",
+      "Está pronto.",
+      "É uma comida apimentada, deliciosa! Não esqueça, o segredo da receita é a pimenta chilli, que é uma iguaria mexicana."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Refratário",
+    "Bowl",
+    "Faca",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Nachos mexicanos. Ingredientes: carne moída, sopa de óleo, cebola grande ralada, alho amassados, Doritos (grande), queijo cheddar (aquele de bisnaga), e 1/2 de sopa bem cheias de pimenta chilli, sopa de molho inglês, Sal e temperos como ervas finas, manjerona e outros, a gosto, caixinha de creme de leite (o de caixinha é menos consistente, por isso é melhor), pote de cream cheese, sopa de vinagre branco, Suco de 1/2 limão. Preparo: Para o preparo do sour cream, bata no liquidificar o creme de leite, o cream cheese, o vinagre e o limão. Reserve. Coloque numa panela o óleo a cebola e o alho e doure, em seguida acrescente a carne moída e frite bem."
+}

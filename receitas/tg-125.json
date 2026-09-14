@@ -1,0 +1,90 @@
+{
+  "id": "tg-125",
+  "titulo": "Cuca da tia Dalila",
+  "url": "https://www.tudogostoso.com.br/receita/125-cuca-da-tia-dalila.html",
+  "nota": 4.6,
+  "n_avaliacoes": 652,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cuca da tia Dalila",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga ou margarina"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de fermento em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de farinha de trigo"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó"
+    },
+    {
+      "nome": "ou 2 colheres de margarina ou manteiga",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ou 2 colheres de margarina ou manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos com o açúcar e misture os outros ingredientes até formar uma massa homogênea.",
+      "Para a farofa: basta colocar tudo em uma tigelona e amassar até ficar com cara de farofa.",
+      "Unte uma forma com margarina, coloque a massa e salpique a farofa",
+      "Leve ao forno preaquecido para assar por aproximadamente 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Bowl",
+    "Espátula para bolo",
+    "Forma"
+  ],
+  "texto_para_embedding": "Cuca da tia Dalila. Ingredientes: farinha de trigo, açúcar, leite, ovos, manteiga ou margarina, fermento em pó, açúcar, farinha de trigo, canela em pó, ou 2 colheres de margarina ou manteiga. Preparo: Bata os ovos com o açúcar e misture os outros ingredientes até formar uma massa homogênea. Para a farofa: basta colocar tudo em uma tigelona e amassar até ficar com cara de farofa. Unte uma forma com margarina, coloque a massa e salpique a farofa"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tg-15665",
+  "titulo": "Sopa de legumes com macarrão",
+  "url": "https://www.tudogostoso.com.br/receita/15665-sopa-de-legumes-com-macarrao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 355,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de legumes com macarrão",
+  "nivel": "dificil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 50,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "carne bovina (de preferência músculo ou costela)",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de carne bovina (de preferência músculo ou costela)"
+    },
+    {
+      "nome": "tomate médio picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate médio picado"
+    },
+    {
+      "nome": "batatas médias cortadas em cubos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 batatas médias cortadas em cubos"
+    },
+    {
+      "nome": "cenouras médias cortadas em cubos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras médias cortadas em cubos"
+    },
+    {
+      "nome": "mandioquinhas médias cortadas em cubos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 mandioquinhas médias cortadas em cubos"
+    },
+    {
+      "nome": "vagens picadas",
+      "quantidade": "12",
+      "unidade": null,
+      "texto_original": "12 vagens picadas"
+    },
+    {
+      "nome": "macarrão (tipo argolinha ou conchinha ou ave maria ou cabelo de anjo)",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de macarrão (tipo argolinha ou conchinha ou ave maria ou cabelo de anjo)"
+    },
+    {
+      "nome": "tablete de caldo de carne",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne"
+    },
+    {
+      "nome": "envelope de tempero sazon",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de tempero sazon"
+    },
+    {
+      "nome": "pimenta do reino ou pimenta calabresa",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de pimenta do reino ou pimenta calabresa"
+    },
+    {
+      "nome": "salsinha e cebolinha bem picadinhas",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de salsinha e cebolinha bem picadinhas"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Água até um pouco mais de a metade da panela de pressão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Água até um pouco mais de a metade da panela de pressão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque um fio de óleo na panela de pressão.",
+      "Acrescente a cebola e deixe dourar.",
+      "Acrescente a carne bovina e deixe dourar.",
+      "Acrescente o tomate picado.",
+      "Coloque o caldo de carne e o envelope de tempero tipo sazon.",
+      "Junte as batatas, as cenouras, as mandioquinhas e as vagens e deixe refogar por 3 minutinhos (sempre mexendo para não grudar no fundo da panela).",
+      "Adicione a salsinha e a cebolinha, a pimenta, o sal e, por último, a água.",
+      "Obs: A água deve ser adicionada até que ultrapasse um pouco mais da metade da panela de pressão.",
+      "Tampe a panela de pressão e deixe cozinhar por 40 minutos.",
+      "Após os 40 minutos, destampe a panela e acrescente o macarrão.",
+      "Assim que o macarrão estiver cozido, desligue a panela e pode servir.",
+      "Dica: Não deixe o macarrão muito mole."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Sopa de legumes com macarrão. Ingredientes: cebola média picada, carne bovina (de preferência músculo ou costela), tomate médio picado, batatas médias cortadas em cubos, cenouras médias cortadas em cubos, mandioquinhas médias cortadas em cubos, vagens picadas, macarrão (tipo argolinha ou conchinha ou ave maria ou cabelo de anjo), tablete de caldo de carne, envelope de tempero sazon, pimenta do reino ou pimenta calabresa, salsinha e cebolinha bem picadinhas, Sal a gosto, Água até um pouco mais de a metade da panela de pressão. Preparo: Coloque um fio de óleo na panela de pressão. Acrescente a cebola e deixe dourar. Acrescente a carne bovina e deixe dourar."
+}

@@ -1,0 +1,88 @@
+{
+  "id": "tg-1154",
+  "titulo": "Baião de dois",
+  "url": "https://www.tudogostoso.com.br/receita/1154-baiao-de-dois.html",
+  "nota": 4.6,
+  "n_avaliacoes": 211,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Baião de dois",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "feijão verde",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de feijão verde"
+    },
+    {
+      "nome": "paio cortado em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 paio cortado em rodelas"
+    },
+    {
+      "nome": "tabletes de caldo de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de carne"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola ralada"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho amassado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "coentro picado",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de coentro picado"
+    },
+    {
+      "nome": "e 1/2 (chá) de arroz lavado e escorrido",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras e 1/2 (chá) de arroz lavado e escorrido"
+    },
+    {
+      "nome": "queijo de coalho cortado em fatias finas",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de queijo de coalho cortado em fatias finas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixe o feijão de molho de véspera.",
+      "No dia seguinte cozinhe-o juntamente com o caldo de carne e 2,5 litros de água fria.",
+      "Tampe a panela e deixe cozinhar em fogo baixo por aproximadamente 1 hora.",
+      "Em outra panela doure o paio, a cebola e o alho, no óleo.",
+      "Junte o coentro e o arroz e refogue bem.",
+      "Acrescente o feijão já cozido, juntamente com o caldo. Misture bem, tampe a panela e deixe cozinhar até que o arroz fique cozido, úmido e com consistência cremosa.",
+      "Cubra o arroz com as fatias de queijo. Tampe a panela novamente e deixe que o vapor derreta o queijo.",
+      "Sirva acompanhado de carne-de-sol frita ou assada."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Panela de pressão",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Baião de dois. Ingredientes: feijão verde, paio cortado em rodelas, tabletes de caldo de carne, cebola ralada, alho amassado, óleo, coentro picado, e 1/2 (chá) de arroz lavado e escorrido, queijo de coalho cortado em fatias finas. Preparo: Deixe o feijão de molho de véspera. No dia seguinte cozinhe-o juntamente com o caldo de carne e 2,5 litros de água fria. Tampe a panela e deixe cozinhar em fogo baixo por aproximadamente 1 hora."
+}

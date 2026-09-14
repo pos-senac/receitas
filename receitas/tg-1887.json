@@ -1,0 +1,102 @@
+{
+  "id": "tg-1887",
+  "titulo": "Bola de sardinha",
+  "url": "https://www.tudogostoso.com.br/receita/1887-bola-de-sardinha.html",
+  "nota": 4.8,
+  "n_avaliacoes": 110,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bola de sardinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de tirgo",
+      "quantidade": "5",
+      "unidade": "xícaras (chá)",
+      "texto_original": "5 xícaras (chá) farinha de tirgo"
+    },
+    {
+      "nome": "bem cheia de açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) bem cheia de açúcar"
+    },
+    {
+      "nome": "fermento biológico seco",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de fermento biológico seco"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "400",
+      "unidade": "ml",
+      "texto_original": "400 ml de leite morno"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "seleta",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de seleta"
+    },
+    {
+      "nome": "sardinha",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de sardinha"
+    },
+    {
+      "nome": "maço de cheiro verde (coentro, cebolinha e salsa) picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de cheiro verde (coentro, cebolinha e salsa) picado"
+    },
+    {
+      "nome": "Pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta do reino a gosto"
+    },
+    {
+      "nome": "Cebola a gosto (picada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebola a gosto (picada"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "em uma tigela acrescente todos os ingredientes secos, trigo peneirado, açúcar, fermento, sal misture e acrescente o óleo, 2 ovos misturando bem, e por último acrescente o leite aos poucos até obter uma massa quase homogênea.",
+      "Depois de prepará-la cubra e deixe descansando até terminar de preparar o recheio."
+    ],
+    "Recheio:": [
+      "em uma panela despeje a sardinha com óleo que vem na lata, a cebola e o cheiro verde (coentro, cebolinha e salsa) a pimenta do reino deixe frite um pouco e depois acrescente a seleta.",
+      "Deixe refogar um pouco, apague o fogo e tampe.",
+      "Pegue uma assadeira unte com óleo e despeje a metade da massa e acrescente o recheio e depois despeje o resto da massa e para finalizar bata um ovo peneirado e pincele a bola.",
+      "Deixe o forno pré-aquecido e deixe asssar até dourar bem.",
+      "Obs: a primeira impressão e que não vai dar certo porque a massa é grudenta, mas ela fica ótima aqui em Manaus nunca comi uma bola tão fofinha."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bola de sardinha. Ingredientes: farinha de tirgo, bem cheia de açúcar, fermento biológico seco, óleo, ovos, leite morno, Sal a gosto, seleta, sardinha, maço de cheiro verde (coentro, cebolinha e salsa) picado, Pimenta do reino a gosto, Cebola a gosto (picada. Preparo: em uma tigela acrescente todos os ingredientes secos, trigo peneirado, açúcar, fermento, sal misture e acrescente o óleo, 2 ovos misturando bem, e por último acrescente o leite aos poucos até obter uma massa quase homogênea. Depois de prepará-la cubra e deixe descansando até terminar de preparar o recheio. em uma panela despeje a sardinha com óleo que vem na lata, a cebola e o cheiro verde (coentro, cebolinha e salsa) a pimenta do reino deixe frite um pouco e depois acrescente a seleta."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tg-6544",
+  "titulo": "Torresmo Pururuca de Rancho",
+  "url": "https://www.tudogostoso.com.br/receita/6544-torresmo-pururuca-de-rancho.html",
+  "nota": 4.8,
+  "n_avaliacoes": 202,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Torresmo Pururuca de Rancho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "torresmo em cubos (panceta ou toucinho)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de torresmo em cubos (panceta ou toucinho)"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os torresmos com o sal e deixe descansar por uns 15 minutos.",
+      "Coloque um pouco de óleo numa panela e, quando estiver quente, coloque os cubos do torresmo. Tampe a panela para não emporcalhar o fogão.",
+      "Com uma colher de pau vá mexendo de vez em quando para não grudar um torresmo no outro. Eles vão soltar mais gordura ainda e quando estiverem opacos, com cara de que estão fritos, desligue o fogo.",
+      "Retire daquela gordura os torresmos e coloque-os na geladeira para esfriar. Reserve a gordura.",
+      "Quando os mesmos estiverem frios (não gelados), esquente a gordura novamente e quando estiver frigindo, coloque de volta os torresmos e vá mexendo até eles pururucarem.",
+      "Retire após e coloque em um recipiente com papel toalha. Ficam tão sequinhos que quase nem sujam o papel toalha.",
+      "Obs: A gordura que sobrou, guarde e prepare arroz com ela. Além de ficar saboroso, ele fica soltinho e brilhante."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Papel-toalha",
+    "Colher de pau",
+    "Escumadeira",
+    "Fogão",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Torresmo Pururuca de Rancho. Ingredientes: torresmo em cubos (panceta ou toucinho), Sal, óleo. Preparo: Tempere os torresmos com o sal e deixe descansar por uns 15 minutos. Coloque um pouco de óleo numa panela e, quando estiver quente, coloque os cubos do torresmo. Tampe a panela para não emporcalhar o fogão. Com uma colher de pau vá mexendo de vez em quando para não grudar um torresmo no outro. Eles vão soltar mais gordura ainda e quando estiverem opacos, com cara de que estão fritos, desligue o fogo."
+}

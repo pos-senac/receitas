@@ -1,0 +1,95 @@
+{
+  "id": "tg-19969",
+  "titulo": "Estrogonofe de camarão",
+  "url": "https://www.tudogostoso.com.br/receita/19969-estrogonofe-de-camarao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 154,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Estrogonofe de camarão",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "camarão cinza ou camarão rosa",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de camarão cinza ou camarão rosa"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de margarina"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de molho de tomate"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de mostarda"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picado"
+    },
+    {
+      "nome": "orégano seco",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de orégano seco"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe os camarões tirando a cabeça e a tripa.",
+      "Coloque em uma panela a manteiga.",
+      "Após derreter jogue a cebola e deixe refogar.",
+      "Quando a cebola estiver amarelinha jogue o alho para que ele refogue e não queime.",
+      "Quando dourar o alho jogue o camarão, o orégano, o sal e a pimenta do reino, misture para não grudar o camarão no fundo da panela.",
+      "Assim que secar a água do camarão, jogue o molho de tomate, a mostarda e misture.",
+      "Desligue o fogo, e antes de servir jogue o creme de leite sem o soro.",
+      "Dica: Caso queira o molho do strogonoff mais ralo, usar o soro do creme de leite na receita, ou acrescentar 1/4 de copo de leite. O sabor não vai mudar, somente a consistência.",
+      "Servir com arroz branco e bata, pode ser palha, palito ou chips."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Estrogonofe de camarão. Ingredientes: camarão cinza ou camarão rosa, margarina, creme de leite, molho de tomate, mostarda, cebola média picada, alho picado, orégano seco, Sal a gosto, Pimenta-do-reino a gosto. Preparo: Limpe os camarões tirando a cabeça e a tripa. Coloque em uma panela a manteiga. Após derreter jogue a cebola e deixe refogar."
+}

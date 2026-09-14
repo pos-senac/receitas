@@ -1,0 +1,60 @@
+{
+  "id": "tg-14018",
+  "titulo": "Torta de bis com sorvete",
+  "url": "https://www.tudogostoso.com.br/receita/14018-torta-de-bis-com-sorvete.html",
+  "nota": 4.7,
+  "n_avaliacoes": 170,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de bis com sorvete",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "bis",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de bis"
+    },
+    {
+      "nome": "Sorvete",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sorvete"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare o brigadeiro, colocando em fogo médio o leite condensado, chocolate em pó e a margarina.",
+      "Fica pronto quando desgruda da panela."
+    ],
+    "Montagem:": [
+      "Pique os bis e coloque no fundo do refratário.",
+      "Depois coloque o brigadeiro (espere esfriar).",
+      "Por último cubra com o sorvete de sua preferência.",
+      "Se quiser decore com bis inteiro.",
+      "Leve ao congelador e após 2 horas está pronto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de bis com sorvete. Ingredientes: leite condensado, chocolate em pó, margarina, bis, Sorvete. Preparo: Prepare o brigadeiro, colocando em fogo médio o leite condensado, chocolate em pó e a margarina. Fica pronto quando desgruda da panela. Pique os bis e coloque no fundo do refratário."
+}

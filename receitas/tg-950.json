@@ -1,0 +1,42 @@
+{
+  "id": "tg-950",
+  "titulo": "Sorvete de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/950-sorvete-de-chocolate.html",
+  "nota": 4.5,
+  "n_avaliacoes": 271,
+  "categoria": "Receitas sorvetes",
+  "subcategoria": "Sorvete de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 180,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate meio amargo",
+      "quantidade": "800",
+      "unidade": "g",
+      "texto_original": "800 g de chocolate meio amargo"
+    },
+    {
+      "nome": "leite quente (mesma do leite condensado)",
+      "quantidade": "1 e 1/2",
+      "unidade": "lata",
+      "texto_original": "1 e 1/2 lata de leite quente (mesma do leite condensado)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva o chocolate no leite quente.",
+      "Em seguida, adicione o leite condensado e bata no liquidificador.",
+      "Leve ao congelador ou freezer e espere cerca de 3 horas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sorvete de chocolate. Ingredientes: leite condensado, chocolate meio amargo, leite quente (mesma do leite condensado). Preparo: Dissolva o chocolate no leite quente. Em seguida, adicione o leite condensado e bata no liquidificador. Leve ao congelador ou freezer e espere cerca de 3 horas."
+}

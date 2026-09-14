@@ -1,0 +1,82 @@
+{
+  "id": "tg-20882",
+  "titulo": "Bisteca de porco ao forno",
+  "url": "https://www.tudogostoso.com.br/receita/20882-bisteca-de-porco-ao-forno.html",
+  "nota": 4.5,
+  "n_avaliacoes": 233,
+  "categoria": "Receitas porco",
+  "subcategoria": "Bisteca de porco ao forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "bistecas de porco",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 bistecas de porco"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassado"
+    },
+    {
+      "nome": "sopa de mostarda",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher sopa de mostarda"
+    },
+    {
+      "nome": "chá de colorau",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de colorau"
+    },
+    {
+      "nome": "chá de tempero baiano",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher chá de tempero baiano"
+    },
+    {
+      "nome": "vinho branco",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml de vinho branco"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml de azeite"
+    },
+    {
+      "nome": "suco de laranja ou abacaxi",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml suco de laranja ou abacaxi"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe as bistecas.",
+      "Depois tempere com sal e alho coloque em um tabuleiro e reserve.",
+      "Em uma tigela misture a mostarda, colorau, tempero baiano, vinho branco.",
+      "Assim que estiverem tudo bem misturado, misturar esta mistura nas bistecas de porco.",
+      "Regue com azeite e o suco de laranja ou abacaxi, verificar o sal.",
+      "Leve para assar em forno pré-aquecido virando dos dois lados por 40 minutos, ou até a bisteca estiverem douradas.",
+      "Retire e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bisteca de porco ao forno. Ingredientes: bistecas de porco, alho amassado, sopa de mostarda, chá de colorau, chá de tempero baiano, vinho branco, azeite, suco de laranja ou abacaxi, Sal a gosto. Preparo: Limpe as bistecas. Depois tempere com sal e alho coloque em um tabuleiro e reserve. Em uma tigela misture a mostarda, colorau, tempero baiano, vinho branco."
+}

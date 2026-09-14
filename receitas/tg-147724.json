@@ -1,0 +1,107 @@
+{
+  "id": "tg-147724",
+  "titulo": "Torta integral de atum",
+  "url": "https://www.tudogostoso.com.br/receita/147724-torta-integral-de-atum.html",
+  "nota": 4.6,
+  "n_avaliacoes": 118,
+  "categoria": "Receitas alimentação saudável",
+  "subcategoria": "Torta integral de atum",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "trigo integral",
+      "quantidade": "2",
+      "unidade": "xícara",
+      "texto_original": "2 xícara de trigo integral"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "óleo de girassol",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo de girassol"
+    },
+    {
+      "nome": "aveia fina",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de aveia fina"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "tomate picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado"
+    },
+    {
+      "nome": "ovos cozidos picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos cozidos picados"
+    },
+    {
+      "nome": "atum natural moído",
+      "quantidade": "2",
+      "unidade": "lata",
+      "texto_original": "2 lata de atum natural moído"
+    },
+    {
+      "nome": "cheiro-verde",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de cheiro-verde"
+    },
+    {
+      "nome": "sal e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Coloque todos os ingredientes no liquidificador menos o fermento e bata tudo até ficar bem homogêneo.",
+      "Depois acrescente o fermento e bata rapidamente só para misturar a massa com o fermento."
+    ],
+    "Recheio:": [
+      "Misture todos os ingredientes numa tigela e mexa ate todos se encorporarem.",
+      "Em uma forma média unte com azeite coloque metade da massa espalhe o recheio todo por ela, acrescente o restante da massa, polvilhe se quiser orégano por cima para dar um gostinho especial.",
+      "Leve ao forno médio por mais ou menos 40 a 45 minutos.",
+      "Bom apetite!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta integral de atum. Ingredientes: ovos, trigo integral, leite, óleo de girassol, aveia fina, fermento, sal a gosto, cebola picada, tomate picado, ovos cozidos picados, atum natural moído, cheiro-verde, sal e pimenta a gosto. Preparo: Coloque todos os ingredientes no liquidificador menos o fermento e bata tudo até ficar bem homogêneo. Depois acrescente o fermento e bata rapidamente só para misturar a massa com o fermento. Misture todos os ingredientes numa tigela e mexa ate todos se encorporarem."
+}

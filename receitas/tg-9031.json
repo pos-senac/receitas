@@ -1,0 +1,74 @@
+{
+  "id": "tg-9031",
+  "titulo": "Caldo verde",
+  "url": "https://www.tudogostoso.com.br/receita/9031-caldo-verde.html",
+  "nota": 4.6,
+  "n_avaliacoes": 1454,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Caldo verde",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "batatas médias",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 batatas médias"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de galinha"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "rasa de sal ou a gosto",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de sal ou a gosto"
+    },
+    {
+      "nome": "água",
+      "quantidade": "5",
+      "unidade": "xícaras (chá)",
+      "texto_original": "5 xícaras (chá) de água"
+    },
+    {
+      "nome": "couve manteiga cortada em tiras",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de couve manteiga cortada em tiras"
+    },
+    {
+      "nome": "lingüiça calabresa defumada cortada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 lingüiça calabresa defumada cortada em rodelas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Na panela de pressão, coloque a batata, o caldo de galinha, o óleo, a água e sal.",
+      "Cozinhe por cerca de 10 minutos (começar a contar o tempo depois que a panela começar a chiar) até a batata desmanchar.",
+      "Em seguida, bata tudo no liquidificador.",
+      "Acrescente as rodelas de calabresa e ferva.",
+      "Desligue o fogo e adicione a couve-manteiga.",
+      "Na hora de servir, coloque um fio de azeite ou croutons"
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Panela de pressão",
+    "Colher de pau"
+  ],
+  "texto_para_embedding": "Caldo verde. Ingredientes: batatas médias, tablete de caldo de galinha, óleo, rasa de sal ou a gosto, água, couve manteiga cortada em tiras, lingüiça calabresa defumada cortada em rodelas. Preparo: Na panela de pressão, coloque a batata, o caldo de galinha, o óleo, a água e sal. Cozinhe por cerca de 10 minutos (começar a contar o tempo depois que a panela começar a chiar) até a batata desmanchar. Em seguida, bata tudo no liquidificador."
+}

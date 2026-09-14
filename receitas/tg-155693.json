@@ -1,0 +1,53 @@
+{
+  "id": "tg-155693",
+  "titulo": "Mousse de limão rápido",
+  "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
+  "nota": 4.7,
+  "n_avaliacoes": 2836,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Mousse de limão rápido",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "suco puro de limão",
+      "quantidade": "1/2",
+      "unidade": "copo (americano)",
+      "texto_original": "1/2 copo (americano) de suco puro de limão"
+    },
+    {
+      "nome": "Bis de limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Bis de limão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador, bata o leite condensado e o creme de leite por 3 minutos.",
+      "Acrescente aos poucos o suco de limão e continue batendo.",
+      "Despeje o mousse em um refratário e leve à geladeira.",
+      "Na hora de servir, triture o bis e coloque por cima do mousse para decorar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Mousse de limão rápido. Ingredientes: leite condensado, creme de leite, suco puro de limão, Bis de limão. Preparo: No liquidificador, bata o leite condensado e o creme de leite por 3 minutos. Acrescente aos poucos o suco de limão e continue batendo. Despeje o mousse em um refratário e leve à geladeira."
+}

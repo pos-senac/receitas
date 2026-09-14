@@ -1,0 +1,73 @@
+{
+  "id": "tg-53825",
+  "titulo": "Bolo de fubá no liquidificador super fofo",
+  "url": "https://www.tudogostoso.com.br/receita/53825-bolo-de-fuba-no-liquidificador-super-fofo.html",
+  "nota": 4.5,
+  "n_avaliacoes": 583,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá no liquidificador super fofo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "copos (250 ml)",
+      "texto_original": "2 copos (250 ml) de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de farinha de trigo"
+    },
+    {
+      "nome": "vidro de leite de coco, ou 1 copo de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco, ou 1 copo de leite"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de fubá"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "Canela e açúcar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela e açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater no liquidificador os ovos, o leite, o açúcar, a farinha e o fubá.",
+      "Colocar em forma média com buraco, untada com margarina e farinha de trigo.",
+      "Assar em forno médio, pré-aquecido, por cerca de 30 minutos, ou até dourar.",
+      "Depois de pronto, coloque margarina por cima do bolo, faça uma mistura de açúcar e canela em pó, coloque por cima e pronto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de fubá no liquidificador super fofo. Ingredientes: açúcar, ovos, farinha de trigo, vidro de leite de coco, ou 1 copo de leite, fubá, óleo, fermento em pó, Canela e açúcar. Preparo: Bater no liquidificador os ovos, o leite, o açúcar, a farinha e o fubá. Colocar em forma média com buraco, untada com margarina e farinha de trigo. Assar em forno médio, pré-aquecido, por cerca de 30 minutos, ou até dourar."
+}

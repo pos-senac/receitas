@@ -1,0 +1,112 @@
+{
+  "id": "tg-13005",
+  "titulo": "Torta de frango com catupiry da Lilian",
+  "url": "https://www.tudogostoso.com.br/receita/13005-torta-de-frango-com-catupiry-da-lilian.html",
+  "nota": 4.7,
+  "n_avaliacoes": 183,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Torta de frango com catupiry da Lilian",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 9,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "azeitonas pretas picada",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de azeitonas pretas picada"
+    },
+    {
+      "nome": "queijo mussarela cortado em tiras",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de queijo mussarela cortado em tiras"
+    },
+    {
+      "nome": "presunto cortado em tiras",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de presunto cortado em tiras"
+    },
+    {
+      "nome": "seleta de legumes ou milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de seleta de legumes ou milho verde"
+    },
+    {
+      "nome": "bisnaga de catupiry",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 bisnaga de catupiry"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de leite"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de óleo"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de chá de sal"
+    },
+    {
+      "nome": "sopa de maisena",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de maisena"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio:": [
+      "Dourar o frango já desfiado no alho e na cebola, misturar todos os outros ingredientes (menos o catupiry) e mexer em fogo baixo até que fique como um creme e reservar."
+    ],
+    "Massa:": [
+      "Bater todos os ingredientes da massa no liquidificador.",
+      "Untar a forma ou marinex com manteiga e polvilhar com farinha de rosca.",
+      "Colocar metade da massa, rechear com o creme de frango, cobrir o creme de frango com o catupiry.",
+      "Colocar a outra metade da massa e levar ao forno médio/baixo até que quando furada com o garfo esteja assada."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de frango com catupiry da Lilian. Ingredientes: peito de frango cozido e desfiado, requeijão, azeitonas pretas picada, queijo mussarela cortado em tiras, presunto cortado em tiras, seleta de legumes ou milho verde, bisnaga de catupiry, ovos, chá de farinha de trigo, chá de leite, chá de óleo, chá de sal, sopa de maisena, sopa de fermento em pó. Preparo: Dourar o frango já desfiado no alho e na cebola, misturar todos os outros ingredientes (menos o catupiry) e mexer em fogo baixo até que fique como um creme e reservar. Bater todos os ingredientes da massa no liquidificador. Untar a forma ou marinex com manteiga e polvilhar com farinha de rosca."
+}

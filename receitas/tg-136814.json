@@ -1,0 +1,102 @@
+{
+  "id": "tg-136814",
+  "titulo": "Escondidinho de carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/136814-escondidinho-de-carne-moida.html",
+  "nota": 4.7,
+  "n_avaliacoes": 876,
+  "categoria": "Receitas escondidinho",
+  "subcategoria": "Escondidinho de carne moída",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "batata",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batata"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de carne moída"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de queijo mussarela"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeite"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho amassado"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta branca a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta branca a gosto"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque as batatas, corte ao meio e cozinhe com água e sal.",
+      "Depois de cozidas, amasse as batatas, adicione o leite e a manteiga, mexa bem até formar um purê e reserve.",
+      "Em uma panela, adicione 1 fio de azeite, a cebola, o alho e refogue a carne moída.",
+      "Tempere com sal, pimenta branca, cheiro-verde e cozinhe até secar a água que se formar na panela.",
+      "Forre um refratário com a metade do purê de batatas.",
+      "Acrescente uma camada de queijo e uma camada de carne moída.",
+      "Repita o processo e finalize com queijo ralado por cima.",
+      "Leve ao forno por 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Descascador de legumes",
+    "Espatula",
+    "Expremedor de Batata",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Escondidinho de carne moída. Ingredientes: batata, carne moída, queijo mussarela, azeite, cebola, alho amassado, sal a gosto, pimenta branca a gosto, cheiro-verde a gosto, leite, manteiga. Preparo: Descasque as batatas, corte ao meio e cozinhe com água e sal. Depois de cozidas, amasse as batatas, adicione o leite e a manteiga, mexa bem até formar um purê e reserve. Em uma panela, adicione 1 fio de azeite, a cebola, o alho e refogue a carne moída."
+}

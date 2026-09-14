@@ -1,0 +1,88 @@
+{
+  "id": "tg-536",
+  "titulo": "Torta de abobrinha",
+  "url": "https://www.tudogostoso.com.br/receita/536-torta-de-abobrinha.html",
+  "nota": 4.5,
+  "n_avaliacoes": 319,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Torta de abobrinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "abobrinha grande ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abobrinha grande ralada"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "tomates grandes picadinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates grandes picadinhos"
+    },
+    {
+      "nome": "Cheiro verde picado a vontade",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro verde picado a vontade"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "12",
+      "unidade": "colheres (sopa)",
+      "texto_original": "12 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture tudo.",
+      "Unte uma fôrma média e leve ao forno por aproximadamente 35 minutos (enfiar palito)."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Faca",
+    "Forma",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Torta de abobrinha. Ingredientes: abobrinha grande ralada, cebola média picada, tomates grandes picadinhos, Cheiro verde picado a vontade, Sal a gosto, ovos inteiros, farinha de trigo, óleo, leite, fermento em pó. Preparo: Misture tudo. Unte uma fôrma média e leve ao forno por aproximadamente 35 minutos (enfiar palito)."
+}

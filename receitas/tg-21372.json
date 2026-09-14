@@ -1,0 +1,86 @@
+{
+  "id": "tg-21372",
+  "titulo": "Filé de frango à milanesa",
+  "url": "https://www.tudogostoso.com.br/receita/21372-file-de-frango-a-milanesa.html",
+  "nota": 4.8,
+  "n_avaliacoes": 292,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Filé de frango à milanesa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "filé de frango cortado em bifes",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de frango cortado em bifes"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho amassados"
+    },
+    {
+      "nome": "cubo de caldo de galinha esfarelado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de galinha esfarelado"
+    },
+    {
+      "nome": "raspas de 1 limão mais o suco deste",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas de 1 limão mais o suco deste"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "maisena"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "ovos"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os filés de frango com o suco e as raspas do limão, o alho, caldo de galinha o sal e a pimenta.",
+      "Deixe tomar gosto por no mínimo 1 hora.",
+      "Passe os mesmos na maisena, depois nos ovos batidos e por último na farinha de rosca.",
+      "Frite em bastante óleo de boa qualidade, ficam sequinhos e crocantes."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Papel-toalha",
+    "Prato fundo",
+    "Fogão",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Filé de frango à milanesa. Ingredientes: filé de frango cortado em bifes, alho amassados, cubo de caldo de galinha esfarelado, raspas de 1 limão mais o suco deste, sal a gosto, Pimenta a gosto, maisena, ovos, farinha de rosca. Preparo: Tempere os filés de frango com o suco e as raspas do limão, o alho, caldo de galinha o sal e a pimenta. Deixe tomar gosto por no mínimo 1 hora. Passe os mesmos na maisena, depois nos ovos batidos e por último na farinha de rosca."
+}

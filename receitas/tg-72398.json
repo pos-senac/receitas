@@ -1,0 +1,99 @@
+{
+  "id": "tg-72398",
+  "titulo": "Abobrinha recheada fácil",
+  "url": "https://www.tudogostoso.com.br/receita/72398-abobrinha-recheada-facil.html",
+  "nota": 4.7,
+  "n_avaliacoes": 163,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Abobrinha recheada fácil",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "abobrinhas médias",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 abobrinhas médias"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de carne moída"
+    },
+    {
+      "nome": "bacon picado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de bacon picado"
+    },
+    {
+      "nome": "tomates picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates picados"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "Cheiro verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro verde"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Pimenta-do-reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Corte as abobrinhas ao meio, no sentido do comprimento.",
+      "Tire cuidadosamente a polpa e reserve.",
+      "Cozinhe as abobrinhas em água fervente com sal.",
+      "Prepare o recheio, refogue a cebola e o alho com um pouco de óleo.",
+      "Acrescente o bacon e deixe fritar bem.",
+      "Adicione a carne moída, a pimenta-do-reino e o sal.",
+      "Deixe fritar bem.",
+      "Acrescente o tomate e a polpa picada da abobrinha.",
+      "Deixe apurar.",
+      "Por último, salpique um pouco de cheiro verde.",
+      "Recheie as abobrinhas com a carne moída.",
+      "Salpique o queijo ralado sobre as abobrinhas e leve ao forno para gratinar."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Faca",
+    "Tábua de corte",
+    "Travessa de vidro",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Abobrinha recheada fácil. Ingredientes: abobrinhas médias, cebola picada, alho amassados, carne moída, bacon picado, tomates picados, queijo parmesão ralado, Cheiro verde, Sal, Pimenta-do-reino. Preparo: Corte as abobrinhas ao meio, no sentido do comprimento. Tire cuidadosamente a polpa e reserve. Cozinhe as abobrinhas em água fervente com sal."
+}

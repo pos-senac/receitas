@@ -1,0 +1,79 @@
+{
+  "id": "tg-77380",
+  "titulo": "Bolo de milharina cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/77380-bolo-de-milharina-cremoso.html",
+  "nota": 4.9,
+  "n_avaliacoes": 145,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de milharina cremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "milharina",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de milharina"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 vidro de leite de coco"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de coco ralado"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de queijo ralado"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte todos os ingredientes no liquidificador e bata.",
+      "Por último o fermento.",
+      "Despeje em uma forma com furo central, não precisa untar.",
+      "Leve ao forno médio, pré-aquecido, por cerca de 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de milharina cremoso. Ingredientes: ovos, óleo, açúcar, leite, milharina, vidro de leite de coco, coco ralado, queijo ralado, fermento. Preparo: Junte todos os ingredientes no liquidificador e bata. Por último o fermento. Despeje em uma forma com furo central, não precisa untar."
+}

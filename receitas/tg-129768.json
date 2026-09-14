@@ -1,0 +1,75 @@
+{
+  "id": "tg-129768",
+  "titulo": "Bolo de banana e canela",
+  "url": "https://www.tudogostoso.com.br/receita/129768-bolo-de-banana-e-canela.html",
+  "nota": 4.5,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana e canela",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 7,
+  "ingredientes": [
+    {
+      "nome": "bananas nanicas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 bananas nanicas"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Na batedeira, bata primeiro o óleo, os ovos e o açúcar.",
+      "Bata até formar uma massa lisa.",
+      "Depois acrescente as bananas aos poucos, em pedaços",
+      "Em seguida a farinha de trigo e a canela e bata bem.",
+      "A massa ficará bem consistente.",
+      "Por último, acrescente o fermento em pó misturando delicadamente.",
+      "Assar por 30 minutos em forma redonda untada com manteiga a 220º C."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de banana e canela. Ingredientes: bananas nanicas, ovos, farinha de trigo, óleo, fermento em pó, açúcar, canela em pó. Preparo: Na batedeira, bata primeiro o óleo, os ovos e o açúcar. Bata até formar uma massa lisa. Depois acrescente as bananas aos poucos, em pedaços"
+}

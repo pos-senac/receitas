@@ -1,0 +1,73 @@
+{
+  "id": "tg-64597",
+  "titulo": "Biscoito de polvilho doce",
+  "url": "https://www.tudogostoso.com.br/receita/64597-biscoito-de-polvilho-doce.html",
+  "nota": 4.6,
+  "n_avaliacoes": 346,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de polvilho doce",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "polvilho doce",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de polvilho doce"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (café)",
+      "texto_original": "1 colher (café) de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "Opcional - 100g de coco ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Opcional - 100g de coco ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes.",
+      "Modele no formato que quiser.",
+      "Coloque no forno médio, pré-aquecido, até dourar por baixo no biscoito."
+    ]
+  },
+  "utensilios": [
+    "Refratário",
+    "Bowl",
+    "Colher de silicone",
+    "Copo medidor",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Biscoito de polvilho doce. Ingredientes: polvilho doce, farinha de trigo, margarina, açúcar, fermento em pó, ovos, Opcional - 100g de coco ralado. Preparo: Misture todos os ingredientes. Modele no formato que quiser. Coloque no forno médio, pré-aquecido, até dourar por baixo no biscoito."
+}

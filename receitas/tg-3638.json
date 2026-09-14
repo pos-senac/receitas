@@ -1,0 +1,47 @@
+{
+  "id": "tg-3638",
+  "titulo": "Suco de couve com limão",
+  "url": "https://www.tudogostoso.com.br/receita/3638-suco-de-couve-com-limao.html",
+  "nota": 4.4,
+  "n_avaliacoes": 160,
+  "categoria": "Receitas drinks e Coquetéis não alcoólicos",
+  "subcategoria": "Suco de couve com limão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "Couve",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Couve"
+    },
+    {
+      "nome": "limão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 limão"
+    },
+    {
+      "nome": "água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "água"
+    },
+    {
+      "nome": "Açúcar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata a couve, com a quantidade de água que quiser.",
+      "Depois côe o suco em uma jarra , espreme o limão, adoçe e beba."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Suco de couve com limão. Ingredientes: Couve, limão, água, Açúcar. Preparo: Bata a couve, com a quantidade de água que quiser. Depois côe o suco em uma jarra , espreme o limão, adoçe e beba."
+}

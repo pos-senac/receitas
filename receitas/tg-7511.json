@@ -1,0 +1,62 @@
+{
+  "id": "tg-7511",
+  "titulo": "Biscoitos de maizena",
+  "url": "https://www.tudogostoso.com.br/receita/7511-biscoitos-de-maizena.html",
+  "nota": 4.5,
+  "n_avaliacoes": 421,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoitos de maizena",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "maizena",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de maizena"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de coco ralado",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de coco ralado"
+    },
+    {
+      "nome": "margarina sem sal",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de margarina sem sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse bem a maizena com os outros ingredites, até que forme uma massa lisa e consistente.",
+      "Em seguida faça bolinhas, coloque as em uma assadeira achate as bolinha com o garfo.",
+      "Asse em forno moderado até ficarem ligeiramente coradas na parte de baixo e brancas em cima.",
+      "Obs: Manter os biscoitos em recipiente fechado."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Bowl",
+    "Espátula de silicone",
+    "Forno elétrico",
+    "Tigela",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Biscoitos de maizena. Ingredientes: maizena, sopa de farinha de trigo, sopa de açúcar, sopa de coco ralado, margarina sem sal. Preparo: Amasse bem a maizena com os outros ingredites, até que forme uma massa lisa e consistente. Em seguida faça bolinhas, coloque as em uma assadeira achate as bolinha com o garfo. Asse em forno moderado até ficarem ligeiramente coradas na parte de baixo e brancas em cima."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "tg-5965",
+  "titulo": "Brigadeiro de panela",
+  "url": "https://www.tudogostoso.com.br/receita/5965-brigadeiro-de-panela.html",
+  "nota": 4.7,
+  "n_avaliacoes": 141,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Brigadeiro de panela",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "nescau",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de nescau"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Despeje a margarina dentro de uma panela e deixe ela derreter (fogo alto), depois de derretida jogue o nescau, logo após jogar o nescau abaixe o fogo, jogue o leite condensado e mexa até formar uma \"calda\" grossa.",
+      "Deixe esfriar por alguns minutos, depois é so comer."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Colher de silicone",
+    "Prato fundo",
+    "Fogão",
+    "Manteigueira"
+  ],
+  "texto_para_embedding": "Brigadeiro de panela. Ingredientes: margarina, nescau, leite condensado. Preparo: Despeje a margarina dentro de uma panela e deixe ela derreter (fogo alto), depois de derretida jogue o nescau, logo após jogar o nescau abaixe o fogo, jogue o leite condensado e mexa até formar uma \"calda\" grossa. Deixe esfriar por alguns minutos, depois é so comer."
+}

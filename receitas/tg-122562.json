@@ -1,0 +1,105 @@
+{
+  "id": "tg-122562",
+  "titulo": "Bolo de abacaxi com creme",
+  "url": "https://www.tudogostoso.com.br/receita/122562-bolo-de-abacaxi-com-creme.html",
+  "nota": 4.4,
+  "n_avaliacoes": 306,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de abacaxi com creme",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícara",
+      "texto_original": "2 xícara de açúcar"
+    },
+    {
+      "nome": "farinha",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha"
+    },
+    {
+      "nome": "leite fervendo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite fervendo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de maizena"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar refinado"
+    },
+    {
+      "nome": "Será necessário 1 abacaxi grande",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Será necessário 1 abacaxi grande"
+    },
+    {
+      "nome": "coco ralado pequeno",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado pequeno"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Comece pelo abacaxi, pique em pedaços bem pequenos e coloque em uma assadeira grande, em seguida salpique 1 xícara de açúcar e reserve.",
+      "Bata os ingredientes da massa à mão.",
+      "Coloque por cima do abacaxi picado e leve para assar.",
+      "Em uma panela coloque o ingrediente do creme lembrando (que a maizena tem que ser dissolvida em um pouco de água) e leve ao fogo até engrossa.",
+      "Feito isso coloque em cima do bolo já assado.",
+      "Em seguida é só bater o glacê na batedeira e colocar por cima do bolo também, salpicar coco."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de abacaxi com creme. Ingredientes: ovos, açúcar, farinha, leite fervendo, fermento em pó, litro de leite, leite condensado, gemas, maizena, claras, açúcar refinado, Será necessário 1 abacaxi grande, coco ralado pequeno. Preparo: Comece pelo abacaxi, pique em pedaços bem pequenos e coloque em uma assadeira grande, em seguida salpique 1 xícara de açúcar e reserve. Bata os ingredientes da massa à mão. Coloque por cima do abacaxi picado e leve para assar."
+}

@@ -1,0 +1,115 @@
+{
+  "id": "tg-143074",
+  "titulo": "Pizza enrolada",
+  "url": "https://www.tudogostoso.com.br/receita/143074-pizza-enrolada.html",
+  "nota": 4.5,
+  "n_avaliacoes": 139,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pizza enrolada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "700",
+      "unidade": "g",
+      "texto_original": "700 g farinha de trigo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo (americano)",
+      "texto_original": "1/2 copo (americano) de óleo"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "400",
+      "unidade": "ml",
+      "texto_original": "400 ml de água morna"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "fermento biológico",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de fermento biológico"
+    },
+    {
+      "nome": "gemas batidas para pincelar",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas batidas para pincelar"
+    },
+    {
+      "nome": "mussarela ralada",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de mussarela ralada"
+    },
+    {
+      "nome": "presunto fatiado",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de presunto fatiado"
+    },
+    {
+      "nome": "molho de tomate a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "molho de tomate a gosto"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    },
+    {
+      "nome": "azeitona sem caroço a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "azeitona sem caroço a gosto"
+    },
+    {
+      "nome": "papel-toalha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "papel-toalha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um liquidificador, adicione os ovos, o sal, o açúcar, o óleo, o fermento, a água morna.",
+      "Deixe bater uns 5 minutos e leve para uma bacia grande, depois despeje esse líquido dentro e acrescente a farinha aos poucos, misture até ficar bem homogênea.",
+      "Em seguida, amasse bem essa massa bata bastante fica uns 5 minutos amassando e depois deixe descansar por 30 minutos.",
+      "Depois corte em alguns pedaços grandes se possível em 3 pedaços.",
+      "Abra cada um com o rolo de macarrão, depois corte no formato de um quadrado para que você  faça tipo um rocambole.",
+      "Depois de aberto, coloque aberto dentro de uma forma grande e coloque os recheios.",
+      "Para o recheio, adicione primeiro o presunto, forre a massa, depois a azeitona, um pouco do molho e orégano e em seguida a mussarela que você mesmo ralou.",
+      "Fica melhor e rende mais, enrole como se fosse rocambole.",
+      "Pincele com a gema que você mesmo deu uma batidinha e leve ao forno por 15 ou 20 minutos, depende do seu forno.",
+      "Se for elétrico 15 minutos e se puder ligue o dourador, mais fique de olho para não queimar e depois sirva com papel-toalha."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pizza enrolada. Ingredientes: farinha de trigo, sal, açúcar, óleo, água morna, ovos, fermento biológico, gemas batidas para pincelar, mussarela ralada, presunto fatiado, molho de tomate a gosto, orégano a gosto, azeitona sem caroço a gosto, papel-toalha. Preparo: Em um liquidificador, adicione os ovos, o sal, o açúcar, o óleo, o fermento, a água morna. Deixe bater uns 5 minutos e leve para uma bacia grande, depois despeje esse líquido dentro e acrescente a farinha aos poucos, misture até ficar bem homogênea. Em seguida, amasse bem essa massa bata bastante fica uns 5 minutos amassando e depois deixe descansar por 30 minutos."
+}

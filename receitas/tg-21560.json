@@ -1,0 +1,71 @@
+{
+  "id": "tg-21560",
+  "titulo": "Bolo de fubá simples",
+  "url": "https://www.tudogostoso.com.br/receita/21560-bolo-de-fuba-simples.html",
+  "nota": 4.4,
+  "n_avaliacoes": 1017,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá simples",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de fubá"
+    },
+    {
+      "nome": "rasas de farinha de trigo",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) rasas de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo (americano)",
+      "texto_original": "1/2 copo (americano) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque em uma forma untada e enfarinhada.",
+      "Leve o bolo de fubá ao forno preaquecido e deixe assar por cerca de 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Copo medidor",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de fubá simples. Ingredientes: ovos, açúcar, fubá, rasas de farinha de trigo, óleo, leite, fermento em pó. Preparo: Bata todos os ingredientes no liquidificador. Coloque em uma forma untada e enfarinhada. Leve o bolo de fubá ao forno preaquecido e deixe assar por cerca de 40 minutos."
+}

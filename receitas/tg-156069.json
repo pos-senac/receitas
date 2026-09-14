@@ -1,0 +1,73 @@
+{
+  "id": "tg-156069",
+  "titulo": "Bolo simples (massa básica)",
+  "url": "https://www.tudogostoso.com.br/receita/156069-bolo-simples-massa-basica.html",
+  "nota": 4.7,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo simples (massa básica)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) fermento em pó"
+    },
+    {
+      "nome": "essência de baunilha a gosto (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "essência de baunilha a gosto (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Separe o fermento.",
+      "Na batedeira bata os demais ingredientes por aproximadamente 5 minutos.  Retire a tigela da batedeira, junte o fermento e misture cuidadosamente com uma colher.",
+      "Despeje a massa do bolo em uma forma de cone untada e enfarinhada.",
+      "Leve ao forno preaquecido a 180ºC por aproximadamente 35 minutos ou até que ao espetar um palito ele saia limpo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo simples (massa básica). Ingredientes: farinha de trigo, açúcar, leite, ovos, óleo, sal, fermento em pó, essência de baunilha a gosto (opcional). Preparo: Separe o fermento. Na batedeira bata os demais ingredientes por aproximadamente 5 minutos.  Retire a tigela da batedeira, junte o fermento e misture cuidadosamente com uma colher. Despeje a massa do bolo em uma forma de cone untada e enfarinhada."
+}

@@ -1,0 +1,88 @@
+{
+  "id": "tg-128042",
+  "titulo": "Bolo de banana de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/128042-bolo-de-banana-de-liquidificador.html",
+  "nota": 4.7,
+  "n_avaliacoes": 151,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Bolo de banana de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo com fermento",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo com fermento"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "1 e 1/2 xícaras de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "bananas prata",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 bananas prata"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "água filtrada",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de água filtrada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque 1 xícara de açúcar na panela para derreter, assim que derreter adicione 2 colheres de água e espere até desfazer os torrões de açúcar e se tornar em ponto de caramelo.",
+      "Passe todo esse caramelo para a forma, passando também pelos lados.",
+      "Corte 5 bananas em fatias não muito finas.",
+      "Depois de passado todo o caramelo, coloque as fatias de banana lado a lado, reserve."
+    ],
+    "Massa:": [
+      "Para a massa, coloque numa tigela a farinha de trigo e o açúcar.",
+      "Em seguida, no liquidificador bata os ovos, o leite, o óleo e 1 banana.",
+      "Misture o conteúdo do liquidificador com a farinha e o açúcar, na tigela.",
+      "Depois, despeje toda a massa por cima das bananas na forma.",
+      "Coloque para assar em fogo médio por 35 a 40 minutos.",
+      "Depois de pronto, espere esfriar e desenforme."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Fogão",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Bolo de banana de liquidificador. Ingredientes: farinha de trigo com fermento, açúcar, óleo, leite, ovos, bananas prata, açúcar, água filtrada. Preparo: Coloque 1 xícara de açúcar na panela para derreter, assim que derreter adicione 2 colheres de água e espere até desfazer os torrões de açúcar e se tornar em ponto de caramelo. Passe todo esse caramelo para a forma, passando também pelos lados. Corte 5 bananas em fatias não muito finas."
+}

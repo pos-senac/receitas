@@ -1,0 +1,46 @@
+{
+  "id": "tg-6540",
+  "titulo": "Maionese de Leite",
+  "url": "https://www.tudogostoso.com.br/receita/6540-maionese-de-leite.html",
+  "nota": 4.6,
+  "n_avaliacoes": 237,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Maionese de Leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "leite (de caixinha ou saquinho, pode ser integral ou desnatado)",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite (de caixinha ou saquinho, pode ser integral ou desnatado)"
+    },
+    {
+      "nome": "Óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Essa eu aprendi com um salgadeiro, mas dá certo.",
+      "Coloque o leite no liquidificador com um pouco de sal.",
+      "Vá batendo e colocando o óleo até dar consistência de maionese.",
+      "Pronto!."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Molheira"
+  ],
+  "texto_para_embedding": "Maionese de Leite. Ingredientes: leite (de caixinha ou saquinho, pode ser integral ou desnatado), Óleo, Sal. Preparo: Essa eu aprendi com um salgadeiro, mas dá certo. Coloque o leite no liquidificador com um pouco de sal. Vá batendo e colocando o óleo até dar consistência de maionese."
+}

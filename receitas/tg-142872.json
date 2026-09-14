@@ -1,0 +1,100 @@
+{
+  "id": "tg-142872",
+  "titulo": "Bolo de limão",
+  "url": "https://www.tudogostoso.com.br/receita/142872-bolo-de-limao.html",
+  "nota": 3.9,
+  "n_avaliacoes": 216,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de limão",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos (claras em neve)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos (claras em neve)"
+    },
+    {
+      "nome": "açucar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de açucar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) margarina"
+    },
+    {
+      "nome": "suco de 1 ou 2 limões (depende do tamano)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1 ou 2 limões (depende do tamano)"
+    },
+    {
+      "nome": "raspas casca limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas casca limão"
+    },
+    {
+      "nome": "e ¹/2 xícaras de farinha de trigo",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 e ¹/2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2/3",
+      "unidade": "lata",
+      "texto_original": "2/3 lata de leite condensado"
+    },
+    {
+      "nome": "raspas da casca de 1 limão pequeno",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas da casca de 1 limão pequeno"
+    },
+    {
+      "nome": "suco de 1/2 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1/2 limão"
+    }
+  ],
+  "modo_preparo": {
+    "Bolo": [
+      "Bater no liquidificador as gemas, o açúcar e margarina.",
+      "Em seguida juntar o suco e raspas limão, o leite e farinha aos poucos.",
+      "Por último misturar, delicadamente, as claras em neve e o fermento.",
+      "Espalhar a massa em uma assadeira retangular média já untada e assar no forno (já preaquecido) por mais ou menos 40 minutos em temperatura de 180ºC."
+    ],
+    "Cobertura": [
+      "Misturar tudo em uma panela pequena e levar ao fogo mexendo sempre até levantar fervura."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula de silicone",
+    "Formo de bolo",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de limão. Ingredientes: ovos (claras em neve), açucar, margarina, suco de 1 ou 2 limões (depende do tamano), raspas casca limão, e ¹/2 xícaras de farinha de trigo, leite, fermento em pó, leite condensado, raspas da casca de 1 limão pequeno, suco de 1/2 limão. Preparo: Bater no liquidificador as gemas, o açúcar e margarina. Em seguida juntar o suco e raspas limão, o leite e farinha aos poucos. Por último misturar, delicadamente, as claras em neve e o fermento."
+}

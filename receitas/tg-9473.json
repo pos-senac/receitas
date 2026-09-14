@@ -1,0 +1,46 @@
+{
+  "id": "tg-9473",
+  "titulo": "Queijadinha",
+  "url": "https://www.tudogostoso.com.br/receita/9473-queijadinha.html",
+  "nota": 4.5,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Queijadinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "chá de coco ralado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de coco ralado"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "sopa de queijo parmesão ralado",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de queijo parmesão ralado"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes. Coloque em forminhas de papel e leve ao forno até que fiquem douradas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Queijadinha. Ingredientes: chá de coco ralado, leite condensado, sopa de queijo parmesão ralado, gemas. Preparo: Misture todos os ingredientes. Coloque em forminhas de papel e leve ao forno até que fiquem douradas."
+}

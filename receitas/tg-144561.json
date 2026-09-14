@@ -1,0 +1,74 @@
+{
+  "id": "tg-144561",
+  "titulo": "Bolo mesclado de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/144561-bolo-mesclado-de-chocolate.html",
+  "nota": 4.7,
+  "n_avaliacoes": 159,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo mesclado de chocolate",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres sopa de margarina"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "e meia de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e meia de leite"
+    },
+    {
+      "nome": "sopa rasa de fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher sopa rasa de fermento"
+    },
+    {
+      "nome": "sopa de chocolate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de chocolate"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater o açúcar, margarina e ovos, até obter um creme liso e homogêneo.",
+      "Acrescentar a farinha de trigo, leite, fermento ao creme e bater bem.",
+      "Numa forma média e untada (forma com buraco no meio) acrescente uma parte da massa.",
+      "Na outra parte que ficou da massa, acrescente o chocolate e mexa bem.",
+      "Coloque a massa com chocolate por cima da massa já colocada na forma.",
+      "Se quiser faça movimento leves com um garfo misturando as massas.",
+      "Leve ao forno pré-aquecido por 10 minutos por 40 minutos, ou até furar com um palito e ele sair seco."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Espátula de silicone",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo mesclado de chocolate. Ingredientes: açúcar, sopa de margarina, ovos, farinha de trigo, e meia de leite, sopa rasa de fermento, sopa de chocolate. Preparo: Bater o açúcar, margarina e ovos, até obter um creme liso e homogêneo. Acrescentar a farinha de trigo, leite, fermento ao creme e bater bem. Numa forma média e untada (forma com buraco no meio) acrescente uma parte da massa."
+}

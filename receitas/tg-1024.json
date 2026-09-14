@@ -1,0 +1,104 @@
+{
+  "id": "tg-1024",
+  "titulo": "Torta de maracujá",
+  "url": "https://www.tudogostoso.com.br/receita/1024-torta-de-maracuja.html",
+  "nota": 4.6,
+  "n_avaliacoes": 174,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Torta de maracujá",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "farinha",
+      "quantidade": "12",
+      "unidade": "colheres (sopa)",
+      "texto_original": "12 colheres (sopa) de farinha"
+    },
+    {
+      "nome": "a 3 colheres (sopa) de açucar",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 a 3 colheres (sopa) de açucar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (cha)",
+      "texto_original": "1 colher (cha) de fermento em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de creme de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "suco concentrado de maracuja sem as sementes (3 a 4 maracujas)",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de suco concentrado de maracuja sem as sementes (3 a 4 maracujas)"
+    },
+    {
+      "nome": "Polpa de um maracujá com as sementes",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Polpa de um maracujá com as sementes"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Misture tudo e amasse bem até ficar uma massa homogênea.",
+      "Abra a massa e coloque em uma forma redonda de fundo removível.",
+      "Leve ao forno até ficar dourada."
+    ],
+    "Recheio": [
+      "Bata tudo no liquidificador por alguns minutos e despeje sobre a massa ja assada."
+    ],
+    "Cobertura": [
+      "Coloque os ingredientes em uma panela, misture bem e leve ao fogo mexendo até as sementes se separarem, espalhe por cima do recheio e leve a geladeira.",
+      "Fica uma torta muito bonita e gostosa."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Forma com fundo removível",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Torta de maracujá. Ingredientes: farinha, a 3 colheres (sopa) de açucar, fermento em pó, margarina, creme de leite, leite condensado, creme de leite, suco concentrado de maracuja sem as sementes (3 a 4 maracujas), Polpa de um maracujá com as sementes, amido de milho, açúcar. Preparo: Misture tudo e amasse bem até ficar uma massa homogênea. Abra a massa e coloque em uma forma redonda de fundo removível. Leve ao forno até ficar dourada."
+}

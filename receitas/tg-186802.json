@@ -1,0 +1,81 @@
+{
+  "id": "tg-186802",
+  "titulo": "Bolo de milho verde da espiga",
+  "url": "https://www.tudogostoso.com.br/receita/186802-bolo-de-milho-verde-da-espiga.html",
+  "nota": 4.7,
+  "n_avaliacoes": 348,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de milho verde da espiga",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 90,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "milho direto da espiga",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de milho direto da espiga"
+    },
+    {
+      "nome": "farinha de trigo sem fermento",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo sem fermento"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de açúcar"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "pacotinho de coco ralado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pacotinho de coco ralado"
+    },
+    {
+      "nome": "rasa de fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o milho retirado da espiga, o leite, os ovos e a margarina.",
+      "Bata bem até triturar o milho.",
+      "Em seguida, coloque a mistura na batedeira, acrescentando a farinha de trigo o açúcar, o coco ralado e, por último, o fermento.",
+      "Unte uma forma com um furo no meio e coloque para assar em forno preaquecido a 180º C.",
+      "Asse por mais ou menos 1 hora ou até dourar e quando espetar um garfo o mesmo sair limpo.",
+      "Retire do forno, espere esfriar um pouco para desenformar."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de milho verde da espiga. Ingredientes: milho direto da espiga, farinha de trigo sem fermento, leite, açúcar, ovos inteiros, margarina, pacotinho de coco ralado, rasa de fermento. Preparo: Bata no liquidificador o milho retirado da espiga, o leite, os ovos e a margarina. Bata bem até triturar o milho. Em seguida, coloque a mistura na batedeira, acrescentando a farinha de trigo o açúcar, o coco ralado e, por último, o fermento."
+}

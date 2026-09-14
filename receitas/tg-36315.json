@@ -1,0 +1,64 @@
+{
+  "id": "tg-36315",
+  "titulo": "Pão caseiro simples",
+  "url": "https://www.tudogostoso.com.br/receita/36315-pao-caseiro-simples.html",
+  "nota": 4.4,
+  "n_avaliacoes": 154,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão caseiro simples",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "água morna",
+      "quantidade": "450",
+      "unidade": "ml",
+      "texto_original": "450 ml de água morna"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "150",
+      "unidade": "ml",
+      "texto_original": "150 ml de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (café)",
+      "texto_original": "1 xícara (café) açúcar"
+    },
+    {
+      "nome": "rasa (sopa) sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa (sopa) sal"
+    },
+    {
+      "nome": "fermento para pão.",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de fermento para pão."
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha coloque a água morna, o açúcar, o sal e o fermento.",
+      "Espere fermentar por cerca  20 minutos.",
+      "Acrescente o óleo e a farinha de trigo e sove.",
+      "Divida a massa em 3 partes iguais, se puder cilindre a massa.",
+      "Modele os pães.",
+      "Aguarde crescer.",
+      "Leve ao forno pré - aquecido, a 180º, para assar por 40 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão caseiro simples. Ingredientes: água morna, óleo, açúcar, rasa (sopa) sal, fermento para pão., farinha de trigo. Preparo: Em uma vasilha coloque a água morna, o açúcar, o sal e o fermento. Espere fermentar por cerca  20 minutos. Acrescente o óleo e a farinha de trigo e sove."
+}

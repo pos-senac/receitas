@@ -1,0 +1,54 @@
+{
+  "id": "tg-135316",
+  "titulo": "Linguiça ao forno com batatas",
+  "url": "https://www.tudogostoso.com.br/receita/135316-linguica-ao-forno-com-batatas.html",
+  "nota": 4.6,
+  "n_avaliacoes": 136,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Linguiça ao forno com batatas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "linguiça toscana",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de linguiça toscana"
+    },
+    {
+      "nome": "batata bolinha",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de batata bolinha"
+    },
+    {
+      "nome": "pimentão grande cortado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão grande cortado"
+    },
+    {
+      "nome": "sal e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e pimenta a gosto"
+    },
+    {
+      "nome": "manjericão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manjericão a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem as batatas bolinhas, cozinhe-as em água e sal por aproximadamente 5 minutos.",
+      "Unte um refratário com óleo e disponha a linguiça, as batatas e o pimentão.",
+      "Salpique pimenta nas batatas e no pimentão, leve ao forno médio por aproximadamente 30 minutos ou até dourar a linguiça e as batatas. Retite do forno e acrescente o manjericão (acrescenta um sabor e um aroma maravilhoso ao prato)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Linguiça ao forno com batatas. Ingredientes: linguiça toscana, batata bolinha, pimentão grande cortado, sal e pimenta a gosto, manjericão a gosto. Preparo: Lave bem as batatas bolinhas, cozinhe-as em água e sal por aproximadamente 5 minutos. Unte um refratário com óleo e disponha a linguiça, as batatas e o pimentão. Salpique pimenta nas batatas e no pimentão, leve ao forno médio por aproximadamente 30 minutos ou até dourar a linguiça e as batatas. Retite do forno e acrescente o manjericão (acrescenta um sabor e um aroma maravilhoso ao prato)."
+}

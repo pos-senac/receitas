@@ -1,0 +1,77 @@
+{
+  "id": "tg-138800",
+  "titulo": "Ovo de Páscoa na travessa",
+  "url": "https://www.tudogostoso.com.br/receita/138800-ovo-de-pascoa-na-travessa.html",
+  "nota": 4.6,
+  "n_avaliacoes": 221,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Ovo de Páscoa na travessa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "3",
+      "unidade": "latas",
+      "texto_original": "3 latas de leite condensado"
+    },
+    {
+      "nome": "medidas (da lata) de leite",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 medidas (da lata) de leite"
+    },
+    {
+      "nome": "gemas peneiradas",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 gemas peneiradas"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de maizena"
+    },
+    {
+      "nome": "baunilha",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de baunilha"
+    },
+    {
+      "nome": "gramas de chocolate meio amargo",
+      "quantidade": "400",
+      "unidade": null,
+      "texto_original": "400 gramas de chocolate meio amargo"
+    },
+    {
+      "nome": "castanha de caju picado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de castanha de caju picado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o leite condensado, o leite, as gemas, e a maizena, e mexa sem parar até engrossar.",
+      "Retire do fogo e acrescente a baunilha.",
+      "Junte o creme de leite, misture e reserve 1/3 deste creme.",
+      "Nos 2/3 restantes, pique o chocolate meio amargo, e mexa bem até o derreter por completo.",
+      "Em um pirex monte a sobremesa assim: uma camada de creme de chocolate, uma camada do creme branco reservado, uma camada de creme de chocolate.",
+      "Salpique a castanha de caju.",
+      "Para cobertura derreta 400 gramas de chocolate ao leite e coloque por cima, espalhando devagar pra cobrir todo o pirex.",
+      "Leve para gelar. Quanto mais gelado estiver melhor."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Ovo de Páscoa na travessa. Ingredientes: leite condensado, medidas (da lata) de leite, gemas peneiradas, maizena, baunilha, gramas de chocolate meio amargo, castanha de caju picado, creme de leite. Preparo: Leve ao fogo o leite condensado, o leite, as gemas, e a maizena, e mexa sem parar até engrossar. Retire do fogo e acrescente a baunilha. Junte o creme de leite, misture e reserve 1/3 deste creme."
+}

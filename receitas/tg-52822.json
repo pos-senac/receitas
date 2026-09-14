@@ -1,0 +1,85 @@
+{
+  "id": "tg-52822",
+  "titulo": "Carolinas ou bombas (éclairs)",
+  "url": "https://www.tudogostoso.com.br/receita/52822-carolinas-ou-bombas-eclairs.html",
+  "nota": 4.4,
+  "n_avaliacoes": 125,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Carolinas ou bombas (éclairs)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 35,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de água"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de manteiga"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "ovos (usei apenas 5)",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 ovos (usei apenas 5)"
+    },
+    {
+      "nome": "doce de leite (comprado pronto) ou",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de doce de leite (comprado pronto) ou"
+    },
+    {
+      "nome": "litro de sorvete de creme ou",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de sorvete de creme ou"
+    },
+    {
+      "nome": "100g de chocolate meio amargo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "100g de chocolate meio amargo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um panela, junte a água, a manteiga, o sal e o açúcar. Leve ao fogo até ferver. Quando o líquido levantar fervura, abaixe o fogo e junte a farinha de uma só vez. Mexa bem até a massa desgrudar do fundo da panela (aproximadamente 30 segundos). Desligue o fogo e junte os ovos, um a um, misture bem até incorporar à massa (no começo você vai achar que essa massa nunca vai dar liga, mas vá por mim, depois de alguns minutos ela fica perfeita).",
+      "Unte 2 assadeiras ou use papel manteiga para a massa não grudar. Com o auxílio de 2 colheres de sopa, pegue porções da massa e coloque-as na assadeira com espaço de 5 cm entre elas.",
+      "Leve ao forno médio (200ºC), pré-aquecido, por 40 minutos, ou até que as carolinas fiquem bem tostadinhas (num tom de marrom ou caramelo escuro). Retire do forno e espere esfriar.",
+      "Corte as carolinas horizontalmente e recheie com o doce de leite ou o sorvete. Derreta o chocolate da cobertura em banho-maria e acrescente o leite. Mexa bem até ficar brilhante e espalhe por cima das carolinas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Carolinas ou bombas (éclairs). Ingredientes: água, manteiga, sal, açúcar, farinha de trigo, ovos (usei apenas 5), doce de leite (comprado pronto) ou, litro de sorvete de creme ou, 100g de chocolate meio amargo, leite. Preparo: Em um panela, junte a água, a manteiga, o sal e o açúcar. Leve ao fogo até ferver. Quando o líquido levantar fervura, abaixe o fogo e junte a farinha de uma só vez. Mexa bem até a massa desgrudar do fundo da panela (aproximadamente 30 segundos). Desligue o fogo e junte os ovos, um a um, misture bem até incorporar à massa (no começo você vai achar que essa massa nunca vai dar liga, mas vá por mim, depois de alguns minutos ela fica perfeita). Unte 2 assadeiras ou use papel manteiga para a massa não grudar. Com o auxílio de 2 colheres de sopa, pegue porções da massa e coloque-as na assadeira com espaço de 5 cm entre elas. Leve ao forno médio (200ºC), pré-aquecido, por 40 minutos, ou até que as carolinas fiquem bem tostadinhas (num tom de marrom ou caramelo escuro). Retire do forno e espere esfriar."
+}

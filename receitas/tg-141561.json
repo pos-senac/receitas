@@ -1,0 +1,81 @@
+{
+  "id": "tg-141561",
+  "titulo": "Bolo de arroz cru delicioso",
+  "url": "https://www.tudogostoso.com.br/receita/141561-bolo-de-arroz-cru-delicioso.html",
+  "nota": 4.9,
+  "n_avaliacoes": 147,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolo de arroz cru delicioso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "3/4 xícara (chá) de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "arroz cru",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de arroz cru"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "coco seco ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco seco ralado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o arroz branco de molho em água por 8 horas (não pode ser arroz parboilizado).",
+      "Depois escorra a água numa peneira.",
+      "No liquidificador coloque os ovos, o óleo, o açúcar e bata.",
+      "Acrescente o arroz e o leite e bata bem.",
+      "Depois de bem batido, acrescente o queijo, o coco e bata um pouquinho.",
+      "Por fim acrescente o fermento e bata rapidamente.",
+      "Despeje numa forma untada e polvilhada e leve ao forno por 35 minutos ou até ficar douradinho."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher de pau",
+    "Espátula para bolo",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de arroz cru delicioso. Ingredientes: ovos, óleo, açúcar, leite, arroz cru, queijo parmesão ralado, coco seco ralado, fermento em pó. Preparo: Coloque o arroz branco de molho em água por 8 horas (não pode ser arroz parboilizado). Depois escorra a água numa peneira. No liquidificador coloque os ovos, o óleo, o açúcar e bata."
+}

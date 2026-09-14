@@ -1,0 +1,64 @@
+{
+  "id": "tg-145079",
+  "titulo": "Pavê de coco",
+  "url": "https://www.tudogostoso.com.br/receita/145079-pave-de-coco.html",
+  "nota": 4.6,
+  "n_avaliacoes": 265,
+  "categoria": "Receitas pavês",
+  "subcategoria": "Pavê de coco",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "garrafinha de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafinha de leite de coco"
+    },
+    {
+      "nome": "biscoito de maisena",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de biscoito de maisena"
+    },
+    {
+      "nome": "sachê de coco ralado para decorar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 sachê de coco ralado para decorar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela grande adicionar leite condensado, creme de leite e o leite de coco.",
+      "Mexer até engrossar, mas não deixar muito grosso porque essa pasta é o recheio do pavê.",
+      "Já com o recheio pronto, abra o pacote de biscoito e molhe no leite (não deixe o biscoito amolecer muito, pois irá forrar o pirex com o biscoito).",
+      "Já com o pirex forrado com os biscoitos adicione o creme (mais não o creme todo pois irá fazer esse processo três vezes pondo o biscoito e o creme e assim por diante).",
+      "A última camada é de creme.",
+      "Depois disso é só decorar com o coco ralado e está pronto."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Panela",
+    "Espátula de silicone",
+    "Fogão",
+    "Tigela",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Pavê de coco. Ingredientes: leite condensado, caixinha de creme de leite, garrafinha de leite de coco, biscoito de maisena, sachê de coco ralado para decorar. Preparo: Em uma panela grande adicionar leite condensado, creme de leite e o leite de coco. Mexer até engrossar, mas não deixar muito grosso porque essa pasta é o recheio do pavê. Já com o recheio pronto, abra o pacote de biscoito e molhe no leite (não deixe o biscoito amolecer muito, pois irá forrar o pirex com o biscoito)."
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tg-4746",
+  "titulo": "Pudim de Leite Condensado de Microondas",
+  "url": "https://www.tudogostoso.com.br/receita/4746-pudim-de-leite-condensado-de-microondas.html",
+  "nota": 3.5,
+  "n_avaliacoes": 442,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de Leite Condensado de Microondas",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite (use a lata de leite condensado como medida)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (use a lata de leite condensado como medida)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/3",
+      "unidade": "xícara",
+      "texto_original": "1/3 xícara de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare o pudim batendo todos os ingredientes no liquidificador.",
+      "Prepare a calda colocando água e açúcar em uma forma refratária com buraco no meio, de 24 cm de diâmetro.",
+      "Leve ao microondas na temperatura máxima por 8 minutos, até caramelizar o açúcar.",
+      "Retire a forma do microondas e girando-a entre as mãos, faça a calda cobrir as paredes da forma.",
+      "Deixe esfriar um pouco.",
+      "Coloque na forma a mistura do liquidificador e cubra parcialmente com filme plástico ou prato.",
+      "Leve ao microondas na temperatura máxima por 9 a 10 minutos.",
+      "Retire do microondas e deixe esfriar. Leve à geladeira."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Micro-ondas",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Pudim de Leite Condensado de Microondas. Ingredientes: leite condensado, leite (use a lata de leite condensado como medida), ovos, açúcar, água. Preparo: Prepare o pudim batendo todos os ingredientes no liquidificador. Prepare a calda colocando água e açúcar em uma forma refratária com buraco no meio, de 24 cm de diâmetro. Leve ao microondas na temperatura máxima por 8 minutos, até caramelizar o açúcar."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tg-52",
+  "titulo": "Pão de ló",
+  "url": "https://www.tudogostoso.com.br/receita/52-pao-de-lo.html",
+  "nota": 4.4,
+  "n_avaliacoes": 595,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Pão de ló",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": null,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 ovos"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "uma colher de sopa rasa de fermento em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "uma colher de sopa rasa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Separar as claras das gemas. Bater as claras até ficar em ponto de suspiro, acrescentar uma a uma as gemas, batendo sempre, ainda com a batedeira ligada acrescentar aos poucos o açúcar peneirado. Peneirar muito bem a farinha. Acrescentar à massa com a batedeira desligada, aos poucos, delicadamente, fazendo movimentos de baixo para cima. Por último, acrescentar o fermento.",
+      "Assar em forno médio."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de ló. Ingredientes: ovos, sopa de açúcar, sopa de farinha de trigo, uma colher de sopa rasa de fermento em pó. Preparo: Separar as claras das gemas. Bater as claras até ficar em ponto de suspiro, acrescentar uma a uma as gemas, batendo sempre, ainda com a batedeira ligada acrescentar aos poucos o açúcar peneirado. Peneirar muito bem a farinha. Acrescentar à massa com a batedeira desligada, aos poucos, delicadamente, fazendo movimentos de baixo para cima. Por último, acrescentar o fermento. Assar em forno médio."
+}

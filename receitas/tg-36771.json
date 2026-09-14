@@ -1,0 +1,98 @@
+{
+  "id": "tg-36771",
+  "titulo": "Batatinha em conserva",
+  "url": "https://www.tudogostoso.com.br/receita/36771-batatinha-em-conserva.html",
+  "nota": 4.6,
+  "n_avaliacoes": 139,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Batatinha em conserva",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "batatas pequenas (as menores que encontrar)",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de batatas pequenas (as menores que encontrar)"
+    },
+    {
+      "nome": "azeite de oliva",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de azeite de oliva"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "vinagre de álcool ou maçã",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de vinagre de álcool ou maçã"
+    },
+    {
+      "nome": "pimenta calabresa (opcional)",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de pimenta calabresa (opcional)"
+    },
+    {
+      "nome": "cebola grande ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande ralada"
+    },
+    {
+      "nome": "alho socados",
+      "quantidade": "5",
+      "unidade": "dentes",
+      "texto_original": "5 dentes de alho socados"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal"
+    },
+    {
+      "nome": "azeitonas inteiras (opcional)",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de azeitonas inteiras (opcional)"
+    },
+    {
+      "nome": "salsa desidratada picada",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de salsa desidratada picada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixe as batatas com casca de molho na água por 30 minutos.",
+      "Lave-as bem, passando uma escovinha para tirar bem a sujeira.",
+      "Cozinhe em água, sal e um pouquinho de vinagre, até ficarem bem macias (não deixe cozinhar muito, não podem ficar muito mole).",
+      "Escorra e espere esfriar.",
+      "Se quiser faça uns furos nas batatas com um palito fino para os temperos penetrarem, tomando cuidado para não deformá-las.",
+      "Em uma panela coloque o azeite de oliva, o óleo, a pimenta calabresa, a cebola ralada, o alho socado e a salsa.",
+      "Coloque as batatas por cima.",
+      "Salpique o sal e coloque as azeitonas.",
+      "Refogue bem por cerca de 20 minutos (não precisar mexer é só sacudir a panela tampada para misturar os temperos).",
+      "Espere esfriar bem e transfira tudo para um frasco ou travessa grande com tampa.",
+      "Se necessário, acrescente mais azeite, pois o líquido deverá cobrir totalmente as batatas.",
+      "Leve à geladeira por, pelo menos, 2 dias antes de servir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Espátula de silicone",
+    "Pote hermético",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Batatinha em conserva. Ingredientes: batatas pequenas (as menores que encontrar), azeite de oliva, óleo, vinagre de álcool ou maçã, pimenta calabresa (opcional), cebola grande ralada, alho socados, sal, azeitonas inteiras (opcional), salsa desidratada picada. Preparo: Deixe as batatas com casca de molho na água por 30 minutos. Lave-as bem, passando uma escovinha para tirar bem a sujeira. Cozinhe em água, sal e um pouquinho de vinagre, até ficarem bem macias (não deixe cozinhar muito, não podem ficar muito mole)."
+}

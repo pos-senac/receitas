@@ -1,0 +1,62 @@
+{
+  "id": "tg-141741",
+  "titulo": "Costela na panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/141741-costela-na-panela-de-pressao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 169,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Costela na panela de pressão",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 45,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "costela bovina (sem muita gordura)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de costela bovina (sem muita gordura)"
+    },
+    {
+      "nome": "bacon sem pele",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de bacon sem pele"
+    },
+    {
+      "nome": "cebolas grandes",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 cebolas grandes"
+    },
+    {
+      "nome": "pimenta-de-cheiro a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-de-cheiro a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere a costela com pouco sal e reserve.",
+      "Descasque as cebolas e corte em rodelas.",
+      "Pegue a metade das cebolas e faça uma camada no fundo da panela de pressão.",
+      "Coloque a costela em cima da camada de cebola e acrescente o bacon.",
+      "Cubra a costela e o bacon com a outra metade das cebolas.",
+      "Tampe a panela e leve em fogo médio por 45 minutos ou até que o líquido dentro dela seque.",
+      "Não é preciso colocar água, a cebola e a costela vão soltar muita água."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Costela na panela de pressão. Ingredientes: costela bovina (sem muita gordura), bacon sem pele, cebolas grandes, pimenta-de-cheiro a gosto, sal a gosto. Preparo: Tempere a costela com pouco sal e reserve. Descasque as cebolas e corte em rodelas. Pegue a metade das cebolas e faça uma camada no fundo da panela de pressão."
+}

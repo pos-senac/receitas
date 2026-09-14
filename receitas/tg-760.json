@@ -1,0 +1,130 @@
+{
+  "id": "tg-760",
+  "titulo": "Panqueca de carne moída",
+  "url": "https://www.tudogostoso.com.br/receita/760-panqueca-de-carne-moida.html",
+  "nota": 4.7,
+  "n_avaliacoes": 3814,
+  "categoria": "Receitas carne moída",
+  "subcategoria": "Panqueca de carne moída",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de carne moída"
+    },
+    {
+      "nome": "cebola picada ou ralada",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de cebola picada ou ralada"
+    },
+    {
+      "nome": "tomate cortado em cubos",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 tomate cortado em cubos"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de extrato de tomate"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "muçarela fatiado",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de muçarela fatiado"
+    },
+    {
+      "nome": "queijo ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Bata no liquidificador os ovos, o leite, o óleo, e acrescente a farinha de trigo aos poucos.",
+      "Após acrescentar toda a farinha de trigo, adicione sal a gosto.",
+      "Misture a massa até obter uma consistência cremosa.",
+      "Com um papel-toalha, espalhe óleo por toda a frigideira e despeje uma concha de massa.",
+      "Faça movimentos circulares para que a massa se espalhe por toda a frigideira.",
+      "Espere até a massa soltar do fundo e vire a massa para fritar do outro lado."
+    ],
+    "Recheio": [
+      "Em uma panela, doure a cebola com o óleo e acrescente a carne.",
+      "Deixe cozinhar até que saia água da carne, diminua o fogo e tampe.",
+      "Acrescente o tomate picado e tampe novamente.",
+      "Deixe cozinhar por mais 3 minutos e misture.",
+      "Acrescente o extrato de tomate e temperos a gosto.",
+      "Deixe cozinhar por mais 10 minutos.",
+      "Quando o molho engrossar, desligue o fogo.",
+      "Deixe esfriar o molho, acrescente o creme de leite e misture bem.",
+      "Quando estiver bem homogêneo, leve novamente ao fogo e deixe cozinhar em fogo baixo por mais 5 minutos."
+    ],
+    "Montagem": [
+      "Recheie a panqueca com uma fatia de mussarela, uma porção de carne e enrole.",
+      "Faça esse processo com todas as panquecas.",
+      "Despeje um pouco de caldo no fundo de um refratário, para untar.",
+      "Disponha as panquecas já prontas no refratário e despeje sobre elas o restante do molho.",
+      "Polvilhe queijo ralado sobre as panquecas.",
+      "Leve ao forno para gratinar, em fogo médio, por 20 minutos ou até que o queijo esteja derretido."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Frigideira funda",
+    "Panquequeira",
+    "Prato raso",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Panqueca de carne moída. Ingredientes: farinha de trigo, leite, ovos, óleo, sal a gosto, carne moída, cebola picada ou ralada, tomate cortado em cubos, extrato de tomate, creme de leite, sal a gosto, muçarela fatiado, queijo ralado a gosto. Preparo: Bata no liquidificador os ovos, o leite, o óleo, e acrescente a farinha de trigo aos poucos. Após acrescentar toda a farinha de trigo, adicione sal a gosto. Misture a massa até obter uma consistência cremosa."
+}

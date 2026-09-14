@@ -1,0 +1,71 @@
+{
+  "id": "tg-49802",
+  "titulo": "Bombom de travessa",
+  "url": "https://www.tudogostoso.com.br/receita/49802-bombom-de-travessa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 970,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Bombom de travessa",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 35,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "chocolate ao leite",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de chocolate ao leite"
+    },
+    {
+      "nome": "chocolate meio amargo",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de chocolate meio amargo"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "morango",
+      "quantidade": "2",
+      "unidade": "caixas",
+      "texto_original": "2 caixas de morango"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque as latas de leite condensado em uma panela com a manteiga e faça uma massa como um brigadeiro mole.",
+      "Coloque em uma travessa e, por cima deste brigadeiro mole, coloque os morangos cortados ao meio.",
+      "Reserve para fazer a cobertura.",
+      "Para fazer a cobertura, rale o chocolate ao leite e o meio amargo e misture ao creme de leite.",
+      "Misture e coloque no micro-ondas durante 1 minuto.",
+      "Retire e mexa",
+      "Coloque de novo no micro-ondas por mais 1 minuto.",
+      "Despeje a cobertura por cima dos morangos e leve à geladeira coberta por papel-filme."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Bombom de travessa. Ingredientes: chocolate ao leite, chocolate meio amargo, leite condensado, creme de leite, margarina, morango. Preparo: Coloque as latas de leite condensado em uma panela com a manteiga e faça uma massa como um brigadeiro mole. Coloque em uma travessa e, por cima deste brigadeiro mole, coloque os morangos cortados ao meio. Reserve para fazer a cobertura."
+}

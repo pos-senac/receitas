@@ -1,0 +1,71 @@
+{
+  "id": "tg-43816",
+  "titulo": "Bolo de bem casado fácil",
+  "url": "https://www.tudogostoso.com.br/receita/43816-bolo-de-bem-casado-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 256,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Bolo de bem casado fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "125",
+      "unidade": "g",
+      "texto_original": "125 g farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "125",
+      "unidade": "g",
+      "texto_original": "125 g de açúcar"
+    },
+    {
+      "nome": "manteiga ou margarina sem sal",
+      "quantidade": "125",
+      "unidade": "g",
+      "texto_original": "125 g de manteiga ou margarina sem sal"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "Açúcar de confeiteiro para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar de confeiteiro para polvilhar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata o açúcar, as gemas e a margarina na batedeira.",
+      "Em seguida acrescente a farinha de trigo e torne a bater.",
+      "Misture as claras batidas em neve.",
+      "Coloque o fermento.",
+      "Coloque em forma pequena redonda com fundo removível, untada.",
+      "Asse em forno médio, pré-aquecido, por 20 a 25 minutos.",
+      "Assim que o bolo estiver frio, corte-o ao meio, e recheie com doce de leite (1 lata de leite condensado cozido por 40 minutos na panela de pressão com água).",
+      "Polvilhe por cima com açúcar de confeiteiro."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de bem casado fácil. Ingredientes: ovos, farinha de trigo, açúcar, manteiga ou margarina sem sal, fermento em pó, Açúcar de confeiteiro para polvilhar, leite condensado. Preparo: Bata o açúcar, as gemas e a margarina na batedeira. Em seguida acrescente a farinha de trigo e torne a bater. Misture as claras batidas em neve."
+}

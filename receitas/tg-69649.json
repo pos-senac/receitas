@@ -1,0 +1,55 @@
+{
+  "id": "tg-69649",
+  "titulo": "Brigadeiro sem leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/69649-brigadeiro-sem-leite-condensado.html",
+  "nota": 4.4,
+  "n_avaliacoes": 1379,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Brigadeiro sem leite condensado",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de achocolatado em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, adicione o achocolatado, o açúcar e a manteiga, misture rapidamente e acrescente o leite.",
+      "Mexa com uma colher de pau em fogo médio por aproximadamente 25 minutos, até obter uma consistência cremosa.",
+      "Desligue o fogo e deixe esfriar por 10 minutos.",
+      "Modele a massa em bolinhas e passe no chocolate granulado ou sirva em taças."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bandeja",
+    "Colher de pau",
+    "Copo medidor",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Brigadeiro sem leite condensado. Ingredientes: leite, achocolatado em pó, margarina, açúcar. Preparo: Em uma panela, adicione o achocolatado, o açúcar e a manteiga, misture rapidamente e acrescente o leite. Mexa com uma colher de pau em fogo médio por aproximadamente 25 minutos, até obter uma consistência cremosa. Desligue o fogo e deixe esfriar por 10 minutos."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tg-14775",
+  "titulo": "Arroz com lentilha e calabresa",
+  "url": "https://www.tudogostoso.com.br/receita/14775-arroz-com-lentilha-e-calabresa.html",
+  "nota": 4.8,
+  "n_avaliacoes": 258,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Arroz com lentilha e calabresa",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "lentilha",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de lentilha"
+    },
+    {
+      "nome": "arroz",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de arroz"
+    },
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de azeite"
+    },
+    {
+      "nome": "cebolas em rodelas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas em rodelas"
+    },
+    {
+      "nome": "cubos de caldo de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubos de caldo de carne"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de água quente"
+    },
+    {
+      "nome": "lingüiça calabresa",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de lingüiça calabresa"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Levar ao fogo a lentilha com um pouco de água cozinhar até ficar al dente.",
+      "Reservar a parte.",
+      "Em outra panela fritar a cebola e a lingüiça no azeite, até a cebola ficar bem escura, (é assim mesmo isso que dá cor ao prato).",
+      "Juntar o arroz, o caldo de carne, a água quente, a lentilha reservada, a pimenta e cozinhar até o arroz ficar totalmente cozido.",
+      "Obs: Se necessário acrescente mais água.",
+      "Passar para uma travessa polvilhar a salsinha e servir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Arroz com lentilha e calabresa. Ingredientes: lentilha, arroz, sopa de azeite, cebolas em rodelas, cubos de caldo de carne, água quente, lingüiça calabresa, Pimenta a gosto, salsinha a gosto. Preparo: Levar ao fogo a lentilha com um pouco de água cozinhar até ficar al dente. Reservar a parte. Em outra panela fritar a cebola e a lingüiça no azeite, até a cebola ficar bem escura, (é assim mesmo isso que dá cor ao prato)."
+}

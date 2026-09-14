@@ -1,0 +1,143 @@
+{
+  "id": "tg-36201",
+  "titulo": "Torta salgada de frango",
+  "url": "https://www.tudogostoso.com.br/receita/36201-torta-salgada-de-frango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 372,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta salgada de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo sem fermento",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo sem fermento"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "óleo ou azeite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo ou azeite"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros"
+    },
+    {
+      "nome": "sopa de queijo ralado",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de queijo ralado"
+    },
+    {
+      "nome": "tablete de caldo de carne ou de frango",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 tablete de caldo de carne ou de frango"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de milho verde"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de ervilha"
+    },
+    {
+      "nome": "azeitonas",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de azeitonas"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picadinha"
+    },
+    {
+      "nome": "tomate grande",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 tomate grande"
+    },
+    {
+      "nome": "queijo mussarela (opcional)",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de queijo mussarela (opcional)"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "coentro opcional",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coentro opcional"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "margarina"
+    },
+    {
+      "nome": "creme de leite (opcional)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 creme de leite (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte o leite, farinha de trigo, ovos, queijo ralado, óleo e o caldo no liquidificador, bata por 3 minutos.",
+      "Depois de bater coloque o fermento em pó e bata mais um pouquinho."
+    ],
+    "Recheio:": [
+      "Coloque na panela o alho amassado, a cebola e a margarina.",
+      "Refogue e em seguida coloque o frango desfiado.",
+      "Desligue o fogo e coloque os ingredientes.",
+      "Polvilhe a forma com margarina e farinha, e em seguida coloque metade da massa, o recheio, por cima o queijo mussarela e coloque o resto dos ingredientes.",
+      "Leve ao forno médio por 25 a 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Forma"
+  ],
+  "texto_para_embedding": "Torta salgada de frango. Ingredientes: farinha de trigo sem fermento, leite, óleo ou azeite, ovos inteiros, sopa de queijo ralado, tablete de caldo de carne ou de frango, fermento em pó, peito de frango cozido e desfiado, milho verde, ervilha, azeitonas, cebola picadinha, tomate grande, queijo mussarela (opcional), alho, coentro opcional, margarina, creme de leite (opcional). Preparo: Junte o leite, farinha de trigo, ovos, queijo ralado, óleo e o caldo no liquidificador, bata por 3 minutos. Depois de bater coloque o fermento em pó e bata mais um pouquinho. Coloque na panela o alho amassado, a cebola e a margarina."
+}

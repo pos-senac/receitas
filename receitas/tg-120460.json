@@ -1,0 +1,132 @@
+{
+  "id": "tg-120460",
+  "titulo": "Bolinho de mandioca recheado",
+  "url": "https://www.tudogostoso.com.br/receita/120460-bolinho-de-mandioca-recheado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 133,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Bolinho de mandioca recheado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "quilo de mandioca",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 quilo de mandioca"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "Cheiro-verde a gosto picadinho bem pequeno",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro-verde a gosto picadinho bem pequeno"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Pimenta-do-reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de carne moída"
+    },
+    {
+      "nome": "cebola grande picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picadinha"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "mussarela ralada (no ralo grosso)",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela ralada (no ralo grosso)"
+    },
+    {
+      "nome": "Cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro-verde a gosto"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    },
+    {
+      "nome": "Ovos para empanar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Ovos para empanar"
+    },
+    {
+      "nome": "Farinha de rosca para empanar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de rosca para empanar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe a mandioca até quase desmanchar, escorra e retire aquelas fibras grossas e amasse com a ajuda de um garfo (não use o processador, pois essa massa é bastante pesada).",
+      "Coloque a massa em uma tigela grande e espere esfriar um pouco.",
+      "Acrescente as 2 gemas, a margarina, o cheiro-verde e os temperos, amasse bem e reserve.",
+      "Para o recheio faça um refogado com a carne moída e deixe que fique bem sequinho. Depois de frio acrescente a mussarela ralada."
+    ],
+    "Montagem:": [
+      "Molhe as mãos na água e forme os bolinhos, coloque o recheio, feche e empane.",
+      "Frite em óleo quente. Pode ser congelado, antes de fritar."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Papel-toalha",
+    "Bowl",
+    "Escumadeira",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolinho de mandioca recheado. Ingredientes: quilo de mandioca, gemas, margarina, Cheiro-verde a gosto picadinho bem pequeno, Sal, Pimenta-do-reino, carne moída, cebola grande picadinha, alho amassados, mussarela ralada (no ralo grosso), Cheiro-verde a gosto, Sal a gosto, Pimenta a gosto, Óleo para fritar, Ovos para empanar, Farinha de rosca para empanar. Preparo: Cozinhe a mandioca até quase desmanchar, escorra e retire aquelas fibras grossas e amasse com a ajuda de um garfo (não use o processador, pois essa massa é bastante pesada). Coloque a massa em uma tigela grande e espere esfriar um pouco. Acrescente as 2 gemas, a margarina, o cheiro-verde e os temperos, amasse bem e reserve."
+}

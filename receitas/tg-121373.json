@@ -1,0 +1,84 @@
+{
+  "id": "tg-121373",
+  "titulo": "Nhoque perfeito com molho de bacon",
+  "url": "https://www.tudogostoso.com.br/receita/121373-nhoque-perfeito-com-molho-de-bacon.html",
+  "nota": 4.5,
+  "n_avaliacoes": 112,
+  "categoria": "Receitas lasanha",
+  "subcategoria": "Nhoque perfeito com molho de bacon",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "batatas cozidas e amassadas",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batatas cozidas e amassadas"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo ralado"
+    },
+    {
+      "nome": "a 4 xícaras de farinha",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 a 4 xícaras de farinha"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "cebola média",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média"
+    },
+    {
+      "nome": "bacon picadinho",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de bacon picadinho"
+    },
+    {
+      "nome": "molho pronto",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de molho pronto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Após cozinhar e amassar as batatas, acrescente o ovo e o queijo ralado.",
+      "Misture bem e vá botando a farinha aos poucos até ficar firme.",
+      "Na 1° vez q eu fiz, usei 3 xícaras de farinha, já na 2° tive que colocar as 4.",
+      "Espalhe farinha na mesa e pegue pequenas porções de massa.",
+      "Faça rolinhos compridos com as mãos e corte pequenas porções pra formar os nhoques.",
+      "Em uma panela, ferva água e acrescente um fio de óleo. Quando levantar fervura, coloque os nhoque delicadadmente para não grudar.",
+      "Quando os nhoques fluturarem estarão prontos.",
+      "Não coloque muitos nhoques ao mesmo tempo na panela, pois assim eles grudam."
+    ],
+    "Molho:": [
+      "Pique a cebola e o bacon no tamanho que preferir.",
+      "Frite bem, até que o bacon começe a dourar.",
+      "Acrescente o molho e distribua sobre o nhoque.",
+      "Mexa delicadamente para não esmagá-lo.",
+      "Sirva quente e bom apetite."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Nhoque perfeito com molho de bacon. Ingredientes: batatas cozidas e amassadas, ovo, queijo ralado, a 4 xícaras de farinha, Sal a gosto, cebola média, bacon picadinho, molho pronto. Preparo: Após cozinhar e amassar as batatas, acrescente o ovo e o queijo ralado. Misture bem e vá botando a farinha aos poucos até ficar firme. Na 1° vez q eu fiz, usei 3 xícaras de farinha, já na 2° tive que colocar as 4."
+}

@@ -1,0 +1,72 @@
+{
+  "id": "tg-9581",
+  "titulo": "Pizza enrolada",
+  "url": "https://www.tudogostoso.com.br/receita/9581-pizza-enrolada.html",
+  "nota": 4.7,
+  "n_avaliacoes": 126,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Pizza enrolada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "1/2 xícara (chá) de leite morno",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícara (chá) de leite morno"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "tablete de fermento para pão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de fermento para pão"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "1/2 xícara (chá) de farinha de trigo",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 1/2 xícara (chá) de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "no copo do liquidificador, coloque o leite morno, o ovo, o fermento esfarelado, o açúcar, o sal e o óleo.",
+      "Bata.",
+      "Desligue e transfira para uma tigela.",
+      "Acrescente a farinha aos poucos, batendo sempre que for acrescentada, se necessário acrescente mais trigo.",
+      "Abra bem grande e fininha e recheie como quiser.",
+      "Depois enrole igual a rocambole, pincele com gema e ponha num prato de pizza untado com margarina.",
+      "Deixe no forno até dourar a massa.",
+      "Se a massa abrir na hora que estiver assando não tem problema.",
+      "Rendimento: 2 pizzas enroladas."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pizza enrolada. Ingredientes: 1/2 xícara (chá) de leite morno, ovo, tablete de fermento para pão, açúcar, sal, óleo, 1/2 xícara (chá) de farinha de trigo. Preparo: no copo do liquidificador, coloque o leite morno, o ovo, o fermento esfarelado, o açúcar, o sal e o óleo. Bata. Desligue e transfira para uma tigela."
+}

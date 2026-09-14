@@ -1,0 +1,69 @@
+{
+  "id": "tg-320684",
+  "titulo": "Sagu de doce de leite pronto em 30 minutos com truque para ficar cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/320684-sagu-de-doce-de-leite-pronto-em-30-minutos-com-truque-para-ficar-cremoso.html",
+  "nota": 5.0,
+  "n_avaliacoes": 4,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Sagu de doce de leite pronto em 30 minutos com truque para ficar cremoso",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "sagu",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de sagu"
+    },
+    {
+      "nome": "litro de água",
+      "quantidade": "1 e 1/2",
+      "unidade": null,
+      "texto_original": "1 e 1/2 litro de água"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    },
+    {
+      "nome": "doce de leite",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de doce de leite"
+    },
+    {
+      "nome": "gema de ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema de ovo"
+    },
+    {
+      "nome": "canela em pó para finalizar (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó para finalizar (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, cozinhe o sagu com água fervente por cerca de 15 minutos ou até que ele comece a ficar com as bordas transparentes, mas mantendo o interior branco. Mexa de vez em quando para não grudar no fundo da panela.",
+      "Escorra e lave o sagu com água corrente para interromper o cozimento e remover o excesso de amido.",
+      "Volte o sagu para a panela e adicione o leite, o creme de leite, o doce de leite e a gema de ovo e misture bem com o fogo desligado. Esse último ingrediente é importante para dar mais cremosidade ao sagu de doce de leite.",
+      "Leve ao fogo médio-baixo e deixe cozinhar por cerca de 5 a 10 minutos ou até engrossar e as bolinhas ficarem completamente transparentes, mexendo sempre para não grudar no fundo.",
+      "Assim que chegar no ponto, desligue o fogo. Mesmo que o sagu de doce de leite pareça estar mais líquido, ele vai ganhando consistência conforme esfria.",
+      "Finalize com a canela em pó e sirva quente ou frio conforme a sua preferência."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sagu de doce de leite pronto em 30 minutos com truque para ficar cremoso. Ingredientes: sagu, litro de água, leite, creme de leite, doce de leite, gema de ovo, canela em pó para finalizar (opcional). Preparo: Em uma panela, cozinhe o sagu com água fervente por cerca de 15 minutos ou até que ele comece a ficar com as bordas transparentes, mas mantendo o interior branco. Mexa de vez em quando para não grudar no fundo da panela. Escorra e lave o sagu com água corrente para interromper o cozimento e remover o excesso de amido. Volte o sagu para a panela e adicione o leite, o creme de leite, o doce de leite e a gema de ovo e misture bem com o fogo desligado. Esse último ingrediente é importante para dar mais cremosidade ao sagu de doce de leite."
+}

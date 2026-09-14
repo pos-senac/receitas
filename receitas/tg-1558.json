@@ -1,0 +1,54 @@
+{
+  "id": "tg-1558",
+  "titulo": "Pudim de pão",
+  "url": "https://www.tudogostoso.com.br/receita/1558-pudim-de-pao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1360,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de pão",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "pães de sal dormidos ou duros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 pães de sal dormidos ou duros"
+    },
+    {
+      "nome": "açúcar cristal",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) de açúcar cristal"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador, até que a mistura esteja homogênea.",
+      "Caramelize com calda queimada, uma fôrma de pudim, e acrescente a mistura do liquidificador.",
+      "Leve ao fogo em banho-maria por, aproximadamente, 30 a 40 minutos ou até que o pudim esteja consistente."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espatula",
+    "Leiteira",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Pudim de pão. Ingredientes: pães de sal dormidos ou duros, açúcar cristal, ovos inteiros, leite. Preparo: Bata todos os ingredientes no liquidificador, até que a mistura esteja homogênea. Caramelize com calda queimada, uma fôrma de pudim, e acrescente a mistura do liquidificador. Leve ao fogo em banho-maria por, aproximadamente, 30 a 40 minutos ou até que o pudim esteja consistente."
+}

@@ -1,0 +1,162 @@
+{
+  "id": "tg-110449",
+  "titulo": "Esfiha aberta tipo Habib's",
+  "url": "https://www.tudogostoso.com.br/receita/110449-esfiha-aberta-tipo-habib-s.html",
+  "nota": 4.5,
+  "n_avaliacoes": 219,
+  "categoria": "Receitas pães",
+  "subcategoria": "Esfiha aberta tipo Habib's",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "fermento biológico seco",
+      "quantidade": "30",
+      "unidade": "g",
+      "texto_original": "30 g de fermento biológico seco"
+    },
+    {
+      "nome": "açúcar refinado (125 g)",
+      "quantidade": "3/4",
+      "unidade": "xícara (chá)",
+      "texto_original": "3/4 xícara (chá) de açúcar refinado (125 g)"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "125",
+      "unidade": "ml",
+      "texto_original": "125 ml de óleo de soja"
+    },
+    {
+      "nome": "a 700ml de água morna",
+      "quantidade": "500",
+      "unidade": null,
+      "texto_original": "500 a 700ml de água morna"
+    },
+    {
+      "nome": "(sopa) sal refinado",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de (sopa) sal refinado"
+    },
+    {
+      "nome": "fubá para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "fubá para polvilhar"
+    },
+    {
+      "nome": "700g de queijo branco amassado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "700g de queijo branco amassado"
+    },
+    {
+      "nome": "salsinha picada",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de salsinha picada"
+    },
+    {
+      "nome": "cebolinha picada",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de cebolinha picada"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de creme de leite"
+    },
+    {
+      "nome": "(chá) fermento em pó (serve para dar consistência e uniformizar o recheio)",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de (chá) fermento em pó (serve para dar consistência e uniformizar o recheio)"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "700g de carne moída",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "700g de carne moída"
+    },
+    {
+      "nome": "tomates picados",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 tomates picados"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "hortelã",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de hortelã"
+    },
+    {
+      "nome": "suco de 2 limões",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 2 limões"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio": [
+      "Junte todos os ingredientes do recheio escolhido.",
+      "Misture bem, amassando com as mãos e reserve."
+    ],
+    "Massa": [
+      "Misture 500 ml de água (reserve o restante) com o fermento e o açúcar e deixe descansar por 10 minutos.",
+      "Junte a farinha (separe uma pequena parte), o óleo e o sal.",
+      "Misture com uma colher de pau.",
+      "A seguir, despeje e sove a massa sobre uma superfície enfarinhada.",
+      "Acrescente o restante da farinha alternado com a água aos poucos até que a massa fique com aparência homogênea e desgrude das mãos.",
+      "Deixe descansar por 10 minutos.",
+      "Após descansar, divida a massa em 2 partes iguais e faça um rolo grosso com cada uma delas.",
+      "Tome como medida três dedos e corte toda a massa em pedaços iguais.",
+      "A seguir, faça bolinhas usando o fubá para polvilhar e dar formato a massa. Utilizando os dedos, achate cada bola fazendo laterais altas (como um ninho).",
+      "Acomode os discos na forma polvilhada com fubá e deixe descansar por 15 minutos.",
+      "Coloque uma pequena porção de recheio sobre cada disquinho de esfiha. Espalhe o recheio por igual e asse em forno pré-aquecido a 180º.",
+      "Sirva quente ou fria."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espátula de silicone",
+    "Tábua de corte",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Esfiha aberta tipo Habib's. Ingredientes: farinha de trigo, fermento biológico seco, açúcar refinado (125 g), óleo de soja, a 700ml de água morna, (sopa) sal refinado, fubá para polvilhar, 700g de queijo branco amassado, salsinha picada, cebolinha picada, creme de leite, (chá) fermento em pó (serve para dar consistência e uniformizar o recheio), sal a gosto, 700g de carne moída, tomates picados, cebola picada, hortelã, suco de 2 limões, sal a gosto, pimenta a gosto. Preparo: Junte todos os ingredientes do recheio escolhido. Misture bem, amassando com as mãos e reserve. Misture 500 ml de água (reserve o restante) com o fermento e o açúcar e deixe descansar por 10 minutos."
+}

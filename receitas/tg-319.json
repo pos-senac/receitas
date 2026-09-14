@@ -1,0 +1,142 @@
+{
+  "id": "tg-319",
+  "titulo": "Escondidinho",
+  "url": "https://www.tudogostoso.com.br/receita/319-escondidinho.html",
+  "nota": 4.5,
+  "n_avaliacoes": 131,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Escondidinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "aipim (mandioca) cozido em água e sal",
+      "quantidade": "700",
+      "unidade": "g",
+      "texto_original": "700 g de aipim (mandioca) cozido em água e sal"
+    },
+    {
+      "nome": "batata inglesa cozida em água e sal",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de batata inglesa cozida em água e sal"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "cebola pequena picada ou ralada (depende do gosto da pessoa)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena picada ou ralada (depende do gosto da pessoa)"
+    },
+    {
+      "nome": "tablete de caldo de carne ou de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne ou de galinha"
+    },
+    {
+      "nome": "Leite aos poucos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite aos poucos"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "½ kg de carne seca (cozida e desfiada)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ kg de carne seca (cozida e desfiada)"
+    },
+    {
+      "nome": "manteiga ou de azeite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga ou de azeite"
+    },
+    {
+      "nome": "alho amassado",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassado"
+    },
+    {
+      "nome": "cebola média em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média em rodelas"
+    },
+    {
+      "nome": "sopa de salsa picada",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de salsa picada"
+    },
+    {
+      "nome": "sopa de cebolinha picada",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de cebolinha picada"
+    },
+    {
+      "nome": "Pimenta calabresa a gosta ou pimenta-do-reino (usei a calabresa)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta calabresa a gosta ou pimenta-do-reino (usei a calabresa)"
+    },
+    {
+      "nome": "Bacon a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Bacon a gosto"
+    },
+    {
+      "nome": "Catupiry a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Catupiry a gosto"
+    },
+    {
+      "nome": "Mussarela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Mussarela a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Passar pelo espremedor de batatas, tem que ficar bem macio a batata, aipim, a manteiga.",
+      "Misturar a cebola, o caldo de carne ou galinha, o creme de leite e se necessário colocar leite até ficar cremoso (grosso).",
+      "Verificar o sal e só depois colocar ou não mais sal.",
+      "Fritar o bacon, o alho, a cebola, depois colocar a carne seca desfiada e fritar mais um pouco, colocar a salsa e cebolinha.",
+      "Verificar o sal."
+    ],
+    "Montagem:": [
+      "Colocar em uma forma refratária untada com manteiga no fundo e nas laterais também.",
+      "Colocar a carne seca, colocar as fatias de mussarela, por cima o purê.",
+      "Cortar uma pontinha do saco de catupiry e espalhar por cima do purê e colocar dentro do purê (como se estivesse escondendo o catupiry dentro do purê).",
+      "Pode ser colocado queijo parmesão por cima também.",
+      "Levar ao forno por mais ou menos 20 minutos ou até dourar o purê.",
+      "Cuidado para não pegar no fundo da forma."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Escondidinho. Ingredientes: aipim (mandioca) cozido em água e sal, batata inglesa cozida em água e sal, sopa de manteiga, caixinha de creme de leite, cebola pequena picada ou ralada (depende do gosto da pessoa), tablete de caldo de carne ou de galinha, Leite aos poucos, Sal a gosto, ½ kg de carne seca (cozida e desfiada), manteiga ou de azeite, alho amassado, cebola média em rodelas, sopa de salsa picada, sopa de cebolinha picada, Pimenta calabresa a gosta ou pimenta-do-reino (usei a calabresa), Bacon a gosto, Catupiry a gosto, Mussarela a gosto. Preparo: Passar pelo espremedor de batatas, tem que ficar bem macio a batata, aipim, a manteiga. Misturar a cebola, o caldo de carne ou galinha, o creme de leite e se necessário colocar leite até ficar cremoso (grosso). Verificar o sal e só depois colocar ou não mais sal."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "tg-13411",
+  "titulo": "Biscoito de polvilho azedo",
+  "url": "https://www.tudogostoso.com.br/receita/13411-biscoito-de-polvilho-azedo.html",
+  "nota": 4.3,
+  "n_avaliacoes": 512,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de polvilho azedo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "polvilho azedo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de polvilho azedo"
+    },
+    {
+      "nome": "pequeno de leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo pequeno de leite"
+    },
+    {
+      "nome": "pequeno de óleo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo pequeno de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes na batedeira.",
+      "Deixar bater até a massa ficar homogênea.",
+      "Depois, coloque a massa em uma sacolinha ou saco de confeiteiro e modele os biscoitos.",
+      "Leve ao forno de 15 a 20 minutos ou até ficarem sequinhos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Biscoito de polvilho azedo. Ingredientes: polvilho azedo, pequeno de leite, pequeno de óleo, ovos, chá de sal. Preparo: Coloque todos os ingredientes na batedeira. Deixar bater até a massa ficar homogênea. Depois, coloque a massa em uma sacolinha ou saco de confeiteiro e modele os biscoitos."
+}

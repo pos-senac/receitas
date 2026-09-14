@@ -1,0 +1,66 @@
+{
+  "id": "tg-82767",
+  "titulo": "Bolo mole especial",
+  "url": "https://www.tudogostoso.com.br/receita/82767-bolo-mole-especial.html",
+  "nota": 4.6,
+  "n_avaliacoes": 167,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo mole especial",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "farinha de trigo sem fermento",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo sem fermento"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "caixinha de leite condensado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque no liquidificador 4 xícaras de leite, ligue o liquidificador e acrescente o leite condensado",
+      "Adicione aos poucos os ingredientes com o liquidificador ligado para deixar mais cremoso.",
+      "Deixe bater bem. Unte a forma com mateiga e farinha e coloque a massa.",
+      "Leve ao forno médio, preaquecido, por cerca de 30 minutos, ou até dourar"
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo mole especial. Ingredientes: leite, ovos, açúcar, farinha de trigo sem fermento, manteiga, caixinha de leite condensado. Preparo: Coloque no liquidificador 4 xícaras de leite, ligue o liquidificador e acrescente o leite condensado Adicione aos poucos os ingredientes com o liquidificador ligado para deixar mais cremoso. Deixe bater bem. Unte a forma com mateiga e farinha e coloque a massa."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "tg-40213",
+  "titulo": "Bala de coco caramelizada (bala baiana ou bala de ovo)",
+  "url": "https://www.tudogostoso.com.br/receita/40213-bala-de-coco-caramelizada-bala-baiana-ou-bala-de-ovo.html",
+  "nota": 4.5,
+  "n_avaliacoes": 182,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Bala de coco caramelizada (bala baiana ou bala de ovo)",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "coco ralado sem açúcar",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado sem açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "cheias de vinagre branco (de álcool)",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) cheias de vinagre branco (de álcool)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite condensado, o coco e a margarina em uma panela.",
+      "Misture bem e leve ao fogo, mexendo até desgrudar do fundo da panela.",
+      "Deixe esfriar, enrole e reserve."
+    ],
+    "Calda:": [
+      "Em uma outra panela, coloque o açúcar e o vinagre e deixe ferver até o ponto de estalo.",
+      "Em uma forma retangular de alumínio, com o auxilio de um garfo, passe as balinhas na calda e coloque para secar na forma.",
+      "Depois de frio, embale em embalagens plásticas e secas."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Forma"
+  ],
+  "texto_para_embedding": "Bala de coco caramelizada (bala baiana ou bala de ovo). Ingredientes: leite condensado, coco ralado sem açúcar, margarina, açúcar, cheias de vinagre branco (de álcool). Preparo: Coloque o leite condensado, o coco e a margarina em uma panela. Misture bem e leve ao fogo, mexendo até desgrudar do fundo da panela. Deixe esfriar, enrole e reserve."
+}

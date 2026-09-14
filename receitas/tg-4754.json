@@ -1,0 +1,100 @@
+{
+  "id": "tg-4754",
+  "titulo": "Pizza de Sardinha",
+  "url": "https://www.tudogostoso.com.br/receita/4754-pizza-de-sardinha.html",
+  "nota": 4.4,
+  "n_avaliacoes": 141,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Pizza de Sardinha",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de farinha de trigo"
+    },
+    {
+      "nome": "bem cheia de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher bem cheia de fermento em pó"
+    },
+    {
+      "nome": "bem cheia de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher bem cheia de margarina"
+    },
+    {
+      "nome": "óleo ou azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo ou azeite"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Leite suficiente para sovar a massa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite suficiente para sovar a massa"
+    },
+    {
+      "nome": "sardinha (tire as espinhas)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de sardinha (tire as espinhas)"
+    },
+    {
+      "nome": "Tomates bem picadinhos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tomates bem picadinhos"
+    },
+    {
+      "nome": "Pimentão bem picadinho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimentão bem picadinho"
+    },
+    {
+      "nome": "Massa de tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Massa de tomate"
+    }
+  ],
+  "modo_preparo": {
+    "Para a massa:": [
+      "Misture todos os ingredientes em uma vasilha grande e vá sovando a massa, acrescentando o leite até ficar em ponto de massa de bolo. Ela vai grudar nas mãos, ficar bem homogênea.",
+      "Deixe descansar por meia hora.",
+      "Unte um tabuleiro com óleo, espalhe a massa e recheie.",
+      "Leve ao forno por uns 40 minutos."
+    ],
+    "Para o Recheio:": [
+      "Espalhe o recheio (todos os ingredientes crus) sobre a massa.",
+      "Você pode acrescentar qualquer ingrediente que desejar."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espátula de silicone",
+    "Forma",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Pizza de Sardinha. Ingredientes: farinha de trigo, bem cheia de fermento em pó, bem cheia de margarina, óleo ou azeite, ovo, Sal a gosto, Leite suficiente para sovar a massa, sardinha (tire as espinhas), Tomates bem picadinhos, Pimentão bem picadinho, Massa de tomate. Preparo: Misture todos os ingredientes em uma vasilha grande e vá sovando a massa, acrescentando o leite até ficar em ponto de massa de bolo. Ela vai grudar nas mãos, ficar bem homogênea. Deixe descansar por meia hora. Unte um tabuleiro com óleo, espalhe a massa e recheie."
+}

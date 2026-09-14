@@ -1,0 +1,67 @@
+{
+  "id": "tg-117767",
+  "titulo": "Bolo de tapioca cremoso (não vai ao forno)",
+  "url": "https://www.tudogostoso.com.br/receita/117767-bolo-de-tapioca-cremoso-nao-vai-ao-forno.html",
+  "nota": 4.1,
+  "n_avaliacoes": 543,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de tapioca cremoso (não vai ao forno)",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 120,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "tapioca granulada",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de tapioca granulada"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "leite quente",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite quente"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de coco ralado"
+    },
+    {
+      "nome": "vidro pequeno de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de leite de coco"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture a tapioca e o açúcar, acrescentando aos poucos, o leite quente.",
+      "Quando começar a ficar cremoso, deixe descansar por 10 minutos, pois a tapioca vai crescer um pouco.",
+      "Após esse tempo, acrescente o coco ralado e o leite de coco, sempre mexendo bem.",
+      "Unte uma forma com leite condensado e coloque a massa, leve à geladeira por 2 horas.",
+      "Retire da geladeira e desenforme."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Copo medidor",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de tapioca cremoso (não vai ao forno). Ingredientes: tapioca granulada, açúcar, leite quente, coco ralado, vidro pequeno de leite de coco, leite condensado. Preparo: Misture a tapioca e o açúcar, acrescentando aos poucos, o leite quente. Quando começar a ficar cremoso, deixe descansar por 10 minutos, pois a tapioca vai crescer um pouco. Após esse tempo, acrescente o coco ralado e o leite de coco, sempre mexendo bem."
+}

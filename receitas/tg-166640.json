@@ -1,0 +1,98 @@
+{
+  "id": "tg-166640",
+  "titulo": "Bolo de cenoura com pudim de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/166640-bolo-de-cenoura-com-pudim-de-chocolate.html",
+  "nota": 4.5,
+  "n_avaliacoes": 471,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura com pudim de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 145,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "açúcar.",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar."
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "A mesma medida de leite de vaca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "A mesma medida de leite de vaca"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chocolate em pó (não pode ser achocolatado)",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de chocolate em pó (não pode ser achocolatado)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "cenoura",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1 e 1/2",
+      "unidade": "colher (chá)",
+      "texto_original": "1 e 1/2 colher (chá) de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "Pudim:": [
+      "Caramelize uma forma de Pudim com o açúcar( receita do Pudim).",
+      "No liquidificador, bata os demais ingredientes.",
+      "Despeje na forma caramelizada."
+    ],
+    "Bolo de Cenoura:": [
+      "Bata no liquidificador a cenoura, ovo e óleo.",
+      "Junte em um bacia com a farinha, fermento e açúcar,misture bem.",
+      "Coloque sobre o pudim batido.",
+      "Não se desespere nessa hora, pois vai misturar tudo mesmo.",
+      "Depois acontece uma mágica!",
+      "Leve ao forno a 180ºC por aproximadamente 1 hora."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de cenoura com pudim de chocolate. Ingredientes: açúcar., leite condensado, A mesma medida de leite de vaca, ovos, chocolate em pó (não pode ser achocolatado), ovos, cenoura, óleo, açúcar, farinha de trigo, fermento. Preparo: Caramelize uma forma de Pudim com o açúcar( receita do Pudim). No liquidificador, bata os demais ingredientes. Despeje na forma caramelizada."
+}

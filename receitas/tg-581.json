@@ -1,0 +1,107 @@
+{
+  "id": "tg-581",
+  "titulo": "Pavê de morango com chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/581-pave-de-morango-com-chocolate.html",
+  "nota": 4.7,
+  "n_avaliacoes": 391,
+  "categoria": "Receitas pavês",
+  "subcategoria": "Pavê de morango com chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "bolacha maisena",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de bolacha maisena"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite comum",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite comum"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "morango",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de morango"
+    },
+    {
+      "nome": "baunilha",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de baunilha"
+    },
+    {
+      "nome": "chocolate meio amargo",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de chocolate meio amargo"
+    },
+    {
+      "nome": "chantilly",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de chantilly"
+    },
+    {
+      "nome": "morango para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "morango para decorar"
+    },
+    {
+      "nome": "chantilly para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chantilly para decorar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Numa panela, coloque o leite condensado, o leite (reserve um pouco), as gemas levemente batidas, a baunilha e a farinha misturada no leite reservado.",
+      "Mexa até engrossar.",
+      "Desligue e junte o creme de leite com o soro.",
+      "Divida o creme obtido igualmente em dois refratários."
+    ],
+    "1° Creme:": [
+      "No primeiro refratário, junte o chocolate raspado com o creme ainda quente. Mexa até derreter totalmente. Acrescente 1 xícara (chá) de morango picados. Misture e reserve."
+    ],
+    "2° Creme:": [
+      "No segundo refratário, junte ao creme chantilly e 1 xícara de (chá) de morangos picados. Misture e reserve."
+    ],
+    "Montagem:": [
+      "Num refratário, coloque na seguinte ordem: o segundo creme, as bolachas, o creme de chocolate (primeiro creme), bolachas, o segundo creme e o primeiro creme.",
+      "Por fim, coloque chantilly no saco de confeitar (bico pitanga médio) e decore. Espalhe sobre o pavê."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pavê de morango com chocolate. Ingredientes: bolacha maisena, leite condensado, creme de leite, leite comum, gemas, farinha de trigo, morango, baunilha, chocolate meio amargo, chantilly, morango para decorar, chantilly para decorar. Preparo: Numa panela, coloque o leite condensado, o leite (reserve um pouco), as gemas levemente batidas, a baunilha e a farinha misturada no leite reservado. Mexa até engrossar. Desligue e junte o creme de leite com o soro."
+}

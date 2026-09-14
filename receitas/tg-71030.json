@@ -1,0 +1,89 @@
+{
+  "id": "tg-71030",
+  "titulo": "Caldinho de mandioca",
+  "url": "https://www.tudogostoso.com.br/receita/71030-caldinho-de-mandioca.html",
+  "nota": 4.6,
+  "n_avaliacoes": 390,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Caldinho de mandioca",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "mandioca amarela",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de mandioca amarela"
+    },
+    {
+      "nome": "calabresas grandes picadas em quadradinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 calabresas grandes picadas em quadradinhos"
+    },
+    {
+      "nome": "pedaços grandes de bacon picados em quadradinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pedaços grandes de bacon picados em quadradinhos"
+    },
+    {
+      "nome": "alho grandes triturados ou bem picados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho grandes triturados ou bem picados"
+    },
+    {
+      "nome": "cebola grande triturada ou bem picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande triturada ou bem picada"
+    },
+    {
+      "nome": "tomates sem semente picados",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates sem semente picados"
+    },
+    {
+      "nome": "Cebolinha (a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebolinha (a gosto)"
+    },
+    {
+      "nome": "tempero pronto",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de tempero pronto"
+    },
+    {
+      "nome": "caldos de costela",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 caldos de costela"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe a mandioca.",
+      "Acrescente no cozimento 2 tabletes de caldo de costela.",
+      "Dê uma pré-fritada na calabresa junto com o bacon com um pouco de óleo.",
+      "Acrescente junto a ela a cebola e termine de fritar.",
+      "Acrescente o alho e mais 1 caldo de costela.",
+      "Bata no liquidificador a mandioca junto com a água que cozinhou.",
+      "Junte a mistura com a fritura no fogo baixo sempre mexendo para que não grude no fundo da panela.",
+      "Acrescente o tomate e a cebolinha (a gosto).",
+      "Acrescente aos poucos os temperos, sempre experimentando para ver se está bom de sal."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Concha"
+  ],
+  "texto_para_embedding": "Caldinho de mandioca. Ingredientes: mandioca amarela, calabresas grandes picadas em quadradinhos, pedaços grandes de bacon picados em quadradinhos, alho grandes triturados ou bem picados, cebola grande triturada ou bem picada, tomates sem semente picados, Cebolinha (a gosto), tempero pronto, caldos de costela. Preparo: Cozinhe a mandioca. Acrescente no cozimento 2 tabletes de caldo de costela. Dê uma pré-fritada na calabresa junto com o bacon com um pouco de óleo."
+}

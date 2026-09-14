@@ -1,0 +1,93 @@
+{
+  "id": "tg-106581",
+  "titulo": "Bacalhau 7 mares",
+  "url": "https://www.tudogostoso.com.br/receita/106581-bacalhau-7-mares.html",
+  "nota": 4.7,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas bacalhau",
+  "subcategoria": "Bacalhau 7 mares",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "bacalhau em lascas",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de bacalhau em lascas"
+    },
+    {
+      "nome": "batatas grandes descascadas e cortadas em cubo",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 batatas grandes descascadas e cortadas em cubo"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "café de leite de côco",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de café de leite de côco"
+    },
+    {
+      "nome": "queijo mussarela em tiras",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo mussarela em tiras"
+    },
+    {
+      "nome": "queijo gorgonzola em pedacinhos",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo gorgonzola em pedacinhos"
+    },
+    {
+      "nome": "queijo parmesão ralado grosso",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo parmesão ralado grosso"
+    },
+    {
+      "nome": "Ervas aromáticas e sal a gosto (alecrim, tomilho, salsa, salsinha, manjericão e cebolinha, tudo picadinho)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Ervas aromáticas e sal a gosto (alecrim, tomilho, salsa, salsinha, manjericão e cebolinha, tudo picadinho)"
+    },
+    {
+      "nome": "sopa de curry",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de curry"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe as batatas já descascadas e cortadas em cubos e reserve.",
+      "Tire o sal do bacalhau (deixe na água de um dia para o outro e troque a água pelo menos 3 vezes para tirar o sal).",
+      "Coloque em uma vasilha de vidro e cozinhe as lascas no micro-ondas por 5 minutos e reserve."
+    ],
+    "Molho:": [
+      "Em uma vasilha misture o creme de leite, o leite de coco, o curry, o queijo mussarela, o goronzola e as ervas aromáticas."
+    ],
+    "Montagem:": [
+      "Em um pirex, coloque uma camada de batatas cozidas, por cima coloque as lascas de bacalhau e derrame o molho por cima.",
+      "Tempere com sal a gosto.",
+      "Polvilhe com o queijo parmesão e gratine durante 7 minutos no forno (meu forno tem grill e é bem rápido para gratinar o parmesão).",
+      "Depois de pronto, jogue a cebolinha por cima e sirva em seguida."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bacalhau 7 mares. Ingredientes: bacalhau em lascas, batatas grandes descascadas e cortadas em cubo, creme de leite sem soro, café de leite de côco, queijo mussarela em tiras, queijo gorgonzola em pedacinhos, queijo parmesão ralado grosso, Ervas aromáticas e sal a gosto (alecrim, tomilho, salsa, salsinha, manjericão e cebolinha, tudo picadinho), sopa de curry, Sal a gosto. Preparo: Cozinhe as batatas já descascadas e cortadas em cubos e reserve. Tire o sal do bacalhau (deixe na água de um dia para o outro e troque a água pelo menos 3 vezes para tirar o sal). Coloque em uma vasilha de vidro e cozinhe as lascas no micro-ondas por 5 minutos e reserve."
+}

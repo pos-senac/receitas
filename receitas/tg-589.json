@@ -1,0 +1,61 @@
+{
+  "id": "tg-589",
+  "titulo": "Creme de chocolate ( tipo Danete)",
+  "url": "https://www.tudogostoso.com.br/receita/589-creme-de-chocolate-tipo-danete.html",
+  "nota": 4.6,
+  "n_avaliacoes": 181,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Creme de chocolate ( tipo Danete)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "gema",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de amido de milho"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de achocolatado em pó"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador, menos o creme de leite.",
+      "Depois de batido, leve ao fogo e vá mexendo até levantar fervura.",
+      "Separe e deixe esfriar. Depois de frio bata com o creme de leite na batedeira e leve a geladeira.",
+      "Sirva gelado"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Creme de chocolate ( tipo Danete). Ingredientes: leite, leite condensado, gema, amido de milho, achocolatado em pó, creme de leite. Preparo: Bata todos os ingredientes no liquidificador, menos o creme de leite. Depois de batido, leve ao fogo e vá mexendo até levantar fervura. Separe e deixe esfriar. Depois de frio bata com o creme de leite na batedeira e leve a geladeira."
+}

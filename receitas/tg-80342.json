@@ -1,0 +1,62 @@
+{
+  "id": "tg-80342",
+  "titulo": "Biscoito de maisena",
+  "url": "https://www.tudogostoso.com.br/receita/80342-biscoito-de-maisena.html",
+  "nota": 4.4,
+  "n_avaliacoes": 1017,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de maisena",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "4",
+      "unidade": "xícaras (chá)",
+      "texto_original": "4 xícaras (chá) de maisena"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "margarina sem sal",
+      "quantidade": "2",
+      "unidade": "xícara (chá)",
+      "texto_original": "2 xícara (chá) de margarina sem sal"
+    },
+    {
+      "nome": "coco ralado à vontade",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coco ralado à vontade"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte todos os ingredientes e misture, amassando bem.",
+      "Faça bolinhas, coloque-as em uma forma, não é necessário untá-la.",
+      "Com um garfo aperte as bolinhas deixando-as levemente achatadas.",
+      "Leve ao forno médio por 10 minutos."
+    ]
+  },
+  "utensilios": [
+    "Xícara",
+    "Bowl",
+    "Copo medidor",
+    "Fogão",
+    "Prato de sobremesa",
+    "Garrafa de café"
+  ],
+  "texto_para_embedding": "Biscoito de maisena. Ingredientes: farinha de trigo, maisena, açúcar, margarina sem sal, coco ralado à vontade. Preparo: Junte todos os ingredientes e misture, amassando bem. Faça bolinhas, coloque-as em uma forma, não é necessário untá-la. Com um garfo aperte as bolinhas deixando-as levemente achatadas."
+}

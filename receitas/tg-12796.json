@@ -1,0 +1,61 @@
+{
+  "id": "tg-12796",
+  "titulo": "Panqueca doce",
+  "url": "https://www.tudogostoso.com.br/receita/12796-panqueca-doce.html",
+  "nota": 4.5,
+  "n_avaliacoes": 139,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Panqueca doce",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "chá farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícara",
+      "texto_original": "2 xícara de chá farinha de trigo"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "sobremesa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de fermento em pó"
+    },
+    {
+      "nome": "Manteiga (para untar a frigideira)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Manteiga (para untar a frigideira)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador até ficar uma massa homogênea.",
+      "Coloque manteiga numa frigideira até derreter.",
+      "Em seguida, despeje massa suficiente para cobrir todo o fundo da frigideira e frite dos dois lados.",
+      "Coloque a cobertura que desejar (cereja com leite condensado, brigadeiro, beijinho de coco, creme de leite com morango, doce de leite com amendoim) e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Panqueca doce. Ingredientes: leite condensado, ovo, chá farinha de trigo, caixinha de creme de leite, sobremesa de fermento em pó, Manteiga (para untar a frigideira). Preparo: Bata todos os ingredientes no liquidificador até ficar uma massa homogênea. Coloque manteiga numa frigideira até derreter. Em seguida, despeje massa suficiente para cobrir todo o fundo da frigideira e frite dos dois lados."
+}

@@ -1,0 +1,73 @@
+{
+  "id": "tg-2176",
+  "titulo": "Torta com bolacha Maria",
+  "url": "https://www.tudogostoso.com.br/receita/2176-torta-com-bolacha-maria.html",
+  "nota": 4.6,
+  "n_avaliacoes": 219,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta com bolacha Maria",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "grande de bolachas maria",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote grande de bolachas maria"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1,5",
+      "unidade": null,
+      "texto_original": "1,5 litro de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "amido de milho"
+    },
+    {
+      "nome": "açúcar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o leite condensado, as gemas e 1 litro de leite.",
+      "Deixe ferver.",
+      "Adicione um pouco do amido dissolvido em leite.",
+      "Adoce a gosto e mexa até se tornar um mingau mais grosso.",
+      "Despeje um pouco desse creme em uma travessa de vidro, de modo a forrar o recipiente.",
+      "Na seqüência, molhe as bolachas no leite e cubra toda a superfície do creme com elas.",
+      "Repita esse processo (uma câmada de creme, outra de bolacha) até encher a travessa.",
+      "Bata na batedeira as claras em neve até endurecerem. Adicione o açúcar e o creme de leite.",
+      "Despeje sobre a torta.",
+      "Sirva gelada."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta com bolacha Maria. Ingredientes: grande de bolachas maria, leite condensado, creme de leite, ovos, litro de leite, amido de milho, açúcar a gosto. Preparo: Leve ao fogo o leite condensado, as gemas e 1 litro de leite. Deixe ferver. Adicione um pouco do amido dissolvido em leite."
+}

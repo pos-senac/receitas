@@ -1,0 +1,63 @@
+{
+  "id": "tg-138892",
+  "titulo": "Pudim de Abacaxi",
+  "url": "https://www.tudogostoso.com.br/receita/138892-pudim-de-abacaxi.html",
+  "nota": 4.4,
+  "n_avaliacoes": 298,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de Abacaxi",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "gelatina de abacaxi",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de gelatina de abacaxi"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco"
+    },
+    {
+      "nome": "abacaxi médio cozido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abacaxi médio cozido"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare a gelatina de acordo com as instruções da embalagem e deixe esfriar.",
+      "Pique o abacaxi e cozinhe com 1 xícara de açúcar por 15 minutos.",
+      "Bata no liquidificador o leite condensado, o creme de leite, o leite de coco e metade do abacaxi cozido.",
+      "Junte a gelatina e torne a bater.",
+      "A outra metade do abacaxi cozido, coloque no fundo da forma para decorar.",
+      "Coloque em  forma para pudim e leve à geladeira para ficar firme."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pudim de Abacaxi. Ingredientes: gelatina de abacaxi, leite condensado, creme de leite, vidro de leite de coco, abacaxi médio cozido, açúcar. Preparo: Prepare a gelatina de acordo com as instruções da embalagem e deixe esfriar. Pique o abacaxi e cozinhe com 1 xícara de açúcar por 15 minutos. Bata no liquidificador o leite condensado, o creme de leite, o leite de coco e metade do abacaxi cozido."
+}

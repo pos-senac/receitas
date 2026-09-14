@@ -1,0 +1,83 @@
+{
+  "id": "tg-43996",
+  "titulo": "Bolo de laranja com calda",
+  "url": "https://www.tudogostoso.com.br/receita/43996-bolo-de-laranja-com-calda.html",
+  "nota": 4.6,
+  "n_avaliacoes": 435,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de laranja com calda",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 50,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "suco da laranja",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de suco da laranja"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "suco de laranja",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de suco de laranja"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos com o açúcar e a margarina.",
+      "Coloque a farinha e o suco de laranja e bata bem.",
+      "Por último, coloque o fermento.",
+      "Leve ao forno médio preaquecido por, aproximadamente, 35 minutos."
+    ],
+    "Calda": [
+      "Leve os ingredientes ao fogo e deixe ferve até engrossar um pouco.",
+      "Coloque por cima do bolo pronto ainda quente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Forma",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo de laranja com calda. Ingredientes: ovos, farinha de trigo, açúcar, suco da laranja, margarina, fermento, açúcar, suco de laranja. Preparo: Bata os ovos com o açúcar e a margarina. Coloque a farinha e o suco de laranja e bata bem. Por último, coloque o fermento."
+}

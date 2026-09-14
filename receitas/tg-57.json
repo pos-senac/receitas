@@ -1,0 +1,78 @@
+{
+  "id": "tg-57",
+  "titulo": "Quibe assado",
+  "url": "https://www.tudogostoso.com.br/receita/57-quibe-assado.html",
+  "nota": 4.5,
+  "n_avaliacoes": 261,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Quibe assado",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "1kg de carne moída",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "1kg de carne moída"
+    },
+    {
+      "nome": "500g de trigo para quibe",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "500g de trigo para quibe"
+    },
+    {
+      "nome": "cebolas picadinhas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas picadinhas"
+    },
+    {
+      "nome": "tomate picado sem sementes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado sem sementes"
+    },
+    {
+      "nome": "hortelã picadinho a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "hortelã picadinho a gosto"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "pimenta - do - reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta - do - reino"
+    },
+    {
+      "nome": "azeite de oliva",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de azeite de oliva"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Deixar o trigo para quibe de molho por 3 horas.",
+      "Escorrer muito bem e espremer o trigo.",
+      "Misturar os demais ingredientes, se preferir passe por um moedor ou processador antes de assar.",
+      "Estender em uma travessa e passar por cima azeite de oliva."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Espatula",
+    "Forma"
+  ],
+  "texto_para_embedding": "Quibe assado. Ingredientes: 1kg de carne moída, 500g de trigo para quibe, cebolas picadinhas, tomate picado sem sementes, hortelã picadinho a gosto, sal, pimenta - do - reino, azeite de oliva. Preparo: Deixar o trigo para quibe de molho por 3 horas. Escorrer muito bem e espremer o trigo. Misturar os demais ingredientes, se preferir passe por um moedor ou processador antes de assar."
+}

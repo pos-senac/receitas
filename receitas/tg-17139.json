@@ -1,0 +1,89 @@
+{
+  "id": "tg-17139",
+  "titulo": "Abóbora recheada",
+  "url": "https://www.tudogostoso.com.br/receita/17139-abobora-recheada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 143,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Abóbora recheada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "meia abóbora japonesa média",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "meia abóbora japonesa média"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de óleo"
+    },
+    {
+      "nome": "meia cebola picada",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "meia cebola picada"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "queijo minas frescal light cortado em cubos pequenos",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de queijo minas frescal light cortado em cubos pequenos"
+    },
+    {
+      "nome": "peito de peru light cortado em cubos pequenos",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de peito de peru light cortado em cubos pequenos"
+    },
+    {
+      "nome": "maionese light",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de maionese light"
+    },
+    {
+      "nome": "salsinha picada",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de salsinha picada"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 claras"
+    },
+    {
+      "nome": "queijo parmesão light ralado",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de queijo parmesão light ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Retire as sementes da abóbora. Em uma panela grande, coloque a abóbora, cubra com água e cozinhe por 30 minutos ou até ficar macia. Escorra, retire com cuidado a polpa e reserve a casca.",
+      "Preaqueça o forno em temperatura média (180°C).",
+      "Em uma panela média, aqueça o óleo em fogo médio e doure a cebola.",
+      "Junte a polpa da abóbora reservada e o sal. Refogue por 2 minutos.",
+      "Acrescente o queijo, o peito de peru, metade da maionese HELLMANN?S light e a salsinha.",
+      "Misture e transfira para a abóbora reservada. Coloque-a em uma assadeira média (33 x 23 cm) e reserve.",
+      "Na batedeira, bata as claras em neve. Misture delicadamente o restante da maionese HELLMANN?S light, sem bater. Espalhe sobre o recheio da abóbora e polvilhe o queijo ralado.",
+      "Leve ao forno por 20 minutos ou até dourar. Sirva em seguida."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Abóbora recheada. Ingredientes: meia abóbora japonesa média, óleo, meia cebola picada, sal, queijo minas frescal light cortado em cubos pequenos, peito de peru light cortado em cubos pequenos, maionese light, salsinha picada, claras, queijo parmesão light ralado. Preparo: Retire as sementes da abóbora. Em uma panela grande, coloque a abóbora, cubra com água e cozinhe por 30 minutos ou até ficar macia. Escorra, retire com cuidado a polpa e reserve a casca. Preaqueça o forno em temperatura média (180°C). Em uma panela média, aqueça o óleo em fogo médio e doure a cebola."
+}

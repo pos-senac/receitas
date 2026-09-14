@@ -1,0 +1,79 @@
+{
+  "id": "tg-178357",
+  "titulo": "Pão caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/178357-pao-caseiro.html",
+  "nota": 4.8,
+  "n_avaliacoes": 845,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão caseiro",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 90,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo aproximadamente",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo aproximadamente"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de leite morno"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água morna"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "fermento biológico seco",
+      "quantidade": "10",
+      "unidade": "g",
+      "texto_original": "10 g de fermento biológico seco"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, dissolva o fermento no açúcar e acrescente o sal, os ingredientes líquidos, os ovos e misture muito bem.",
+      "Acrescente aos poucos a farinha até formar uma massa macia e sove bem a massa.",
+      "Deixe a massa descansar por aproximadamente 1 hora.",
+      "Após o crescimento, divida a massa, enrole da forma que desejar, coloque nas formas e deixe crescer até dobrar de volume.",
+      "Leve para assar em forno médio (200° C), preaquecido, por aproximadamente 30 minutos.",
+      "Retire o pão do forno e pincele leite para a casca ficar mais macia."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Bowl"
+  ],
+  "texto_para_embedding": "Pão caseiro. Ingredientes: farinha de trigo aproximadamente, leite morno, água morna, óleo, açúcar, sal, ovos, fermento biológico seco. Preparo: Em uma tigela, dissolva o fermento no açúcar e acrescente o sal, os ingredientes líquidos, os ovos e misture muito bem. Acrescente aos poucos a farinha até formar uma massa macia e sove bem a massa. Deixe a massa descansar por aproximadamente 1 hora."
+}

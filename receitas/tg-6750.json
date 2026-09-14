@@ -1,0 +1,104 @@
+{
+  "id": "tg-6750",
+  "titulo": "Pavê de morangos",
+  "url": "https://www.tudogostoso.com.br/receita/6750-pave-de-morangos.html",
+  "nota": 4.6,
+  "n_avaliacoes": 133,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pavê de morangos",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "biscoito wafle (morango ou chocolate)",
+      "quantidade": "1",
+      "unidade": "pacote (200g)",
+      "texto_original": "1 pacote (200g) de biscoito wafle (morango ou chocolate)"
+    },
+    {
+      "nome": "Suco de 1 laranja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1 laranja"
+    },
+    {
+      "nome": "160g de suspirinho (merenguinho assado)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "160g de suspirinho (merenguinho assado)"
+    },
+    {
+      "nome": "500g de morangos picados (separe alguns p/ enfeitar)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "500g de morangos picados (separe alguns p/ enfeitar)"
+    },
+    {
+      "nome": "300g de creme de leite fresco (nata)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "300g de creme de leite fresco (nata)"
+    },
+    {
+      "nome": "sopa de açúcar de confeiteiro",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de açúcar de confeiteiro"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "gemas peneiradas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas peneiradas"
+    },
+    {
+      "nome": "sopa de açúcar de baunilha",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de açúcar de baunilha"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de amido de milho"
+    },
+    {
+      "nome": "Chocolate granulado branco",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Chocolate granulado branco"
+    },
+    {
+      "nome": "morangos inteiros",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 morangos inteiros"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "dissolva o amido de milho no leite e junte todos os demais ingredientes do creme, leve ao fogo, mexendo sempre, até engrossar e deixe esfriar.",
+      "Bata o creme-de-leite fresco com o açúcar confeiteiro, até o ponto de chantilly, é rápido, cuidado para não virar manteiga.",
+      "Coloque uma parte do creme dentro de um refratário e depois acomode o biscoito wafle em pé , em toda a volta , se precisar , quebre um lado do biscoito para ficar na altura do prato e espalhe o biscoito que sobrar.",
+      "No fundo do prato, cubra com metade do morango , suspiro, suco de laranja , mais morango e depois com o restante do creme de baunilha.",
+      "Espalhe o chantilly , decore com chocolate granulado branco e morangos inteiros."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pavê de morangos. Ingredientes: biscoito wafle (morango ou chocolate), Suco de 1 laranja, 160g de suspirinho (merenguinho assado), 500g de morangos picados (separe alguns p/ enfeitar), 300g de creme de leite fresco (nata), sopa de açúcar de confeiteiro, leite condensado, leite, gemas peneiradas, sopa de açúcar de baunilha, sopa de amido de milho, Chocolate granulado branco, morangos inteiros. Preparo: dissolva o amido de milho no leite e junte todos os demais ingredientes do creme, leve ao fogo, mexendo sempre, até engrossar e deixe esfriar. Bata o creme-de-leite fresco com o açúcar confeiteiro, até o ponto de chantilly, é rápido, cuidado para não virar manteiga. Coloque uma parte do creme dentro de um refratário e depois acomode o biscoito wafle em pé , em toda a volta , se precisar , quebre um lado do biscoito para ficar na altura do prato e espalhe o biscoito que sobrar."
+}

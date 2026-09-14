@@ -1,0 +1,61 @@
+{
+  "id": "tg-57866",
+  "titulo": "Biscoito de polvilho frito",
+  "url": "https://www.tudogostoso.com.br/receita/57866-biscoito-de-polvilho-frito.html",
+  "nota": 4.2,
+  "n_avaliacoes": 137,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de polvilho frito",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 60,
+  "ingredientes": [
+    {
+      "nome": "polvilho doce",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de polvilho doce"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "água morna para dar o ponto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "água morna para dar o ponto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha, adicione o sal e o polvilho e misture-os, depois aqueça a água e reserve.",
+      "Ferva o leite e a margarina, depois escalde o polvilho com a margarina e o leite fervido.",
+      "Quando esfriar, adicione o ovo e misture, depois acrescente a água morna aos poucos até a massa dar liga.",
+      "Enrole os biscoitos sem apertá-los demais, depois coloque o óleo em várias panelas para fritá-los em óleo frio e não estourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Biscoito de polvilho frito. Ingredientes: polvilho doce, leite, margarina, sal, ovo, água morna para dar o ponto. Preparo: Em uma vasilha, adicione o sal e o polvilho e misture-os, depois aqueça a água e reserve. Ferva o leite e a margarina, depois escalde o polvilho com a margarina e o leite fervido. Quando esfriar, adicione o ovo e misture, depois acrescente a água morna aos poucos até a massa dar liga."
+}

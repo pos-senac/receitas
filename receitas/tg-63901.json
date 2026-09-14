@@ -1,0 +1,77 @@
+{
+  "id": "tg-63901",
+  "titulo": "Pão caseiro leve e fácil",
+  "url": "https://www.tudogostoso.com.br/receita/63901-pao-caseiro-leve-e-facil.html",
+  "nota": 4.6,
+  "n_avaliacoes": 163,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão caseiro leve e fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "7",
+      "unidade": "colheres",
+      "texto_original": "7 colheres de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal"
+    },
+    {
+      "nome": "requeijão água morna",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de requeijão água morna"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "fermento seco",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) fermento seco"
+    },
+    {
+      "nome": "a 6 xícaras de farinha trigo",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 a 6 xícaras de farinha trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva o fermento na água morna.",
+      "Acrescente os ingredientes um por um, por último a farinha de trigo.",
+      "Misture até soltar das mãos, sovando bem a massa.",
+      "Coloque em uma bacia e deixe descansar por 30 minutos ou mais.",
+      "Faça 2 pães grandes, coloque na forma enfarinhada.",
+      "Leve para assar no forno pré-aquecido até dourar.",
+      "Fica muito fofinho e gostoso."
+    ]
+  },
+  "utensilios": [
+    "Refratário",
+    "Colher de silicone",
+    "Faca de pão",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Pão caseiro leve e fácil. Ingredientes: ovo, açúcar, sal, requeijão água morna, óleo, fermento seco, a 6 xícaras de farinha trigo. Preparo: Dissolva o fermento na água morna. Acrescente os ingredientes um por um, por último a farinha de trigo. Misture até soltar das mãos, sovando bem a massa."
+}

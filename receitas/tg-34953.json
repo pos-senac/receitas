@@ -1,0 +1,71 @@
+{
+  "id": "tg-34953",
+  "titulo": "Bolo de chocolate sem leite",
+  "url": "https://www.tudogostoso.com.br/receita/34953-bolo-de-chocolate-sem-leite.html",
+  "nota": 4.4,
+  "n_avaliacoes": 122,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate sem leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "nescau",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de nescau"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara óleo"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água morna"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sopa rasa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa rasa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misturar tudo até ficar homogêneo.",
+      "Colocar em uma forma untada.",
+      "Levar ao forno médio, pré - aquecido, por aproximadamente 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Formo de bolo",
+    "Fouet",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo de chocolate sem leite. Ingredientes: farinha, açúcar, nescau, óleo, água morna, ovos, sopa rasa de fermento em pó. Preparo: Misturar tudo até ficar homogêneo. Colocar em uma forma untada. Levar ao forno médio, pré - aquecido, por aproximadamente 40 minutos."
+}

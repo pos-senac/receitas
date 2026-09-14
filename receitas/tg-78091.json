@@ -1,0 +1,69 @@
+{
+  "id": "tg-78091",
+  "titulo": "Omelete de forno sem óleo",
+  "url": "https://www.tudogostoso.com.br/receita/78091-omelete-de-forno-sem-oleo.html",
+  "nota": 4.5,
+  "n_avaliacoes": 174,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Omelete de forno sem óleo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "ovos batidos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos batidos"
+    },
+    {
+      "nome": "tomate picado em cubinhos (não muito maduro) e sem semente",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado em cubinhos (não muito maduro) e sem semente"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picadinha"
+    },
+    {
+      "nome": "presunto picadinho ou peito de perú",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de presunto picadinho ou peito de perú"
+    },
+    {
+      "nome": "Manjericão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Manjericão a gosto"
+    },
+    {
+      "nome": "Parmesão ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Parmesão ralado"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma forma anti-aderente não muito comprida junte os ingredientes: ovos batidos, cebola picada, tomate picado, presunto ou peito de perú picado, sal e o manjericão.",
+      "Mexa bem e por cima coloque um pouco de queijo parmesão ralado.",
+      "Coloque a forma na parte superior do forno, em temperatura média para cozinhar bem.",
+      "Em menos de 10 minutos sua omelete estará pronta, gratinada e não grudará na forma.",
+      "Serve bem 2 pessoas.",
+      "E o melhor de tudo: sem uma gota de óleo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Omelete de forno sem óleo. Ingredientes: ovos batidos, tomate picado em cubinhos (não muito maduro) e sem semente, cebola picadinha, presunto picadinho ou peito de perú, Manjericão a gosto, Parmesão ralado, Sal a gosto. Preparo: Em uma forma anti-aderente não muito comprida junte os ingredientes: ovos batidos, cebola picada, tomate picado, presunto ou peito de perú picado, sal e o manjericão. Mexa bem e por cima coloque um pouco de queijo parmesão ralado. Coloque a forma na parte superior do forno, em temperatura média para cozinhar bem."
+}

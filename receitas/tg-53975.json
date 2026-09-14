@@ -1,0 +1,74 @@
+{
+  "id": "tg-53975",
+  "titulo": "Bolo de banana com farinha de rosca",
+  "url": "https://www.tudogostoso.com.br/receita/53975-bolo-de-banana-com-farinha-de-rosca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 109,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana com farinha de rosca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "óleo, mais ou menos 80 ml",
+      "quantidade": "3/4",
+      "unidade": "xícara",
+      "texto_original": "3/4 xícara de óleo, mais ou menos 80 ml"
+    },
+    {
+      "nome": "bananas nanica",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 bananas nanica"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de rosca"
+    },
+    {
+      "nome": "sopa/rasa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher sopa/rasa de fermento em pó"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de açúcar"
+    },
+    {
+      "nome": "Açúcar e canela para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Açúcar e canela para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador, menos a farinha de rosca e o fermento em pó.",
+      "Após bater junte a farinha de rosca e o fermento em pó, coloque em assadeira untada e povilhada com a farinha de rosca.",
+      "Salpique o açúcar com a canela.",
+      "Leve para assar em forno médio, pré-aquecido, por cerca de 40 minutos, depende de cada forno."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher de silicone",
+    "Faca",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de banana com farinha de rosca. Ingredientes: ovos, óleo, mais ou menos 80 ml, bananas nanica, farinha de rosca, sopa/rasa de fermento em pó, chá de açúcar, Açúcar e canela para polvilhar. Preparo: Bata todos os ingredientes no liquidificador, menos a farinha de rosca e o fermento em pó. Após bater junte a farinha de rosca e o fermento em pó, coloque em assadeira untada e povilhada com a farinha de rosca. Salpique o açúcar com a canela."
+}

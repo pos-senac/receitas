@@ -1,0 +1,98 @@
+{
+  "id": "tg-6592",
+  "titulo": "Torta de Pão de Forma",
+  "url": "https://www.tudogostoso.com.br/receita/6592-torta-de-pao-de-forma.html",
+  "nota": 4.6,
+  "n_avaliacoes": 254,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de Pão de Forma",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "pão de forma de sua preferência",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de pão de forma de sua preferência"
+    },
+    {
+      "nome": "molho de tomate de sua preferência",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate de sua preferência"
+    },
+    {
+      "nome": "azeitonas sem caroço e picadinhas",
+      "quantidade": "15",
+      "unidade": null,
+      "texto_original": "15 azeitonas sem caroço e picadinhas"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "presunto picado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de presunto picado"
+    },
+    {
+      "nome": "mussarela em fatias",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de mussarela em fatias"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "2 e 1/2 xícaras de leite"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de margarina"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de galinha"
+    },
+    {
+      "nome": "Orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano a gosto"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador bata o leite, a margarina, a farinha de trigo, o caldo de galinha.",
+      "Coloque em uma panela e leve ao forno, mexendo até engrossar.",
+      "Reserve. Forre um tabuleiro grande com o pão de forma, coloque por cima o creme branco que foi reservado, por cima, coloque o molho de tomate, em seguida, o milho, a azeitona, o presunto. E finalize colocando por cima de tudo as fatias de queijo e salpique o orégano. Leve ao forno até que o queijo derreta e doure.",
+      "Obs: O presunto pode ser substituído por outro tipo de carne (ex: frango desfiado, carne de panela desfiada, calabresa triturada) ou pode ser retirado caso não queira acrescentar algum tipo de carne.",
+      "O molho de tomate também pode ser substituído por um caseiro (3 tomates grandes, 1 cebola grande, 3 dentes de alho, sal a gosto). Pique tudo do tamanho que desejar ou bata tudo no liquidificador. Leve ao fogo até reduzir de volume."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de Pão de Forma. Ingredientes: pão de forma de sua preferência, molho de tomate de sua preferência, azeitonas sem caroço e picadinhas, milho verde, presunto picado, mussarela em fatias, leite, sopa de margarina, sopa de farinha de trigo, caldo de galinha, Orégano a gosto, Sal a gosto. Preparo: No liquidificador bata o leite, a margarina, a farinha de trigo, o caldo de galinha. Coloque em uma panela e leve ao forno, mexendo até engrossar. Reserve. Forre um tabuleiro grande com o pão de forma, coloque por cima o creme branco que foi reservado, por cima, coloque o molho de tomate, em seguida, o milho, a azeitona, o presunto. E finalize colocando por cima de tudo as fatias de queijo e salpique o orégano. Leve ao forno até que o queijo derreta e doure."
+}

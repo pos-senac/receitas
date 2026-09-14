@@ -1,0 +1,89 @@
+{
+  "id": "tg-105428",
+  "titulo": "Bolo verde de limão",
+  "url": "https://www.tudogostoso.com.br/receita/105428-bolo-verde-de-limao.html",
+  "nota": 4.8,
+  "n_avaliacoes": 186,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo verde de limão",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "açúcar, não muito cheios",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de açúcar, não muito cheios"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "gelatina de limão",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina de limão"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de Fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de Fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "Suco de 3 limões",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 3 limões"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Bata no liquidificador os ovos inteiros, o óleo e o açúcar (bem batidos).",
+      "Coloque a gelatina e continue batendo até dissolver.",
+      "Despeje em uma tigela e acrescente a farinha e o fermento em pó, mexendo sempre, colocando o leite.",
+      "Coloque em assadeira untada e polvilhada com farinha.",
+      "Depois de assado e ainda quente, fure com o garfo."
+    ],
+    "Cobertura": [
+      "Bata no liquidificador ou na mão o leite condensado com suco de 3 limões até formar uma cobertura homogênea.",
+      "Cubra o bolo quando o mesmo estiver frio."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Formo de bolo",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Bolo verde de limão. Ingredientes: ovos, óleo, açúcar, não muito cheios, leite, gelatina de limão, farinha de trigo, sopa de Fermento em pó, leite condensado, Suco de 3 limões. Preparo: Bata no liquidificador os ovos inteiros, o óleo e o açúcar (bem batidos). Coloque a gelatina e continue batendo até dissolver. Despeje em uma tigela e acrescente a farinha e o fermento em pó, mexendo sempre, colocando o leite."
+}

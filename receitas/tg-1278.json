@@ -1,0 +1,61 @@
+{
+  "id": "tg-1278",
+  "titulo": "Frango cremoso",
+  "url": "https://www.tudogostoso.com.br/receita/1278-frango-cremoso.html",
+  "nota": 4.6,
+  "n_avaliacoes": 905,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango cremoso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "peito de frango (filé de peito) limpos e sem pele",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de peito de frango (filé de peito) limpos e sem pele"
+    },
+    {
+      "nome": "creme de leite com soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite com soro"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": "pacote (sopa)",
+      "texto_original": "1 pacote (sopa) de cebola"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "milho com água",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho com água"
+    },
+    {
+      "nome": "batata palha para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "batata palha para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Arrume os pedaços de frango em um refratário de vidro que possa ir ao forno.",
+      "Bata no liquidificador todos os outros ingredientes menos a batata.",
+      "Jogue esse creme por cima do frango e leve ao forno pré aquecido por uns 30 minutos.",
+      "Coloque um pouco de batata palha por cima, volte ao forno por mais uns 5 minutos e sirva com arroz branco."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango cremoso. Ingredientes: peito de frango (filé de peito) limpos e sem pele, creme de leite com soro, cebola, requeijão, milho com água, batata palha para polvilhar. Preparo: Arrume os pedaços de frango em um refratário de vidro que possa ir ao forno. Bata no liquidificador todos os outros ingredientes menos a batata. Jogue esse creme por cima do frango e leve ao forno pré aquecido por uns 30 minutos."
+}

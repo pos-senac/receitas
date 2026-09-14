@@ -1,0 +1,74 @@
+{
+  "id": "tg-24805",
+  "titulo": "Torta de liquidificador salgada",
+  "url": "https://www.tudogostoso.com.br/receita/24805-torta-de-liquidificador-salgada.html",
+  "nota": 4.8,
+  "n_avaliacoes": 615,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de liquidificador salgada",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 45,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "queijo ralado (50g)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de queijo ralado (50g)"
+    },
+    {
+      "nome": "sal a gosto ou 1 tablete de caldo de galinha, ou carne",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto ou 1 tablete de caldo de galinha, ou carne"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes da massa no liquidificador.",
+      "Recheie a gosto.",
+      "Em uma forma untada, coloque metade da massa do liquidificador.",
+      "Acrescente o recheio.",
+      "Por último, despeje o restante da massa.",
+      "Leve ao forno preaquecido, deixe até dourar."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Liquidificador",
+    "Forma",
+    "Ralador"
+  ],
+  "texto_para_embedding": "Torta de liquidificador salgada. Ingredientes: ovos inteiros, óleo, leite, farinha de trigo, queijo ralado (50g), sal a gosto ou 1 tablete de caldo de galinha, ou carne, fermento em pó. Preparo: Bata todos os ingredientes da massa no liquidificador. Recheie a gosto. Em uma forma untada, coloque metade da massa do liquidificador."
+}

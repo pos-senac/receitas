@@ -1,0 +1,103 @@
+{
+  "id": "tg-56408",
+  "titulo": "Escondidinho de frango diferente",
+  "url": "https://www.tudogostoso.com.br/receita/56408-escondidinho-de-frango-diferente.html",
+  "nota": 4.7,
+  "n_avaliacoes": 240,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Escondidinho de frango diferente",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "batatas grandes",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 batatas grandes"
+    },
+    {
+      "nome": "cebolas picadinhas",
+      "quantidade": "1 e 1/2",
+      "unidade": null,
+      "texto_original": "1 e 1/2 cebolas picadinhas"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colher",
+      "texto_original": "2 colher de manteiga"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de requeijão"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "peito de frango desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango desfiado"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de extrato de tomate"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de queijo ralado"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebola"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Cozinhe as batatas.",
+      "Após cozidas tire a casca e amasse.",
+      "Em uma panela coloque a manteiga e a cebola para fritar e coloque a batata, desligue após 2 minutos. Em uma forma unte com manteiga e espalhe a batata, em cima da batata jogue o requeijão."
+    ],
+    "Recheio:": [
+      "Em uma panela frite alho, cebola e coloque o frango.",
+      "Em seguida tempere com sal, pimenta-do-reino a gosto, jogue o extrato de tomate, depois que ela ferver jogue o creme de leite.",
+      "Espalhe o recheio por cima das batatas e coloque o queijo ralado.",
+      "Deixe no forno por 5 minutos.",
+      "Se quiser adicionar batata palha fica muito bom."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Escondidinho de frango diferente. Ingredientes: batatas grandes, cebolas picadinhas, manteiga, requeijão, sal, peito de frango desfiado, extrato de tomate, creme de leite sem soro, queijo ralado, sal, cebola, pimenta-do-reino a gosto. Preparo: Cozinhe as batatas. Após cozidas tire a casca e amasse. Em uma panela coloque a manteiga e a cebola para fritar e coloque a batata, desligue após 2 minutos. Em uma forma unte com manteiga e espalhe a batata, em cima da batata jogue o requeijão."
+}

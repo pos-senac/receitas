@@ -1,0 +1,88 @@
+{
+  "id": "tg-32494",
+  "titulo": "Torta de frango",
+  "url": "https://www.tudogostoso.com.br/receita/32494-torta-de-frango.html",
+  "nota": 4.9,
+  "n_avaliacoes": 171,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Torta de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "Sal e tempero a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e tempero a gosto"
+    },
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "2",
+      "unidade": "colher",
+      "texto_original": "2 colher de extrato de tomate"
+    },
+    {
+      "nome": "Sal, cebola, orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal, cebola, orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve todos os ingredientes da massa ao liquidificador.",
+      "Bata até ficar uma massa homogênea.",
+      "Despeje em forma untada e reserve.",
+      "Em uma panela, faça um molho com todos os ingredientes.",
+      "Deixe o molho engrossar.",
+      "Despeje sobre a massa com cuidado.",
+      "Leve ao forno a 180º pré - aquecido por mais ou menos 40 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de frango. Ingredientes: trigo, óleo, leite, ovos, fermento em pó, Sal e tempero a gosto, peito de frango cozido e desfiado, milho verde, extrato de tomate, Sal, cebola, orégano a gosto. Preparo: Leve todos os ingredientes da massa ao liquidificador. Bata até ficar uma massa homogênea. Despeje em forma untada e reserve."
+}

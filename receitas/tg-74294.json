@@ -1,0 +1,67 @@
+{
+  "id": "tg-74294",
+  "titulo": "Massa para pizza, esfiha, joelho e outros salgados assados",
+  "url": "https://www.tudogostoso.com.br/receita/74294-massa-para-pizza-esfiha-joelho-e-outros-salgados-assados.html",
+  "nota": 4.6,
+  "n_avaliacoes": 137,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa para pizza, esfiha, joelho e outros salgados assados",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 55,
+  "porcoes": 140,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1,2",
+      "unidade": "Kg",
+      "texto_original": "1,2 Kg de farinha de trigo"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo de soja"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de leite morno"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar refinado"
+    },
+    {
+      "nome": "fermento biológico fresco",
+      "quantidade": "60",
+      "unidade": "g",
+      "texto_original": "60 g de fermento biológico fresco"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma bacia grande suficiente para sovar a massa misture o fermento, o sal e o açúcar até que fique líquido.",
+      "Adicione o leite morno, em seguida o óleo, misture bem.",
+      "Adicione a farinha de trigo amassando bem para que a massa fique bem homogênea.",
+      "Deixe descansar, coberta por um pano bem arejado, por 25 minutos.",
+      "Abra a massa em superfície polvilhada com farinha de trigo.",
+      "Corte do tamanho e forma desejados.",
+      "No caso da pizza, pré-asse depois cubra com seu molho e cobertura preferidos.",
+      "Já para o joelho, esfiha, doguinho de forno etc.",
+      "Recheie, feche, pincele com gema de ovo batida e asse.",
+      "Se for congelar, deixe assar sem corar muito para não queimar ao esquentar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa para pizza, esfiha, joelho e outros salgados assados. Ingredientes: farinha de trigo, óleo de soja, leite morno, sal, açúcar refinado, fermento biológico fresco. Preparo: Em uma bacia grande suficiente para sovar a massa misture o fermento, o sal e o açúcar até que fique líquido. Adicione o leite morno, em seguida o óleo, misture bem. Adicione a farinha de trigo amassando bem para que a massa fique bem homogênea."
+}

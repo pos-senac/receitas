@@ -1,0 +1,78 @@
+{
+  "id": "tg-67900",
+  "titulo": "Bauru de forno com pão de forma",
+  "url": "https://www.tudogostoso.com.br/receita/67900-bauru-de-forno-com-pao-de-forma.html",
+  "nota": 4.7,
+  "n_avaliacoes": 500,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Bauru de forno com pão de forma",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "pão de forma",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de pão de forma"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de maionese"
+    },
+    {
+      "nome": "molho de tomate pronto",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate pronto"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "450",
+      "unidade": "g",
+      "texto_original": "450 g de mussarela"
+    },
+    {
+      "nome": "Rodelas de tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Rodelas de tomate"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte a forma com a maionese.",
+      "Coloque uma camada do pão de forma.",
+      "Em cima do pão coloque um pouco de molho de tomate (cubra todo o pão, mais cuidado para não colocar molho demais e não ficar enjoativo e mole).",
+      "Faça uma camada de presunto e outra de mussarela e coloque rodelas de tomate e o orégano por cima.",
+      "Coloque mais uma camada de pão de forma com o molho de tomate.",
+      "E mais uma camada de presunto, mussarela, tomate e orégano.",
+      "Coloque mais uma camada de mussarela e orégano.",
+      "Leve ao formo por uns 15 minutos para que a mussarela derreta, cuidado pra não queimar o fundo."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Espátula de silicone",
+    "Faca",
+    "Forma",
+    "Forno elétrico",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Bauru de forno com pão de forma. Ingredientes: pão de forma, maionese, molho de tomate pronto, presunto, mussarela, Rodelas de tomate, Orégano. Preparo: Unte a forma com a maionese. Coloque uma camada do pão de forma. Em cima do pão coloque um pouco de molho de tomate (cubra todo o pão, mais cuidado para não colocar molho demais e não ficar enjoativo e mole)."
+}

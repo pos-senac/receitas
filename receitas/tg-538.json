@@ -1,0 +1,60 @@
+{
+  "id": "tg-538",
+  "titulo": "Bolinhos de chuva",
+  "url": "https://www.tudogostoso.com.br/receita/538-bolinhos-de-chuva.html",
+  "nota": 4.6,
+  "n_avaliacoes": 934,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinhos de chuva",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de amido de milho"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata o açúcar com os ovos e junte os demais ingredientes.",
+      "Em uma panela, esquente o óleo e frite às colheradas em fogo baixo.",
+      "Depois de frito, passe os bolinhos em açúcar com canela."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolinhos de chuva. Ingredientes: farinha de trigo, amido de milho, leite, ovos, açúcar, fermento em pó. Preparo: Bata o açúcar com os ovos e junte os demais ingredientes. Em uma panela, esquente o óleo e frite às colheradas em fogo baixo. Depois de frito, passe os bolinhos em açúcar com canela."
+}

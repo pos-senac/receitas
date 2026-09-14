@@ -1,0 +1,142 @@
+{
+  "id": "tg-5861",
+  "titulo": "Torta de frango com massa podre diferente",
+  "url": "https://www.tudogostoso.com.br/receita/5861-torta-de-frango-com-massa-podre-diferente.html",
+  "nota": 4.6,
+  "n_avaliacoes": 114,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Torta de frango com massa podre diferente",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "manteiga com sal",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de manteiga com sal"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "peito de frango sem pele",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango sem pele"
+    },
+    {
+      "nome": "vidro pequeno de azeitonas sem caroço picadas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de azeitonas sem caroço picadas"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "vidro pequeno de champignon",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de champignon"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa molho de tomate"
+    },
+    {
+      "nome": "tomate picado sem semente",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado sem semente"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tablete de caldo de galinha"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picadinha"
+    },
+    {
+      "nome": "alho bem picadinhos ou pouco mais de meia ponta de colher de alho picado em conserva",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho bem picadinhos ou pouco mais de meia ponta de colher de alho picado em conserva"
+    },
+    {
+      "nome": "salsinha e cebolinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha e cebolinha a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "catupiry (opcional)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de catupiry (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Em uma vasilha grande, coloque a manteiga em temperatura ambiente.",
+      "Vá adicionando farinha de trigo e mexendo até dar ponto.",
+      "O sal é a gosto (umas duas pitadas bastam).",
+      "O ponto é quando a massa começa a desgrudar da mão.",
+      "Ela não solta por completo, mas deve estar maleável."
+    ],
+    "Recheio:": [
+      "Cozinhe o frango com um tablete de caldo de galinha.",
+      "Deixe esfriar e desfie.",
+      "Em uma panela, refogue a cebola e o alho, juntando em seguida o frango desfiado.",
+      "Acrescente aos poucos o tomate picado, deixando refogar um pouco mais.",
+      "Quando ele tiver murchado um pouco, coloque as azeitonas, o milho, o caldo de galinha e o molho de tomate.",
+      "Refogue um pouco mais, mexendo sempre.",
+      "Acrescente o champignon e um pouco d'água e deixe ferver, mexendo para que o caldo de galinha se dissolva com mais facilidade.",
+      "Coloque a salsinha, cebolinha e sal a gosto.",
+      "Deixe ferver até ficar quase seco.",
+      "Não deixe secar demais.",
+      "Um pouco de caldo no recheio fica muito bom."
+    ],
+    "Montagem:": [
+      "A massa não tem sustentação para ser aberta por inteiro.",
+      "Faça bolinhas pequenas e aperte-as nas mãos, colocando depois no fundo de uma forma de aro removível.",
+      "Faça isso em todo o fundo e laterais da forma (apenas nas laterais, não precisa colocar em toda a altura, dependendo do tamanho da forma).",
+      "Faça furos na massa colocada ao fundo.",
+      "Com uma concha, espalhe metade do recheio sobre a massa.",
+      "Se for usar o catupiry, coloque-o sobre o recheio e depois cubra com o restante.",
+      "Feche a torta com o restante da massa.",
+      "Pincele um ovo deixa bem coradinha.",
+      "Leve ao forno alto, preaquecido por uns 10 minutos e retire quando a massa estiver dourada (aproximadamente 30 minutos, dependendo do seu forno).",
+      "Desenforme ainda quente e sirva.",
+      "Um bom acompanhamento é arroz branco e batata palha."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de frango com massa podre diferente. Ingredientes: manteiga com sal, farinha de trigo, sal a gosto, peito de frango sem pele, vidro pequeno de azeitonas sem caroço picadas, milho verde, vidro pequeno de champignon, molho de tomate, tomate picado sem semente, tablete de caldo de galinha, cebola picadinha, alho bem picadinhos ou pouco mais de meia ponta de colher de alho picado em conserva, salsinha e cebolinha a gosto, sal a gosto, catupiry (opcional). Preparo: Em uma vasilha grande, coloque a manteiga em temperatura ambiente. Vá adicionando farinha de trigo e mexendo até dar ponto. O sal é a gosto (umas duas pitadas bastam)."
+}

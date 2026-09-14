@@ -1,0 +1,80 @@
+{
+  "id": "tg-145602",
+  "titulo": "Pão caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/145602-pao-caseiro.html",
+  "nota": 4.6,
+  "n_avaliacoes": 184,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 420,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de açúcar"
+    },
+    {
+      "nome": "Menos de 1/2 colher de sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Menos de 1/2 colher de sal"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml de óleo"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de água morna"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml leite morno"
+    },
+    {
+      "nome": "fermento fresco",
+      "quantidade": "30",
+      "unidade": "g",
+      "texto_original": "30 g de fermento fresco"
+    },
+    {
+      "nome": "Farinha de trigo o quanto baste, até desgrudar das mãos (não tem quantidade exata, depende do tamanho dos ovos, temperatura, umidade etc)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo o quanto baste, até desgrudar das mãos (não tem quantidade exata, depende do tamanho dos ovos, temperatura, umidade etc)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture em uma vasilha, o ovo, açúcar, sal, ovo e o fermento, até dissolver bem o fermento, adicione o óleo, leite morno e a água morna, mistura bem.",
+      "Adicione o trigo até desgrudar da bacia e da mão.",
+      "Deixe crescer até dobrar de tamanho. Reparta a Massa em três pedaços e cilindra 40 vezes cada massa e deixe crescer até ficar bem grandão. Asse no fogo a 180°C até dourar.",
+      "Observação: não aquecer o forno antes de assar."
+    ]
+  },
+  "utensilios": [
+    "Colher de pau",
+    "Fogão",
+    "Forma",
+    "Forno elétrico",
+    "Tigela",
+    "Cortador de massa"
+  ],
+  "texto_para_embedding": "Pão caseiro. Ingredientes: ovo, açúcar, Menos de 1/2 colher de sal, óleo, água morna, leite morno, fermento fresco, Farinha de trigo o quanto baste, até desgrudar das mãos (não tem quantidade exata, depende do tamanho dos ovos, temperatura, umidade etc). Preparo: Misture em uma vasilha, o ovo, açúcar, sal, ovo e o fermento, até dissolver bem o fermento, adicione o óleo, leite morno e a água morna, mistura bem. Adicione o trigo até desgrudar da bacia e da mão. Deixe crescer até dobrar de tamanho. Reparta a Massa em três pedaços e cilindra 40 vezes cada massa e deixe crescer até ficar bem grandão. Asse no fogo a 180°C até dourar."
+}

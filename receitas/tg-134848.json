@@ -1,0 +1,71 @@
+{
+  "id": "tg-134848",
+  "titulo": "Molho de tomate caseiro (para congelar)",
+  "url": "https://www.tudogostoso.com.br/receita/134848-molho-de-tomate-caseiro-para-congelar.html",
+  "nota": 4.9,
+  "n_avaliacoes": 132,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Molho de tomate caseiro (para congelar)",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "tomate bem maduro cortado em cubos",
+      "quantidade": "1,5",
+      "unidade": "kg",
+      "texto_original": "1,5 kg de tomate bem maduro cortado em cubos"
+    },
+    {
+      "nome": "cebola média picada em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada em cubos"
+    },
+    {
+      "nome": "médio de alho cortado em 4",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente médio de alho cortado em 4"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de açúcar"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Temperos também a gosto, mas prefiro temperar antes do uso",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Temperos também a gosto, mas prefiro temperar antes do uso"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem os tomates, corte em 8 partes e coloque na panela de pressão (com semente e pele).",
+      "Coloque também a cebola, o alho, o sal e o açúcar.",
+      "Feche a panela de pressão e deixe cozinhar por 15 minutos (após o apito da panela).",
+      "Ao acabar o tempo da pressão, abra a panela e despeje todo o conteúdo no liquidificador.",
+      "Bata tudo até obter um creme pastoso.",
+      "Peneire bem todo o líquido e despeje na panela novamente para poder apurar a água e engrossar o molho. Normalmente faço isso no fogo médio por 15 minutos.",
+      "Deixe esfriar, coloque em potinhos na quantidade que normalmente se usa em uma porcão (para 250 g de macarrão eu uso 200 ml de molho) e leve ao congelador.",
+      "Esta quantidade me rende uns 6 potinhos de 200 g."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela de pressão",
+    "Faca",
+    "Pote hermético",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Molho de tomate caseiro (para congelar). Ingredientes: tomate bem maduro cortado em cubos, cebola média picada em cubos, médio de alho cortado em 4, açúcar, Sal a gosto, Temperos também a gosto, mas prefiro temperar antes do uso. Preparo: Lave bem os tomates, corte em 8 partes e coloque na panela de pressão (com semente e pele). Coloque também a cebola, o alho, o sal e o açúcar. Feche a panela de pressão e deixe cozinhar por 15 minutos (após o apito da panela)."
+}

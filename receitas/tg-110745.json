@@ -1,0 +1,136 @@
+{
+  "id": "tg-110745",
+  "titulo": "Torta de atum de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/110745-torta-de-atum-de-liquidificador.html",
+  "nota": 4.8,
+  "n_avaliacoes": 213,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de atum de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 18,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de amido de milho"
+    },
+    {
+      "nome": "ovos pequenos (ou 2 grandes)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos pequenos (ou 2 grandes)"
+    },
+    {
+      "nome": "½ xícara de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ½ xícara de leite"
+    },
+    {
+      "nome": "½ xícara de óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ xícara de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "Manteiga para untar a forma",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Manteiga para untar a forma"
+    },
+    {
+      "nome": "atum escorrido",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de atum escorrido"
+    },
+    {
+      "nome": "ervilhas (frescas ou congeladas)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de ervilhas (frescas ou congeladas)"
+    },
+    {
+      "nome": "tomate picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado"
+    },
+    {
+      "nome": "½ xícara de mussarela em cubos pequenos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ xícara de mussarela em cubos pequenos"
+    },
+    {
+      "nome": "½ xícara de cebola picada grosseiramente",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ xícara de cebola picada grosseiramente"
+    },
+    {
+      "nome": "Cheiro verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro verde a gosto"
+    },
+    {
+      "nome": "Orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano a gosto"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "azeite de oliva",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de azeite de oliva"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente junte todos os ingredientes do recheio e misture bem.",
+      "No liquidificador ou processador de alimentos, bata todos os ingredientes da massa.",
+      "Despeje metade da massa numa assadeira untada (20x30 ou 30cm de diâmetro).",
+      "Em seguida, espalhe o recheio e cubra com o restante da massa.",
+      "Coloque em forno pré-aquecido e asse por 30 min (aproximadamente) em forno médio, ou até dourar.",
+      "Serve 12 a 18 porções."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Fogão",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Torta de atum de liquidificador. Ingredientes: farinha de trigo, amido de milho, ovos pequenos (ou 2 grandes), ½ xícara de leite, ½ xícara de óleo, fermento em pó, sal, Manteiga para untar a forma, atum escorrido, ervilhas (frescas ou congeladas), tomate picado, ½ xícara de mussarela em cubos pequenos, ½ xícara de cebola picada grosseiramente, Cheiro verde a gosto, Orégano a gosto, Sal a gosto, azeite de oliva. Preparo: Em um recipiente junte todos os ingredientes do recheio e misture bem. No liquidificador ou processador de alimentos, bata todos os ingredientes da massa. Despeje metade da massa numa assadeira untada (20x30 ou 30cm de diâmetro)."
+}

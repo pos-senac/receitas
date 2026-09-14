@@ -1,0 +1,55 @@
+{
+  "id": "tg-11371",
+  "titulo": "Pipoca de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/11371-pipoca-de-chocolate.html",
+  "nota": 4.2,
+  "n_avaliacoes": 138,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pipoca de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "milho para pipoca de boa qualidade",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de milho para pipoca de boa qualidade"
+    },
+    {
+      "nome": "açúcar cristal",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de açúcar cristal"
+    },
+    {
+      "nome": "achocolatado em pó de boa qualidade",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de achocolatado em pó de boa qualidade"
+    },
+    {
+      "nome": "Água",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture o achocolatado com o açúcar.",
+      "Coloque água suficiente para cobrir a mistura.",
+      "Leve ao fogo e mexa sempre para não encaroçar.",
+      "Ferva até ponto de brigadeiro mole.",
+      "Estoure a pipoca. Quando terminar de estourar desligue o fogo, despeje a calda na pipoca com ambas estando quentes e mexa rapidamente a pipoca até cristalizar a calda.",
+      "Obs: Não se preocupe quando você jogar a calda e a pipoca murchar. O que faz a pipoca ficar boa é mexê-la rapidamente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Pipoqueira"
+  ],
+  "texto_para_embedding": "Pipoca de chocolate. Ingredientes: milho para pipoca de boa qualidade, açúcar cristal, achocolatado em pó de boa qualidade, Água. Preparo: Misture o achocolatado com o açúcar. Coloque água suficiente para cobrir a mistura. Leve ao fogo e mexa sempre para não encaroçar."
+}

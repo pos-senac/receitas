@@ -1,0 +1,98 @@
+{
+  "id": "tg-10091",
+  "titulo": "Filé de peixe ao forno",
+  "url": "https://www.tudogostoso.com.br/receita/10091-file-de-peixe-ao-forno.html",
+  "nota": 4.5,
+  "n_avaliacoes": 158,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Filé de peixe ao forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "filé de peixe",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de peixe"
+    },
+    {
+      "nome": "batatas cortadas em rodelas finas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 batatas cortadas em rodelas finas"
+    },
+    {
+      "nome": "cenouras em rodelas finas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras em rodelas finas"
+    },
+    {
+      "nome": "cebola em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola em rodelas"
+    },
+    {
+      "nome": "tomate em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate em rodelas"
+    },
+    {
+      "nome": "alho fatiado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho fatiado"
+    },
+    {
+      "nome": "Coentro a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Coentro a gosto"
+    },
+    {
+      "nome": "Sal pimenta do reino e alecrim a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal pimenta do reino e alecrim a gosto"
+    },
+    {
+      "nome": "Suco de um limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de um limão"
+    },
+    {
+      "nome": "de sopa de vinho branco",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de de sopa de vinho branco"
+    },
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de sopa de azeite"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de molho de tomate"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Preparar uma marinada com o azeite, o suco de limão, o sal, a pimenta, o alecrim e o vinho.",
+      "Coloque as postas de peixe de molho neste tempero e deixe descansar por 30 minutos.",
+      "Descasque e corte as batatas e as cenouras, arrume em uma assadeira untada as batatas e as cenouras cortadas, por cima coloque a cebola em rodelas finas, por cima coloque o alho fatiado, por cima o peixe escorrido do caldo, por cima do peixe as rodelas de tomate, o molho de tomate, o coentro e por último o caldo da marinada do peixe.",
+      "Leve as forno quente por mais ou menos 30 minutos.",
+      "Sirva com arroz branco e salada de alface."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Filé de peixe ao forno. Ingredientes: filé de peixe, batatas cortadas em rodelas finas, cenouras em rodelas finas, cebola em rodelas, tomate em rodelas, alho fatiado, Coentro a gosto, Sal pimenta do reino e alecrim a gosto, Suco de um limão, de sopa de vinho branco, sopa de azeite, molho de tomate. Preparo: Preparar uma marinada com o azeite, o suco de limão, o sal, a pimenta, o alecrim e o vinho. Coloque as postas de peixe de molho neste tempero e deixe descansar por 30 minutos. Descasque e corte as batatas e as cenouras, arrume em uma assadeira untada as batatas e as cenouras cortadas, por cima coloque a cebola em rodelas finas, por cima coloque o alho fatiado, por cima o peixe escorrido do caldo, por cima do peixe as rodelas de tomate, o molho de tomate, o coentro e por último o caldo da marinada do peixe."
+}

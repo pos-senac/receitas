@@ -1,0 +1,62 @@
+{
+  "id": "tg-113143",
+  "titulo": "Massa de panqueca simples",
+  "url": "https://www.tudogostoso.com.br/receita/113143-massa-de-panqueca-simples.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1356,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa de panqueca simples",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador até obter uma consistência cremosa.",
+      "Unte uma frigideira com óleo e despeje uma concha de massa.",
+      "Faça movimentos circulares para que a massa se espalhe por toda a frigideira.",
+      "Espere até a massa se soltar do fundo, vire e deixe fritar do outro lado.",
+      "Acrescente o recheio de sua preferência, enrole e está pronta para servir."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Pincel de silicone",
+    "Concha",
+    "Frigideira funda",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Massa de panqueca simples. Ingredientes: ovo, farinha de trigo, leite, sal, óleo. Preparo: Bata todos os ingredientes no liquidificador até obter uma consistência cremosa. Unte uma frigideira com óleo e despeje uma concha de massa. Faça movimentos circulares para que a massa se espalhe por toda a frigideira."
+}

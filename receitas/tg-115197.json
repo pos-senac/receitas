@@ -1,0 +1,101 @@
+{
+  "id": "tg-115197",
+  "titulo": "Pão de mel macio (receita econômica)",
+  "url": "https://www.tudogostoso.com.br/receita/115197-pao-de-mel-macio-receita-economica.html",
+  "nota": 4.6,
+  "n_avaliacoes": 229,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pão de mel macio (receita econômica)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos inteiros"
+    },
+    {
+      "nome": "mel ou favinho",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de mel ou favinho"
+    },
+    {
+      "nome": "açúcar mascavo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar mascavo"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de chocolate em pó"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de canela em pó"
+    },
+    {
+      "nome": "cravo em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de cravo em pó"
+    },
+    {
+      "nome": "cheias de manteiga ou margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) cheias de manteiga ou margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras (chá)",
+      "texto_original": "4 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "bicarbonato de sódio",
+      "quantidade": "2",
+      "unidade": "colheres (chá)",
+      "texto_original": "2 colheres (chá) de bicarbonato de sódio"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "2",
+      "unidade": "colheres (chá)",
+      "texto_original": "2 colheres (chá) de fermento em pó"
+    },
+    {
+      "nome": "chocolate fracionado para banhar",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de chocolate fracionado para banhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiramente, bata muito bem os ovos na batedeira, até ficar bem espumoso e amarelo claro.",
+      "Depois, adicione o mel, o açúcar, o chocolate, o cravo, a canela, a margarina, o leite e a farinha.Bata muito bem até ficar uma massa totalmente homogênea.",
+      "Por último, adicione o bicarbonato e o fermento e misture a massa à mão, até ficar completamente misturada e homogênea (este é o segredo para a massa além de crescer, não murchar).",
+      "Preaqueça o forno a 180ºC antes de começar a encher as forminhas previamente untadas com margarina ou manteiga.",
+      "Asse por aproximadamente 25 minutos, na mesma temperatura.",
+      "Corte todos os pãezinhos ao meio e recheie com o sabor de sua preferência.",
+      "Banhe-os no chocolate, espere secar bem e embale-os.",
+      "Essa receita pode ser vendida a R$ 2,50 cada pãozinho."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de mel macio (receita econômica). Ingredientes: ovos inteiros, mel ou favinho, açúcar mascavo, chocolate em pó, canela em pó, cravo em pó, cheias de manteiga ou margarina, leite, farinha de trigo, bicarbonato de sódio, fermento em pó, chocolate fracionado para banhar. Preparo: Primeiramente, bata muito bem os ovos na batedeira, até ficar bem espumoso e amarelo claro. Depois, adicione o mel, o açúcar, o chocolate, o cravo, a canela, a margarina, o leite e a farinha.Bata muito bem até ficar uma massa totalmente homogênea. Por último, adicione o bicarbonato e o fermento e misture a massa à mão, até ficar completamente misturada e homogênea (este é o segredo para a massa além de crescer, não murchar)."
+}

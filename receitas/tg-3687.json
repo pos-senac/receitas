@@ -1,0 +1,63 @@
+{
+  "id": "tg-3687",
+  "titulo": "Pudim de leite condensado simples",
+  "url": "https://www.tudogostoso.com.br/receita/3687-pudim-de-leite-condensado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 4147,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pudim de leite condensado simples",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite de vaca",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite de vaca"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos inteiros"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "xícara (chá) de água",
+      "quantidade": "1/3",
+      "unidade": null,
+      "texto_original": "1/3 de xícara (chá) de água"
+    }
+  ],
+  "modo_preparo": {
+    "Calda": [
+      "Em uma panela, misture a água e o açúcar até formar uma calda.",
+      "Unte uma forma com a calda e reserve."
+    ],
+    "Massa": [
+      "Bata todos os ingredientes no liquidificador e despeje na forma caramelizada.",
+      "Leve para assar em banho-maria por 40 minutos.",
+      "Desenforme e sirva."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Panela",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Pudim de leite condensado simples. Ingredientes: leite condensado, leite de vaca, ovos inteiros, açúcar, xícara (chá) de água. Preparo: Em uma panela, misture a água e o açúcar até formar uma calda. Unte uma forma com a calda e reserve. Bata todos os ingredientes no liquidificador e despeje na forma caramelizada."
+}

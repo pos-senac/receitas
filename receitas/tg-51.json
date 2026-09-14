@@ -1,0 +1,52 @@
+{
+  "id": "tg-51",
+  "titulo": "Bolo de banana de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/51-bolo-de-banana-de-liquidificador.html",
+  "nota": 4.3,
+  "n_avaliacoes": 272,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": null,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1/4",
+      "unidade": "xícara",
+      "texto_original": "1/4 xícara de chá de óleo"
+    },
+    {
+      "nome": "bananas nanicas cortadas",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 bananas nanicas cortadas"
+    },
+    {
+      "nome": "chá de farinha de rosca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de rosca"
+    },
+    {
+      "nome": "chá rasas de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá rasas de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liqüidificador os três primeiros ingredientes. Reserve. Misture em um recipiente, os restante dos ingredientes, adicione o reservado e mexa. Coloque em forma untada e polvilhada e leve para assar em forno brando"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de banana de liquidificador. Ingredientes: ovos, chá de óleo, bananas nanicas cortadas, chá de farinha de rosca, chá rasas de açúcar. Preparo: Bata no liqüidificador os três primeiros ingredientes. Reserve. Misture em um recipiente, os restante dos ingredientes, adicione o reservado e mexa. Coloque em forma untada e polvilhada e leve para assar em forno brando"
+}

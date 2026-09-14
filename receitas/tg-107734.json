@@ -1,0 +1,46 @@
+{
+  "id": "tg-107734",
+  "titulo": "Purê de batata simples",
+  "url": "https://www.tudogostoso.com.br/receita/107734-pure-de-batata-simples.html",
+  "nota": 4.7,
+  "n_avaliacoes": 138,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Purê de batata simples",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "batatas grandes e cozidas",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 batatas grandes e cozidas"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse as batatas e coloque em uma panela em fogo baixo, acrescente a manteiga, o leite e o sal e deixe cozinhar até engrossar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Purê de batata simples. Ingredientes: batatas grandes e cozidas, manteiga, leite, Sal a gosto. Preparo: Amasse as batatas e coloque em uma panela em fogo baixo, acrescente a manteiga, o leite e o sal e deixe cozinhar até engrossar."
+}

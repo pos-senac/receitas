@@ -1,0 +1,42 @@
+{
+  "id": "tg-22863",
+  "titulo": "Brigadeiro de creme de leite",
+  "url": "https://www.tudogostoso.com.br/receita/22863-brigadeiro-de-creme-de-leite.html",
+  "nota": 4.6,
+  "n_avaliacoes": 133,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Brigadeiro de creme de leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "nescau",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) de nescau"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o nescau e a manteiga, até que a manteiga derreta completamente.",
+      "Depois de derretida, junte o creme de leite e misture bem.",
+      "Leve para gelar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Brigadeiro de creme de leite. Ingredientes: creme de leite, nescau, manteiga. Preparo: Leve ao fogo o nescau e a manteiga, até que a manteiga derreta completamente. Depois de derretida, junte o creme de leite e misture bem. Leve para gelar."
+}

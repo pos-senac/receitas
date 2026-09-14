@@ -1,0 +1,91 @@
+{
+  "id": "tg-9400",
+  "titulo": "Moqueca de camarão",
+  "url": "https://www.tudogostoso.com.br/receita/9400-moqueca-de-camarao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 262,
+  "categoria": "Receitas camarão",
+  "subcategoria": "Moqueca de camarão",
+  "nivel": "medio",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 20,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "camarão médio",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de camarão médio"
+    },
+    {
+      "nome": "Suco de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1 limão"
+    },
+    {
+      "nome": "café de azeite de dendê",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de café de azeite de dendê"
+    },
+    {
+      "nome": "cebolas médias cortadas em rodelas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas médias cortadas em rodelas"
+    },
+    {
+      "nome": "chá de coentro",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de coentro"
+    },
+    {
+      "nome": "chá de salsinha picada",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de salsinha picada"
+    },
+    {
+      "nome": "cebolinhas verdes cortadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolinhas verdes cortadas"
+    },
+    {
+      "nome": "tomates cortados em rodelas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates cortados em rodelas"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpar os camarões e temperar com sal e o suco de limão.",
+      "Reserve.",
+      "Refogue todos os temperos por 15 minutos no azeite-de-dendê.",
+      "Acrescente os camarões e cozinhe por 5 minutos com a panela tampada.",
+      "Por último, acrescente o leite de coco.",
+      "Sirva com arroz branco."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Moqueca de camarão. Ingredientes: camarão médio, Suco de 1 limão, café de azeite de dendê, cebolas médias cortadas em rodelas, chá de coentro, chá de salsinha picada, cebolinhas verdes cortadas, tomates cortados em rodelas, Sal a gosto, vidro de leite de coco. Preparo: Limpar os camarões e temperar com sal e o suco de limão. Reserve. Refogue todos os temperos por 15 minutos no azeite-de-dendê."
+}

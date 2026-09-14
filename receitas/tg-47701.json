@@ -1,0 +1,87 @@
+{
+  "id": "tg-47701",
+  "titulo": "Feijão preto fácil",
+  "url": "https://www.tudogostoso.com.br/receita/47701-feijao-preto-facil.html",
+  "nota": 4.8,
+  "n_avaliacoes": 214,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Feijão preto fácil",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 70,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "feijão preto de boa qualidade",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de feijão preto de boa qualidade"
+    },
+    {
+      "nome": "litros de água",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 litros de água"
+    },
+    {
+      "nome": "folhas de louro",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 folhas de louro"
+    },
+    {
+      "nome": "a 8 dentes de alho amassados",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 a 8 dentes de alho amassados"
+    },
+    {
+      "nome": "cebola pequena bem picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena bem picadinha"
+    },
+    {
+      "nome": "lingüiça calabresa e/ou paio picada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 lingüiça calabresa e/ou paio picada em rodelas"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de óleo"
+    },
+    {
+      "nome": "tablete de caldo de carne ou costela",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de carne ou costela"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem o feijão e reserve num recipiente plástico.",
+      "Ferva 1 litro de água, junte ao feijão lavado, tampe a vasilha e deixe de molho por uns 30 minutos.",
+      "Passe para a panela de pressão, sem escorrer a água do molho, acrescente os 2 litros de água restantes e o louro.",
+      "Tampe e deixe cozinhar por uns 30 minutos após a panela pegar pressão.",
+      "Em outra panela, aqueça o óleo e refogue a cebola e o alho, acrescente a lingüiça, sempre mexendo para não fritar de um lado só.",
+      "Acrescente o feijão cozido, o caldo de costela e o sal.",
+      "Mexa bem para dissolver o caldo de costela.",
+      "Abaixe o fogo e deixe ferver por uns 10 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Concha",
+    "Panela com cabo"
+  ],
+  "texto_para_embedding": "Feijão preto fácil. Ingredientes: feijão preto de boa qualidade, litros de água, folhas de louro, a 8 dentes de alho amassados, cebola pequena bem picadinha, lingüiça calabresa e/ou paio picada em rodelas, sopa de óleo, tablete de caldo de carne ou costela, Sal a gosto. Preparo: Lave bem o feijão e reserve num recipiente plástico. Ferva 1 litro de água, junte ao feijão lavado, tampe a vasilha e deixe de molho por uns 30 minutos. Passe para a panela de pressão, sem escorrer a água do molho, acrescente os 2 litros de água restantes e o louro."
+}

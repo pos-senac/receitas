@@ -1,0 +1,94 @@
+{
+  "id": "tg-73854",
+  "titulo": "Dobradinha",
+  "url": "https://www.tudogostoso.com.br/receita/73854-dobradinha.html",
+  "nota": 4.4,
+  "n_avaliacoes": 154,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Dobradinha",
+  "nivel": "medio",
+  "custo": null,
+  "tempo_preparo_min": 150,
+  "porcoes": 14,
+  "ingredientes": [
+    {
+      "nome": "bucho em tiras",
+      "quantidade": "4",
+      "unidade": "kg",
+      "texto_original": "4 kg de bucho em tiras"
+    },
+    {
+      "nome": "tomates picados",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 tomates picados"
+    },
+    {
+      "nome": "cebolas picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas picadas"
+    },
+    {
+      "nome": "linguiça calabresa fatiada",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de linguiça calabresa fatiada"
+    },
+    {
+      "nome": "feijão branco",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de feijão branco"
+    },
+    {
+      "nome": "limões",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 limões"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "Cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro-verde a gosto"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "1",
+      "unidade": "lata (130 g)",
+      "texto_original": "1 lata (130 g) de extrato de tomate"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Retire toda a gordura do bucho e leve para ferver em água e suco de 2 limões (após espremer, coloque também os limões).",
+      "Escorrer e lavar o bucho e repetir o processo (é suficiente para retirar todo o cheiro).",
+      "Fritar a cebola em pouco óleo e acrescentar os tomates. Fritar até que murchem.",
+      "Coloque o bucho, o feijão branco (não precisa deixar de molho) e adicione o sal e a pimenta (eu utilizei a branca).",
+      "Coloque água o suficiente e o extrato de tomate e cozinhe na pressão por, mais ou menos, 1 hora e 15 minutos.",
+      "Assim que pegar pressão, abaixe o fogo.",
+      "À parte, frite a calabresa em um fio de óleo.",
+      "Junte a calabresa e o cheiro-verde à dobradinha."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Panela de pressão",
+    "Colher de pau",
+    "Faca"
+  ],
+  "texto_para_embedding": "Dobradinha. Ingredientes: bucho em tiras, tomates picados, cebolas picadas, linguiça calabresa fatiada, feijão branco, limões, Sal a gosto, Pimenta a gosto, Cheiro-verde a gosto, extrato de tomate. Preparo: Retire toda a gordura do bucho e leve para ferver em água e suco de 2 limões (após espremer, coloque também os limões). Escorrer e lavar o bucho e repetir o processo (é suficiente para retirar todo o cheiro). Fritar a cebola em pouco óleo e acrescentar os tomates. Fritar até que murchem."
+}

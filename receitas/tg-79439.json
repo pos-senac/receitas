@@ -1,0 +1,88 @@
+{
+  "id": "tg-79439",
+  "titulo": "Canjica deliciosa com coco",
+  "url": "https://www.tudogostoso.com.br/receita/79439-canjica-deliciosa-com-coco.html",
+  "nota": 4.9,
+  "n_avaliacoes": 179,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Canjica deliciosa com coco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "500 g de canjica de milho",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de 500 g de canjica de milho"
+    },
+    {
+      "nome": "litro e 1/2 de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro e 1/2 de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "garrafinha de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafinha de leite de coco"
+    },
+    {
+      "nome": "50 gramas de coco ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de 50 gramas de coco ralado"
+    },
+    {
+      "nome": "Cravos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cravos"
+    },
+    {
+      "nome": "Canela em pau",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pau"
+    },
+    {
+      "nome": "Canela em pó para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pó para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Na véspera deixe a canjica de molho em uma vasilha com água.",
+      "Cozinhar a canjica em panela de pressão com água.",
+      "Depois de cozida a canjica, escorrer a água.",
+      "Acrescentar o leite, o açúcar, cravos e os paus de canela e deixar cozinhar por mais uns 15 ou 20 minutos, mas não deixe secar o leite, devendo a canjica ficar bem cremosa.",
+      "Colocar o leite condensado, o leite de coco e o coco ralado e deixar no fogo por mais 5 minutos, misturando sempre.",
+      "Acrescentar o creme de leite e em seguida desligue o fogo, misturando muito bem.",
+      "Colocar em travessa funda e polvilhe com canela em pó."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Canjica deliciosa com coco. Ingredientes: 500 g de canjica de milho, litro e 1/2 de leite, açúcar, leite condensado, creme de leite, garrafinha de leite de coco, 50 gramas de coco ralado, Cravos, Canela em pau, Canela em pó para polvilhar. Preparo: Na véspera deixe a canjica de molho em uma vasilha com água. Cozinhar a canjica em panela de pressão com água. Depois de cozida a canjica, escorrer a água."
+}

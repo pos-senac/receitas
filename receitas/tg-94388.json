@@ -1,0 +1,87 @@
+{
+  "id": "tg-94388",
+  "titulo": "Bolinho de mandioca com recheio",
+  "url": "https://www.tudogostoso.com.br/receita/94388-bolinho-de-mandioca-com-recheio.html",
+  "nota": 4.0,
+  "n_avaliacoes": 197,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Bolinho de mandioca com recheio",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "mandioca cozida e amassada ainda quente",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de mandioca cozida e amassada ainda quente"
+    },
+    {
+      "nome": "chá de queijo ralado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de queijo ralado"
+    },
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de azeite"
+    },
+    {
+      "nome": "Salsinha, orégano e sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha, orégano e sal a gosto"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne moída"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "sopa de óleo ou azeite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de óleo ou azeite"
+    },
+    {
+      "nome": "Suco de limão ou vinagre a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de limão ou vinagre a gosto"
+    },
+    {
+      "nome": "tabletes de caldo de carne",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldo de carne"
+    },
+    {
+      "nome": "Salsinha e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha e pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture a mandioca amassada com os demais ingredientes e reserve.",
+      "Para o recheio, refogue a carne moída no óleo ou azeite com o alho e os demais ingredientes.",
+      "Deixe ficar bem sequinha, só coloque a salsinha quando desligar e mexa bem.",
+      "Pegue porções da massa de mandioca, abra na mão, coloque o recheio e feche bem.",
+      "Frite em óleo quente.",
+      "Escorra sobre papel absorvente e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolinho de mandioca com recheio. Ingredientes: mandioca cozida e amassada ainda quente, chá de queijo ralado, sopa de azeite, Salsinha, orégano e sal a gosto, carne moída, alho amassados, sopa de óleo ou azeite, Suco de limão ou vinagre a gosto, tabletes de caldo de carne, Salsinha e pimenta a gosto. Preparo: Misture a mandioca amassada com os demais ingredientes e reserve. Para o recheio, refogue a carne moída no óleo ou azeite com o alho e os demais ingredientes. Deixe ficar bem sequinha, só coloque a salsinha quando desligar e mexa bem."
+}

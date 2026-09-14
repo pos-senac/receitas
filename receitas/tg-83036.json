@@ -1,0 +1,71 @@
+{
+  "id": "tg-83036",
+  "titulo": "Bolo de farinha de milho no liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/83036-bolo-de-farinha-de-milho-no-liquidificador.html",
+  "nota": 4.7,
+  "n_avaliacoes": 108,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de farinha de milho no liquidificador",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "250 ml de leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de 250 ml de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "copos",
+      "texto_original": "1 e 1/2 copos de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "farinha de milho",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de farinha de milho"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de coco ralado"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater todos os ingredientes no liquidificador.",
+      "Usar uma assadeira redonda e untada.",
+      "Pré-aquecer o forno e assar em forno médio, por cerca de 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Copo medidor",
+    "Espátula para bolo",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de farinha de milho no liquidificador. Ingredientes: ovos, 250 ml de leite, açúcar, óleo, farinha de milho, coco ralado, fermento. Preparo: Bater todos os ingredientes no liquidificador. Usar uma assadeira redonda e untada. Pré-aquecer o forno e assar em forno médio, por cerca de 40 minutos, ou até dourar."
+}

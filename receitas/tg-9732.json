@@ -1,0 +1,66 @@
+{
+  "id": "tg-9732",
+  "titulo": "Pudim de leite em pó",
+  "url": "https://www.tudogostoso.com.br/receita/9732-pudim-de-leite-em-po.html",
+  "nota": 4.6,
+  "n_avaliacoes": 470,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de leite em pó",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite em pó",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de leite em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite"
+    },
+    {
+      "nome": "água",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água"
+    },
+    {
+      "nome": "açúcar para caramelizar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de açúcar para caramelizar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o açúcar em uma forma para pudim, leve ao fogo, deixe o açúcar derreter e distribua a calda por toda a forma.",
+      "No liquidificador, misture os demais ingredientes até obter uma lisa e homogênea.",
+      "Despeje a massa na forma reservada e leve ao forno em banho-maria por 50 minutos."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Copo medidor",
+    "Espátula para bolo",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Pudim de leite em pó. Ingredientes: leite em pó, açúcar, ovos, leite, água, açúcar para caramelizar. Preparo: Coloque o açúcar em uma forma para pudim, leve ao fogo, deixe o açúcar derreter e distribua a calda por toda a forma. No liquidificador, misture os demais ingredientes até obter uma lisa e homogênea. Despeje a massa na forma reservada e leve ao forno em banho-maria por 50 minutos."
+}

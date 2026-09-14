@@ -1,0 +1,68 @@
+{
+  "id": "tg-109799",
+  "titulo": "Macarrão talharim de forno",
+  "url": "https://www.tudogostoso.com.br/receita/109799-macarrao-talharim-de-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 227,
+  "categoria": "Receitas macarrão",
+  "subcategoria": "Macarrão talharim de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "macarrão talharim",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de macarrão talharim"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "cubo de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de galinha"
+    },
+    {
+      "nome": "molho pronto",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho pronto"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de mussarela"
+    },
+    {
+      "nome": "litro de água fervida",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de água fervida"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um refratário de vidro, coloque o molho de tomate no fundo.",
+      "Depois coloque o macarrão cru e por cima o requeijão.",
+      "Cubra com presunto e mussarela.",
+      "Em 1 litro de água fervendo junte o caldo de galinha, despeje em cima.",
+      "Cubra com papel alumínio e deixe por 30 minutos no forno."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Macarrão talharim de forno. Ingredientes: macarrão talharim, requeijão, cubo de caldo de galinha, molho pronto, presunto, mussarela, litro de água fervida. Preparo: Em um refratário de vidro, coloque o molho de tomate no fundo. Depois coloque o macarrão cru e por cima o requeijão. Cubra com presunto e mussarela."
+}

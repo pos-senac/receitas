@@ -1,0 +1,101 @@
+{
+  "id": "tg-5083",
+  "titulo": "Pizza rápida de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/5083-pizza-rapida-de-liquidificador.html",
+  "nota": 4.5,
+  "n_avaliacoes": 309,
+  "categoria": "Receitas pizza",
+  "subcategoria": "Pizza rápida de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "copos (americano)",
+      "texto_original": "2 copos (americano) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1 e 1/2",
+      "unidade": "copo",
+      "texto_original": "1 e 1/2 copo de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos inteiros"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "oréganos e queijo parmesão ralado o quanto baste para polvilhar por cima da torta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "oréganos e queijo parmesão ralado o quanto baste para polvilhar por cima da torta"
+    },
+    {
+      "nome": "queijo, presunto e tomate picadinho com orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo, presunto e tomate picadinho com orégano"
+    },
+    {
+      "nome": "atum ou sardinha com cebola picadinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "atum ou sardinha com cebola picadinha"
+    },
+    {
+      "nome": "frango desfiado e temperado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "frango desfiado e temperado a gosto"
+    },
+    {
+      "nome": "palmito",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "palmito"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Unte a forma com manteiga e farinha e coloque metade da massa.",
+      "Acrescente o recheio.",
+      "Coloque o restante da massa por cima.",
+      "Espalhe bem, a camada de massa por ser mole, fica fina, mas a massa cresce.",
+      "Polvilhe queijo parmesão e orégano.",
+      "Coloque para assar em forno preaquecido por 30 minutos ou até que doure."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Cortador de pizza",
+    "Espátula de silicone",
+    "Forno elétrico",
+    "Forma de pizza"
+  ],
+  "texto_para_embedding": "Pizza rápida de liquidificador. Ingredientes: farinha de trigo, leite, óleo, fermento em pó, ovos inteiros, sal a gosto, oréganos e queijo parmesão ralado o quanto baste para polvilhar por cima da torta, queijo, presunto e tomate picadinho com orégano, atum ou sardinha com cebola picadinha, frango desfiado e temperado a gosto, palmito. Preparo: Bata todos os ingredientes no liquidificador. Unte a forma com manteiga e farinha e coloque metade da massa. Acrescente o recheio."
+}

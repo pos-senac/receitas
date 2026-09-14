@@ -1,0 +1,53 @@
+{
+  "id": "tg-4730",
+  "titulo": "Sorvete fácil",
+  "url": "https://www.tudogostoso.com.br/receita/4730-sorvete-facil.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1017,
+  "categoria": "Receitas sorvetes",
+  "subcategoria": "Sorvete fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "gelatina de qualquer sabor",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina de qualquer sabor"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Faça a gelatina normalmente e não leve à geladeira.",
+      "Depois de pronta, ainda quente, coloque no liquidificador junto com o leite condensado e o creme de leite.",
+      "Bata bem.",
+      "Depois leve ao congelador em um refratário tampado para não formar blocos de gelo.",
+      "Depois de congelado, retire do congelador e bata na batedeira para ficar cremoso.",
+      "Volte para o congelador.",
+      "Está pronto! Um sorvete fácil, prático e gostoso."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Liquidificador",
+    "Panela",
+    "Refratário",
+    "Colher de pau",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Sorvete fácil. Ingredientes: leite condensado, creme de leite, gelatina de qualquer sabor. Preparo: Faça a gelatina normalmente e não leve à geladeira. Depois de pronta, ainda quente, coloque no liquidificador junto com o leite condensado e o creme de leite. Bata bem."
+}

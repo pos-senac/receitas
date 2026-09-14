@@ -1,0 +1,73 @@
+{
+  "id": "tg-118043",
+  "titulo": "Bolo Mármore",
+  "url": "https://www.tudogostoso.com.br/receita/118043-bolo-marmore.html",
+  "nota": 4.7,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Bolo Mármore",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de margarina"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite morno"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquitificador bata os ovos, o açúcar e a margarina.",
+      "Acrescente o leite aos poucos e a farinha de trigo, coloque o fermento.",
+      "Coloque metade do bolo na forma redonda.",
+      "Na restante acresente o chocolate em pó e coloque na forma.",
+      "Asse por 45 minutos."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Formo de bolo",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Bolo Mármore. Ingredientes: ovos, açúcar, sopa de margarina, leite morno, farinha de trigo, sopa de chocolate em pó, sopa de fermento em pó. Preparo: No liquitificador bata os ovos, o açúcar e a margarina. Acrescente o leite aos poucos e a farinha de trigo, coloque o fermento. Coloque metade do bolo na forma redonda."
+}

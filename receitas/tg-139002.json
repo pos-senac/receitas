@@ -1,0 +1,62 @@
+{
+  "id": "tg-139002",
+  "titulo": "Sorvete de Gelatina",
+  "url": "https://www.tudogostoso.com.br/receita/139002-sorvete-de-gelatina.html",
+  "nota": 4.3,
+  "n_avaliacoes": 111,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Sorvete de Gelatina",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 420,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "gelatina (sabor de sua preferência)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de gelatina (sabor de sua preferência)"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite (sem soro)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (sem soro)"
+    },
+    {
+      "nome": "água fervente",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água fervente"
+    },
+    {
+      "nome": "água gelada",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água gelada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, coloque a água fervente e dissolva a gelatina.",
+      "Adicione 200 ml de água gelada e misture.",
+      "Transfira para o liquidificador e adcione o leite condensado e o creme de leite e bata por uns 4 minutos.",
+      "Leve ao freezer por 3 horas.",
+      "Retire do freezer e bata na batedeira por 10 minutos.",
+      "Transfira a um recipiente e retorne ao freezer por 4 horas."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Bowl",
+    "Colher para sobremesa",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Sorvete de Gelatina. Ingredientes: gelatina (sabor de sua preferência), leite condensado, creme de leite (sem soro), água fervente, água gelada. Preparo: Em uma tigela, coloque a água fervente e dissolva a gelatina. Adicione 200 ml de água gelada e misture. Transfira para o liquidificador e adcione o leite condensado e o creme de leite e bata por uns 4 minutos."
+}

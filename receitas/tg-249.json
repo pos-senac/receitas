@@ -1,0 +1,63 @@
+{
+  "id": "tg-249",
+  "titulo": "Picanha ao Forno com Sal Grosso",
+  "url": "https://www.tudogostoso.com.br/receita/249-picanha-ao-forno-com-sal-grosso.html",
+  "nota": 4.6,
+  "n_avaliacoes": 889,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Picanha ao Forno com Sal Grosso",
+  "nivel": "facil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 120,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "peça de Picanha com aproximadamente 1 Kg",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peça de Picanha com aproximadamente 1 Kg"
+    },
+    {
+      "nome": "sal grosso",
+      "quantidade": "3",
+      "unidade": "kg",
+      "texto_original": "3 kg de sal grosso"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de manteiga"
+    },
+    {
+      "nome": "sopa de azeite",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de azeite"
+    },
+    {
+      "nome": "cebola (picada)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola (picada)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cubra o fundo de uma assadeira com 1 kg do sal grosso.",
+      "Coloque a picanha com a parte da gordura virada para cima. Dica: a picanha pode ser colocada para assar congelada.",
+      "Cubra a carne com o restante do sal, não deixando nenhuma parte da carne exposta.",
+      "Leve a assadeira para o forno a 200 graus.",
+      "Retire a camada do sal e corte em fatias.",
+      "Aqueça a manteiga junto com o azeite em uma frigideira, frite a cebola por alguns instantes e derrame sobre a picanha preparada."
+    ]
+  },
+  "utensilios": [
+    "Colher de silicone",
+    "Faca",
+    "Forma",
+    "Frigideira funda",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Picanha ao Forno com Sal Grosso. Ingredientes: peça de Picanha com aproximadamente 1 Kg, sal grosso, sopa de manteiga, sopa de azeite, cebola (picada). Preparo: Cubra o fundo de uma assadeira com 1 kg do sal grosso. Coloque a picanha com a parte da gordura virada para cima. Dica: a picanha pode ser colocada para assar congelada. Cubra a carne com o restante do sal, não deixando nenhuma parte da carne exposta."
+}

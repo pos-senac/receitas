@@ -1,0 +1,69 @@
+{
+  "id": "tg-127930",
+  "titulo": "Pão doce caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/127930-pao-doce-caseiro.html",
+  "nota": 4.5,
+  "n_avaliacoes": 104,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão doce caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de margarina"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite morno"
+    },
+    {
+      "nome": "fermento fresco",
+      "quantidade": "30",
+      "unidade": "g",
+      "texto_original": "30 g de fermento fresco"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "700",
+      "unidade": "g",
+      "texto_original": "700 g de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater no liquidificador os seis primeiros ingredientes por 1 minuto.",
+      "Após despeje em uma tigela grande e adicione a farinha de trigo aos poucos, sovando bem a massa, até obter uma massa lisa e macia.",
+      "Deixe crescer até dobrar de volume.",
+      "Abra a massa em espessura fina como se fosse para pizza corte tiras de 6x10 cm mais ou menos, enrole como se fosse um rocambole.",
+      "Coloque na forma um perto do outro.",
+      "Deixe crescer novamente até dobrar de volume, pincele com café coado e leve para assar aproximadamente 35 minutos ou até ficarem dourados."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão doce caseiro. Ingredientes: ovos, sopa de margarina, sal, leite morno, fermento fresco, açúcar, farinha de trigo. Preparo: Bater no liquidificador os seis primeiros ingredientes por 1 minuto. Após despeje em uma tigela grande e adicione a farinha de trigo aos poucos, sovando bem a massa, até obter uma massa lisa e macia. Deixe crescer até dobrar de volume."
+}

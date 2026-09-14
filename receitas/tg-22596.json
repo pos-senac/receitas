@@ -1,0 +1,120 @@
+{
+  "id": "tg-22596",
+  "titulo": "Bolo de amendoim",
+  "url": "https://www.tudogostoso.com.br/receita/22596-bolo-de-amendoim.html",
+  "nota": 4.4,
+  "n_avaliacoes": 110,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de amendoim",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 55,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de margarina"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "meia xícara (chá) de amido de milho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "meia xícara (chá) de amido de milho"
+    },
+    {
+      "nome": "amendoim torrado, sem pele e moído",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de amendoim torrado, sem pele e moído"
+    },
+    {
+      "nome": "meia xícara (chá) de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "meia xícara (chá) de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "claras em neve",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras em neve"
+    },
+    {
+      "nome": "açúcar de confeiteiro",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar de confeiteiro"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de leite"
+    },
+    {
+      "nome": "meia xícara (chá) de amendoim torrado, sem pele e moído",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "meia xícara (chá) de amendoim torrado, sem pele e moído"
+    },
+    {
+      "nome": "Margarina",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Margarina"
+    },
+    {
+      "nome": "Farinha de trigo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Preaqueça o forno em temperatura média (180°C).",
+      "Unte e enfarinhe uma fôrma de furo central grande (25 cm de diâmetro).",
+      "Bata na batedeira o açúcar, as gemas e a margarina até obter uma mistura cremosa.",
+      "Sem parar de bater, acrescente alternadamente, a farinha, o amido de milho, o amendoim e o leite.",
+      "Retire da batedeira e misture delicadamente o fermento e as claras em neve.",
+      "Coloque na fôrma reservada e leve ao forno por 35 minutos ou até que um palito, depois de espetado na massa, saia limpo. Deixe esfriar."
+    ],
+    "Cobertura:": [
+      "Em uma tigela, misture o açúcar e o leite.",
+      "Coloque sobre o bolo, salpique o amendoim e deixe secar. Sirva sem seguida."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Colher de pau",
+    "Formo de bolo",
+    "Panela com cabo"
+  ],
+  "texto_para_embedding": "Bolo de amendoim. Ingredientes: açúcar, gemas, margarina, farinha de trigo, meia xícara (chá) de amido de milho, amendoim torrado, sem pele e moído, meia xícara (chá) de leite, fermento em pó, claras em neve, açúcar de confeiteiro, leite, meia xícara (chá) de amendoim torrado, sem pele e moído, Margarina, Farinha de trigo. Preparo: Preaqueça o forno em temperatura média (180°C). Unte e enfarinhe uma fôrma de furo central grande (25 cm de diâmetro). Bata na batedeira o açúcar, as gemas e a margarina até obter uma mistura cremosa."
+}

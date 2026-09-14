@@ -1,0 +1,81 @@
+{
+  "id": "tg-68773",
+  "titulo": "Rosquinha de Nata",
+  "url": "https://www.tudogostoso.com.br/receita/68773-rosquinha-de-nata.html",
+  "nota": 4.8,
+  "n_avaliacoes": 120,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Rosquinha de Nata",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 14,
+  "ingredientes": [
+    {
+      "nome": "nata",
+      "quantidade": "2",
+      "unidade": "copo (americano)",
+      "texto_original": "2 copo (americano) de nata"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "½ xícara chá de açúcar",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ½ xícara chá de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sopa de fermento em pó para bolo",
+      "quantidade": "2",
+      "unidade": "colher",
+      "texto_original": "2 colher de sopa de fermento em pó para bolo"
+    },
+    {
+      "nome": "Farinha de trigo até o ponto de enrolar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo até o ponto de enrolar"
+    },
+    {
+      "nome": "prato com açúcar cristal para passar um dos lado das rosquinhas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 prato com açúcar cristal para passar um dos lado das rosquinhas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela adicione a nata, a manteiga, o açúcar, e o ovo, misture bem até o açúcar dissolver.",
+      "Em seguida adicione o sal, o fermento e por último acrescente a farinha de trigo aos poucos, sovando bem com a mão, até que a massa solte da mão e esteja no ponto de enrolar.",
+      "Pegue pequenas porções da massa e enrole no formato de bolinha, depois no formato de canudinho e trance a rosquinha.",
+      "Assim que trançar passe um lado da rosquinha em um prato com açúcar, coloque em uma fôrma untada com óleo, com o lado do açúcar para cima.",
+      "Leve para assar em forno médio até dourar.",
+      "Retire as rosquinha ainda quente pois se esfriar elas grudam na fôrma, utilize uma espátula para facilitar.",
+      "Depois de fria guarde em potes com tampa elas duram 15 dias se bem conservadas."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Espatula",
+    "Forma",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Rosquinha de Nata. Ingredientes: nata, sopa de manteiga, ½ xícara chá de açúcar, sal, ovo, sopa de fermento em pó para bolo, Farinha de trigo até o ponto de enrolar, prato com açúcar cristal para passar um dos lado das rosquinhas. Preparo: Em uma tigela adicione a nata, a manteiga, o açúcar, e o ovo, misture bem até o açúcar dissolver. Em seguida adicione o sal, o fermento e por último acrescente a farinha de trigo aos poucos, sovando bem com a mão, até que a massa solte da mão e esteja no ponto de enrolar. Pegue pequenas porções da massa e enrole no formato de bolinha, depois no formato de canudinho e trance a rosquinha."
+}

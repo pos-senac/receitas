@@ -1,0 +1,70 @@
+{
+  "id": "tg-97221",
+  "titulo": "Bife acebolado com molho de maionese",
+  "url": "https://www.tudogostoso.com.br/receita/97221-bife-acebolado-com-molho-de-maionese.html",
+  "nota": 4.6,
+  "n_avaliacoes": 434,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Bife acebolado com molho de maionese",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 2,
+  "ingredientes": [
+    {
+      "nome": "bifes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 bifes"
+    },
+    {
+      "nome": "cebola grande picada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada em rodelas"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "cabeças de alho",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cabeças de alho"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de maionese"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Temper e frite o bife ao seu gosto em uma frigideira.",
+      "Após resguarde os bifes em um refratário ou travessa.",
+      "Na mesma panela dos bifes doure a cebola picada em rodelas, adicione o alho, após adicione a água.",
+      "Deixe cozinhar um pouco, até a cebola amolecer.",
+      "Após feito isso adicione a maionese e deixe engrossar.",
+      "Acrescente em cima dos bifes o creme com as cebolas e está pronto."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Espátula de silicone",
+    "Expremedor de alho",
+    "Faca",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Bife acebolado com molho de maionese. Ingredientes: bifes, cebola grande picada em rodelas, Sal a gosto, cabeças de alho, maionese, água. Preparo: Temper e frite o bife ao seu gosto em uma frigideira. Após resguarde os bifes em um refratário ou travessa. Na mesma panela dos bifes doure a cebola picada em rodelas, adicione o alho, após adicione a água."
+}

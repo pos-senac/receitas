@@ -1,0 +1,62 @@
+{
+  "id": "tg-147813",
+  "titulo": "Mousse de Leite Ninho",
+  "url": "https://www.tudogostoso.com.br/receita/147813-mousse-de-leite-ninho.html",
+  "nota": 4.1,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Mousse de Leite Ninho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 1,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "Leite Ninho",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de Leite Ninho"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "envelope de gelatina sem sabor",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de gelatina sem sabor"
+    },
+    {
+      "nome": "envelope de suco de sua preferência",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de suco de sua preferência"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Hidrate a gelatina em 4 colheres de água morna.",
+      "Misture em um recipiente o creme de leite, o leite condensado, a água e o suco de sua prefrência.",
+      "Acrescente o Leite Ninho®, a gelatina dissolvida e mexa até ficar homogêneo.",
+      "Leve a geladeira por 1 hora.",
+      "Observação: Na receita da foto, eu usei suco de morango."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Mousse de Leite Ninho. Ingredientes: leite condensado, creme de leite, Leite Ninho, água, envelope de gelatina sem sabor, envelope de suco de sua preferência. Preparo: Hidrate a gelatina em 4 colheres de água morna. Misture em um recipiente o creme de leite, o leite condensado, a água e o suco de sua prefrência. Acrescente o Leite Ninho®, a gelatina dissolvida e mexa até ficar homogêneo."
+}

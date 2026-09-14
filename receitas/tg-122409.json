@@ -1,0 +1,105 @@
+{
+  "id": "tg-122409",
+  "titulo": "Bolo farofa de banana",
+  "url": "https://www.tudogostoso.com.br/receita/122409-bolo-farofa-de-banana.html",
+  "nota": 4.6,
+  "n_avaliacoes": 161,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo farofa de banana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de farinha de trigo"
+    },
+    {
+      "nome": "leite (use a medida do leite condensado)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite (use a medida do leite condensado)"
+    },
+    {
+      "nome": "sopa de manteiga (não uso pra diminuir o colesterol)",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga (não uso pra diminuir o colesterol)"
+    },
+    {
+      "nome": "sobremesa de baunilha",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de baunilha"
+    },
+    {
+      "nome": "creme de leite (acrescentar só depois que o creme estiver frio)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (acrescentar só depois que o creme estiver frio)"
+    },
+    {
+      "nome": "Você começa pelo creme pra ele ir esfriando",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Você começa pelo creme pra ele ir esfriando"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de chá de açúcar"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "bananas nanicas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 bananas nanicas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo todos os ingredientes do creme até engrossar. O creme de leite será acrescentado por último, depois que o creme estiver ligeiramente morno.",
+      "Em outra tigela, misture com as mãos todos os ingredientes da farofa até ficar bem soltinha."
+    ],
+    "Montagem:": [
+      "Em uma assadeira untada e enfarinhada coloque metade da farofa. Cubra com banana nanica cortada ao comprido, uma pertinho da outra. Unte todas as bananas com o creme (coloco bastaaaante creme).",
+      "Cubra tudo com a outra metade da farofa e polvilhe canela em pó. Leve ao forno preaquecido a 200°C por 30 minutos. O bolo estará pronto quando bater sobre ele com uma colher e ele estiver um pouquinho crocante!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo farofa de banana. Ingredientes: leite condensado, sopa de farinha de trigo, leite (use a medida do leite condensado), sopa de manteiga (não uso pra diminuir o colesterol), sobremesa de baunilha, creme de leite (acrescentar só depois que o creme estiver frio), Você começa pelo creme pra ele ir esfriando, chá de farinha de trigo, sopa de fermento em pó, ovo, chá de açúcar, sopa de manteiga, bananas nanicas. Preparo: Leve ao fogo todos os ingredientes do creme até engrossar. O creme de leite será acrescentado por último, depois que o creme estiver ligeiramente morno. Em outra tigela, misture com as mãos todos os ingredientes da farofa até ficar bem soltinha. Em uma assadeira untada e enfarinhada coloque metade da farofa. Cubra com banana nanica cortada ao comprido, uma pertinho da outra. Unte todas as bananas com o creme (coloco bastaaaante creme)."
+}

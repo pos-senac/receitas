@@ -1,0 +1,67 @@
+{
+  "id": "tg-153997",
+  "titulo": "Peito de frango ao forno com requeijão",
+  "url": "https://www.tudogostoso.com.br/receita/153997-peito-de-frango-ao-forno-com-requeijao.html",
+  "nota": 4.8,
+  "n_avaliacoes": 108,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Peito de frango ao forno com requeijão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "peito de frango cortado em bifes",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de peito de frango cortado em bifes"
+    },
+    {
+      "nome": "sachê de extrato de tomate",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 sachê de extrato de tomate"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "milho verde escorrida",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde escorrida"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de mussarela"
+    },
+    {
+      "nome": "cheiro-verde e pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde e pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere o peito de frango com cheiro verde, alho, pimenta-do-reino e sal a gosto e reserve.",
+      "Em uma forma unte com 2 colheres de manteira e coloque os bifes de peito de frango arrumadinhos por cima, coloque por cima o extrato de tomate e cubra com papel alumínio e leve ao forno pré-aquecido por 30 minutos.",
+      "Em outro recipiente misture o requeijão com a lata de milho verde escorrida e reserve.",
+      "Retire do forno o peito de frango e jogue por cima o requeijão com o milho verde já misturados, não precisa misturar, por cima coloque as mussarelas e leve ao forno até gratinar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Peito de frango ao forno com requeijão. Ingredientes: peito de frango cortado em bifes, sachê de extrato de tomate, requeijão, milho verde escorrida, mussarela, cheiro-verde e pimenta-do-reino a gosto, manteiga. Preparo: Tempere o peito de frango com cheiro verde, alho, pimenta-do-reino e sal a gosto e reserve. Em uma forma unte com 2 colheres de manteira e coloque os bifes de peito de frango arrumadinhos por cima, coloque por cima o extrato de tomate e cubra com papel alumínio e leve ao forno pré-aquecido por 30 minutos. Em outro recipiente misture o requeijão com a lata de milho verde escorrida e reserve."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tg-67698",
+  "titulo": "Pavê prestígio",
+  "url": "https://www.tudogostoso.com.br/receita/67698-pave-prestigio.html",
+  "nota": 4.7,
+  "n_avaliacoes": 394,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pavê prestígio",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "bolo pronto de chocolate (tipo Pulmann)",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de bolo pronto de chocolate (tipo Pulmann)"
+    },
+    {
+      "nome": "guaraná",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de guaraná"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "chocolate meio amargo",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de chocolate meio amargo"
+    },
+    {
+      "nome": "creme de leite com soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite com soro"
+    },
+    {
+      "nome": "coco ralado e raspas de chocolate para decorar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coco ralado e raspas de chocolate para decorar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo as 2 latas de leite condensado com a margarina e o coco ralado até formar um beijinho em ponto mole.",
+      "Reserve.",
+      "Pique o chocolate e leve ao micro-ondas por 45 segundos.",
+      "Adicione o creme de leite e mexa bem até formar um creme brilhante, a ganache."
+    ],
+    "Montagem": [
+      "Faça camadas alternadas de bolo regado com guaraná, beijinho e ganache de chocolate, finalize com o chocolate e decore com coco ralado e raspas de chocolate."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pavê prestígio. Ingredientes: bolo pronto de chocolate (tipo Pulmann), guaraná, leite condensado, coco ralado, margarina, chocolate meio amargo, creme de leite com soro, coco ralado e raspas de chocolate para decorar. Preparo: Leve ao fogo as 2 latas de leite condensado com a margarina e o coco ralado até formar um beijinho em ponto mole. Reserve. Pique o chocolate e leve ao micro-ondas por 45 segundos."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "tg-80700",
+  "titulo": "Polenta frita crocante",
+  "url": "https://www.tudogostoso.com.br/receita/80700-polenta-frita-crocante.html",
+  "nota": 4.6,
+  "n_avaliacoes": 158,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Polenta frita crocante",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 45,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "fubá mimoso",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de fubá mimoso"
+    },
+    {
+      "nome": "sopa de óleo ou azeite",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de óleo ou azeite"
+    },
+    {
+      "nome": "litro de água fervente",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de água fervente"
+    },
+    {
+      "nome": "sopa de sal",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de sopa de sal"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho amassados"
+    },
+    {
+      "nome": "cebola pequena ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena ralada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva o fubá em 2 copos de água fria.",
+      "Em uma panela em fogo médio adicione o azeite, cebola, alho e o sal. Mexa bem até dourar.",
+      "Em seguida acrescente o fubá já diluído (na água toda), mexendo de preferência com uma colher de pau por mais ou menos 15 minutos, até obter uma consistência bem firme na polenta.",
+      "Despeje em uma travessa e deixe esfriar, corte em pedaços, passe no fubá (com os pedaços ainda mornos) e frite em óleo bem quente."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Colher de pau",
+    "Escumadeira",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Polenta frita crocante. Ingredientes: fubá mimoso, sopa de óleo ou azeite, litro de água fervente, sopa de sal, alho amassados, cebola pequena ralada. Preparo: Dissolva o fubá em 2 copos de água fria. Em uma panela em fogo médio adicione o azeite, cebola, alho e o sal. Mexa bem até dourar. Em seguida acrescente o fubá já diluído (na água toda), mexendo de preferência com uma colher de pau por mais ou menos 15 minutos, até obter uma consistência bem firme na polenta."
+}

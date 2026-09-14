@@ -1,0 +1,85 @@
+{
+  "id": "tg-60712",
+  "titulo": "Polenta na panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/60712-polenta-na-panela-de-pressao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 280,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Polenta na panela de pressão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 25,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "litros de água",
+      "quantidade": "1 e 1/2",
+      "unidade": null,
+      "texto_original": "1 e 1/2 litros de água"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de fubá"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "1",
+      "unidade": "colher (bem cheia)",
+      "texto_original": "1 colher (bem cheia) de margarina ou manteiga"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de azeite"
+    },
+    {
+      "nome": "Temperos a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Temperos a gosto"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de carne moída"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de molho de tomate"
+    },
+    {
+      "nome": "muçarela fatiada",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de muçarela fatiada"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque 1 litro de água na panela de pressão e deixe ferver.",
+      "Acrescente os temperos, pode ser caldo de carne, de legumes, cebola, alho, salsinha etc.",
+      "À parte dissolva o fubá com o restante da água, junte a água que está na panela quando estiver fervendo.",
+      "Coloque a margarina e o azeite, mexa bem, acerte o sal, tampe a panela e deixe no fogo baixo por 15 minutos após começar a chiar.",
+      "Enquanto isso refogue a carne moída do modo que preferir, depois acrescente o molho de tomate e reserve.",
+      "Desligue a panela, tire a pressão, abra, mexa bem, transfira para um pirex e sirva.",
+      "Pode-se colocar metade num pirex, espalhar as fatias de mussarela, colocar o restante da polenta e por cima coloque a carne moída com o molho.",
+      "Sirva imediatamente.",
+      "Essa polenta fica bem molinha, mas se quiser mais dura, basta diminuir a quantidade de água."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Panela de pressão",
+    "Colher de silicone",
+    "Prato fundo",
+    "Fogão",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Polenta na panela de pressão. Ingredientes: litros de água, fubá, margarina ou manteiga, azeite, Temperos a gosto, carne moída, molho de tomate, muçarela fatiada. Preparo: Coloque 1 litro de água na panela de pressão e deixe ferver. Acrescente os temperos, pode ser caldo de carne, de legumes, cebola, alho, salsinha etc. À parte dissolva o fubá com o restante da água, junte a água que está na panela quando estiver fervendo."
+}

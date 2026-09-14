@@ -1,0 +1,73 @@
+{
+  "id": "tg-44199",
+  "titulo": "Molho branco simples",
+  "url": "https://www.tudogostoso.com.br/receita/44199-molho-branco-simples.html",
+  "nota": 4.7,
+  "n_avaliacoes": 694,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Molho branco simples",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "leite frio",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite frio"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga ou margarina"
+    },
+    {
+      "nome": "alho picados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picados"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola média picada"
+    },
+    {
+      "nome": "farinha de trigo (ou maisena)",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de farinha de trigo (ou maisena)"
+    },
+    {
+      "nome": "tablete de caldo de legumes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de legumes"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva a farinha de trigo em 1/2 xícara de leite e reserve.",
+      "Em uma panela, doure o alho e a cebola na margarina.",
+      "Adicione o leite com a farinha, mexa um pouco e acrescente o restante do leite.",
+      "Após fervura, adicione o caldo de legumes.",
+      "Mexa, constantemente, até ficar cremoso."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Fouet",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Molho branco simples. Ingredientes: leite frio, manteiga ou margarina, alho picados, cebola média picada, farinha de trigo (ou maisena), tablete de caldo de legumes, sal a gosto. Preparo: Dissolva a farinha de trigo em 1/2 xícara de leite e reserve. Em uma panela, doure o alho e a cebola na margarina. Adicione o leite com a farinha, mexa um pouco e acrescente o restante do leite."
+}

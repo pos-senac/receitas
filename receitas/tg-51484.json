@@ -1,0 +1,156 @@
+{
+  "id": "tg-51484",
+  "titulo": "Bolo prestígio",
+  "url": "https://www.tudogostoso.com.br/receita/51484-bolo-prestigio.html",
+  "nota": 4.7,
+  "n_avaliacoes": 2293,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo prestígio",
+  "nivel": "dificil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 75,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de chocolate em pó"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "coco ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "coco ralado a gosto"
+    },
+    {
+      "nome": "garrafa de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafa de leite de coco"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de leite"
+    }
+  ],
+  "modo_preparo": {
+    "Bolo": [
+      "Bata no liquidificador, os ovos, o óleo e o leite por 3 minutos e reserve.",
+      "Em um recipiente, misture o açúcar, o trigo, o fermento, o chocolate e o coco ralado a gosto.",
+      "Despeje sobre a mistura do liquidificador e mexa até que a massa fique consistente.",
+      "Despeje a massa em uma forma untada e leve ao forno médio, preaquecido, por 30 minutos ou até que ao enfiar um garfo, este saia limpo.",
+      "Deixe esfriar, corte ao meio e reserve."
+    ],
+    "Calda": [
+      "Em um recipiente, misture o leite de coco, o leite e o açúcar e despeje sobre a massa cortada ao meio para umedecê-la."
+    ],
+    "Recheio": [
+      "Em uma panela, leve o leite condensado, a margarina e o coco ralado ao fogo até desgrudar do fundo."
+    ],
+    "Cobertura": [
+      "Leve a margarina, o açúcar, o chocolate em pó e o leite ao fogo até obter uma consistência firme",
+      "Fure a parte de baixo do bolo com um garfo e despeje com parte da calda."
+    ],
+    "Montagem": [
+      "Aplique o recheio sobre a metade de baixo do bolo",
+      "Coloque a outra metade do bolo sobre o recheio.",
+      "Cubra o bolo com a cobertura de chocolate.",
+      "Leve à geladeira por 45 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Liquidificador",
+    "Assadeira redonda",
+    "Copo medidor",
+    "Espatula"
+  ],
+  "texto_para_embedding": "Bolo prestígio. Ingredientes: ovos, óleo, leite, açúcar, chocolate em pó, farinha de trigo, fermento, coco ralado a gosto, garrafa de leite de coco, leite, açúcar, leite condensado, margarina, coco ralado, margarina, açúcar, chocolate em pó, leite. Preparo: Bata no liquidificador, os ovos, o óleo e o leite por 3 minutos e reserve. Em um recipiente, misture o açúcar, o trigo, o fermento, o chocolate e o coco ralado a gosto. Despeje sobre a mistura do liquidificador e mexa até que a massa fique consistente."
+}

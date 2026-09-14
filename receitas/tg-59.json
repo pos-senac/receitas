@@ -1,0 +1,61 @@
+{
+  "id": "tg-59",
+  "titulo": "Purê de batata simples e fácil",
+  "url": "https://www.tudogostoso.com.br/receita/59-pure-de-batata.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1034,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Purê de batata simples e fácil",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "batata",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batata"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "alho espremido",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho espremido"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe as batatas até ficarem bem moles.",
+      "Descasque-as ainda quentes e esprema as batatas no espremedor.",
+      "Despeje as batatas em um recipiente e acrescente a margarina, o sal e o alho, e mexa até que a margarina derreta por completo.",
+      "Acrescente o leite aos poucos e continue mexendo."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Descascador de legumes",
+    "Espatula",
+    "Expremedor de Batata"
+  ],
+  "texto_para_embedding": "Purê de batata simples e fácil. Ingredientes: batata, leite, margarina, sal a gosto, alho espremido. Preparo: Cozinhe as batatas até ficarem bem moles. Descasque-as ainda quentes e esprema as batatas no espremedor. Despeje as batatas em um recipiente e acrescente a margarina, o sal e o alho, e mexa até que a margarina derreta por completo."
+}

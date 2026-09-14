@@ -1,0 +1,97 @@
+{
+  "id": "tg-25474",
+  "titulo": "Pavê simples de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/25474-pave-simples-de-chocolate.html",
+  "nota": 4.7,
+  "n_avaliacoes": 463,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pavê simples de chocolate",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 140,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite (a mesma medida da lata de creme de leite)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite (a mesma medida da lata de creme de leite)"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de maisena"
+    },
+    {
+      "nome": "chocolate em pó ou achocolatado",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de chocolate em pó ou achocolatado"
+    },
+    {
+      "nome": "biscoito maisena",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "biscoito maisena"
+    },
+    {
+      "nome": "leite para molhar os biscoitos",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "leite para molhar os biscoitos"
+    },
+    {
+      "nome": "raspas de chocolate (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas de chocolate (opcional)"
+    },
+    {
+      "nome": "manteiga sem sal ou margarina, só para dar o ponto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "manteiga sem sal ou margarina, só para dar o ponto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiro, pegue a lata de leite condensado, as gemas, a maisena e o leite.",
+      "Coloque no fogo e deixe até que fique um creme, reserve.",
+      "Coloque a segunda lata de leite condensado com um pouco de margarina e o chocolate.",
+      "Deixe no fogo até ficar um creme tipo brigadeiro.",
+      "Desligue o fogo e junte com o creme de leite."
+    ],
+    "Montagem": [
+      "Coloque primeiro o creme branco.",
+      "Em seguida, mergulhe os biscoitos no leite e coloque sobre o creme branco.",
+      "Depois, coloque o creme preto e acrescente as raspas de chocolate sobre ele.",
+      "Deixe no congelador durante 2 horas."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Pavê simples de chocolate. Ingredientes: creme de leite, leite (a mesma medida da lata de creme de leite), leite condensado, gemas, maisena, chocolate em pó ou achocolatado, biscoito maisena, leite para molhar os biscoitos, raspas de chocolate (opcional), manteiga sem sal ou margarina, só para dar o ponto. Preparo: Primeiro, pegue a lata de leite condensado, as gemas, a maisena e o leite. Coloque no fogo e deixe até que fique um creme, reserve. Coloque a segunda lata de leite condensado com um pouco de margarina e o chocolate."
+}

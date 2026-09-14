@@ -1,0 +1,69 @@
+{
+  "id": "tg-64954",
+  "titulo": "Bolo de trigo fofinho",
+  "url": "https://www.tudogostoso.com.br/receita/64954-bolo-de-trigo-fofinho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 144,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de trigo fofinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "maizena",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de maizena"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de manteiga"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara(chá)",
+      "texto_original": "1 xícara(chá) de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara(chá)",
+      "texto_original": "1 xícara(chá) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Peneire a farinha de  trigo e a maizena e junte os dois.",
+      "Bata as claras em neve e reserve.",
+      "Bata as gemas com o açúcar e a manteiga.",
+      "Misture todos os ingredientes muito bem, deixe as claras em neve e o fermento por último.",
+      "Depois de misturado coloque em forma untada e enfarinhada.",
+      "Leve para assar em forno médio, pré-aquecido, por cerca de 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de trigo fofinho. Ingredientes: farinha de trigo, maizena, manteiga, fermento, ovos, leite, açúcar. Preparo: Peneire a farinha de  trigo e a maizena e junte os dois. Bata as claras em neve e reserve. Bata as gemas com o açúcar e a manteiga."
+}

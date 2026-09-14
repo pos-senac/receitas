@@ -1,0 +1,57 @@
+{
+  "id": "tg-134771",
+  "titulo": "Sagu de vinho",
+  "url": "https://www.tudogostoso.com.br/receita/134771-sagu-de-vinho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 235,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Sagu de vinho",
+  "nivel": "dificil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "sagu",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de sagu"
+    },
+    {
+      "nome": "vinho tinto",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de vinho tinto"
+    },
+    {
+      "nome": "açúcar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar a gosto"
+    },
+    {
+      "nome": "água",
+      "quantidade": "6",
+      "unidade": "xícaras",
+      "texto_original": "6 xícaras de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o sagu em uma travessa com a água e deixe de molho por 15 minutos.",
+      "Depois escorra a água do sagu e o coloque para ferver por uns 10 a 15 minutos só com água, sempre mexendo.",
+      "Dado estes 15 minutos ou assim que algumas bolinhas começarem a ficar transparentes",
+      "Despeje o conteúdo da panela em um escorredor de macarrão e os lave para tirar a gosma resultante do cozimento.",
+      "Enquanto fica escorrendo, coloque na panela o vinho, o açúcar e uma xícara de água.",
+      "Quando começar a ferver, coloque o sagu e espere cozinhar mais uns 15 minutos, até todas as bolas ficarem transparentes.",
+      "Coloque em um recipiente e deixe esfriar."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Escorredor de massa"
+  ],
+  "texto_para_embedding": "Sagu de vinho. Ingredientes: sagu, vinho tinto, açúcar a gosto, água. Preparo: Coloque o sagu em uma travessa com a água e deixe de molho por 15 minutos. Depois escorra a água do sagu e o coloque para ferver por uns 10 a 15 minutos só com água, sempre mexendo. Dado estes 15 minutos ou assim que algumas bolinhas começarem a ficar transparentes"
+}

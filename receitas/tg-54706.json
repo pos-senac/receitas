@@ -1,0 +1,70 @@
+{
+  "id": "tg-54706",
+  "titulo": "Bolo de tapioca",
+  "url": "https://www.tudogostoso.com.br/receita/54706-bolo-de-tapioca.html",
+  "nota": 4.5,
+  "n_avaliacoes": 135,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de tapioca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "tapioca",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de tapioca"
+    },
+    {
+      "nome": "farinha de trigo com fermento (peneirada)",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo com fermento (peneirada)"
+    },
+    {
+      "nome": "açúcar cristal",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar cristal"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos inteiros"
+    },
+    {
+      "nome": "leite de coco",
+      "quantidade": "400",
+      "unidade": "ml",
+      "texto_original": "400 ml de leite de coco"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de manteiga"
+    },
+    {
+      "nome": "sopa de coco ralado (industrializado)",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de coco ralado (industrializado)"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Numa batedeira bata a manteiga com o sal e o açúcar por 5 minutos. Acrescente os ovos um a um e bata até formar um creme esbranquiçado. Acrescente a farinha de trigo e o leite de coco alternadamente continue batendo. Desligue a batedeira e misture delicadamente a tapioca e o coco ralado. Leve ao forno médio, pré-aquecido em forma de buraco no meio (22cm de diâmetro) untada e polvilhada, por 50 minutos, ou quando enfiar  um palito e o mesmo sair limpo. Deixe esfriar, desenforme e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de tapioca. Ingredientes: tapioca, farinha de trigo com fermento (peneirada), açúcar cristal, ovos inteiros, leite de coco, manteiga, sopa de coco ralado (industrializado), sal. Preparo: Numa batedeira bata a manteiga com o sal e o açúcar por 5 minutos. Acrescente os ovos um a um e bata até formar um creme esbranquiçado. Acrescente a farinha de trigo e o leite de coco alternadamente continue batendo. Desligue a batedeira e misture delicadamente a tapioca e o coco ralado. Leve ao forno médio, pré-aquecido em forma de buraco no meio (22cm de diâmetro) untada e polvilhada, por 50 minutos, ou quando enfiar  um palito e o mesmo sair limpo. Deixe esfriar, desenforme e sirva."
+}

@@ -1,0 +1,98 @@
+{
+  "id": "tg-99526",
+  "titulo": "Cupcake de cenoura com cobertura de brigadeiro",
+  "url": "https://www.tudogostoso.com.br/receita/99526-cupcake-de-cenoura-com-cobertura-de-brigadeiro.html",
+  "nota": 4.6,
+  "n_avaliacoes": 176,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Cupcake de cenoura com cobertura de brigadeiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 22,
+  "ingredientes": [
+    {
+      "nome": "cenouras pequenas ou 2 grandes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras pequenas ou 2 grandes"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "¾ xícara de óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "¾ xícara de óleo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "sopa) de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher sopa) de manteiga"
+    },
+    {
+      "nome": "chocolate granulado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de chocolate granulado"
+    }
+  ],
+  "modo_preparo": {
+    "Cupcake:": [
+      "Bater os 4 primeiros ingredientes no liquidificador (cenoura, ovos, sal e óleo).",
+      "À parte, peneire a farinha, o açúcar e o fermento.",
+      "Aos poucos despeje o líquido do liquidificador à massa, mexendo à mão e devagar até misturar bem.",
+      "Asse em forminhas individuais de cupcakes “ou” em forma de buraco no meio.",
+      "Quando estiver pronto cobrir com o brigadeiro e depois com chocolate granulado"
+    ],
+    "Brigadeiro:": [
+      "Numa panela, junte o leite condensado, o chocolate em pó e a manteiga",
+      "Misture bem para dissolver todo o chocolate.",
+      "Leve ao fogo baixo, mexendo sempre até começar a desprender do fundo da panela",
+      "Desligue o fogo, deixe esfriar e coloque no saco de confeitar e decore os cupcakes."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cupcake de cenoura com cobertura de brigadeiro. Ingredientes: cenouras pequenas ou 2 grandes, ovos, sal, ¾ xícara de óleo, farinha de trigo, açúcar, fermento em pó, leite condensado, chocolate em pó, sopa) de manteiga, chocolate granulado. Preparo: Bater os 4 primeiros ingredientes no liquidificador (cenoura, ovos, sal e óleo). À parte, peneire a farinha, o açúcar e o fermento. Aos poucos despeje o líquido do liquidificador à massa, mexendo à mão e devagar até misturar bem."
+}

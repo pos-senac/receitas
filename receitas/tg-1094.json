@@ -1,0 +1,91 @@
+{
+  "id": "tg-1094",
+  "titulo": "Pão integral caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/1094-pao-integral-caseiro.html",
+  "nota": 4.5,
+  "n_avaliacoes": 266,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão integral caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 240,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "água morna",
+      "quantidade": "400",
+      "unidade": "ml",
+      "texto_original": "400 ml de água morna"
+    },
+    {
+      "nome": "fermento fresco para pão",
+      "quantidade": "25",
+      "unidade": "g",
+      "texto_original": "25 g de fermento fresco para pão"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "100",
+      "unidade": "ml",
+      "texto_original": "100 ml de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de sal"
+    },
+    {
+      "nome": "açúcar mascavo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar mascavo"
+    },
+    {
+      "nome": "aveia",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de aveia"
+    },
+    {
+      "nome": "gérmen de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de gérmen de trigo"
+    },
+    {
+      "nome": "semente de linhaça",
+      "quantidade": "1",
+      "unidade": "xícara (café)",
+      "texto_original": "1 xícara (café) de semente de linhaça"
+    },
+    {
+      "nome": "farinha de trigo integral",
+      "quantidade": "2",
+      "unidade": "copos (requeijão)",
+      "texto_original": "2 copos (requeijão) de farinha de trigo integral"
+    },
+    {
+      "nome": "farinha de trigo até dar o ponto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo até dar o ponto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha, misture o fermento com o açúcar e acrescente os outros ingredientes.",
+      "Em uma superfície lisa e enfarinhada, sove bem a massa e deixe crescer até dobrar de volume.",
+      "Modele os pães e coloque em forma de bolo inglês forrada com papel manteiga.",
+      "Deixe crescer novamente.",
+      "Leve ao forno a 200º C, por aproximadamente 25 a 30 minutos (observe, já que o tempo pode ser alterado, dependendo do forno)."
+    ]
+  },
+  "utensilios": [
+    "Papel-manteiga",
+    "Bowl",
+    "Forma",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Pão integral caseiro. Ingredientes: água morna, fermento fresco para pão, óleo, sal, açúcar mascavo, aveia, gérmen de trigo, semente de linhaça, farinha de trigo integral, farinha de trigo até dar o ponto. Preparo: Em uma vasilha, misture o fermento com o açúcar e acrescente os outros ingredientes. Em uma superfície lisa e enfarinhada, sove bem a massa e deixe crescer até dobrar de volume. Modele os pães e coloque em forma de bolo inglês forrada com papel manteiga."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tg-54191",
+  "titulo": "Carne de panela com batata",
+  "url": "https://www.tudogostoso.com.br/receita/54191-carne-de-panela-com-batata.html",
+  "nota": 4.8,
+  "n_avaliacoes": 495,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Carne de panela com batata",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 45,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "carne de acém cortada em cubos grandes",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne de acém cortada em cubos grandes"
+    },
+    {
+      "nome": "óleo de milho",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo de milho"
+    },
+    {
+      "nome": "cebola granulada",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de cebola granulada"
+    },
+    {
+      "nome": "cubos de caldo natural",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubos de caldo natural"
+    },
+    {
+      "nome": "colorau a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "colorau a gosto"
+    },
+    {
+      "nome": "cheiro-verde desidratado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde desidratado a gosto"
+    },
+    {
+      "nome": "água (até cobrir a carne)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "água (até cobrir a carne)"
+    },
+    {
+      "nome": "batatas médias descascadas e cortadas ao meio",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 batatas médias descascadas e cortadas ao meio"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela de pressão coloque o óleo e a cebola, deixe até que ela fique bem moreninha.",
+      "Junte a carne cortada em cubos médios, deixe dourar por 15 minutos.",
+      "Junte os 2 cubos de caldo natural e o colorau a gosto.",
+      "Coloque a água até que cubra a carne, mas não ultrapasse a carne.",
+      "Coloque na pressão por 25 minutos.",
+      "Retire do fogo, tire a pressão e junte as batatas e o cheiro-verde.",
+      "Coloque na pressão novamente, conte 5 minutos após a panela de pressão começar a apitar e desligue o fogo."
+    ]
+  },
+  "utensilios": [
+    "Colher de pau",
+    "Descascador de legumes",
+    "Panela com cabo",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Carne de panela com batata. Ingredientes: carne de acém cortada em cubos grandes, óleo de milho, cebola granulada, cubos de caldo natural, colorau a gosto, cheiro-verde desidratado a gosto, água (até cobrir a carne), batatas médias descascadas e cortadas ao meio. Preparo: Em uma panela de pressão coloque o óleo e a cebola, deixe até que ela fique bem moreninha. Junte a carne cortada em cubos médios, deixe dourar por 15 minutos. Junte os 2 cubos de caldo natural e o colorau a gosto."
+}

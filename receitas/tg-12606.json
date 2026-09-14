@@ -1,0 +1,89 @@
+{
+  "id": "tg-12606",
+  "titulo": "Bolo de achocolatado (nescau) delicioso",
+  "url": "https://www.tudogostoso.com.br/receita/12606-bolo-de-achocolatado-nescau-delicioso.html",
+  "nota": 4.8,
+  "n_avaliacoes": 116,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de achocolatado (nescau) delicioso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "nescau",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de nescau"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "sopa cheia de fermento para bolo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa cheia de fermento para bolo"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo de soja"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "leite quente",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite quente"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "sopa de nescau",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de nescau"
+    },
+    {
+      "nome": "coco ralado (opcional)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Peneire os ingredientes secos em uma vasilha e os misture bem.",
+      "Em seguida adicione o óleo e os ovos inteiros e, por último, o leite quente, batendo a mão até ficar uma massa homogênea.",
+      "Coloque em forma untada e enfarinhada, no forno com temperatura de 180º graus por 40 minutos ou até o palito sair limpo."
+    ],
+    "Cobertura:": [
+      "Em uma panela colocar o leite condensado e o nescau, mexendo até desgrudar do fundo da panela.",
+      "Coloque em cima do bolo ainda quente.",
+      "Se quiser coloque por cima um pacote de coco ralado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de achocolatado (nescau) delicioso. Ingredientes: farinha de trigo, nescau, açúcar, sopa cheia de fermento para bolo, óleo de soja, ovos inteiros, leite quente, leite condensado, sopa de nescau, coco ralado (opcional). Preparo: Peneire os ingredientes secos em uma vasilha e os misture bem. Em seguida adicione o óleo e os ovos inteiros e, por último, o leite quente, batendo a mão até ficar uma massa homogênea. Coloque em forma untada e enfarinhada, no forno com temperatura de 180º graus por 40 minutos ou até o palito sair limpo."
+}

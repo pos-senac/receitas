@@ -1,0 +1,125 @@
+{
+  "id": "tg-7480",
+  "titulo": "Bolo de chocolate fofinho com cobertura de brigadeiro",
+  "url": "https://www.tudogostoso.com.br/receita/7480-bolo-de-chocolate-fofinho-com-cobertura-de-brigadeiro.html",
+  "nota": 4.6,
+  "n_avaliacoes": 251,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate fofinho com cobertura de brigadeiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de açúcar"
+    },
+    {
+      "nome": "chocolate em pó Dr. Oetker",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó Dr. Oetker"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "sopa de chocolate em pó Dr. Oetker",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de chocolate em pó Dr. Oetker"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de margarina"
+    },
+    {
+      "nome": "creme de leite (ou até dar o ponto)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (ou até dar o ponto)"
+    },
+    {
+      "nome": "Coco ralado Dr. Oetker ou chocolate granulado Dr. Oetker ou nozes picadas ou raspas de chocolate a gosto para cobrir",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Coco ralado Dr. Oetker ou chocolate granulado Dr. Oetker ou nozes picadas ou raspas de chocolate a gosto para cobrir"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "sopa de chocolate em pó Dr. Oetker",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de chocolate em pó Dr. Oetker"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata as claras em neve bem firmes, acrescente as gemas uma a uma, o açúcar, e continue batendo. Depois o leite bem aos pouquinhos, desligue e peneire para cima da massa a farinha e o chocolate Dr. Oetker e mexa delicadamente.",
+      "Por último coloque o fermento Dr. Oetker e misture, a massa deve ficar bem leve e fofa parecendo espuma, por isso coloque o leite aos poucos para não perder o ponto.",
+      "Coloque em uma forma (mais ou menos 26x33 cm ou de 30cm de diâmetro) untada e enfarinhada (se preferir unte a forma e polvilhe chocolate em pó Dr. Oetker, substituindo a farinha, assim o bolo ficará mais escrurinho). Asse em forno médio, até que enfiando um palito ele saia limpo, mais ou menos 15 minutos, dependendo do forno."
+    ],
+    "Recheio:": [
+      "Leve ao fogo médio/baixo em uma panela: o leite condensado, o chocolate em pó Dr. Oetker e a margarina até desgrudar da panela (ponto de brigadeiro), espere esfriar e acrescente o creme de leite aos poucos e vá mexendo até ficar bem cremoso e fácil de espalhar."
+    ],
+    "Calda:": [
+      "Misturar tudo e levar em fogo alto até que reduza pela metade."
+    ],
+    "Montagem:": [
+      "Corte o bolo em 2 partes molhe com a calda e recheie e cubra com o recheio de brigadeiro. Polvilhe coco ralado ou nozes ou chocolate granulado ou em raspas e sirva.",
+      "Corte o bolo em 2 partes."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Formo de bolo",
+    "Forno elétrico",
+    "Peneira"
+  ],
+  "texto_para_embedding": "Bolo de chocolate fofinho com cobertura de brigadeiro. Ingredientes: ovos, chá de leite, chá de açúcar, chocolate em pó Dr. Oetker, farinha de trigo, sopa de fermento em pó, leite condensado, sopa de chocolate em pó Dr. Oetker, sopa de margarina, creme de leite (ou até dar o ponto), Coco ralado Dr. Oetker ou chocolate granulado Dr. Oetker ou nozes picadas ou raspas de chocolate a gosto para cobrir, leite, água, sopa de chocolate em pó Dr. Oetker. Preparo: Bata as claras em neve bem firmes, acrescente as gemas uma a uma, o açúcar, e continue batendo. Depois o leite bem aos pouquinhos, desligue e peneire para cima da massa a farinha e o chocolate Dr. Oetker e mexa delicadamente. Por último coloque o fermento Dr. Oetker e misture, a massa deve ficar bem leve e fofa parecendo espuma, por isso coloque o leite aos poucos para não perder o ponto. Coloque em uma forma (mais ou menos 26x33 cm ou de 30cm de diâmetro) untada e enfarinhada (se preferir unte a forma e polvilhe chocolate em pó Dr. Oetker, substituindo a farinha, assim o bolo ficará mais escrurinho). Asse em forno médio, até que enfiando um palito ele saia limpo, mais ou menos 15 minutos, dependendo do forno."
+}

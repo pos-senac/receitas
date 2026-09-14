@@ -1,0 +1,91 @@
+{
+  "id": "tg-157888",
+  "titulo": "Coxa e sobrecoxa de frango assado no forno",
+  "url": "https://www.tudogostoso.com.br/receita/157888-coxa-e-sobrecoxa-de-frango-assado-no-forno.html",
+  "nota": 4.6,
+  "n_avaliacoes": 131,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Coxa e sobrecoxa de frango assado no forno",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 210,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "coxas e sobrecoxas",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de coxas e sobrecoxas"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "açafrão",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de açafrão"
+    },
+    {
+      "nome": "folhas de louro picadas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 folhas de louro picadas"
+    },
+    {
+      "nome": "tomates cortados em 4 partes cada um",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates cortados em 4 partes cada um"
+    },
+    {
+      "nome": "batatinhas médias cortadas em tiras",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 batatinhas médias cortadas em tiras"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    },
+    {
+      "nome": "pote de maionese",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de maionese"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de azeite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture todos os ingredientes com as coxas, menos os tomates e as batatas. Deixe descansando na geladeira por 2 horas.",
+      "Corte o tomate e a batata, reserve.",
+      "Arrume as coxas numa assadeira e por cima espalhe as batatas e os tomates.",
+      "Cubra com papel-alumínio.",
+      "Leve ao forno por 1 hora e após isso retirar o papel-alumínio.",
+      "Deixar por mais meia hora ou até dourar as coxas."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Coxa e sobrecoxa de frango assado no forno. Ingredientes: coxas e sobrecoxas, sal a gosto, pimenta-do-reino a gosto, açafrão, folhas de louro picadas, tomates cortados em 4 partes cada um, batatinhas médias cortadas em tiras, orégano a gosto, pote de maionese, azeite. Preparo: Misture todos os ingredientes com as coxas, menos os tomates e as batatas. Deixe descansando na geladeira por 2 horas. Corte o tomate e a batata, reserve. Arrume as coxas numa assadeira e por cima espalhe as batatas e os tomates."
+}

@@ -1,0 +1,98 @@
+{
+  "id": "tg-2532",
+  "titulo": "Bolo de cenoura com cobertura de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/2532-bolo-de-cenoura-com-cobertura-de-chocolate.html",
+  "nota": 4.5,
+  "n_avaliacoes": 759,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura com cobertura de chocolate",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "cenouras médias",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cenouras médias"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "tampa de fermento para peneirar com o fermento",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tampa de fermento para peneirar com o fermento"
+    },
+    {
+      "nome": "Chocolate amargo em pó",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Chocolate amargo em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de leite"
+    },
+    {
+      "nome": "1/2 colher de margarina",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 colher de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador colocar os ovos, o óleo e as cenouras. bater por 3 minutos para sumir o cheiro dos ovos.",
+      "Em uma vasilha a parte colocar os secos.",
+      "Misturar os dois, mexer bem.",
+      "Levar ao microondas por 10 minutos( em forma apropriada) enquanto isso fazer a calda.",
+      "é so levar tudo ao fogo e mexer sempre até que engrosse.",
+      "se preferir leve ao microondas, mas sempre parando para mexer porque ela cai e pode queimar.",
+      "Colocar em cima do bolo ainda quente.",
+      "Se o bolo for feito na forma de silicone ele sai super fácil passando um pouco de óleo na forma e não quebra."
+    ],
+    "Dicas:": [
+      "Ferva o leite com o achocolatado até obter ponto de calda."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Bowl",
+    "Espátula de silicone",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de cenoura com cobertura de chocolate. Ingredientes: cenouras médias, ovos, chá de óleo, açúcar, farinha de trigo, tampa de fermento para peneirar com o fermento, Chocolate amargo em pó, leite, 1/2 colher de margarina, açúcar. Preparo: No liquidificador colocar os ovos, o óleo e as cenouras. bater por 3 minutos para sumir o cheiro dos ovos. Em uma vasilha a parte colocar os secos. Misturar os dois, mexer bem."
+}

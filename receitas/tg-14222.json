@@ -1,0 +1,46 @@
+{
+  "id": "tg-14222",
+  "titulo": "Costela na pressão com lingüiça",
+  "url": "https://www.tudogostoso.com.br/receita/14222-costela-na-pressao-com-linguica.html",
+  "nota": 4.5,
+  "n_avaliacoes": 335,
+  "categoria": "Receitas porco",
+  "subcategoria": "Costela na pressão com lingüiça",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "e 1/2 de costela",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg e 1/2 de costela"
+    },
+    {
+      "nome": "lingüiça toscana",
+      "quantidade": "800",
+      "unidade": "g",
+      "texto_original": "800 g de lingüiça toscana"
+    },
+    {
+      "nome": "cebola grande cortada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande cortada em rodelas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque toda a cebola cebola no fundo da panela de pressão.",
+      "Corte a costela em pedaços e coloque metade sobre a cebola (a parte que tem mais osso para baixo).",
+      "Coloque metade da lingüiça por cima e faça alguns furos nos gomos.",
+      "Repita a operação e leve no fogo médio alto por mais ou menos 40 a 45 minutos contados a partir do momento que a panela começar a chiar.",
+      "Não adicione água, nem óleo.",
+      "Tire a pressão e saboreie uma deliciosa costela temperada apenas com a lingüiça.",
+      "Deliciosa."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Costela na pressão com lingüiça. Ingredientes: e 1/2 de costela, lingüiça toscana, cebola grande cortada em rodelas. Preparo: Coloque toda a cebola cebola no fundo da panela de pressão. Corte a costela em pedaços e coloque metade sobre a cebola (a parte que tem mais osso para baixo). Coloque metade da lingüiça por cima e faça alguns furos nos gomos."
+}

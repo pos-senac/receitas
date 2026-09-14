@@ -1,0 +1,40 @@
+{
+  "id": "tg-4832",
+  "titulo": "Danoninho de Tang",
+  "url": "https://www.tudogostoso.com.br/receita/4832-danoninho-de-tang.html",
+  "nota": 4.6,
+  "n_avaliacoes": 210,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Danoninho de Tang",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 3,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "tangue de morango",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de tangue de morango"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "lata",
+      "texto_original": "2 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte tudo e coloque no liquidificador. E já está pronto. Leve à geladeira e se delicie com o mais novo danoninho. Obs: Se não for com o refresco Tang não dá certo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Danoninho de Tang. Ingredientes: tangue de morango, leite condensado, creme de leite. Preparo: Junte tudo e coloque no liquidificador. E já está pronto. Leve à geladeira e se delicie com o mais novo danoninho. Obs: Se não for com o refresco Tang não dá certo."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "tg-138603",
+  "titulo": "Misto quente de forno à minha moda",
+  "url": "https://www.tudogostoso.com.br/receita/138603-misto-quente-de-forno-a-minha-moda.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1468,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Misto quente de forno à minha moda",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "Margarina para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Margarina para untar"
+    },
+    {
+      "nome": "pão de forma (sem a casca)",
+      "quantidade": "12",
+      "unidade": "fatias",
+      "texto_original": "12 fatias de pão de forma (sem a casca)"
+    },
+    {
+      "nome": "molho de tomate pronto (coloquei 1 sache de sazon sabor do nordeste)",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de molho de tomate pronto (coloquei 1 sache de sazon sabor do nordeste)"
+    },
+    {
+      "nome": "presunto (ou a gosto)",
+      "quantidade": "6",
+      "unidade": "fatias",
+      "texto_original": "6 fatias de presunto (ou a gosto)"
+    },
+    {
+      "nome": "sopa de requeijão",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de requeijão"
+    },
+    {
+      "nome": "mussarela (ou a gosto)",
+      "quantidade": "12",
+      "unidade": "fatias",
+      "texto_original": "12 fatias de mussarela (ou a gosto)"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1/2",
+      "unidade": "caixa",
+      "texto_original": "1/2 caixa de creme de leite"
+    },
+    {
+      "nome": "tomate grande cortado em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate grande cortado em rodelas"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Unte um refratário com margarina.",
+      "Forre o fundo com 6 fatias de pão de forma.",
+      "Colocar metade do molho de tomate temperado, presunto, camada de requeijão, metade da mussarela, restante do pão de forma, molho de tomate, creme de leite, mussarela, tomate em rodelas, orégano.",
+      "Leve o refratário ao forno até a mussarela derreter (fiz no micro-ondas)"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Misto quente de forno à minha moda. Ingredientes: Margarina para untar, pão de forma (sem a casca), molho de tomate pronto (coloquei 1 sache de sazon sabor do nordeste), presunto (ou a gosto), sopa de requeijão, mussarela (ou a gosto), creme de leite, tomate grande cortado em rodelas, orégano a gosto. Preparo: Unte um refratário com margarina. Forre o fundo com 6 fatias de pão de forma. Colocar metade do molho de tomate temperado, presunto, camada de requeijão, metade da mussarela, restante do pão de forma, molho de tomate, creme de leite, mussarela, tomate em rodelas, orégano."
+}

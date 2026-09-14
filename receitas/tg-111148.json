@@ -1,0 +1,48 @@
+{
+  "id": "tg-111148",
+  "titulo": "Torresmo crocante de panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/111148-torresmo-crocante-de-panela-de-pressao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 110,
+  "categoria": "Receitas porco",
+  "subcategoria": "Torresmo crocante de panela de pressão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "barriga picada em pedaços",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de barriga picada em pedaços"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Cerca de 1/2 litro de óleo (o suficiente para cobrir a carne)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cerca de 1/2 litro de óleo (o suficiente para cobrir a carne)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a barriga picada na panela de pressão e tempere com o sal.",
+      "Acrescente o oleo até cobir a carne e tampe a panela, mas não se esqueça de tirar a borracha, pois não pode pegar pressão.",
+      "Leve ao fogo alto e deixe fritar, vai começar a estourar como pipoca, quando parar de estourar, estará pronto.",
+      "Verifique se esta dourado, retire com uma escumadeira."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Escumadeira",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Torresmo crocante de panela de pressão. Ingredientes: barriga picada em pedaços, Sal a gosto, Cerca de 1/2 litro de óleo (o suficiente para cobrir a carne). Preparo: Coloque a barriga picada na panela de pressão e tempere com o sal. Acrescente o oleo até cobir a carne e tampe a panela, mas não se esqueça de tirar a borracha, pois não pode pegar pressão. Leve ao fogo alto e deixe fritar, vai começar a estourar como pipoca, quando parar de estourar, estará pronto."
+}

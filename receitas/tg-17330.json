@@ -1,0 +1,68 @@
+{
+  "id": "tg-17330",
+  "titulo": "Pudim de leite condensado sem banho-maria",
+  "url": "https://www.tudogostoso.com.br/receita/17330-pudim-de-leite-condensado-sem-banho-maria.html",
+  "nota": 4.6,
+  "n_avaliacoes": 140,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de leite condensado sem banho-maria",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "leite integral (mesma medida do leite condensado)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite integral (mesma medida do leite condensado)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater tudo no liquidificador.",
+      "Inicialmente os ovos (bastante para nao ficar com cheiro forte), depois juntar o leite e o leite condensado.",
+      "Bater bastante.",
+      "Colocar na forma (grande) já com a calda e deixar em forno alto por, aproximadamente, 40 minutos.",
+      "Deixar esfriar totalmente antes de retirar."
+    ],
+    "Calda:": [
+      "Derreter o açúcar e colocque a água aos poucos.",
+      "Quando estiver dourada, colocar na forma.",
+      "Reservar um pouco para jogar em cima do pudim, quando o mesmo estiver pronto."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Papel-alumínio",
+    "Fogão",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Pudim de leite condensado sem banho-maria. Ingredientes: leite condensado, leite integral (mesma medida do leite condensado), ovos, açúcar, água. Preparo: Bater tudo no liquidificador. Inicialmente os ovos (bastante para nao ficar com cheiro forte), depois juntar o leite e o leite condensado. Bater bastante."
+}

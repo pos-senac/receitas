@@ -1,0 +1,94 @@
+{
+  "id": "tg-121412",
+  "titulo": "Torta de maçã",
+  "url": "https://www.tudogostoso.com.br/receita/121412-torta-de-maca.html",
+  "nota": 4.6,
+  "n_avaliacoes": 163,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de maçã",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "bolacha maisena",
+      "quantidade": "1 e 1/2",
+      "unidade": "pacotes",
+      "texto_original": "1 e 1/2 pacotes de bolacha maisena"
+    },
+    {
+      "nome": "margarina sem sal",
+      "quantidade": "120",
+      "unidade": "g",
+      "texto_original": "120 g de margarina sem sal"
+    },
+    {
+      "nome": "maçãs gala sem casca e raladas",
+      "quantidade": "11",
+      "unidade": null,
+      "texto_original": "11 maçãs gala sem casca e raladas"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "9",
+      "unidade": "colheres (sopa)",
+      "texto_original": "9 colheres (sopa) de açúcar refinado"
+    },
+    {
+      "nome": "canela",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de canela"
+    },
+    {
+      "nome": "suco de limão",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) suco de limão"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 gemas"
+    },
+    {
+      "nome": "baunilha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "baunilha a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Triture a bolacha no processador (pode ser no liquidificador) e adicione a margarina até obter uma farofa úmida e homogênea.",
+      "Forre a base de uma forma de fundo removível. Reserve.",
+      "Leve ao fogo médio: a maçã ralada, o açúcar e o limão e cozinhe até a a água secar.",
+      "Acrescente a canela e deixe esfriar e após isso espalhe sobre a base de biscoitos. Reserve.",
+      "Leve ao fogo em uma panela: o leite condensado, as gemas e a baunilha e mexa até engrossar. Desligue o fogo e acrescente o creme de leite.",
+      "Despeje por cima do doce de maçã e polvilhe com canela.",
+      "Leve a torta para assar em forno preaquecido a 180°C por cerca de 20 minutos.",
+      "Sirva gelada."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Espátula para bolo",
+    "Forma com fundo removível"
+  ],
+  "texto_para_embedding": "Torta de maçã. Ingredientes: bolacha maisena, margarina sem sal, maçãs gala sem casca e raladas, açúcar refinado, canela, suco de limão, leite condensado, creme de leite, gemas, baunilha a gosto. Preparo: Triture a bolacha no processador (pode ser no liquidificador) e adicione a margarina até obter uma farofa úmida e homogênea. Forre a base de uma forma de fundo removível. Reserve. Leve ao fogo médio: a maçã ralada, o açúcar e o limão e cozinhe até a a água secar."
+}

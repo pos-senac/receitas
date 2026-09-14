@@ -1,0 +1,136 @@
+{
+  "id": "tg-24645",
+  "titulo": "Bacalhau divino e delicioso",
+  "url": "https://www.tudogostoso.com.br/receita/24645-bacalhau-divino.html",
+  "nota": 4.9,
+  "n_avaliacoes": 158,
+  "categoria": "Receitas bacalhau",
+  "subcategoria": "Bacalhau divino e delicioso",
+  "nivel": "dificil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "bacalhau",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de bacalhau"
+    },
+    {
+      "nome": "pimentão vermelho picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão vermelho picado"
+    },
+    {
+      "nome": "pimentão verde picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde picado"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "tomates picados maduros (não precisa tirar pele nem semente)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates picados maduros (não precisa tirar pele nem semente)"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "azeitona preta sem caroço picada",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de azeitona preta sem caroço picada"
+    },
+    {
+      "nome": "Orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano a gosto"
+    },
+    {
+      "nome": "batatas cozidas e espremidas",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batatas cozidas e espremidas"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "catupiry",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de catupiry"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "vidro de leite de coco de 200 ml",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco de 200 ml"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiro, faça o purê de batatas: esprema as batatas e acrescente a manteiga e o leite com as batatas ainda bem quentes.",
+      "Mexa bem e acrescentar sal a gosto.",
+      "Coloque esse purê num refratário alto e arrrume como se fosse a massa de uma torta.",
+      "Faça o refogado com o bacalhau já dessalgado (deixar de molho na véspera e trocar no mínimo 5 vezes a água).",
+      "Coloque para dar uma breve fervura, 5 minutos em água já fervente.",
+      "Depois, desfie o bacalhau em lascas.",
+      "Coloque bastante azeite numa panela e frite a cebola e o alho.",
+      "Depois, junte os pimentões e o tomate e deixar apurar por uns 10 minutos.",
+      "A seguir, junte as azeitonas e o bacalhau e deixar apurar mais 10 minutos.",
+      "Não deixe secar muito (caso seque, coloque um pouquinho de água quente).",
+      "Coloque orégano a gosto.",
+      "Normalmente não é preciso colocar sal, pois o bacalhau já contém o suficiente, mas, se precisar, coloque um pouquinho.",
+      "Jogue esse refogado de bacalhau sobre o purê de batatas."
+    ],
+    "Creme": [
+      "Bata todos os ingredientes no liquidificador e despeje sobre o bacalhau.",
+      "Leve ao forno previamente aquecido (bem quente) e deixe gratinar.",
+      "Sirva com arroz branco e uma salada de folhas."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Expremedor de Batata",
+    "Faca",
+    "Tábua de corte",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Bacalhau divino e delicioso. Ingredientes: bacalhau, pimentão vermelho picado, pimentão verde picado, cebola, tomates picados maduros (não precisa tirar pele nem semente), alho, azeitona preta sem caroço picada, Orégano a gosto, batatas cozidas e espremidas, manteiga, leite, Sal a gosto, catupiry, creme de leite sem soro, vidro de leite de coco de 200 ml. Preparo: Primeiro, faça o purê de batatas: esprema as batatas e acrescente a manteiga e o leite com as batatas ainda bem quentes. Mexa bem e acrescentar sal a gosto. Coloque esse purê num refratário alto e arrrume como se fosse a massa de uma torta."
+}

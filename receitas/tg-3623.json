@@ -1,0 +1,65 @@
+{
+  "id": "tg-3623",
+  "titulo": "Brigadeirão de micro-ondas",
+  "url": "https://www.tudogostoso.com.br/receita/3623-brigadeirao-de-micro-ondas.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1124,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Brigadeirão de micro-ondas",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos inteiros"
+    },
+    {
+      "nome": "chocolate granulado para enfeitar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "chocolate granulado para enfeitar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes no liquidificador e bata bem até dobrar de volume.",
+      "Despeje a massa em uma forma redonda com furo central untada e leve ao micro-ondas por 10 minutos.",
+      "Ao retirar do micro-ondas, enfeite com chocolate granulado e bom apetite."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espátula para bolo",
+    "Micro-ondas",
+    "Forma de silicone"
+  ],
+  "texto_para_embedding": "Brigadeirão de micro-ondas. Ingredientes: leite condensado, creme de leite, chocolate em pó, margarina, ovos inteiros, chocolate granulado para enfeitar. Preparo: Coloque todos os ingredientes no liquidificador e bata bem até dobrar de volume. Despeje a massa em uma forma redonda com furo central untada e leve ao micro-ondas por 10 minutos. Ao retirar do micro-ondas, enfeite com chocolate granulado e bom apetite."
+}

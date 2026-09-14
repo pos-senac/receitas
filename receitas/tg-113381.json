@@ -1,0 +1,86 @@
+{
+  "id": "tg-113381",
+  "titulo": "Sopa de macarrão com batata e cenoura",
+  "url": "https://www.tudogostoso.com.br/receita/113381-sopa-de-macarrao-com-batata-e-cenoura.html",
+  "nota": 4.7,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de macarrão com batata e cenoura",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "Macarrão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Macarrão a gosto"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picada"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de azeite"
+    },
+    {
+      "nome": "alho ou use o alho comprado pronto",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho ou use o alho comprado pronto"
+    },
+    {
+      "nome": "ramos de cebolinha verde picada",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 ramos de cebolinha verde picada"
+    },
+    {
+      "nome": "cenouras picadas a gosto",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras picadas a gosto"
+    },
+    {
+      "nome": "batatas picadas a gosto",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 batatas picadas a gosto"
+    },
+    {
+      "nome": "tablete de tempero sabor bacon",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de tempero sabor bacon"
+    },
+    {
+      "nome": "litro de água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Frite o azeite com o alho e a cebola em uma panela de pressão.",
+      "Adicione a água e deixe ferver.",
+      "Depois adicione o macarrão, a cenoura, a batata, a cebolinha verde e o tablete de tempero sabor bacon.",
+      "Mexa e deixe ferver até perceber que a batata e a cenoura estão cozidas. Se desejar, tampe a panela e deixe cozinhar por 10 minutos.",
+      "Você também pode adicionar carne moída pronta a gosto.",
+      "Sirva."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Concha",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Sopa de macarrão com batata e cenoura. Ingredientes: Macarrão a gosto, cebola picada, azeite, alho ou use o alho comprado pronto, ramos de cebolinha verde picada, cenouras picadas a gosto, batatas picadas a gosto, tablete de tempero sabor bacon, litro de água. Preparo: Frite o azeite com o alho e a cebola em uma panela de pressão. Adicione a água e deixe ferver. Depois adicione o macarrão, a cenoura, a batata, a cebolinha verde e o tablete de tempero sabor bacon."
+}

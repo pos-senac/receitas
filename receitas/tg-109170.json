@@ -1,0 +1,78 @@
+{
+  "id": "tg-109170",
+  "titulo": "Pão de alho para churrasco com pão francês amanhecido",
+  "url": "https://www.tudogostoso.com.br/receita/109170-pao-de-alho-para-churrasco-com-pao-frances-amanhecido.html",
+  "nota": 4.7,
+  "n_avaliacoes": 201,
+  "categoria": "Receitas massas",
+  "subcategoria": "Pão de alho para churrasco com pão francês amanhecido",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "pães franceses (médios)",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 pães franceses (médios)"
+    },
+    {
+      "nome": "pote pequeno de maionese",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote pequeno de maionese"
+    },
+    {
+      "nome": "sopa de alho picadinho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de alho picadinho"
+    },
+    {
+      "nome": "sopa não muito cheia de orégano",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa não muito cheia de orégano"
+    },
+    {
+      "nome": "chá de cheiro-verde picado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de cheiro-verde picado"
+    },
+    {
+      "nome": "chá de parmesão ralado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de parmesão ralado"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente misture a maionese, o alho, o orégano, o cheiro-verde, o sal e a pimenta e reserve.",
+      "Faça cortes horizontais no pão francês de maneira a formar pequenas fatias (mais ou menos 4), mas sem desprendê-las umas das outras (como no pão de alho comprado).",
+      "Passe a mistura reservada entre as fatias e depois envolvendo todo os pães.",
+      "Polvilhe sobre os pães o parmesão ralado.",
+      "Leve à churrasqueira e asse bem de ambos os lados."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Faca de pão",
+    "Ralador"
+  ],
+  "texto_para_embedding": "Pão de alho para churrasco com pão francês amanhecido. Ingredientes: pães franceses (médios), pote pequeno de maionese, sopa de alho picadinho, sopa não muito cheia de orégano, chá de cheiro-verde picado, chá de parmesão ralado, sal a gosto, pimenta a gosto. Preparo: Em um recipiente misture a maionese, o alho, o orégano, o cheiro-verde, o sal e a pimenta e reserve. Faça cortes horizontais no pão francês de maneira a formar pequenas fatias (mais ou menos 4), mas sem desprendê-las umas das outras (como no pão de alho comprado). Passe a mistura reservada entre as fatias e depois envolvendo todo os pães."
+}

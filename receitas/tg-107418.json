@@ -1,0 +1,75 @@
+{
+  "id": "tg-107418",
+  "titulo": "Batata à milanesa",
+  "url": "https://www.tudogostoso.com.br/receita/107418-batata-a-milanesa.html",
+  "nota": 4.4,
+  "n_avaliacoes": 168,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Batata à milanesa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "batatas grandes em rodelas cozidas al dente com sal",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 batatas grandes em rodelas cozidas al dente com sal"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batidos"
+    },
+    {
+      "nome": "sopa de leite",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de leite"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de farinha de trigo"
+    },
+    {
+      "nome": "chá de farinha de rosca",
+      "quantidade": "2",
+      "unidade": "xicaras",
+      "texto_original": "2 xicaras de chá de farinha de rosca"
+    },
+    {
+      "nome": "queijo parmesão ralado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de queijo parmesão ralado"
+    },
+    {
+      "nome": "Sal orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal orégano a gosto"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture a farinha de rosca com o queijo ralado e o orégano.",
+      "Nos ovos batidos misture o leite uma pitada de sal e a farinha de trigo.",
+      "Mexa bem para desfazer os gruminhos.",
+      "Passe as rodelas de batatas na farinha de rosca, nos ovos batidos e novamente na farinha de rosca.",
+      "Frite em óleo quente.",
+      "Escorra sobre papel absorvente e sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Batata à milanesa. Ingredientes: batatas grandes em rodelas cozidas al dente com sal, ovos batidos, sopa de leite, sopa de farinha de trigo, chá de farinha de rosca, queijo parmesão ralado, Sal orégano a gosto, Óleo para fritar. Preparo: Misture a farinha de rosca com o queijo ralado e o orégano. Nos ovos batidos misture o leite uma pitada de sal e a farinha de trigo. Mexa bem para desfazer os gruminhos."
+}

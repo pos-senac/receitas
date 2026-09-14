@@ -1,0 +1,54 @@
+{
+  "id": "tg-1514",
+  "titulo": "Molho de alho ideal para comer com churrasco",
+  "url": "https://www.tudogostoso.com.br/receita/1514-molho-de-alho-ideal-para-comer-com-churrasco.html",
+  "nota": 4.5,
+  "n_avaliacoes": 175,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Molho de alho ideal para comer com churrasco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "alho grandes",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho grandes"
+    },
+    {
+      "nome": "pimentão verde",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão verde"
+    },
+    {
+      "nome": "leite, 200 ml",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite, 200 ml"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "óleo até dar o ponto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo até dar o ponto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador todos os ingredientes exceto o óleo, depois experimente o sal.",
+      "Em seguida, vá colocando o óleo até endurecer (para este tanto de leite, vai aproximadamente meio litro de óleo).",
+      "Fica muito bom e bem cremoso, quanto mais óleo mais ele endurece, pode diminuir o leite caso queira menos molho."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Molho de alho ideal para comer com churrasco. Ingredientes: alho grandes, pimentão verde, leite, 200 ml, sal a gosto, óleo até dar o ponto. Preparo: Bata no liquidificador todos os ingredientes exceto o óleo, depois experimente o sal. Em seguida, vá colocando o óleo até endurecer (para este tanto de leite, vai aproximadamente meio litro de óleo). Fica muito bom e bem cremoso, quanto mais óleo mais ele endurece, pode diminuir o leite caso queira menos molho."
+}

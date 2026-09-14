@@ -1,0 +1,56 @@
+{
+  "id": "tg-53464",
+  "titulo": "Pipoca doce caramelada",
+  "url": "https://www.tudogostoso.com.br/receita/53464-pipoca-doce-caramelada.html",
+  "nota": 4.6,
+  "n_avaliacoes": 444,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pipoca doce caramelada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "milho para pipoca",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de milho para pipoca"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de óleo"
+    },
+    {
+      "nome": "água",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque tudo em uma panela de pressão, misture tudo e deixe destampada até começar a estourar.",
+      "Tampe a panela sem o pino central, dando umas mexidinhas para não queimar o açúcar.",
+      "Quando perceber que estourou tudo, retire do fogo e coloque em uma travessa e deixe até esfriar.",
+      "Dê uma sacudida nelas e então se desgrudarão uma das outras, ficarão soltinhas e uma delícia."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de silicone",
+    "Fogão",
+    "Pipoqueira",
+    "Tigela",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Pipoca doce caramelada. Ingredientes: milho para pipoca, açúcar, óleo, água. Preparo: Coloque tudo em uma panela de pressão, misture tudo e deixe destampada até começar a estourar. Tampe a panela sem o pino central, dando umas mexidinhas para não queimar o açúcar. Quando perceber que estourou tudo, retire do fogo e coloque em uma travessa e deixe até esfriar."
+}

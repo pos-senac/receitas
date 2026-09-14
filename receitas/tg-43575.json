@@ -1,0 +1,93 @@
+{
+  "id": "tg-43575",
+  "titulo": "Torta cremosa com farofa crocante",
+  "url": "https://www.tudogostoso.com.br/receita/43575-torta-cremosa-com-farofa-crocante.html",
+  "nota": 4.3,
+  "n_avaliacoes": 130,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta cremosa com farofa crocante",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de margarina"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sopa rasa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa rasa de fermento em pó"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite (use a lata de leite condensado como medida)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (use a lata de leite condensado como medida)"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de amido de milho"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "Farofa:": [
+      "Misture os ingredientes até virar uma farofa e reserve."
+    ],
+    "Recheio:": [
+      "Leve os ingredientes ao fogo, exceto o creme de leite, mexendo sempre, até engrossar.",
+      "Desligue o fogo e coloque o creme de leite sem o soro."
+    ],
+    "Montagem:": [
+      "Em um refratário de vidro, untado com margarina, forre o fundo com farofa.",
+      "Coloque o creme e cubra com o restante da farofa.",
+      "Leve ao forno médio, preaquecido, por aproximadamente 40 minutos.",
+      "Espere esfriar e leve à geladeira.",
+      "A farofa fica sequinha e o creme delicioso."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta cremosa com farofa crocante. Ingredientes: farinha de trigo, açúcar, margarina, ovo, sopa rasa de fermento em pó, leite condensado, leite (use a lata de leite condensado como medida), gemas, amido de milho, creme de leite. Preparo: Misture os ingredientes até virar uma farofa e reserve. Leve os ingredientes ao fogo, exceto o creme de leite, mexendo sempre, até engrossar. Desligue o fogo e coloque o creme de leite sem o soro."
+}

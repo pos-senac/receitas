@@ -1,0 +1,52 @@
+{
+  "id": "tg-6520",
+  "titulo": "Baba de Moça (recheio para bolo)",
+  "url": "https://www.tudogostoso.com.br/receita/6520-baba-de-moca-recheio-para-bolo.html",
+  "nota": 4.5,
+  "n_avaliacoes": 242,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Baba de Moça (recheio para bolo)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "chá açucar",
+      "quantidade": "1",
+      "unidade": "xicara",
+      "texto_original": "1 xicara de chá açucar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo até engrossar um pouco.",
+      "Mexer até aparecer o fundo da panela.",
+      "E está pronto para por em seus bolos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Saco de confeiteiro"
+  ],
+  "texto_para_embedding": "Baba de Moça (recheio para bolo). Ingredientes: leite condensado, vidro de leite de coco, gemas, chá açucar. Preparo: Leve ao fogo até engrossar um pouco. Mexer até aparecer o fundo da panela. E está pronto para por em seus bolos."
+}

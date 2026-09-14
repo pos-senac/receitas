@@ -1,0 +1,75 @@
+{
+  "id": "tg-4183",
+  "titulo": "Frango frito crocante",
+  "url": "https://www.tudogostoso.com.br/receita/4183-frango-frito-crocante.html",
+  "nota": 4.5,
+  "n_avaliacoes": 119,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango frito crocante",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "tulipas de frango",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de tulipas de frango"
+    },
+    {
+      "nome": "limão espremido",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 limão espremido"
+    },
+    {
+      "nome": "farinha de trigo a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de trigo a gosto"
+    },
+    {
+      "nome": "óleo a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    },
+    {
+      "nome": "realçador de sabor a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "realçador de sabor a gosto"
+    },
+    {
+      "nome": "açafrão a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açafrão a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem as tulipas de frango e tempere com o sal, a pimenta, o realçador de sabor, o açafrão e o limão.",
+      "Deixe marinar nesse tempero por aproximadamente 30 minutos, depois deixe escorrer o tempero e passe as tulipas uma a uma na farinha de trigo.",
+      "Em uma panela de pressão, adicione o óleo e deixe-o esquentar.",
+      "Quando estiver quente, coloque as tulipas e feche a panela de pressão sem o pino.",
+      "Deixe fritar por 10 minutos e abra a panela para virar as tulipas, depois feche novamente sem o pino por mais 10 minutos ou até ficar dourado.",
+      "Escorra em um papel toalha e sirva em uma travessa com alface."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango frito crocante. Ingredientes: tulipas de frango, limão espremido, farinha de trigo a gosto, óleo a gosto, sal a gosto, pimenta a gosto, realçador de sabor a gosto, açafrão a gosto. Preparo: Lave bem as tulipas de frango e tempere com o sal, a pimenta, o realçador de sabor, o açafrão e o limão. Deixe marinar nesse tempero por aproximadamente 30 minutos, depois deixe escorrer o tempero e passe as tulipas uma a uma na farinha de trigo. Em uma panela de pressão, adicione o óleo e deixe-o esquentar."
+}

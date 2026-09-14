@@ -1,0 +1,106 @@
+{
+  "id": "tg-2085",
+  "titulo": "Yakissoba da casa",
+  "url": "https://www.tudogostoso.com.br/receita/2085-yakissoba-da-casa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 981,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Yakissoba da casa",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "espaguete",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de espaguete"
+    },
+    {
+      "nome": "cebola grande cortada em pedaços médios",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande cortada em pedaços médios"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "maço pequeno de brócolis",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 maço pequeno de brócolis"
+    },
+    {
+      "nome": "maço pequeno de couve-flor",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 maço pequeno de couve-flor"
+    },
+    {
+      "nome": "molho shoyu",
+      "quantidade": "10",
+      "unidade": "colheres (sopa)",
+      "texto_original": "10 colheres (sopa) de molho shoyu"
+    },
+    {
+      "nome": "carne cortada em tiras",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de carne cortada em tiras"
+    },
+    {
+      "nome": "champignon",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de champignon"
+    },
+    {
+      "nome": "cenoura cortada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura cortada em rodelas"
+    },
+    {
+      "nome": "água",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água"
+    },
+    {
+      "nome": "amido de milho, dissolvido em 50 ml de água",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho, dissolvido em 50 ml de água"
+    },
+    {
+      "nome": "acelga a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "acelga a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o macarrão em ponto al dente e reserve.",
+      "Em uma panela, adicione o azeite, a cebola, a carne e refogue bem.",
+      "Adicione o molho shoyu e cozinhe por 3 minutos em fogo médio.",
+      "Acrescente mais água, aguarde levantar fervura e adicione o amido de milho.",
+      "Mexa até engrossar, abaixe o fogo e adicione o champignon, a couve-flor, o brócolis e a cenoura.",
+      "Cozinhe por 8 minutos e acrescente, por último, a acelga e o macarrão.",
+      "Misture bem, acerte o sal e tampe a panela por mais 1 minuto.",
+      "Está pronto para servir!"
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Prato fundo",
+    "Escorredor de massa",
+    "Pegador de macarrão"
+  ],
+  "texto_para_embedding": "Yakissoba da casa. Ingredientes: espaguete, cebola grande cortada em pedaços médios, óleo, maço pequeno de brócolis, maço pequeno de couve-flor, molho shoyu, carne cortada em tiras, champignon, cenoura cortada em rodelas, água, amido de milho, dissolvido em 50 ml de água, acelga a gosto. Preparo: Cozinhe o macarrão em ponto al dente e reserve. Em uma panela, adicione o azeite, a cebola, a carne e refogue bem. Adicione o molho shoyu e cozinhe por 3 minutos em fogo médio."
+}

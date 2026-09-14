@@ -1,0 +1,86 @@
+{
+  "id": "tg-73397",
+  "titulo": "Escondidinho de batata com carne seca",
+  "url": "https://www.tudogostoso.com.br/receita/73397-escondidinho-de-batata-com-carne-seca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 121,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Escondidinho de batata com carne seca",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "batata cozidas",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de batata cozidas"
+    },
+    {
+      "nome": "carne seca",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne seca"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de manteiga ou margarina"
+    },
+    {
+      "nome": "Alho à vontade",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Alho à vontade"
+    },
+    {
+      "nome": "tomates picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates picados"
+    },
+    {
+      "nome": "Tempero a gosto ou pimenta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tempero a gosto ou pimenta"
+    },
+    {
+      "nome": "Queijo ralado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Prepare um purê, acrescente o creme de leite e as 2 colheres de manteiga, reserve.",
+      "Se quiser colocar sal vai da preferência."
+    ],
+    "Recheio:": [
+      "Dessalgar a carne seca, depois de fria desfiar, leve ao fogo com azeite para refogar o alho e a cebola.",
+      "Coloque a carne seca para dar uma fritadinha, coloque os tomates e deixe amolecer."
+    ],
+    "Montagem:": [
+      "Passe azeite no refratário, cubra o fundo com uma camada do purê coloque o recheio e complete com o restante por cima, jogue queijo ralado e leve ao forno para dourar.",
+      "Servir com arroz."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Colher de silicone",
+    "Espátula de silicone",
+    "Expremedor de Batata",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Escondidinho de batata com carne seca. Ingredientes: batata cozidas, carne seca, creme de leite, manteiga ou margarina, Alho à vontade, tomates picados, Tempero a gosto ou pimenta, Queijo ralado. Preparo: Prepare um purê, acrescente o creme de leite e as 2 colheres de manteiga, reserve. Se quiser colocar sal vai da preferência. Dessalgar a carne seca, depois de fria desfiar, leve ao fogo com azeite para refogar o alho e a cebola."
+}

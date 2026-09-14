@@ -1,0 +1,95 @@
+{
+  "id": "tg-60647",
+  "titulo": "Churros caseiros",
+  "url": "https://www.tudogostoso.com.br/receita/60647-churros-caseiros.html",
+  "nota": 4.1,
+  "n_avaliacoes": 382,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Churros caseiros",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 9,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "margarina ou manteiga sem sal",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina ou manteiga sem sal"
+    },
+    {
+      "nome": "sal (se a margarina tiver sal, dispensar a pitada)",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal (se a margarina tiver sal, dispensar a pitada)"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar"
+    },
+    {
+      "nome": "canela (misturar com açúcar para passar os churros depois de fritos)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela (misturar com açúcar para passar os churros depois de fritos)"
+    },
+    {
+      "nome": "doce de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "doce de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Aqueça a água em uma panela, abaixe o fogo e acrescente a margarina e o açúcar.",
+      "Mexa bem, até dissolver toda a margarina.",
+      "Acrescente aos poucos a farinha de trigo, mexendo sempre, até que a massa desprenda da panela.",
+      "Tire do fogo e acrescente os ovos um a um, mexendo bem até misturar toda a massa.",
+      "A seguir, coloque a massa num saco de confeiteiro com o bico em formato de pitanga, ou na forma própria para churros.",
+      "Aperte, já dentro da frigideira com o óleo quente, o tamanho fica a seu critério, corte com a ponta dos dedos ou com uma faca.",
+      "Depois de frito, coloque em papel toalha para que absorva a gordura.",
+      "Em seguida, passe pelo açúcar com canela e recheie com doce de leite usando o bico que já vem junto com a forma."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Copo medidor",
+    "Escumadeira",
+    "Fouet",
+    "Saco de confeiteiro"
+  ],
+  "texto_para_embedding": "Churros caseiros. Ingredientes: água, açúcar, margarina ou manteiga sem sal, sal (se a margarina tiver sal, dispensar a pitada), farinha de trigo, ovos, óleo para fritar, açúcar, canela (misturar com açúcar para passar os churros depois de fritos), doce de leite. Preparo: Aqueça a água em uma panela, abaixe o fogo e acrescente a margarina e o açúcar. Mexa bem, até dissolver toda a margarina. Acrescente aos poucos a farinha de trigo, mexendo sempre, até que a massa desprenda da panela."
+}

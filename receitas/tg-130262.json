@@ -1,0 +1,81 @@
+{
+  "id": "tg-130262",
+  "titulo": "Manjar cremoso de coco",
+  "url": "https://www.tudogostoso.com.br/receita/130262-manjar-cremoso-de-coco.html",
+  "nota": 4.6,
+  "n_avaliacoes": 177,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Manjar cremoso de coco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite de vaca",
+      "quantidade": "600",
+      "unidade": "ml",
+      "texto_original": "600 ml de leite de vaca"
+    },
+    {
+      "nome": "leite condensando",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata leite condensando"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco"
+    },
+    {
+      "nome": "caixinha de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de amido de milho"
+    },
+    {
+      "nome": "e 1/2 de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e 1/2 de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "ameixa preta",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de ameixa preta"
+    }
+  ],
+  "modo_preparo": {
+    "Manjar:": [
+      "Misture em uma panela todos ingredientes, menos o creme de leite que  vai ser usado por último, mexa até formar um creme, continue cozinhando por uns 3 minutinhos.",
+      "Desligue o fogo e adicione o creme de leite, molhe com água uma forma de buraco no meio coloque o creme, deixe esfriar e leve para a geladeira."
+    ],
+    "Calda:": [
+      "Leve ao fogo o açúcar até que derreta e fique moreninho coloque a água e as ameixas deixe ferver até as ameixas ficarem macias e o açúcar caramelizado derreta.",
+      "Na hora de derreter o açúcar cuidado para que ele não queime, pois pode ficar amargo, tem que ficar clarinho como um caramelo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Manjar cremoso de coco. Ingredientes: leite de vaca, leite condensando, vidro de leite de coco, caixinha de creme de leite, coco ralado, amido de milho, e 1/2 de açúcar, água, ameixa preta. Preparo: Misture em uma panela todos ingredientes, menos o creme de leite que  vai ser usado por último, mexa até formar um creme, continue cozinhando por uns 3 minutinhos. Desligue o fogo e adicione o creme de leite, molhe com água uma forma de buraco no meio coloque o creme, deixe esfriar e leve para a geladeira. Leve ao fogo o açúcar até que derreta e fique moreninho coloque a água e as ameixas deixe ferver até as ameixas ficarem macias e o açúcar caramelizado derreta."
+}

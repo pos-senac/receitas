@@ -1,0 +1,83 @@
+{
+  "id": "tg-48772",
+  "titulo": "Pão de Calabresa",
+  "url": "https://www.tudogostoso.com.br/receita/48772-pao-de-calabresa.html",
+  "nota": 4.8,
+  "n_avaliacoes": 114,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de Calabresa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga ou margarina"
+    },
+    {
+      "nome": "pacotinho do fermento seco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pacotinho do fermento seco"
+    },
+    {
+      "nome": "gomo de calabresa defumada e picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gomo de calabresa defumada e picada"
+    },
+    {
+      "nome": "Temperos a gosto (orégano, salsinha etc)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Temperos a gosto (orégano, salsinha etc)"
+    },
+    {
+      "nome": "Água morna até o ponto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Água morna até o ponto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte em um refratário primeiro a farinha, o açúcar, o sal e o fermento.",
+      "Depois coloque a manteiga, o ovo e mexa.",
+      "Coloque água aos poucos até dar o ponto da massa, que não grude nas mãos.",
+      "Amasse bem e leve à massa para crescer, mais ou menos 30 minutos, depende da temperatura.",
+      "Abra a massa não muita fina nem muito grossa.",
+      "Recheie e feche como um rocambole.",
+      "Deixe crescer por mais uns 20 minutos, pincele com 1 gema e polvilhe orégano ou o que você preferir.",
+      "Leve para assar por aproximadamente 20 a 30 minutos, até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de Calabresa. Ingredientes: ovo, farinha de trigo, sal, açúcar, manteiga ou margarina, pacotinho do fermento seco, gomo de calabresa defumada e picada, Temperos a gosto (orégano, salsinha etc), Água morna até o ponto. Preparo: Junte em um refratário primeiro a farinha, o açúcar, o sal e o fermento. Depois coloque a manteiga, o ovo e mexa. Coloque água aos poucos até dar o ponto da massa, que não grude nas mãos."
+}

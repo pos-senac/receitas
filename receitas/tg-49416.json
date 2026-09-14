@@ -1,0 +1,165 @@
+{
+  "id": "tg-49416",
+  "titulo": "Lasanha com molho branco e bolonhesa",
+  "url": "https://www.tudogostoso.com.br/receita/49416-lasanha-com-molho-branco-e-bolonhesa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 165,
+  "categoria": "Receitas lasanha",
+  "subcategoria": "Lasanha com molho branco e bolonhesa",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "ou mais pacotes de massa fresca",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ou mais pacotes de massa fresca"
+    },
+    {
+      "nome": "300g de queijo mussarela",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "300g de queijo mussarela"
+    },
+    {
+      "nome": "300g de presunto magro",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "300g de presunto magro"
+    },
+    {
+      "nome": "Parmesão ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Parmesão ralado a gosto"
+    },
+    {
+      "nome": "alho picadinhos",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho picadinhos"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres sopa de manteiga"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres sopa de farinha de trigo"
+    },
+    {
+      "nome": "300ml de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "300ml de leite"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "sopa de catupiry",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres sopa de catupiry"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "Noz-moscada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Noz-moscada a gosto"
+    },
+    {
+      "nome": "cebola picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picadinha"
+    },
+    {
+      "nome": "alho picadinhos",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picadinhos"
+    },
+    {
+      "nome": "cenoura bem picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura bem picadinha"
+    },
+    {
+      "nome": "300g de carne moída",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "300g de carne moída"
+    },
+    {
+      "nome": "tomates amassados ou batidos no liquidificador",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates amassados ou batidos no liquidificador"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "chá de vinho branco seco",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara chá de vinho branco seco"
+    },
+    {
+      "nome": "Pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta a gosto"
+    },
+    {
+      "nome": "Cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro-verde a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Faça o molho branco dourando a farinha na manteiga.",
+      "Adicione então o leite e os temperos e mexa bem.",
+      "Por fim o catupiry e reserve.",
+      "Faça o molho bolonhesa dourando em óleo ou azeite, a carne moída.",
+      "Junte então a cebola, o alho, a cenoura e o vinho branco, deixando até evaporar.",
+      "Adicione os tomates batidos e tempere a gosto."
+    ],
+    "Montagem:": [
+      "No refratário coloque uma colher do molho bolonhesa e a massa por cima.",
+      "Arrume direitinho e coloque mais molho bolonhesa, queijo, presunto e o molho branco.",
+      "Repita até terminar, sendo a última camada de molho branco.",
+      "Salpique parmesão e o alho.",
+      "Leve ao forno até gratinar."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Colher de pau",
+    "Espatula"
+  ],
+  "texto_para_embedding": "Lasanha com molho branco e bolonhesa. Ingredientes: ou mais pacotes de massa fresca, 300g de queijo mussarela, 300g de presunto magro, Parmesão ralado a gosto, alho picadinhos, sopa de manteiga, sopa de farinha de trigo, 300ml de leite, Sal a gosto, sopa de catupiry, Pimenta a gosto, Noz-moscada a gosto, cebola picadinha, alho picadinhos, cenoura bem picadinha, 300g de carne moída, tomates amassados ou batidos no liquidificador, Sal a gosto, chá de vinho branco seco, Pimenta a gosto, Cheiro-verde a gosto. Preparo: Faça o molho branco dourando a farinha na manteiga. Adicione então o leite e os temperos e mexa bem. Por fim o catupiry e reserve."
+}

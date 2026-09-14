@@ -1,0 +1,104 @@
+{
+  "id": "tg-14409",
+  "titulo": "Torta de frios",
+  "url": "https://www.tudogostoso.com.br/receita/14409-torta-de-frios.html",
+  "nota": 4.6,
+  "n_avaliacoes": 183,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de frios",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de leite"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de queijo ralado"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "queijo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "presunto"
+    },
+    {
+      "nome": "tomate picado sem sementes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado sem sementes"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    },
+    {
+      "nome": "sal e pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata bem todos os ingredientes da massa no liquidificador,",
+      "Após, em um refratário médio retangular, coloque metade dessa massa e por cima, coloque uma camada de presunto, e outra de queijo (quantidade a gosto).",
+      "Coloque  por cima do presunto e queijo, 1 tomate e 1 cebola já cortada em cubinhos com sal e pimenta-do-reino, orégano e azeitonas.",
+      "Coloque o restante da massa para cobrir e leve ao forno 180° C, por mais ou menos 30 a 40 minutos.",
+      "Quando você perceber que está quase pronto, pincele com uma gema e deixe no forno mais uns 5 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Torta de frios. Ingredientes: ovos, óleo, leite, queijo ralado, farinha de trigo, fermento em pó, sal a gosto, queijo, presunto, tomate picado sem sementes, cebola média picada, orégano, sal e pimenta-do-reino a gosto. Preparo: Bata bem todos os ingredientes da massa no liquidificador, Após, em um refratário médio retangular, coloque metade dessa massa e por cima, coloque uma camada de presunto, e outra de queijo (quantidade a gosto). Coloque  por cima do presunto e queijo, 1 tomate e 1 cebola já cortada em cubinhos com sal e pimenta-do-reino, orégano e azeitonas."
+}

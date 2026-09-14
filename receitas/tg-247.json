@@ -1,0 +1,52 @@
+{
+  "id": "tg-247",
+  "titulo": "Sopa de feijão",
+  "url": "https://www.tudogostoso.com.br/receita/247-sopa-de-feijao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 515,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de feijão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "feijão cozido e temperado (pode ser sobra de feijão)",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de feijão cozido e temperado (pode ser sobra de feijão)"
+    },
+    {
+      "nome": "batata média cortada em cubinhos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 batata média cortada em cubinhos"
+    },
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de água"
+    },
+    {
+      "nome": "tomates picados (com pele e semente)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates picados (com pele e semente)"
+    },
+    {
+      "nome": "Sal e pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e pimenta do reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater o feijão, a água e o tomate no liquidificador. Colocar o feijão batido e a batata em uma panela e cozinhar, até amaciar a batata. Se ficar muito grosso, acrescentar mais água. Provar e acertar o sal, se necessário. Salpicar com pimenta do reino a gosto, e servir."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sopa de feijão. Ingredientes: feijão cozido e temperado (pode ser sobra de feijão), batata média cortada em cubinhos, água, tomates picados (com pele e semente), Sal e pimenta do reino a gosto. Preparo: Bater o feijão, a água e o tomate no liquidificador. Colocar o feijão batido e a batata em uma panela e cozinhar, até amaciar a batata. Se ficar muito grosso, acrescentar mais água. Provar e acertar o sal, se necessário. Salpicar com pimenta do reino a gosto, e servir."
+}

@@ -1,0 +1,69 @@
+{
+  "id": "tg-39075",
+  "titulo": "Cuscuz doce de tapioca (receita baiana)",
+  "url": "https://www.tudogostoso.com.br/receita/39075-cuscuz-doce-de-tapioca-receita-baiana.html",
+  "nota": 4.6,
+  "n_avaliacoes": 271,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Cuscuz doce de tapioca (receita baiana)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "tapioca em grãos (encontrada nos supermercados)",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de tapioca em grãos (encontrada nos supermercados)"
+    },
+    {
+      "nome": "açúcar (ou a seu gosto)",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de açúcar (ou a seu gosto)"
+    },
+    {
+      "nome": "vidros de leite de coco",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 vidros de leite de coco"
+    },
+    {
+      "nome": "coco ralado (se preferir use 1 coco fresco ralado, fica bem melhor)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado (se preferir use 1 coco fresco ralado, fica bem melhor)"
+    },
+    {
+      "nome": "litro de leite fervido, mas já morno, quase frio",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite fervido, mas já morno, quase frio"
+    },
+    {
+      "nome": "Leite condensado (para usar como cobertura, se quiser)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Leite condensado (para usar como cobertura, se quiser)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha ou pirex, despeje a tapioca e reserve.",
+      "Misture o leite de coco, o coco ralado e o açúcar ao leite fervido, já morno.",
+      "Adicione essa mistura à tapioca no pirex, mexa, cubra com um pano (ou tampa) e deixe descansar, mexendo de vez em quando.",
+      "Se a mistura ficar muito dura, acrescente mais um pouco de leite.",
+      "Se ficar muito mole, acrescente mais algumas colheres de tapioca.",
+      "O ideal é que deixe um pouco mole, pois após colocar na geladeira, endurece mais um pouco.",
+      "O cuscuz deve ficar com a consistência de um arroz doce bem cremoso.",
+      "Sirva gelado, regado com leite condensado."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Prato de sobremesa"
+  ],
+  "texto_para_embedding": "Cuscuz doce de tapioca (receita baiana). Ingredientes: tapioca em grãos (encontrada nos supermercados), açúcar (ou a seu gosto), vidros de leite de coco, coco ralado (se preferir use 1 coco fresco ralado, fica bem melhor), litro de leite fervido, mas já morno, quase frio, Leite condensado (para usar como cobertura, se quiser). Preparo: Em uma vasilha ou pirex, despeje a tapioca e reserve. Misture o leite de coco, o coco ralado e o açúcar ao leite fervido, já morno. Adicione essa mistura à tapioca no pirex, mexa, cubra com um pano (ou tampa) e deixe descansar, mexendo de vez em quando."
+}

@@ -1,0 +1,90 @@
+{
+  "id": "tg-2649",
+  "titulo": "Torta de abacaxi",
+  "url": "https://www.tudogostoso.com.br/receita/2649-torta-de-abacaxi.html",
+  "nota": 4.6,
+  "n_avaliacoes": 582,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de abacaxi",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de margarina ou manteiga"
+    },
+    {
+      "nome": "ovos (claras separadas)",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos (claras separadas)"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícara (chá)",
+      "texto_original": "2 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "abacaxi cortado em fatias",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 abacaxi cortado em fatias"
+    }
+  ],
+  "modo_preparo": {
+    "Calda:": [
+      "Derreta o açúcar em uma assadeira redonda (faça um caramelo).",
+      "Retire do fogo.",
+      "Corte o abacaxi em fatias e distribua sobre a calda.",
+      "Reserve."
+    ],
+    "Massa:": [
+      "Na vasilha da batedeira, coloque o açúcar, as gemas e a manteiga e misture.",
+      "Junte o leite e a bata até obter um creme homogêneo, desligue.",
+      "Adicione a farinha e bata novamente, desligue.",
+      "Adicione as claras em neve e mexa para se agregar aos demais ingredientes.",
+      "Adicione o fermento.",
+      "Coloque a massa obtida na assadeira reservada.",
+      "Leve ao forno pré-aquecido 180°c até dourar.",
+      "Desenforme quente para não grudar."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Batedeira",
+    "Forma de pudim",
+    "Espátula de silicone",
+    "Forno elétrico",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Torta de abacaxi. Ingredientes: açúcar, margarina ou manteiga, ovos (claras separadas), leite, farinha de trigo, fermento em pó, açúcar, abacaxi cortado em fatias. Preparo: Derreta o açúcar em uma assadeira redonda (faça um caramelo). Retire do fogo. Corte o abacaxi em fatias e distribua sobre a calda."
+}

@@ -1,0 +1,106 @@
+{
+  "id": "tg-1106",
+  "titulo": "Camarão na moranga",
+  "url": "https://www.tudogostoso.com.br/receita/1106-camarao-na-moranga.html",
+  "nota": 4.7,
+  "n_avaliacoes": 788,
+  "categoria": "Receitas camarão",
+  "subcategoria": "Camarão na moranga",
+  "nivel": "dificil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 90,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "camarão médio",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de camarão médio"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de azeite"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    },
+    {
+      "nome": "tomates sem sementes",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 tomates sem sementes"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "ketchup",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de ketchup"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "requeijão cremoso",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de requeijão cremoso"
+    },
+    {
+      "nome": "moranga",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 moranga"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Retire a tampa e as sementes da moranga.",
+      "Lave e enrole-a em papel alumínio e leve ao forno médio (180° C) por 45 minutos.",
+      "Em uma panela, aqueça o azeite e refogue o alho e a cebola, junte o camarão e deixe cozinhar por 5 minutos.",
+      "Adicione os tomates picados, a pimenta, o sal e o ketchup.",
+      "Desligue o fogo e acrescente o creme de leite e o cheiro-verde.",
+      "Misture bem e adicione por último o requeijão.",
+      "Passe um pouco de requeijão no interior da moranga e despeje o creme de camarão."
+    ]
+  },
+  "utensilios": [
+    "Concha",
+    "Espatula",
+    "Faca",
+    "Frigideira funda",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Camarão na moranga. Ingredientes: camarão médio, azeite, alho, cebola, tomates sem sementes, sal a gosto, ketchup, pimenta-do-reino a gosto, creme de leite sem soro, requeijão cremoso, moranga, cheiro-verde a gosto. Preparo: Retire a tampa e as sementes da moranga. Lave e enrole-a em papel alumínio e leve ao forno médio (180° C) por 45 minutos. Em uma panela, aqueça o azeite e refogue o alho e a cebola, junte o camarão e deixe cozinhar por 5 minutos."
+}

@@ -1,0 +1,95 @@
+{
+  "id": "tg-6113",
+  "titulo": "Souflé de Bacalhau",
+  "url": "https://www.tudogostoso.com.br/receita/6113-soufle-de-bacalhau.html",
+  "nota": 4.6,
+  "n_avaliacoes": 147,
+  "categoria": "Receitas souflé",
+  "subcategoria": "Souflé de Bacalhau",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "bacalhau dessalgado e limpo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de bacalhau dessalgado e limpo"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho"
+    },
+    {
+      "nome": "molho de salsa picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 molho de salsa picadinha"
+    },
+    {
+      "nome": "cebolas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas"
+    },
+    {
+      "nome": "sopa de cheias de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de cheias de farinha de trigo"
+    },
+    {
+      "nome": "tomates sem pele e sem semente picados",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates sem pele e sem semente picados"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "batata cozida e amassada (purê)",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de batata cozida e amassada (purê)"
+    },
+    {
+      "nome": "sopa de azeite a gosto",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de azeite a gosto"
+    },
+    {
+      "nome": "azeitonas",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de azeitonas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela refogue a cebola e o alho em 4 colheres de azeite, acrescente os tomates e cozinhe por 5 minutos.",
+      "Junte o bacalhau desfiado, as azeitonas e a salsa.",
+      "Reserve.",
+      "Misturar as batatas com a farinha de trigo e as gemas.",
+      "Bater as claras em neve e misturar.",
+      "Juntar o refogado do bacalhau e levar para assar em um refratário untado com azeite.",
+      "E bom apetite."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Espátula de silicone",
+    "Forno elétrico",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Souflé de Bacalhau. Ingredientes: bacalhau dessalgado e limpo, alho, molho de salsa picadinha, cebolas, sopa de cheias de farinha de trigo, tomates sem pele e sem semente picados, ovos, batata cozida e amassada (purê), sopa de azeite a gosto, azeitonas. Preparo: Em uma panela refogue a cebola e o alho em 4 colheres de azeite, acrescente os tomates e cozinhe por 5 minutos. Junte o bacalhau desfiado, as azeitonas e a salsa. Reserve."
+}

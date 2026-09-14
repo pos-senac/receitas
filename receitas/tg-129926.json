@@ -1,0 +1,44 @@
+{
+  "id": "tg-129926",
+  "titulo": "Frango assado com creme de cebola e maionese",
+  "url": "https://www.tudogostoso.com.br/receita/129926-frango-assado-com-creme-de-cebola-e-maionese.html",
+  "nota": 4.6,
+  "n_avaliacoes": 238,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango assado com creme de cebola e maionese",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "coxa e sobrecoxa",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de coxa e sobrecoxa"
+    },
+    {
+      "nome": "pacotinhos de creme de cebola",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pacotinhos de creme de cebola"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g maionese"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem e separe as coxas das sobrecoxas de frango.",
+      "Passes os pedaços do frango no creme de cebola um a um de forma que o pedaço de frango fique bem coberto com o creme de cebola.",
+      "Coloque os pedaços em uma assadeira média ajeitando de forma que fiquem pertinhos um do outro.",
+      "Cubra os pedaços com maionese.",
+      "Leve para assar em forno médio 180º C por aproximadamente 2 horas, ou até ficar bem douradinho."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango assado com creme de cebola e maionese. Ingredientes: coxa e sobrecoxa, pacotinhos de creme de cebola, maionese. Preparo: Lave bem e separe as coxas das sobrecoxas de frango. Passes os pedaços do frango no creme de cebola um a um de forma que o pedaço de frango fique bem coberto com o creme de cebola. Coloque os pedaços em uma assadeira média ajeitando de forma que fiquem pertinhos um do outro."
+}

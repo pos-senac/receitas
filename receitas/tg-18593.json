@@ -1,0 +1,61 @@
+{
+  "id": "tg-18593",
+  "titulo": "A mousse de maracujá",
+  "url": "https://www.tudogostoso.com.br/receita/18593-a-mousse-de-maracuja.html",
+  "nota": 4.5,
+  "n_avaliacoes": 746,
+  "categoria": "Receitas mousses",
+  "subcategoria": "A mousse de maracujá",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "lada de creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 lada de creme de leite"
+    },
+    {
+      "nome": "suco de maracujá concentrado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de suco de maracujá concentrado"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de água"
+    },
+    {
+      "nome": "maracujás (polpa)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 maracujás (polpa)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador a lata de leite condensado, o creme de leite e o suco de maracujá concentrado.",
+      "Colocar em uma refratário (para servir) e deixar na geladeira até ficar bem geladinho (ou no congelador se precisar para o mesmo dia).",
+      "Junte o açúcar, a água e o maracujá em uma panela e deixe ferver até ficar em ponto de fio.",
+      "Quando esfriar coloque em cima da mousse."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "A mousse de maracujá. Ingredientes: leite condensado, lada de creme de leite, suco de maracujá concentrado, açúcar, água, maracujás (polpa). Preparo: Bata no liquidificador a lata de leite condensado, o creme de leite e o suco de maracujá concentrado. Colocar em uma refratário (para servir) e deixar na geladeira até ficar bem geladinho (ou no congelador se precisar para o mesmo dia). Junte o açúcar, a água e o maracujá em uma panela e deixe ferver até ficar em ponto de fio."
+}

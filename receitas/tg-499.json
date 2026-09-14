@@ -1,0 +1,57 @@
+{
+  "id": "tg-499",
+  "titulo": "Palha italiana",
+  "url": "https://www.tudogostoso.com.br/receita/499-palha-italiana.html",
+  "nota": 4.6,
+  "n_avaliacoes": 483,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Palha italiana",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de margarina"
+    },
+    {
+      "nome": "biscoito maisena",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de biscoito maisena"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pique o biscoito em pedacinhos pequenos e reserve.",
+      "Com o leite condensado, a margarina e o chocolate em pó, faça um brigadeiro.",
+      "Assim que o brigadeiro começar a soltar do fundo da panela, misture o biscoito picado até formar uma massa, retire do fogo.",
+      "Unte uma bancada de mármore, ou alguma superfície lisa, com margarina e despeje essa massa.",
+      "Abra a massa, batendo com a palma das mãos.",
+      "Deixe esfriar e corte em quadradinhos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Pincel de silicone",
+    "Colher de pau",
+    "Faca",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Palha italiana. Ingredientes: leite condensado, chocolate em pó, margarina, biscoito maisena. Preparo: Pique o biscoito em pedacinhos pequenos e reserve. Com o leite condensado, a margarina e o chocolate em pó, faça um brigadeiro. Assim que o brigadeiro começar a soltar do fundo da panela, misture o biscoito picado até formar uma massa, retire do fogo."
+}

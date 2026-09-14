@@ -1,0 +1,94 @@
+{
+  "id": "tg-70214",
+  "titulo": "Bolo pudim",
+  "url": "https://www.tudogostoso.com.br/receita/70214-bolo-pudim.html",
+  "nota": 4.2,
+  "n_avaliacoes": 308,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo pudim",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "colherzinhas de fermento",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 colherzinhas de fermento"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite (a mesma medida da lata de leite condensado)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "leite (a mesma medida da lata de leite condensado)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata a manteiga com o açúcar e os ovos, por 5 minutos.",
+      "Depois coloque a farinha e o leite, o sal e por último o fermento, continue batendo.",
+      "Caramelize a forma e coloque a massa.",
+      "Bata no liquidificador os ingredientes do pudim.",
+      "Coloque em cima da massa.",
+      "Leve ao forno médio, preaquecido, por aproximadamente 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Liquidificador",
+    "Bowl",
+    "Colher de pau",
+    "Formo de bolo",
+    "Panela com cabo"
+  ],
+  "texto_para_embedding": "Bolo pudim. Ingredientes: ovos, farinha de trigo, açúcar, margarina, leite, sal, colherzinhas de fermento, ovos, leite condensado, leite (a mesma medida da lata de leite condensado). Preparo: Bata a manteiga com o açúcar e os ovos, por 5 minutos. Depois coloque a farinha e o leite, o sal e por último o fermento, continue batendo. Caramelize a forma e coloque a massa."
+}

@@ -1,0 +1,88 @@
+{
+  "id": "tg-23317",
+  "titulo": "Fricassê de frango",
+  "url": "https://www.tudogostoso.com.br/receita/23317-fricasse-de-frango.html",
+  "nota": 4.8,
+  "n_avaliacoes": 482,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Fricassê de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "requeijão cremoso",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão cremoso"
+    },
+    {
+      "nome": "azeitonas sem caroços",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de azeitonas sem caroços"
+    },
+    {
+      "nome": "peitos de frango cozidos e desfiados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 peitos de frango cozidos e desfiados"
+    },
+    {
+      "nome": "mussarela fatiada",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela fatiada"
+    },
+    {
+      "nome": "batata palha",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de batata palha"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe os peitos de frango, desfie e reserve.",
+      "No liquidificador, bata o milho, o requeijão, o creme de leite e a água até obter uma consistência cremosa.",
+      "Leve ao fogo o frango desfiado e o creme batido no liquidificador.",
+      "Refogue e acrescente as azeitonas e o sal até obter uma textura firme.",
+      "Despeje em uma assadeira, cubra com mussarela e leve ao forno até borbulhar.",
+      "Finalize com a batata palha e está pronto para servir."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Fogão",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Fricassê de frango. Ingredientes: creme de leite, milho verde, requeijão cremoso, azeitonas sem caroços, peitos de frango cozidos e desfiados, mussarela fatiada, batata palha, água, sal. Preparo: Cozinhe os peitos de frango, desfie e reserve. No liquidificador, bata o milho, o requeijão, o creme de leite e a água até obter uma consistência cremosa. Leve ao fogo o frango desfiado e o creme batido no liquidificador."
+}

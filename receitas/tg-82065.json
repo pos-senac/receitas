@@ -1,0 +1,85 @@
+{
+  "id": "tg-82065",
+  "titulo": "Manjar de coco com calda de ameixa",
+  "url": "https://www.tudogostoso.com.br/receita/82065-manjar-de-coco-com-calda-de-ameixa.html",
+  "nota": 4.7,
+  "n_avaliacoes": 324,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Manjar de coco com calda de ameixa",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 115,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "litro de leite integral",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite integral"
+    },
+    {
+      "nome": "caixinha de leite condensado (395 g)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de leite condensado (395 g)"
+    },
+    {
+      "nome": "garrafinha de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 garrafinha de leite de coco"
+    },
+    {
+      "nome": "caixinha de creme de leite (250 g)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite (250 g)"
+    },
+    {
+      "nome": "amido de milho (110 g)",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de amido de milho (110 g)"
+    },
+    {
+      "nome": "açúcar (180 g)",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar (180 g)"
+    },
+    {
+      "nome": "água (480 ml)",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de água (480 ml)"
+    },
+    {
+      "nome": "ameixas pretas (170 g)",
+      "quantidade": "30",
+      "unidade": null,
+      "texto_original": "30 ameixas pretas (170 g)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o leite, o leite condensado, o leite de coco, o creme de leite e o amido de milho. Despeje a mistura em uma panela e leve ao fogo.",
+      "Deixe cozinhar, mexendo sempre, por 20 minutos ou até engrossar.",
+      "Coloque o creme numa fôrma de anel molhada com água e deixe esfriar por 30 minutos.",
+      "Leve à geladeira por 1 hora ou até ficar bem firme.",
+      "Se preferir, adicione 2 colheres (sopa) de coco ralado na preparação do manjar."
+    ],
+    "Calda": [
+      "Coloque o açúcar em uma panela e leve ao fogo para caramelizar.",
+      "Em seguida, acrescente a água e as ameixas e deixe ferver por 20 minutos ou até formar uma calda.",
+      "Espere esfriar. Desenforme o manjar já frio e cubra com a calda, também fria."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Espátula para bolo",
+    "Espátula de silicone",
+    "Formo de bolo",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Manjar de coco com calda de ameixa. Ingredientes: litro de leite integral, caixinha de leite condensado (395 g), garrafinha de leite de coco, caixinha de creme de leite (250 g), amido de milho (110 g), açúcar (180 g), água (480 ml), ameixas pretas (170 g). Preparo: Bata no liquidificador o leite, o leite condensado, o leite de coco, o creme de leite e o amido de milho. Despeje a mistura em uma panela e leve ao fogo. Deixe cozinhar, mexendo sempre, por 20 minutos ou até engrossar. Coloque o creme numa fôrma de anel molhada com água e deixe esfriar por 30 minutos."
+}

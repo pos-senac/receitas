@@ -1,0 +1,95 @@
+{
+  "id": "tg-15042",
+  "titulo": "Bolo de chocolate e calda de chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/15042-bolo-de-chocolate-e-calda-de-chocolate.html",
+  "nota": 4.6,
+  "n_avaliacoes": 185,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate e calda de chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 80,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de manteiga"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "chá de fermento",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de chá de fermento"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de manteiga"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "7",
+      "unidade": "colheres",
+      "texto_original": "7 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "creme de leite com soro",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite com soro"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata todos os ingredientes por 5 minutos (menos o fermento).",
+      "Adicione o fermento e misture com uma espátula delicadamente.",
+      "Coloque em uma forma untada e asse por 40 minutos."
+    ],
+    "Calda:": [
+      "Aqueça a manteiga e misture o chocolate em pó até que esteja homogêneo.",
+      "Acrescente o creme de leite e misture bem.",
+      "Desligue o fogo e acrescente o açúcar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de chocolate e calda de chocolate. Ingredientes: ovos, sopa de chocolate em pó, sopa de manteiga, farinha de trigo, açúcar, chá de fermento, leite, sopa de manteiga, sopa de chocolate em pó, creme de leite com soro, sopa de açúcar. Preparo: Bata todos os ingredientes por 5 minutos (menos o fermento). Adicione o fermento e misture com uma espátula delicadamente. Coloque em uma forma untada e asse por 40 minutos."
+}

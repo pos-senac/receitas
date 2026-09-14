@@ -1,0 +1,95 @@
+{
+  "id": "tg-20768",
+  "titulo": "Escondidinho de carne-seca",
+  "url": "https://www.tudogostoso.com.br/receita/20768-escondidinho-de-carne-seca.html",
+  "nota": 4.7,
+  "n_avaliacoes": 803,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Escondidinho de carne-seca",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "mandioca cozida",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de mandioca cozida"
+    },
+    {
+      "nome": "creme de leite com soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite com soro"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de margarina"
+    },
+    {
+      "nome": "carne-seca dessalgada e cozida",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de carne-seca dessalgada e cozida"
+    },
+    {
+      "nome": "cebola média picadinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picadinha"
+    },
+    {
+      "nome": "alho esmagados",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho esmagados"
+    },
+    {
+      "nome": "tomates sem casca e picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates sem casca e picados"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    },
+    {
+      "nome": "queijo ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Esprema a mandioca ainda quente e leve em uma panela com a margarina e o sal.",
+      "Quando estiverem bem misturados acrescente o creme de leite, misture e reserve.",
+      "Refogue a cebola e o alho em um fio de azeite.",
+      "Acrescente a carne-seca desfiada e deixe fritar um pouco.",
+      "Acrescente os tomates e deixe cozinhar até ficarem murchos, acerte o sal se achar necessário.",
+      "Em um refratário untado com azeite, coloque uma camada do purê de mandioca, a carne seca e termine com o restante do purê.",
+      "Polvilhe com queijo parmesão ralado e leve ao forno pra gratinar."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Espatula",
+    "Expremedor de Batata",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Escondidinho de carne-seca. Ingredientes: mandioca cozida, creme de leite com soro, margarina, carne-seca dessalgada e cozida, cebola média picadinha, alho esmagados, tomates sem casca e picados, sal a gosto, pimenta a gosto, queijo ralado a gosto. Preparo: Esprema a mandioca ainda quente e leve em uma panela com a margarina e o sal. Quando estiverem bem misturados acrescente o creme de leite, misture e reserve. Refogue a cebola e o alho em um fio de azeite."
+}

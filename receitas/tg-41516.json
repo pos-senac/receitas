@@ -1,0 +1,89 @@
+{
+  "id": "tg-41516",
+  "titulo": "Bolo de banana caramelada",
+  "url": "https://www.tudogostoso.com.br/receita/41516-bolo-de-banana-caramelada.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1383,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de banana caramelada",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/2 xícara de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "rasa de fermento",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de fermento"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "a 5 bananas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 a 5 bananas"
+    }
+  ],
+  "modo_preparo": {
+    "Cobertura": [
+      "Despeje o açúcar em uma forma redonda com furo central e leve ao fogo até que esteja completamente derretido.",
+      "Logo após, fatie as bananas e disponha sobre o açúcar caramelizado."
+    ],
+    "Massa": [
+      "Bata as claras em neve e separe.",
+      "Em outra travessa, bata os ovos com a margarina e o açúcar.",
+      "Acrescente a farinha, o leite, o sal e o fermento.",
+      "Por último, misture as claras em neve e continue batendo.",
+      "Despeje a massa na forma caramelizada com as bananas fatiadas.",
+      "Leve em forno médio (180° C), preaquecido, por 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Espátula de silicone",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de banana caramelada. Ingredientes: ovos, margarina, açúcar, sal, leite, farinha de trigo, rasa de fermento, açúcar, a 5 bananas. Preparo: Despeje o açúcar em uma forma redonda com furo central e leve ao fogo até que esteja completamente derretido. Logo após, fatie as bananas e disponha sobre o açúcar caramelizado. Bata as claras em neve e separe."
+}

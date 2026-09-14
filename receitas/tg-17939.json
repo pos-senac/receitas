@@ -1,0 +1,78 @@
+{
+  "id": "tg-17939",
+  "titulo": "Bolinho de arroz tradicional",
+  "url": "https://www.tudogostoso.com.br/receita/17939-bolinho-de-arroz-tradicional.html",
+  "nota": 4.7,
+  "n_avaliacoes": 166,
+  "categoria": "Receitas arroz",
+  "subcategoria": "Bolinho de arroz tradicional",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "arroz cozido",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de arroz cozido"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de queijo ralado"
+    },
+    {
+      "nome": "Farinha de trigo até o ponto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo até o ponto"
+    },
+    {
+      "nome": "Cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebola"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Cebolinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebolinha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma tigela, misture todos os ingredientes.",
+      "Frite as colheradas em óleo quente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Papel-toalha",
+    "Colher para sobremesa",
+    "Escumadeira",
+    "Faca",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolinho de arroz tradicional. Ingredientes: arroz cozido, ovo, leite, queijo ralado, Farinha de trigo até o ponto, Cebola, Sal, Cebolinha. Preparo: Em uma tigela, misture todos os ingredientes. Frite as colheradas em óleo quente."
+}

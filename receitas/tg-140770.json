@@ -1,0 +1,77 @@
+{
+  "id": "tg-140770",
+  "titulo": "Doce gelado de coco com chocolate",
+  "url": "https://www.tudogostoso.com.br/receita/140770-doce-gelado-de-coco-com-chocolate.html",
+  "nota": 4.6,
+  "n_avaliacoes": 2601,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Doce gelado de coco com chocolate",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "800",
+      "unidade": "ml",
+      "texto_original": "800 ml de leite"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de coco ralado"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1 e 1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 e 1/2 colher (sopa) de amido de milho"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "achocolatado",
+      "quantidade": "12",
+      "unidade": "colheres (sopa)",
+      "texto_original": "12 colheres (sopa) de achocolatado"
+    }
+  ],
+  "modo_preparo": {
+    "Creme branco:": [
+      "Em uma panela, misture todos ingredientes e leve ao fogo até formar um creme homogêneo.",
+      "Despeje o creme em uma travessa ou em porções individuais e reserve."
+    ],
+    "Cobertura:": [
+      "Em um recipiente, misture bem o creme de leite e o achocolatado sem levar ao fogo.",
+      "Despeje a mistura por cima do creme branco e leva à geladeira.",
+      "Sirva gelado."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Panela",
+    "Colher de silicone",
+    "Fogão",
+    "Taça de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Doce gelado de coco com chocolate. Ingredientes: leite condensado, leite, coco ralado, amido de milho, sal, creme de leite, achocolatado. Preparo: Em uma panela, misture todos ingredientes e leve ao fogo até formar um creme homogêneo. Despeje o creme em uma travessa ou em porções individuais e reserve. Em um recipiente, misture bem o creme de leite e o achocolatado sem levar ao fogo."
+}

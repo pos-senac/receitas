@@ -1,0 +1,81 @@
+{
+  "id": "tg-95414",
+  "titulo": "Arroz doce tradicional",
+  "url": "https://www.tudogostoso.com.br/receita/95414-arroz-doce-tradicional.html",
+  "nota": 4.7,
+  "n_avaliacoes": 120,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Arroz doce tradicional",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "arroz lavado e escorrido",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de arroz lavado e escorrido"
+    },
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de água"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de leite"
+    },
+    {
+      "nome": "açucar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açucar"
+    },
+    {
+      "nome": "Casca de limão a gosto (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Casca de limão a gosto (opcional)"
+    },
+    {
+      "nome": "Cravo a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cravo a gosto"
+    },
+    {
+      "nome": "Canela em pó para polvilhar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pó para polvilhar"
+    },
+    {
+      "nome": "Canela em pau",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Canela em pau"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o arroz, água, cravo, canela em pau e a casca de limão para cozinhar em fogo baixo.",
+      "Quando secar a água e o arroz cozinhar, acrescente o leite e o açúcar.",
+      "Quando ferver, abaixe o fogo e deixe o leite engrossar (ficar cremoso), mexendo de vez em quando.",
+      "Faça em panela funda, o leite sobe.",
+      "Polvilhe canela em pó antes de servir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor",
+    "Fogão",
+    "Ralador",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Arroz doce tradicional. Ingredientes: arroz lavado e escorrido, água, leite, açucar, Casca de limão a gosto (opcional), Cravo a gosto, Canela em pó para polvilhar, Canela em pau. Preparo: Coloque o arroz, água, cravo, canela em pau e a casca de limão para cozinhar em fogo baixo. Quando secar a água e o arroz cozinhar, acrescente o leite e o açúcar. Quando ferver, abaixe o fogo e deixe o leite engrossar (ficar cremoso), mexendo de vez em quando."
+}

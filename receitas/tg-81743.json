@@ -1,0 +1,115 @@
+{
+  "id": "tg-81743",
+  "titulo": "Esfiha de carne fechada",
+  "url": "https://www.tudogostoso.com.br/receita/81743-esfiha-de-carne-fechada.html",
+  "nota": 4.4,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Esfiha de carne fechada",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite morno"
+    },
+    {
+      "nome": "fermento para pão (biológico)",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de fermento para pão (biológico)"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de açúcar"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    },
+    {
+      "nome": "café de óleo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de café de óleo"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de carne moída"
+    },
+    {
+      "nome": "cebola pequena",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Salsinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha"
+    },
+    {
+      "nome": "tomates (sem semente)",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 tomates (sem semente)"
+    },
+    {
+      "nome": "Pimenta do reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta do reino"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Dissolva o fermento no açúcar, coloque o leite morno e o resto dos ingredientes.",
+      "Faça bolinhas e reserve."
+    ],
+    "Recheio:": [
+      "Carne moída refogada com alho, cebola e sal.",
+      "Depois de refogada adicione salsa e tomate picadinho (sem sementes) e 1 pitada de pimenta."
+    ],
+    "Montagem:": [
+      "Abra as bolinhas, coloque o recheio e feche 3 pontas.",
+      "Coloque na assadeira e pincele com gema.",
+      "Leve ao forno até dourar."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Forma"
+  ],
+  "texto_para_embedding": "Esfiha de carne fechada. Ingredientes: farinha de trigo, leite morno, fermento para pão (biológico), açúcar, chá de sal, café de óleo, carne moída, cebola pequena, Sal, Salsinha, tomates (sem semente), Pimenta do reino, alho. Preparo: Dissolva o fermento no açúcar, coloque o leite morno e o resto dos ingredientes. Faça bolinhas e reserve. Carne moída refogada com alho, cebola e sal."
+}

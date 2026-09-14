@@ -1,0 +1,70 @@
+{
+  "id": "tg-20864",
+  "titulo": "Costelinha (tipo Outback)",
+  "url": "https://www.tudogostoso.com.br/receita/20864-costelinha-tipo-outback.html",
+  "nota": 4.7,
+  "n_avaliacoes": 137,
+  "categoria": "Receitas porco",
+  "subcategoria": "Costelinha (tipo Outback)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "costelinha de porco (peça, aproximadamente)",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de costelinha de porco (peça, aproximadamente)"
+    },
+    {
+      "nome": "limão",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 limão"
+    },
+    {
+      "nome": "catchup",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de catchup"
+    },
+    {
+      "nome": "mostarda escura",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de mostarda escura"
+    },
+    {
+      "nome": "vinagre",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de vinagre"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de açúcar"
+    },
+    {
+      "nome": "Sal e pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e pimenta do reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela de pressão, coloque 3 colheres de sopa de óleo.",
+      "Coloque a peça de costelinha meio \"dobrada\" para que caiba dentro da panela.",
+      "Por cima, coloque o catchup, mostarda, pimenta, sal, açucar e vinagre (ou caso queira, substitua esses temperos por um tubo de molho barbecue pronto).",
+      "Acrescente dois copos de água, tampe a panela e cozinhe por aproximadamente 50 minutos.",
+      "Retire da panela de pressão com cuidado para não desmanchá-la.",
+      "Coloque a peça em uma assadeira untada, regue com o molho ou acrescente mais molho barbecue.",
+      "Leve ao forno alto até que fique com a crosta crocante."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Costelinha (tipo Outback). Ingredientes: costelinha de porco (peça, aproximadamente), limão, catchup, mostarda escura, vinagre, sopa de açúcar, Sal e pimenta do reino a gosto. Preparo: Em uma panela de pressão, coloque 3 colheres de sopa de óleo. Coloque a peça de costelinha meio \"dobrada\" para que caiba dentro da panela. Por cima, coloque o catchup, mostarda, pimenta, sal, açucar e vinagre (ou caso queira, substitua esses temperos por um tubo de molho barbecue pronto)."
+}

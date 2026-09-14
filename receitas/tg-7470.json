@@ -1,0 +1,78 @@
+{
+  "id": "tg-7470",
+  "titulo": "Creme de milho",
+  "url": "https://www.tudogostoso.com.br/receita/7470-creme-de-milho.html",
+  "nota": 4.8,
+  "n_avaliacoes": 197,
+  "categoria": "Receitas molhos",
+  "subcategoria": "Creme de milho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "milho verde",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho verde"
+    },
+    {
+      "nome": "leite de vaca (utilize a lata de milho como medida)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "leite de vaca (utilize a lata de milho como medida)"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "cebola picada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebola picada a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata rapidamente no liquidificador o milho e o leite.",
+      "Em uma panela, misture a manteiga, o alho e a cebola até ficarem dourados.",
+      "Acrescente o milho batido, mexendo sempre, adicione o creme de leite e o cheiro-verde, até obter um creme grosso.",
+      "Sirva quente."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Creme de milho. Ingredientes: milho verde, leite de vaca (utilize a lata de milho como medida), creme de leite, manteiga, alho amassados, cebola picada a gosto, sal a gosto, cheiro-verde a gosto. Preparo: Bata rapidamente no liquidificador o milho e o leite. Em uma panela, misture a manteiga, o alho e a cebola até ficarem dourados. Acrescente o milho batido, mexendo sempre, adicione o creme de leite e o cheiro-verde, até obter um creme grosso."
+}

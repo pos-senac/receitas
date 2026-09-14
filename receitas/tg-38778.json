@@ -1,0 +1,71 @@
+{
+  "id": "tg-38778",
+  "titulo": "Bolo de chocolate fácil e rápido",
+  "url": "https://www.tudogostoso.com.br/receita/38778-bolo-de-chocolate-facil-e-rapido.html",
+  "nota": 4.7,
+  "n_avaliacoes": 304,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate fácil e rápido",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "achocolatado em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de achocolatado em pó"
+    },
+    {
+      "nome": "sopa (rasa) de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa (rasa) de fermento em pó"
+    },
+    {
+      "nome": "xícara de óleo",
+      "quantidade": "3/4",
+      "unidade": null,
+      "texto_original": "3/4 de xícara de óleo"
+    },
+    {
+      "nome": "leite fervendo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite fervendo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiramente, misture os ingredientes secos.",
+      "Após misturados, acrescente o óleo e o leite fervendo por cima.",
+      "Misture até tornar a massa homogênea.",
+      "Por último, coloque os ovos.",
+      "Misture.",
+      "Os ingredientes desta receita devem ser apenas misturados, não leve à batedeira.",
+      "Unte uma forma (30 cm diâmetro) com margarina e farinha de trigo.",
+      "Despeje a massa e leve ao forno pré-aquecido a 180º (forno baixo), por aproximadamente 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de chocolate fácil e rápido. Ingredientes: farinha de trigo, açúcar, achocolatado em pó, sopa (rasa) de fermento em pó, xícara de óleo, leite fervendo, ovos. Preparo: Primeiramente, misture os ingredientes secos. Após misturados, acrescente o óleo e o leite fervendo por cima. Misture até tornar a massa homogênea."
+}

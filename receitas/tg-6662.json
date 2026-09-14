@@ -1,0 +1,75 @@
+{
+  "id": "tg-6662",
+  "titulo": "Creme de milho",
+  "url": "https://www.tudogostoso.com.br/receita/6662-creme-de-milho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1910,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Creme de milho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de leite"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "cebola média ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média ralada"
+    },
+    {
+      "nome": "tablete de caldo de legumes",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de legumes"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "No liquidificador, bata o milho e o leite e reserve.",
+      "Em uma panela, aqueça a manteiga, junte a cebola e refogue um pouco.",
+      "Adicione a farinha de trigo e mexa rapidamente.",
+      "Deixe dourar e misture o milho batido com o leite ao caldo.",
+      "Mexa até dissolvê-lo completamente e cozinhe por cerca de 10 minutos, até obter uma consistência cremosa.",
+      "Acrescente o creme de leite, mexa e desligue o fogo."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Bowl",
+    "Colher de silicone",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Creme de milho. Ingredientes: milho, leite, manteiga, cebola média ralada, tablete de caldo de legumes, creme de leite, farinha de trigo. Preparo: No liquidificador, bata o milho e o leite e reserve. Em uma panela, aqueça a manteiga, junte a cebola e refogue um pouco. Adicione a farinha de trigo e mexa rapidamente."
+}

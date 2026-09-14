@@ -1,0 +1,81 @@
+{
+  "id": "tg-13576",
+  "titulo": "Pão de queijo com polvilho azedo",
+  "url": "https://www.tudogostoso.com.br/receita/13576-pao-de-queijo-com-polvilho-azedo.html",
+  "nota": 3.8,
+  "n_avaliacoes": 128,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Pão de queijo com polvilho azedo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "chá de polvilho azedo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de chá de polvilho azedo"
+    },
+    {
+      "nome": "chá de água morna",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de água morna"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de sal"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de óleo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "chá de queijo meia cura ralado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de queijo meia cura ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente coloque o polvilho e a água morna.",
+      "Misture com as mãos.",
+      "Adicione o sal, mexa e reserve.",
+      "Aqueça o leite e o óleo até ferver.",
+      "Após levantar fervura despeje sobre o polvilho reservado.",
+      "Misture para se agregarem.",
+      "Junte os ovos e continue mexendo.",
+      "Acrescente o queijo meia cura ralado.",
+      "Sove a massa sobre uma superfície lisa.",
+      "A seguir, unte as mãos com óleo e enrole pequenas bolinhas.",
+      "Acomode-as em uma assadeira untada e polvilhada.",
+      "Leve ao forno pré-aquecido 180° graus por mais de 15 a 20 minutos.",
+      "Dica: Se desejar, recheie com lingüiça calabresa ou mussarela.",
+      "Pode congelar."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Forma",
+    "Fouet"
+  ],
+  "texto_para_embedding": "Pão de queijo com polvilho azedo. Ingredientes: chá de polvilho azedo, chá de água morna, sal, chá de leite, chá de óleo, ovos, chá de queijo meia cura ralado. Preparo: Em um recipiente coloque o polvilho e a água morna. Misture com as mãos. Adicione o sal, mexa e reserve."
+}

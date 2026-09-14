@@ -1,0 +1,163 @@
+{
+  "id": "tg-3798",
+  "titulo": "Coxinha de frango",
+  "url": "https://www.tudogostoso.com.br/receita/3798-coxinha-de-frango.html",
+  "nota": 4.5,
+  "n_avaliacoes": 446,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Coxinha de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 180,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "litros de água",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 litros de água"
+    },
+    {
+      "nome": "farinha de trigo peneirada",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo peneirada"
+    },
+    {
+      "nome": "caldos de galinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caldos de galinha"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "rasa de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de sal"
+    },
+    {
+      "nome": "colorífico",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de colorífico"
+    },
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "cebolas médias picadas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas médias picadas"
+    },
+    {
+      "nome": "salsinha picada",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de salsinha picada"
+    },
+    {
+      "nome": "pimenta vermelha picada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta vermelha picada a gosto"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "colorífico a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "colorífico a gosto"
+    },
+    {
+      "nome": "óleo ou azeite de oliva",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo ou azeite de oliva"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 claras"
+    },
+    {
+      "nome": "litro de água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de água"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "farinha de pão",
+      "quantidade": "2",
+      "unidade": "kg",
+      "texto_original": "2 kg de farinha de pão"
+    }
+  ],
+  "modo_preparo": {
+    "Para a massa:": [
+      "Em uma panela, junte a água (de preferência a água que cozinhou o frango), os dois caldos de galinha, a margarina, o sal e o colorífico.",
+      "Deixe a mistura no fogo até ferver.",
+      "Após levantar fervura, junte a farinha peneirada e, com o auxílio de uma colher de pau, vá mexendo sem parar até que a massa desgrude da panela.",
+      "Retire a do fogo e coloque sobre uma superfície lisa e untada com margarina.",
+      "Deixe esfriar e vá sovando a massa constantemente para não criar casca."
+    ],
+    "Para o recheio:": [
+      "Em uma panela com óleo ou azeite, adicione o alho amassado, a pimenta vermelha picada e a cebola picada, frite tudo até dourar, junte o peito de frango cozido e desfiado e refogue por alguns minutos. Junte o sal e o colorífico.",
+      "Desligue o fogo e acrescente a salsinha picada, misture bem e deixe esfriar."
+    ],
+    "Para a montagem:": [
+      "Passe um pouco de manteiga nas mãos, pegue uma porção da massa (dependendo qual seja o tamanho desejado da coxinha), faça uma bolinha e com o auxílio do dedo indicador faça uma cavidade na massa.",
+      "Coloque uma porção do recheio e feche pinçando a boca da cavidade com a parte interna do polegar e do indicador."
+    ],
+    "Para empanar:": [
+      "Misture a água e as claras, bata com o auxílio de um garfo por alguns minutos, junte o sal a farinha de trigo e bata até que as bolinhas de farinha desapareçam.",
+      "Passe as coxinhas prontas por essa mistura, tire o excesso e passe pela farinha de trigo.",
+      "Após terminar de empanar as coxinhas, repita a operação."
+    ],
+    "Para fritar:": [
+      "Em um tacho ou panela funda, coloque óleo suficiente para cobrir a coxinha, deixe esquentar bem (190º a 200º C) e frite as coxinhas aos poucos para que o óleo não esfrie, o que pode fazer com que as coxinhas venham a rachar.",
+      "Espere dourar bem, escorra e aproveite."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Escumadeira",
+    "Fouet",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Coxinha de frango. Ingredientes: litros de água, farinha de trigo peneirada, caldos de galinha, margarina, rasa de sal, colorífico, peito de frango cozido e desfiado, cebolas médias picadas, salsinha picada, pimenta vermelha picada a gosto, alho amassados, sal a gosto, colorífico a gosto, óleo ou azeite de oliva, claras, litro de água, sal, farinha de trigo, farinha de pão. Preparo: Em uma panela, junte a água (de preferência a água que cozinhou o frango), os dois caldos de galinha, a margarina, o sal e o colorífico. Deixe a mistura no fogo até ferver. Após levantar fervura, junte a farinha peneirada e, com o auxílio de uma colher de pau, vá mexendo sem parar até que a massa desgrude da panela."
+}

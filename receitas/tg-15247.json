@@ -1,0 +1,93 @@
+{
+  "id": "tg-15247",
+  "titulo": "Pão de liquidificador recheado",
+  "url": "https://www.tudogostoso.com.br/receita/15247-pao-de-liquidificador-recheado.html",
+  "nota": 4.7,
+  "n_avaliacoes": 172,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de liquidificador recheado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "chá de água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de água"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de óleo"
+    },
+    {
+      "nome": "ou 2 tabletes de fermento biológico ou de padaria",
+      "quantidade": "30",
+      "unidade": "g",
+      "texto_original": "30 g ou 2 tabletes de fermento biológico ou de padaria"
+    },
+    {
+      "nome": "chá de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de sal"
+    },
+    {
+      "nome": "farinha de trigo (aproximadamente)",
+      "quantidade": "5",
+      "unidade": "xícaras",
+      "texto_original": "5 xícaras de farinha de trigo (aproximadamente)"
+    },
+    {
+      "nome": "apresuntado ou presunto",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de apresuntado ou presunto"
+    },
+    {
+      "nome": "mussarela",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de mussarela"
+    },
+    {
+      "nome": "bacon",
+      "quantidade": "15",
+      "unidade": "g",
+      "texto_original": "15 g de bacon"
+    },
+    {
+      "nome": "chá de cheiro verde picado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de cheiro verde picado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador todos os ingredientes, menos a farinha de trigo.",
+      "Despeje em uma vasilha, junte a farinha aos poucos e amasse bem, até que a massa fique lisa e homogênea.",
+      "Coloque a massa em forma untada com óleo.",
+      "Deixe descansar por 30 minutos.",
+      "Divida a massa em 3 partes, abra com o auxílio de um rolo em superfície enfarinhada, recheie com o sabor de sua preferência, enrole o pão.",
+      "Pincele 1 gema e asse em forno quente por aproximadamente 30 minutos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de liquidificador recheado. Ingredientes: chá de água, ovo, sopa de açúcar, sopa de óleo, ou 2 tabletes de fermento biológico ou de padaria, chá de sal, farinha de trigo (aproximadamente), apresuntado ou presunto, mussarela, bacon, chá de cheiro verde picado. Preparo: Bata no liquidificador todos os ingredientes, menos a farinha de trigo. Despeje em uma vasilha, junte a farinha aos poucos e amasse bem, até que a massa fique lisa e homogênea. Coloque a massa em forma untada com óleo."
+}

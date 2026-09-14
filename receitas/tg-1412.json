@@ -1,0 +1,72 @@
+{
+  "id": "tg-1412",
+  "titulo": "Torta alemã (fácil, simples e deliciosa)",
+  "url": "https://www.tudogostoso.com.br/receita/1412-torta-alema-facil-simples-e-deliciosa.html",
+  "nota": 4.3,
+  "n_avaliacoes": 1510,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta alemã (fácil, simples e deliciosa)",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 9,
+  "ingredientes": [
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de manteiga sem sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "bolacha maisena",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de bolacha maisena"
+    },
+    {
+      "nome": "leite, o quanto baste, para molhar a bolacha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "leite, o quanto baste, para molhar a bolacha"
+    },
+    {
+      "nome": "leite condensado, sabor chocolate (ou cobertura de sorvete)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado, sabor chocolate (ou cobertura de sorvete)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a manteiga e o açúcar na batedeira e bata até obter um creme bem fofo e liso.",
+      "Acrescente o creme de leite e bata rapidamente apenas para misturar.",
+      "Desligue a batedeira e reserve.",
+      "Separe um recipiente médio para montar o doce.",
+      "Acrescente um pouco de leite num prato fundo e molhe rapidamente algumas bolachas maisena no leite.",
+      "Forre o fundo do recipiente escolhido com uma camada de bolachas.",
+      "Acrescente uma camada do creme reservado sobre as bolachas.",
+      "Acrescente mais uma camada de bolachas molhadas no leite e repita o procedimento finalizando com a bolacha.",
+      "Cubra a última camada de bolachas com o leite condensado sabor chocolate (comprado pronto ou a cobertura).",
+      "Leve à geladeira por no mínimo 3 horas ou até que o doce fique bem gelado.",
+      "Retire o doce da geladeira e sirva a seguir."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Espatula",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Torta alemã (fácil, simples e deliciosa). Ingredientes: manteiga sem sal, açúcar, creme de leite sem soro, bolacha maisena, leite, o quanto baste, para molhar a bolacha, leite condensado, sabor chocolate (ou cobertura de sorvete). Preparo: Coloque a manteiga e o açúcar na batedeira e bata até obter um creme bem fofo e liso. Acrescente o creme de leite e bata rapidamente apenas para misturar. Desligue a batedeira e reserve."
+}

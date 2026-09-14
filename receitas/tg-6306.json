@@ -1,0 +1,93 @@
+{
+  "id": "tg-6306",
+  "titulo": "Massa para pizza extra macia",
+  "url": "https://www.tudogostoso.com.br/receita/6306-massa-para-pizza-extra-macia.html",
+  "nota": 4.5,
+  "n_avaliacoes": 272,
+  "categoria": "Receitas massas",
+  "subcategoria": "Massa para pizza extra macia",
+  "nivel": "dificil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 150,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "chá de farinha de trigo especial peneirada (aproximadamente)",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de chá de farinha de trigo especial peneirada (aproximadamente)"
+    },
+    {
+      "nome": "fermento biológico",
+      "quantidade": "30",
+      "unidade": "g",
+      "texto_original": "30 g de fermento biológico"
+    },
+    {
+      "nome": "sopa de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de farinha de trigo"
+    },
+    {
+      "nome": "sopa de açúcar refinado",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de açúcar refinado"
+    },
+    {
+      "nome": "xícara de chá de leite morno (aproximadamente)",
+      "quantidade": "3/4",
+      "unidade": null,
+      "texto_original": "3/4 de xícara de chá de leite morno (aproximadamente)"
+    },
+    {
+      "nome": "café de sal ou massa de alho",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de café de sal ou massa de alho"
+    },
+    {
+      "nome": "Óleo de soja (aproximadamente 1/4 de xícara)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo de soja (aproximadamente 1/4 de xícara)"
+    },
+    {
+      "nome": "Farinha de trigo o quanto baste para dar liga à massa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo o quanto baste para dar liga à massa"
+    },
+    {
+      "nome": "Óleo para untar as assadeiras",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para untar as assadeiras"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiramente prepare o fermento: em uma vasilha plástica funda, usando luvas, desmanche o fermento no leite morno com as mãos, acrescente o açúcar e a colher de farinha de trigo. Cubra com um pano de prato limpo e leve ao forno desligado.",
+      "Deixe descansar por 1/2 hora. Após descansado, acrescente aos poucos a farinha e o sal, sovando bastante. Não se esqueça do óleo.",
+      "Se necessário, acrescente leite morno aos pouquinhos ou farinha de trigo.",
+      "Ressalte-se que na massa não pode ir muito óleo, senão a massa fica dura.",
+      "Sove bem até a massa desgrudar das mãos e ficar bem lisinha.",
+      "Demora um pouco mesmo, mas quanto mais se sova, mais a massa fica macia por dentro e crocante por fora depois de assada.",
+      "Quando a massa estiver lisinha, espalhe um pouco de óleo entre as mãos e \"unte\" a bola de massa.",
+      "Ponha a massa novamente na vasilha, cubra com o pano, leve ao forno desligado e deixe por 1 hora mais ou menos.",
+      "Para poupar tempo, unte as assadeiras com óleo.",
+      "Após descansar, tire a vasilha com a massa do forno, divida em duas partes, ou quantas quiser, se for fazer pizza brotinho, fica a seu critério, estique a massa com um rolo ou garrafa de vidro cheia d'água morna para quente, e disponha a massa nas assadeiras.",
+      "Espalhe somente o molho de tomate de sua preferência, e leve as assadeiras ao forno desligado por mais 40 minutos a 1 hora.",
+      "A massa crescerá novamente.",
+      "Retire do forno as assadeiras com massa.",
+      "Pré-aqueça o forno na temperatura máxima por 15 minutos (o forno deve estar muito quente).",
+      "Após pré-aquecido, leve uma assadeira de cada vez ao forno (a grade deve estar no alto e deixe de 3 a 5 minutos apenas (somente para pré assar).",
+      "Retire imediatamente a assadeira do forno e a cubra com o recheio de sua preferência. Leve novamente ao forno e deixe somente até derreter os queijos(entre 5 e 10 minutos) está pronta.",
+      "A massa em regra fica grossa, crocante por fora e supermacia por dentro.",
+      "Pode, se quiser, substituir o óleo por azeite extra virgem, assim como acrescentar orégano ou ervas finas à massa."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa para pizza extra macia. Ingredientes: chá de farinha de trigo especial peneirada (aproximadamente), fermento biológico, sopa de farinha de trigo, sopa de açúcar refinado, xícara de chá de leite morno (aproximadamente), café de sal ou massa de alho, Óleo de soja (aproximadamente 1/4 de xícara), Farinha de trigo o quanto baste para dar liga à massa, Óleo para untar as assadeiras. Preparo: Primeiramente prepare o fermento: em uma vasilha plástica funda, usando luvas, desmanche o fermento no leite morno com as mãos, acrescente o açúcar e a colher de farinha de trigo. Cubra com um pano de prato limpo e leve ao forno desligado. Deixe descansar por 1/2 hora. Após descansado, acrescente aos poucos a farinha e o sal, sovando bastante. Não se esqueça do óleo. Se necessário, acrescente leite morno aos pouquinhos ou farinha de trigo."
+}

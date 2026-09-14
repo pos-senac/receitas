@@ -1,0 +1,54 @@
+{
+  "id": "tg-122091",
+  "titulo": "Pudim de doce de leite",
+  "url": "https://www.tudogostoso.com.br/receita/122091-pudim-de-doce-de-leite.html",
+  "nota": 4.5,
+  "n_avaliacoes": 183,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de doce de leite",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "doce de leite (pote)",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de doce de leite (pote)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "americano de leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo americano de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater todos os ingredientes no liquidificador, caramelizar uma assadeira de pudim e jogar a mistura.",
+      "Levar ao forno em banho maria por 35 minutos. Depois de frio, desenformar e levar à geladeira."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Papel-alumínio",
+    "Colher de silicone",
+    "Forma",
+    "Forno elétrico"
+  ],
+  "texto_para_embedding": "Pudim de doce de leite. Ingredientes: doce de leite (pote), ovos, americano de leite, farinha de trigo. Preparo: Bater todos os ingredientes no liquidificador, caramelizar uma assadeira de pudim e jogar a mistura. Levar ao forno em banho maria por 35 minutos. Depois de frio, desenformar e levar à geladeira."
+}

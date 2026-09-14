@@ -1,0 +1,65 @@
+{
+  "id": "tg-1566",
+  "titulo": "Patê de atum",
+  "url": "https://www.tudogostoso.com.br/receita/1566-pate-de-atum.html",
+  "nota": 4.6,
+  "n_avaliacoes": 210,
+  "categoria": "Receitas patês",
+  "subcategoria": "Patê de atum",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "atum",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de atum"
+    },
+    {
+      "nome": "maionese",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de maionese"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal a gosto"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola ralada"
+    },
+    {
+      "nome": "salsinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha a gosto"
+    },
+    {
+      "nome": "torradas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "torradas"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Abra a lata de atum e coloque em uma vasilha.",
+      "Adicione a maionese, a cebola e a salsa bem picadinha e amasse com um garfo ou passe no processador.",
+      "Depois de pronta é só passar nas torradas."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Faca",
+    "Ralador"
+  ],
+  "texto_para_embedding": "Patê de atum. Ingredientes: atum, maionese, sal a gosto, cebola ralada, salsinha a gosto, torradas. Preparo: Abra a lata de atum e coloque em uma vasilha. Adicione a maionese, a cebola e a salsa bem picadinha e amasse com um garfo ou passe no processador. Depois de pronta é só passar nas torradas."
+}

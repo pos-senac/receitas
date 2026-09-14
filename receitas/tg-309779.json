@@ -1,0 +1,106 @@
+{
+  "id": "tg-309779",
+  "titulo": "Bolo de chocolate simples",
+  "url": "https://www.tudogostoso.com.br/receita/309779-bolo-de-chocolate-simples.html",
+  "nota": 4.5,
+  "n_avaliacoes": 795,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate simples",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 10,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "chocolate em pó ou achocolatado",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de chocolate em pó ou achocolatado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de água quente"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de chocolate em pó"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa": [
+      "Em um liquidificador, bata os ovos, o açúcar, o óleo, o achocolatado e a farinha de trigo. Importante: caso seu liquidificador não seja muito potente, coloque a farinha aos poucos conforme bate e, quando a massa ficar mais densa, passe para uma tigela e misture o restante da farinha com um fouet.",
+      "Despeje a massa em uma tigela e adicione a água quente, o sal e o fermento, misturando bem.",
+      "Despeje a massa em uma forma untada e asse em forno médio-alto (200° C), preaquecido, por 40 minutos.",
+      "Desenforme ainda quente."
+    ],
+    "Cobertura": [
+      "Em uma panela, leve todos os ingredientes ao fogo até levantar fervura.",
+      "Despeje ainda quente em cima do bolo."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Bowl",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo de chocolate simples. Ingredientes: ovos, açúcar, farinha de trigo, chocolate em pó ou achocolatado, óleo, fermento em pó, sal, água quente, leite, chocolate em pó, manteiga, açúcar. Preparo: Em um liquidificador, bata os ovos, o açúcar, o óleo, o achocolatado e a farinha de trigo. Importante: caso seu liquidificador não seja muito potente, coloque a farinha aos poucos conforme bate e, quando a massa ficar mais densa, passe para uma tigela e misture o restante da farinha com um fouet. Despeje a massa em uma tigela e adicione a água quente, o sal e o fermento, misturando bem. Despeje a massa em uma forma untada e asse em forno médio-alto (200° C), preaquecido, por 40 minutos."
+}

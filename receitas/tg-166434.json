@@ -1,0 +1,116 @@
+{
+  "id": "tg-166434",
+  "titulo": "Pão de ló de chocolate com recheio e cobertura",
+  "url": "https://www.tudogostoso.com.br/receita/166434-pao-de-lo-de-chocolate-com-recheio-e-cobertura.html",
+  "nota": 4.4,
+  "n_avaliacoes": 100,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Pão de ló de chocolate com recheio e cobertura",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos inteiros"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de açúcar"
+    },
+    {
+      "nome": "chá de água fervendo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de água fervendo"
+    },
+    {
+      "nome": "chá de chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de chocolate em pó"
+    },
+    {
+      "nome": "e 1/2 de chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras e 1/2 de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa rasa de fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher sopa rasa de fermento"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de margarina"
+    },
+    {
+      "nome": "chocolate para cobertura",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de chocolate para cobertura"
+    },
+    {
+      "nome": "creme de leite com soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite com soro"
+    },
+    {
+      "nome": "sopa de rum",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de rum"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Peneirar os ingredientes secos e reservar.",
+      "Bater os ovos com o açúcar na batedeira por 15 minutos.",
+      "Com a batedeira ligada no mínimo acrescentar a água fervendo e os ingredientes secos,batendo mais um pouquinho.",
+      "Levar ao forno médio preaquecido em forma untada e polvilhada com chocolate em pó por 30 minutos ou até que espetando um palito saia limpo.Retirar o bolo do forno e desenformar ainda morno.Cortar ao meio, molhar com guaraná e colocar o recheio e a cobertura.Enfeitar a gosto e servir gelado."
+    ],
+    "Recheio:": [
+      "Levar os ingredientes ao fogo por 8 minutos."
+    ],
+    "Cobertura:": [
+      "Levar ao micro-ondas o chocolate para derreter por 1 minuto, mexer e se necessário colocar mais alguns minutos.Retirar, misturar o creme de leite e o rum e usar."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Pincel de silicone",
+    "Bowl",
+    "Formo de bolo",
+    "Forno elétrico",
+    "Peneira"
+  ],
+  "texto_para_embedding": "Pão de ló de chocolate com recheio e cobertura. Ingredientes: ovos inteiros, chá de açúcar, chá de água fervendo, chá de chocolate em pó, e 1/2 de chá de farinha de trigo, sopa rasa de fermento, sal, leite condensado, sopa de chocolate em pó, sopa de margarina, chocolate para cobertura, creme de leite com soro, sopa de rum. Preparo: Peneirar os ingredientes secos e reservar. Bater os ovos com o açúcar na batedeira por 15 minutos. Com a batedeira ligada no mínimo acrescentar a água fervendo e os ingredientes secos,batendo mais um pouquinho."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tg-11594",
+  "titulo": "Quibe fácil",
+  "url": "https://www.tudogostoso.com.br/receita/11594-quibe-facil.html",
+  "nota": 4.5,
+  "n_avaliacoes": 559,
+  "categoria": "Receitas quibe",
+  "subcategoria": "Quibe fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 40,
+  "ingredientes": [
+    {
+      "nome": "trigo para kibe",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de trigo para kibe"
+    },
+    {
+      "nome": "carne moída (patinho de preferência)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de carne moída (patinho de preferência)"
+    },
+    {
+      "nome": "água fervendo",
+      "quantidade": "750",
+      "unidade": "ml",
+      "texto_original": "750 ml de água fervendo"
+    },
+    {
+      "nome": "cebolas ralada ou bem picadinha",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas ralada ou bem picadinha"
+    },
+    {
+      "nome": "hortelã, pimenta-de-cheiro e sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "hortelã, pimenta-de-cheiro e sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o trigo em uma forma de bolo, para espalhar bem.",
+      "Despeje a água fervendo e deixe tampado com um pano de prato por 40 minutos, (a quantidade de água tem quer ser essa, por que não precisa escorrer).",
+      "Coloque a carne moída os temperos o sal e misture bem.",
+      "Enrole no formato de quibe, frite em óleo quente ou asse no forno recheando com catupiry - fica uma delícia."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Quibe fácil. Ingredientes: trigo para kibe, carne moída (patinho de preferência), água fervendo, cebolas ralada ou bem picadinha, hortelã, pimenta-de-cheiro e sal a gosto. Preparo: Coloque o trigo em uma forma de bolo, para espalhar bem. Despeje a água fervendo e deixe tampado com um pano de prato por 40 minutos, (a quantidade de água tem quer ser essa, por que não precisa escorrer). Coloque a carne moída os temperos o sal e misture bem."
+}

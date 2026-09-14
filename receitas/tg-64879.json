@@ -1,0 +1,83 @@
+{
+  "id": "tg-64879",
+  "titulo": "Almôndegas",
+  "url": "https://www.tudogostoso.com.br/receita/64879-almondegas.html",
+  "nota": 4.7,
+  "n_avaliacoes": 733,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Almôndegas",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "carne moída",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de carne moída"
+    },
+    {
+      "nome": "azeite de oliva (30 ml)",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite de oliva (30 ml)"
+    },
+    {
+      "nome": "cebola bem picada (60 g)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de cebola bem picada (60 g)"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de farinha de rosca"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "395",
+      "unidade": "g",
+      "texto_original": "395 g de molho de tomate"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture a carne com o ovo, a cebola, o sal, um pouco de azeite de oliva (ou óleo) e a pimenta.",
+      "Agregue a farinha até dar o ponto de enrolar as almôndegas.",
+      "Faça pequenas bolinhas.",
+      "Em uma panela com um pouco de azeite, frite as almôndegas selando-as em fogo alto.",
+      "Retire as almôndegas e reserve.",
+      "Em outra panela, esquente o molho de tomate em fogo baixo.",
+      "Na mesma panela da almôndega, elimine o excesso de azeite e coloque o molho de tomate, colocando as almôndegas para cozinhar por alguns minutos.",
+      "Em cerca de 15 minutos as almôndegas estarão totalmente cozidas e o prato estará pronto."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de silicone",
+    "Prato fundo",
+    "Panela de cerâmica",
+    "Pegador de macarrão"
+  ],
+  "texto_para_embedding": "Almôndegas. Ingredientes: carne moída, azeite de oliva (30 ml), cebola bem picada (60 g), ovo, farinha de rosca, sal a gosto, pimenta-do-reino a gosto, molho de tomate. Preparo: Misture a carne com o ovo, a cebola, o sal, um pouco de azeite de oliva (ou óleo) e a pimenta. Agregue a farinha até dar o ponto de enrolar as almôndegas. Faça pequenas bolinhas."
+}

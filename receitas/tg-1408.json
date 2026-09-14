@@ -1,0 +1,91 @@
+{
+  "id": "tg-1408",
+  "titulo": "Strogonoff de carne",
+  "url": "https://www.tudogostoso.com.br/receita/1408-strogonoff-de-carne.html",
+  "nota": 4.4,
+  "n_avaliacoes": 959,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Strogonoff de carne",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "carne de sua preferência, como patinho ou coxão mole",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne de sua preferência, como patinho ou coxão mole"
+    },
+    {
+      "nome": "cebolas médias",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cebolas médias"
+    },
+    {
+      "nome": "vidro de champignon ou palmito",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de champignon ou palmito"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de creme de leite"
+    },
+    {
+      "nome": "tomates picados sem pele e sem sementes",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 tomates picados sem pele e sem sementes"
+    },
+    {
+      "nome": "óleo de oliva",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de óleo de oliva"
+    },
+    {
+      "nome": "ketchup",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de ketchup"
+    },
+    {
+      "nome": "cubo de caldo de carne dissolvido em 100 ml de água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de carne dissolvido em 100 ml de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, adicione o óleo, a carne, a cebola, os tomates, o caldo de carne e deixe cozinhar por 20 minutos.",
+      "Acrescente o ketchup e o champignon e deixe cozinhar até obter um molho consistente e cremoso.",
+      "Desligue o fogo e acrescente o creme de leite sem soro.",
+      "Mexa até incorporar o molho ao creme.",
+      "Coloque em uma forma refratária e decore com tempero e batata palha."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Strogonoff de carne. Ingredientes: carne de sua preferência, como patinho ou coxão mole, cebolas médias, vidro de champignon ou palmito, Sal a gosto, Pimenta-do-reino a gosto, creme de leite, tomates picados sem pele e sem sementes, óleo de oliva, ketchup, cubo de caldo de carne dissolvido em 100 ml de água. Preparo: Em uma panela, adicione o óleo, a carne, a cebola, os tomates, o caldo de carne e deixe cozinhar por 20 minutos. Acrescente o ketchup e o champignon e deixe cozinhar até obter um molho consistente e cremoso. Desligue o fogo e acrescente o creme de leite sem soro."
+}

@@ -1,0 +1,88 @@
+{
+  "id": "tg-1843",
+  "titulo": "Bolo de nozes fofinho!",
+  "url": "https://www.tudogostoso.com.br/receita/1843-bolo-de-nozes-fofinho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 215,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de nozes fofinho!",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "ovos (claras e gemas separadas)",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos (claras e gemas separadas)"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de açúcar"
+    },
+    {
+      "nome": "chá de margarina",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de margarina"
+    },
+    {
+      "nome": "chá de farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de chá de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "chá de nozes picadas",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara chá de nozes picadas"
+    },
+    {
+      "nome": "iogurte natural",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de iogurte natural"
+    },
+    {
+      "nome": "Margarina para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Margarina para untar"
+    },
+    {
+      "nome": "Farinha de trigo para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de trigo para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata as claras em neve e reserve.",
+      "Bata as gemas, o açúcar e a margarina.",
+      "Junte a farinha de trigo, o fermento e as nozes.",
+      "Acrescente o iogurte e mexa.",
+      "Misture as claras batidas em neve.",
+      "Coloque em uma forma untada e enfarinhada e asse por 35 minutos em forno médio preaquecido."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Copo medidor",
+    "Forma",
+    "Forno elétrico",
+    "Fouet",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de nozes fofinho!. Ingredientes: ovos (claras e gemas separadas), chá de açúcar, chá de margarina, chá de farinha de trigo, sopa de fermento em pó, chá de nozes picadas, iogurte natural, Margarina para untar, Farinha de trigo para untar. Preparo: Bata as claras em neve e reserve. Bata as gemas, o açúcar e a margarina. Junte a farinha de trigo, o fermento e as nozes."
+}

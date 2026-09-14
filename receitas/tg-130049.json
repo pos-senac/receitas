@@ -1,0 +1,130 @@
+{
+  "id": "tg-130049",
+  "titulo": "Bolo de chocolate com guloseimas",
+  "url": "https://www.tudogostoso.com.br/receita/130049-bolo-de-chocolate-com-guloseimas.html",
+  "nota": 4.7,
+  "n_avaliacoes": 144,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate com guloseimas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 120,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 ovos"
+    },
+    {
+      "nome": "açúcar refinada",
+      "quantidade": "2",
+      "unidade": "xícaras(chá)",
+      "texto_original": "2 xícaras(chá) de açúcar refinada"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras(chá)",
+      "texto_original": "3 xícaras(chá) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara(chá)",
+      "texto_original": "1 xícara(chá) de leite"
+    },
+    {
+      "nome": "margarina(qualy)",
+      "quantidade": "3",
+      "unidade": "colheres(sopa)",
+      "texto_original": "3 colheres(sopa) margarina(qualy)"
+    },
+    {
+      "nome": "colher(sopa)de fermento em pó",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 colher(sopa)de fermento em pó"
+    },
+    {
+      "nome": "e meia de chá de chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara e meia de chá de chocolate em pó"
+    },
+    {
+      "nome": "barra de chocolate branco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 barra de chocolate branco"
+    },
+    {
+      "nome": "1creme de leite caixa",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "1creme de leite caixa"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 leite condensado"
+    },
+    {
+      "nome": "Chantily da sua preferência(pode ser de caixinha já vem pronto é só bater e colocar para gelar, se não tiver pode ser qualquer um)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Chantily da sua preferência(pode ser de caixinha já vem pronto é só bater e colocar para gelar, se não tiver pode ser qualquer um)"
+    },
+    {
+      "nome": "biscoitos wafer (sabor da sua preferência)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "biscoitos wafer (sabor da sua preferência)"
+    },
+    {
+      "nome": "mashmallow",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "mashmallow"
+    },
+    {
+      "nome": "jujubas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "jujubas"
+    },
+    {
+      "nome": "bolinhas de chocolate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "bolinhas de chocolate"
+    },
+    {
+      "nome": "palitinhos de chocolate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "palitinhos de chocolate"
+    }
+  ],
+  "modo_preparo": {
+    "Recheio:": [
+      "Colocar o leite condensado e ocreme de leite misturado para esquentar em uma panela e depois de quente adicionar o chocolate e mexer até engrossar um pouco."
+    ],
+    "Massa:": [
+      "Quando bater as claras diminua a velocidade da batedeira.",
+      "Bata as claras em neve bem firme, junte as gemas (peneirar), o açúcar aos poucos e a farinha  de trigo, o fermento em pó e o chocolate peneirados.",
+      "Intercale com leite (aquecido com a margarina), diminua velocidade da batedeira.",
+      "Depois colocar para assar em forno médio, preaquecido, por cerca de 40 minutos, ou até dourar.",
+      "O tempo varia de forno para forno, depois que espetar o palito e estiver seco está pronto."
+    ],
+    "Montagem:": [
+      "Abra o bolo ao meio com a ajuda de uma faca e linha, coloque o recheio, depois cubra o bolo com chantilly.",
+      "Coloque os biscoitos em volta, em cima enfeite com as balas, os doces que tiver coloque organizados lado a lado ou misturado mesmo.",
+      "Depois faça um laço com a fita ao redor do bolo, fica lindo e charmoso."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de chocolate com guloseimas. Ingredientes: ovos, açúcar refinada, farinha de trigo, leite, margarina(qualy), colher(sopa)de fermento em pó, e meia de chá de chocolate em pó, barra de chocolate branco, 1creme de leite caixa, leite condensado, Chantily da sua preferência(pode ser de caixinha já vem pronto é só bater e colocar para gelar, se não tiver pode ser qualquer um), biscoitos wafer (sabor da sua preferência), mashmallow, jujubas, bolinhas de chocolate, palitinhos de chocolate. Preparo: Colocar o leite condensado e ocreme de leite misturado para esquentar em uma panela e depois de quente adicionar o chocolate e mexer até engrossar um pouco. Quando bater as claras diminua a velocidade da batedeira. Bata as claras em neve bem firme, junte as gemas (peneirar), o açúcar aos poucos e a farinha  de trigo, o fermento em pó e o chocolate peneirados."
+}

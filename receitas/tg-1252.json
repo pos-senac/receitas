@@ -1,0 +1,59 @@
+{
+  "id": "tg-1252",
+  "titulo": "Beijinho",
+  "url": "https://www.tudogostoso.com.br/receita/1252-beijinho.html",
+  "nota": 4.6,
+  "n_avaliacoes": 584,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Beijinho",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 50,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "nome": "coco fresco ralado (fino)",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de coco fresco ralado (fino)"
+    },
+    {
+      "nome": "açúcar cristal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar cristal"
+    },
+    {
+      "nome": "cravos-da-índia a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cravos-da-índia a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Numa panela, misture o leite condensado, a manteiga e o coco ralado.",
+      "Leve ao fogo e misture por aproximadamente 15 minutos.",
+      "Retire a mistura do fogo e deixe amornar.",
+      "Modele a massa em formato de bolinhas, passe pelo açúcar cristal ou coco ralado e finalize com cravos-da-índia."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Beijinho. Ingredientes: leite condensado, manteiga, coco fresco ralado (fino), açúcar cristal, cravos-da-índia a gosto. Preparo: Numa panela, misture o leite condensado, a manteiga e o coco ralado. Leve ao fogo e misture por aproximadamente 15 minutos. Retire a mistura do fogo e deixe amornar."
+}

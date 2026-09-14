@@ -1,0 +1,94 @@
+{
+  "id": "tg-4949",
+  "titulo": "Croquete de carne",
+  "url": "https://www.tudogostoso.com.br/receita/4949-croquete-de-carne.html",
+  "nota": 4.6,
+  "n_avaliacoes": 177,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Croquete de carne",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "carne moída",
+      "quantidade": "600",
+      "unidade": "g",
+      "texto_original": "600 g de carne moída"
+    },
+    {
+      "nome": "azeite extra virgem",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite extra virgem"
+    },
+    {
+      "nome": "alho picados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho picados"
+    },
+    {
+      "nome": "cebola média picada ou ralada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola média picada ou ralada"
+    },
+    {
+      "nome": "pimentão médio picado",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão médio picado"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1/2",
+      "unidade": "colher (sopa)",
+      "texto_original": "1/2 colher (sopa) de sal"
+    },
+    {
+      "nome": "páprica picante",
+      "quantidade": "1/2",
+      "unidade": "colher (café)",
+      "texto_original": "1/2 colher (café) de páprica picante"
+    },
+    {
+      "nome": "pimenta-do-reino moída na hora",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino moída na hora"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela média, aqueça o azeite e doure a cebola, o pimentão e o alho.",
+      "Depois coloque a carne, a pimenta do reino, a páprica picante e o sal.",
+      "Refogue até a carne pegar cor e todos os ingredientes ficarem incorporados.",
+      "Coloque a farinha de trigo e os ovos, apague o fogo e mexa até a farinha e os ovos se incorporarem a carne, formando uma bola de massa.",
+      "Deixe esfriar um pouco para você conseguir enrolar os croquetes.",
+      "Vá moldando os croquetes e passando primeiro na farinha de trigo, depois no ovo e por último na farinha de rosca e depois é só fritar."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Espátula de silicone",
+    "Expremedor de alho",
+    "Travessa de vidro",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Croquete de carne. Ingredientes: carne moída, azeite extra virgem, alho picados, cebola média picada ou ralada, pimentão médio picado, sal, páprica picante, pimenta-do-reino moída na hora, farinha de trigo, ovos. Preparo: Em uma panela média, aqueça o azeite e doure a cebola, o pimentão e o alho. Depois coloque a carne, a pimenta do reino, a páprica picante e o sal. Refogue até a carne pegar cor e todos os ingredientes ficarem incorporados."
+}

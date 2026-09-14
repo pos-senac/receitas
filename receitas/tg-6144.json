@@ -1,0 +1,41 @@
+{
+  "id": "tg-6144",
+  "titulo": "Calda de chocolate fácil",
+  "url": "https://www.tudogostoso.com.br/receita/6144-calda-de-chocolate-facil.html",
+  "nota": 4.5,
+  "n_avaliacoes": 422,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Calda de chocolate fácil",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "2",
+      "unidade": "colher",
+      "texto_original": "2 colher de margarina"
+    },
+    {
+      "nome": "água",
+      "quantidade": "2/3",
+      "unidade": "copo",
+      "texto_original": "2/3 copo de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela leve os ingredientes ao fogo, menos a água, e misture.",
+      "Acrescente a água aos poucos e mexa sem parar, vigorosamente, até obter uma consistência firme."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Calda de chocolate fácil. Ingredientes: chocolate em pó, margarina, água. Preparo: Em uma panela leve os ingredientes ao fogo, menos a água, e misture. Acrescente a água aos poucos e mexa sem parar, vigorosamente, até obter uma consistência firme."
+}

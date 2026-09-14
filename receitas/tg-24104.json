@@ -1,0 +1,62 @@
+{
+  "id": "tg-24104",
+  "titulo": "Pudim de leite",
+  "url": "https://www.tudogostoso.com.br/receita/24104-pudim-de-leite.html",
+  "nota": 4.4,
+  "n_avaliacoes": 680,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pudim de leite",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 110,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite (medida da lata de leite condensado)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (medida da lata de leite condensado)"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    }
+  ],
+  "modo_preparo": {
+    "Calda:": [
+      "Em uma panela de fundo largo, derreta o açúcar até ficar dourado.",
+      "Junte 1/2 xícara (chá) de água quente e mexa com uma colher.",
+      "Deixe ferver até dissolver os torrões de açúcar e a calda engrossar.",
+      "Forre com a calda uma forma com furo central (19 cm de diâmetro) e reserve."
+    ],
+    "Pudim:": [
+      "Bata todos os ingredientes do pudim no liquidificador e despeje na forma reservada.",
+      "Asse em banho-maria, em forno médio (180º C), por cerca de 1 hora e 30 minutos.",
+      "Depois de frio, leve para gelar por cerca de 6 horas.",
+      "Desenforme e sirva a seguir."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Papel-alumínio",
+    "Colher de pau",
+    "Fogão",
+    "Panela de cerâmica"
+  ],
+  "texto_para_embedding": "Pudim de leite. Ingredientes: açúcar, leite condensado, leite (medida da lata de leite condensado), ovos. Preparo: Em uma panela de fundo largo, derreta o açúcar até ficar dourado. Junte 1/2 xícara (chá) de água quente e mexa com uma colher. Deixe ferver até dissolver os torrões de açúcar e a calda engrossar."
+}

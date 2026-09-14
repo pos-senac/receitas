@@ -1,0 +1,73 @@
+{
+  "id": "tg-5211",
+  "titulo": "Massa de pastel",
+  "url": "https://www.tudogostoso.com.br/receita/5211-massa-de-pastel.html",
+  "nota": 4.5,
+  "n_avaliacoes": 582,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Massa de pastel",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) sal"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "dose de pinga",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 dose de pinga"
+    },
+    {
+      "nome": "vinagre",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) vinagre"
+    },
+    {
+      "nome": "água",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture os ingredientes em uma tigela e amasse com as mãos.",
+      "Sove bem a massa sobre uma superfície lisa enfarinhada.",
+      "Utilize um rolo para esticar a massa e deixá-la na espessura desejada.",
+      "Corte a massa no tamanho que quiser fazer os pastéis.",
+      "Recheie de acordo com a sua preferência.",
+      "Frite em óleo bem quente."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Copo medidor",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Massa de pastel. Ingredientes: farinha de trigo, óleo, sal, ovo, dose de pinga, vinagre, água. Preparo: Misture os ingredientes em uma tigela e amasse com as mãos. Sove bem a massa sobre uma superfície lisa enfarinhada. Utilize um rolo para esticar a massa e deixá-la na espessura desejada."
+}

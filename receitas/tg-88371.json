@@ -1,0 +1,78 @@
+{
+  "id": "tg-88371",
+  "titulo": "Filé de merluza com batata ao forno",
+  "url": "https://www.tudogostoso.com.br/receita/88371-file-de-merluza-com-batata-ao-forno.html",
+  "nota": 4.7,
+  "n_avaliacoes": 555,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Filé de merluza com batata ao forno",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "filés de merluza",
+      "quantidade": "8",
+      "unidade": null,
+      "texto_original": "8 filés de merluza"
+    },
+    {
+      "nome": "batatas cruas (em rodelas, sem casca)",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 batatas cruas (em rodelas, sem casca)"
+    },
+    {
+      "nome": "pimentão (cortado em rodelas)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão (cortado em rodelas)"
+    },
+    {
+      "nome": "tomates (cortados em rodelas - as sementes ficam à preferência)",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates (cortados em rodelas - as sementes ficam à preferência)"
+    },
+    {
+      "nome": "cebola (cortada em rodelas)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola (cortada em rodelas)"
+    },
+    {
+      "nome": "molho de tomate de boa qualidade",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de molho de tomate de boa qualidade"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    },
+    {
+      "nome": "Azeite para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os filés à seu gosto e reserve por 10 minutos.",
+      "Unta um refratário com azeite e faça uma camada de batata, em seguida arrume os filés sobre a batata.",
+      "Acrescente a cebola, o tomate, o pimentão, orégano a gosto, regue com o molho de tomate (1/2 lata).",
+      "Cubra com o restante das batatas. Cubra com papel alumínio e leve ao forno alto até que as batatas fiquem macias."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Papel-alumínio",
+    "Refratário",
+    "Bowl"
+  ],
+  "texto_para_embedding": "Filé de merluza com batata ao forno. Ingredientes: filés de merluza, batatas cruas (em rodelas, sem casca), pimentão (cortado em rodelas), tomates (cortados em rodelas - as sementes ficam à preferência), cebola (cortada em rodelas), molho de tomate de boa qualidade, Orégano, Azeite para untar. Preparo: Tempere os filés à seu gosto e reserve por 10 minutos. Unta um refratário com azeite e faça uma camada de batata, em seguida arrume os filés sobre a batata. Acrescente a cebola, o tomate, o pimentão, orégano a gosto, regue com o molho de tomate (1/2 lata)."
+}

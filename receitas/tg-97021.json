@@ -1,0 +1,74 @@
+{
+  "id": "tg-97021",
+  "titulo": "Canjica com leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/97021-canjica-com-leite-condensado.html",
+  "nota": 4.7,
+  "n_avaliacoes": 549,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Canjica com leite condensado",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 40,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "canjica branca",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de canjica branca"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco"
+    },
+    {
+      "nome": "coco ralado úmido e adoçado",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de coco ralado úmido e adoçado"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "8",
+      "unidade": "colheres (sopa)",
+      "texto_original": "8 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "canela em pó a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela em pó a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave a canjica em água corrente.",
+      "Deixe de molho por aproximadamente 4 horas com o açúcar.",
+      "Cozinhe na panela de pressão com 2 litros de água por, aproximadamente, 20 minutos ou até que esteja macia.",
+      "Coloque em outra panela se necessário maior, acrescente o leite, o leite de coco, o leite condensado e o coco ralado.",
+      "Deixe ferver por 10 minutos mexendo sempre para não grudar no fundo da panela.",
+      "Desligue o fogo quando estiver bem cremosa.",
+      "Polvilhe a canela em pó."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de pau",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Canjica com leite condensado. Ingredientes: canjica branca, leite condensado, vidro de leite de coco, coco ralado úmido e adoçado, litro de leite, açúcar, canela em pó a gosto. Preparo: Lave a canjica em água corrente. Deixe de molho por aproximadamente 4 horas com o açúcar. Cozinhe na panela de pressão com 2 litros de água por, aproximadamente, 20 minutos ou até que esteja macia."
+}

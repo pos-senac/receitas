@@ -1,0 +1,91 @@
+{
+  "id": "tg-115195",
+  "titulo": "Galinha escabelada",
+  "url": "https://www.tudogostoso.com.br/receita/115195-galinha-escabelada.html",
+  "nota": 4.8,
+  "n_avaliacoes": 182,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Galinha escabelada",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "peito de frango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 creme de leite"
+    },
+    {
+      "nome": "pote de requeijão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de requeijão"
+    },
+    {
+      "nome": "tomates médios",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates médios"
+    },
+    {
+      "nome": "cebolas pequenas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas pequenas"
+    },
+    {
+      "nome": "extrato de tomate",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de extrato de tomate"
+    },
+    {
+      "nome": "queijo fatiado",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de queijo fatiado"
+    },
+    {
+      "nome": "batata palha",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de batata palha"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe o peito e desfie.",
+      "Pique as cebolas e refogue com um pouco de óleo em uma panela até ficarem douradinhas.",
+      "Acrescente os tomates picados, mexa ate eles dissolverem, acrecente 2 colheres de extrato de tomate e um pouquinho de água caso esteja muito grosso, deixe coxinhar por uns 10 minutos mexendo de vez enquando para não queimar.",
+      "Desligue o fogo do molho e acrescente a galinha desfiada, misture bem.",
+      "Acrescente o creme de leite e misture novamente.",
+      "Em um refratário despeje o molho com a galinha desfiada e o creme de leite.",
+      "Faça uma camada de requeijão em cima e depois outra com as fatias de queijo. Coloque no forno por uns 15 minutos até derreter o queijo.",
+      "Tire do forno, acrescente a batata palha e o queijo picado e deixe por mais 5 minutos no forno.",
+      "Está pronto!"
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Colher de silicone",
+    "Faca",
+    "Fogão",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Galinha escabelada. Ingredientes: peito de frango, creme de leite, pote de requeijão, tomates médios, cebolas pequenas, extrato de tomate, queijo fatiado, batata palha, queijo ralado. Preparo: Cozinhe o peito e desfie. Pique as cebolas e refogue com um pouco de óleo em uma panela até ficarem douradinhas. Acrescente os tomates picados, mexa ate eles dissolverem, acrecente 2 colheres de extrato de tomate e um pouquinho de água caso esteja muito grosso, deixe coxinhar por uns 10 minutos mexendo de vez enquando para não queimar."
+}

@@ -1,0 +1,92 @@
+{
+  "id": "tg-14526",
+  "titulo": "Sorvetão do Ruy",
+  "url": "https://www.tudogostoso.com.br/receita/14526-sorvetao-do-ruy.html",
+  "nota": 4.7,
+  "n_avaliacoes": 411,
+  "categoria": "Receitas sorvetes",
+  "subcategoria": "Sorvetão do Ruy",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 80,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite condensado"
+    },
+    {
+      "nome": "leite de vaca",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite de vaca"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de açúcar"
+    },
+    {
+      "nome": "água fervendo",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 de água fervendo"
+    },
+    {
+      "nome": "sopa de chocolate em pó",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de chocolate em pó"
+    },
+    {
+      "nome": "sopa de água",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de sopa de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela o leite condensado, o leite de vaca, as gemas e leve ao fogo mexendo sempre até virar um creme.",
+      "Resfriar e reservar.",
+      "A parte, bater as 5 claras em neve, acrescentar o açúcar e o creme de leite.",
+      "Juntar os dois cremes."
+    ],
+    "Calda de caramelo:": [
+      "Numa frigideira funda derreter o açúcar, em seguida acrescentar a água mexendo bem."
+    ],
+    "Calda de chocolate:": [
+      "Misturar os ingrediente e levar ao fogo até ferver e ficar um caldo mais grosso. Esfrie e reserve."
+    ],
+    "Finalizando:": [
+      "Forre o fundo de uma forma de pudim com a calda caramelada e coloque no freezer para congelar por aproximadamente 2 horas.",
+      "Sobre a calda caramelada congelada, colocar a calda de chocolate e levar novamente ao freezer para congelar por aproximadamente 2 horas.",
+      "Coloque a mistura dos cremes na forma sobre as caldas congeladas.",
+      "Retornar a forma ao freezer para congelar o creme, por aproximadamente 24 horas.",
+      "Desenforme na hora de servir, colocando no fundo da forma um pano úmido quente ou levando diretamente a boca do fogão, somente para desgrudar a calda do fundo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Sorvetão do Ruy. Ingredientes: leite condensado, leite de vaca, ovos, sopa de açúcar, creme de leite, chá de açúcar, água fervendo, sopa de chocolate em pó, sopa de água. Preparo: Coloque em uma panela o leite condensado, o leite de vaca, as gemas e leve ao fogo mexendo sempre até virar um creme. Resfriar e reservar. A parte, bater as 5 claras em neve, acrescentar o açúcar e o creme de leite."
+}

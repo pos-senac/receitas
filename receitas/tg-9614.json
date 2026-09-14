@@ -1,0 +1,114 @@
+{
+  "id": "tg-9614",
+  "titulo": "Bolo de chocolate de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/9614-bolo-de-chocolate-de-liquidificador.html",
+  "nota": 4.5,
+  "n_avaliacoes": 2074,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de chocolate de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 16,
+  "ingredientes": [
+    {
+      "nome": "leite morno",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite morno"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "margarina derretida",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de margarina derretida"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de chocolate em pó"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "fermento químico em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de amido de milho"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "5",
+      "unidade": "colheres (sopa)",
+      "texto_original": "5 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de água"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina ou manteiga"
+    },
+    {
+      "nome": "essência de baunilha",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de essência de baunilha"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata bem todos os ingredientes da massa (menos o fermento) no liquidificador, aproximadamente 2 a 3 minutos.",
+      "Acrescente o fermento e bata por mais uns 15 segundos.",
+      "Coloque em uma forma redonda, untada com manteiga e polvilhada com farinha de trigo.",
+      "Asse por cerca de 40 minutos em forno médio (180º C), preaquecido."
+    ],
+    "Cobertura:": [
+      "Leve todos os ingredientes ao fogo até engrossar, em ponto de brigadeiro.",
+      "Cubra o bolo em seguida."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Formo de bolo",
+    "Forno elétrico",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Bolo de chocolate de liquidificador. Ingredientes: leite morno, ovos, margarina derretida, açúcar, chocolate em pó, farinha de trigo, fermento químico em pó, açúcar, amido de milho, chocolate em pó, água, margarina ou manteiga, essência de baunilha. Preparo: Bata bem todos os ingredientes da massa (menos o fermento) no liquidificador, aproximadamente 2 a 3 minutos. Acrescente o fermento e bata por mais uns 15 segundos. Coloque em uma forma redonda, untada com manteiga e polvilhada com farinha de trigo."
+}

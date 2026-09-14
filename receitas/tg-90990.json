@@ -1,0 +1,103 @@
+{
+  "id": "tg-90990",
+  "titulo": "Sopa de legumes para emagrecer",
+  "url": "https://www.tudogostoso.com.br/receita/90990-sopa-de-legumes-para-emagrecer.html",
+  "nota": 4.4,
+  "n_avaliacoes": 124,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de legumes para emagrecer",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "peito de frango",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "4",
+      "unidade": "dentes",
+      "texto_original": "4 dentes de alho"
+    },
+    {
+      "nome": "chuchu",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 chuchu"
+    },
+    {
+      "nome": "abobrinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 abobrinha"
+    },
+    {
+      "nome": "cenoura",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenoura"
+    },
+    {
+      "nome": "repolho",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 repolho"
+    },
+    {
+      "nome": "maço de agrião",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de agrião"
+    },
+    {
+      "nome": "maço de couve",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 maço de couve"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates"
+    },
+    {
+      "nome": "Cheiro verde",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cheiro verde"
+    },
+    {
+      "nome": "litro de água",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de água"
+    },
+    {
+      "nome": "caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de galinha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue o alho no azeite ou óleo até dourar.",
+      "Coloque os cubinhos de frango, o caldo de galinha e refogue bem.",
+      "Acrescente a água e os demais ingredientes picados em pequenos pedacinhos, adicione sal e temperos a gosto, cozinhe na pressão por 5 minutos.",
+      "Se preferir bata a sopa no liquidificador depois de pronto e sirva como creme de legumes.",
+      "Para quem não estiver de dieta, comer com pão francês ou queijo ralado é tudo de bom."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Concha",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Sopa de legumes para emagrecer. Ingredientes: peito de frango, alho, chuchu, abobrinha, cenoura, repolho, maço de agrião, maço de couve, tomates, Cheiro verde, litro de água, caldo de galinha. Preparo: Refogue o alho no azeite ou óleo até dourar. Coloque os cubinhos de frango, o caldo de galinha e refogue bem. Acrescente a água e os demais ingredientes picados em pequenos pedacinhos, adicione sal e temperos a gosto, cozinhe na pressão por 5 minutos."
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tg-4224",
+  "titulo": "Bolinho de arroz",
+  "url": "https://www.tudogostoso.com.br/receita/4224-bolinho-de-arroz.html",
+  "nota": 4.4,
+  "n_avaliacoes": 1662,
+  "categoria": "Receitas arroz",
+  "subcategoria": "Bolinho de arroz",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "arroz cozido",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de arroz cozido"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de queijo ralado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de leite"
+    },
+    {
+      "nome": "cheiro-verde picado",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de cheiro-verde picado"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de amido de milho"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo para fritar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, misture todos os ingredientes até criar uma massa firme e encorpada.",
+      "Molde os bolinhos e frite-os no óleo quente, até que fiquem dourados.",
+      "Escorra sobre papel absorvente."
+    ]
+  },
+  "utensilios": [
+    "Escumadeira",
+    "Petisqueira",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolinho de arroz. Ingredientes: arroz cozido, queijo ralado, leite, cheiro-verde picado, fermento em pó, amido de milho, farinha de trigo, ovos, óleo para fritar. Preparo: Em um recipiente, misture todos os ingredientes até criar uma massa firme e encorpada. Molde os bolinhos e frite-os no óleo quente, até que fiquem dourados. Escorra sobre papel absorvente."
+}

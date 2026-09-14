@@ -1,0 +1,102 @@
+{
+  "id": "tg-27845",
+  "titulo": "Abobrinha de forno",
+  "url": "https://www.tudogostoso.com.br/receita/27845-abobrinha-de-forno.html",
+  "nota": 4.7,
+  "n_avaliacoes": 112,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Abobrinha de forno",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "abobrinhas cortadas em cubos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 abobrinhas cortadas em cubos"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola picada"
+    },
+    {
+      "nome": "tomate picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado"
+    },
+    {
+      "nome": "cenoura pequena ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura pequena ralada"
+    },
+    {
+      "nome": "Milho verde (a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Milho verde (a gosto)"
+    },
+    {
+      "nome": "Ervilhas (a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Ervilhas (a gosto)"
+    },
+    {
+      "nome": "Azeitonas picadas (a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeitonas picadas (a gosto)"
+    },
+    {
+      "nome": "Mussarela picada (a gosto)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Mussarela picada (a gosto)"
+    },
+    {
+      "nome": "ovos batidos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos batidos"
+    },
+    {
+      "nome": "pimenta - do - reino",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de pimenta - do - reino"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela coloque um pouco de óleo e dê uma leve fritada na cebola.",
+      "Acrescente a abobrinha em cubos, o tomate picado e a cenoura ralada.",
+      "Tempere a gosto com sal e pimenta - do - reino e deixe refogar por alguns minutos.",
+      "Depois de refogado, desligue o fogo e acrescente o milho, a ervilha e as azeitonas picadas misturando bem.",
+      "Coloque em um pirex e reserve.",
+      "Bata os 2 ovos e coloque por cima da abobrinha já no pirex.",
+      "Salpique a mussarela picada e o orégano.",
+      "Coloque no forno até que os ovos batidos estejam cozidos e dourados.",
+      "Sirva com arroz branco e uma salada verde."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Abobrinha de forno. Ingredientes: abobrinhas cortadas em cubos, cebola picada, tomate picado, cenoura pequena ralada, Milho verde (a gosto), Ervilhas (a gosto), Azeitonas picadas (a gosto), Mussarela picada (a gosto), ovos batidos, pimenta - do - reino, Sal a gosto, Orégano. Preparo: Em uma panela coloque um pouco de óleo e dê uma leve fritada na cebola. Acrescente a abobrinha em cubos, o tomate picado e a cenoura ralada. Tempere a gosto com sal e pimenta - do - reino e deixe refogar por alguns minutos."
+}

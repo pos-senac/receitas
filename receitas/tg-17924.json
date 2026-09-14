@@ -1,0 +1,72 @@
+{
+  "id": "tg-17924",
+  "titulo": "Arroz à piamontese",
+  "url": "https://www.tudogostoso.com.br/receita/17924-arroz-a-piamontese.html",
+  "nota": 4.6,
+  "n_avaliacoes": 426,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Arroz à piamontese",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "canecas de arroz lavado",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 canecas de arroz lavado"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de óleo"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de alho"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "champignon",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de champignon"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de queijo mussarela"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Frite o arroz no óleo e alho até ficar solto como uma farofa.",
+      "Coloque água dois dedos acima do arroz e tampe até secar.",
+      "Despeje o creme de leite, a mussarela e o champignon e deixe no fogo até a mussarela derreter e o arroz ficar como um risoto, bem molhadinho."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Prato fundo",
+    "Copo medidor",
+    "Ralador"
+  ],
+  "texto_para_embedding": "Arroz à piamontese. Ingredientes: canecas de arroz lavado, óleo, alho, sal, champignon, queijo mussarela, creme de leite. Preparo: Frite o arroz no óleo e alho até ficar solto como uma farofa. Coloque água dois dedos acima do arroz e tampe até secar. Despeje o creme de leite, a mussarela e o champignon e deixe no fogo até a mussarela derreter e o arroz ficar como um risoto, bem molhadinho."
+}

@@ -1,0 +1,89 @@
+{
+  "id": "tg-20566",
+  "titulo": "Frango xadrez",
+  "url": "https://www.tudogostoso.com.br/receita/20566-frango-xadrez.html",
+  "nota": 4.6,
+  "n_avaliacoes": 160,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Frango xadrez",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "filés de peito de frango",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 filés de peito de frango"
+    },
+    {
+      "nome": "shoyu",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de shoyu"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de molho de tomate"
+    },
+    {
+      "nome": "pimentões (1 verde e 1 vermelho) cortar em cubos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pimentões (1 verde e 1 vermelho) cortar em cubos"
+    },
+    {
+      "nome": "cebolas cortadas em cubinhos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas cortadas em cubinhos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "sal e pimenta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e pimenta"
+    },
+    {
+      "nome": "sopa de óleo de soja ou de gergelim",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de óleo de soja ou de gergelim"
+    },
+    {
+      "nome": "amendoim ou gergelim (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "amendoim ou gergelim (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere o frango com sal e pimenta e refogue-o no óleo."
+    ],
+    "Forno:": [
+      "Adicione a cebola e os pimentões, cozinhe por uns 15 minutos.",
+      "Ponha o shoyu, o molho de tomate e a farinha de trigo dissolvida em 50 ml de água, mexa bem.",
+      "Cozinhe até engrossar o molho."
+    ],
+    "Micro-ondas:": [
+      "Corte o frango em quadradinhos e deixar de molho na água por 10 minutos.",
+      "Escorrer e temperar com sal, pimenta e alho.",
+      "Colocar num refratário fundo, acrescentar o shoyu, ketchup os pimentões e a cebola.",
+      "Tampar o recipiente e levar ao micro-ondas por 12 minutos na potência alta.",
+      "Abrir o refratário e acrescentar a farinha de trigo dissolvida em 1/2 copo de água.",
+      "Mexer e voltar ao forno por mais 3 minutos na potência alta."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Frango xadrez. Ingredientes: filés de peito de frango, shoyu, molho de tomate, pimentões (1 verde e 1 vermelho) cortar em cubos, cebolas cortadas em cubinhos, farinha de trigo, sal e pimenta, sopa de óleo de soja ou de gergelim, amendoim ou gergelim (opcional). Preparo: Tempere o frango com sal e pimenta e refogue-o no óleo. Adicione a cebola e os pimentões, cozinhe por uns 15 minutos. Ponha o shoyu, o molho de tomate e a farinha de trigo dissolvida em 50 ml de água, mexa bem."
+}

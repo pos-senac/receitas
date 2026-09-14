@@ -1,0 +1,64 @@
+{
+  "id": "tg-50547",
+  "titulo": "Cappuccino caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/50547-cappuccino-caseiro.html",
+  "nota": 4.6,
+  "n_avaliacoes": 366,
+  "categoria": "Receitas bebidas",
+  "subcategoria": "Cappuccino caseiro",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "café solúvel",
+      "quantidade": "50",
+      "unidade": "g",
+      "texto_original": "50 g de café solúvel"
+    },
+    {
+      "nome": "leite em pó (integral ou desnatado)",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de leite em pó (integral ou desnatado)"
+    },
+    {
+      "nome": "chocolate em pó (não pode ser achocolatado)",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de chocolate em pó (não pode ser achocolatado)"
+    },
+    {
+      "nome": "bicarbonato de sódio",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de bicarbonato de sódio"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de canela em pó"
+    },
+    {
+      "nome": "açúcar (ou equivalente em adoçante)",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de açúcar (ou equivalente em adoçante)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater no liquidificador o café até ficar fino. Acrescentar aos outros ingredientes em uma tigela e peneirar tudo junto em outra.",
+      "A validade é de 6 meses.",
+      "Use 2 colheres de sobremesa para 1 xícara de água fervente."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone"
+  ],
+  "texto_para_embedding": "Cappuccino caseiro. Ingredientes: café solúvel, leite em pó (integral ou desnatado), chocolate em pó (não pode ser achocolatado), bicarbonato de sódio, canela em pó, açúcar (ou equivalente em adoçante). Preparo: Bater no liquidificador o café até ficar fino. Acrescentar aos outros ingredientes em uma tigela e peneirar tudo junto em outra. A validade é de 6 meses. Use 2 colheres de sobremesa para 1 xícara de água fervente."
+}

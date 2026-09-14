@@ -1,0 +1,80 @@
+{
+  "id": "tg-8072",
+  "titulo": "Molho branco para macarrão",
+  "url": "https://www.tudogostoso.com.br/receita/8072-molho-branco-para-macarrao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 1873,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Molho branco para macarrão",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "cebola pequena picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola pequena picada"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de creme de leite"
+    },
+    {
+      "nome": "litro de leite",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 litro de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de queijo ralado"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, derreta a margarina e acrescente a cebola, o sal e a pimenta-do-reino.",
+      "Quando a cebola estiver bem transparente, acrescente o creme de leite e misture.",
+      "Dissolva o amido no leite e adicione ao molho.",
+      "Quando o molho estiver com uma consistência firme, desligue o fogo e acrescente o queijo, mexendo bem, para ele não grudar.",
+      "Sirva com macarrão ou arroz de forno."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Fogão",
+    "Prato raso",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Molho branco para macarrão. Ingredientes: cebola pequena picada, margarina, creme de leite, litro de leite, amido de milho, queijo ralado, pimenta-do-reino a gosto, sal. Preparo: Em uma panela, derreta a margarina e acrescente a cebola, o sal e a pimenta-do-reino. Quando a cebola estiver bem transparente, acrescente o creme de leite e misture. Dissolva o amido no leite e adicione ao molho."
+}

@@ -1,0 +1,115 @@
+{
+  "id": "tg-897",
+  "titulo": "Frango xadrez",
+  "url": "https://www.tudogostoso.com.br/receita/897-frango-xadrez.html",
+  "nota": 4.8,
+  "n_avaliacoes": 1224,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Frango xadrez",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "azeite de oliva",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite de oliva"
+    },
+    {
+      "nome": "cebolas médias cortadas em cubos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas médias cortadas em cubos"
+    },
+    {
+      "nome": "alho esmagados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho esmagados"
+    },
+    {
+      "nome": "filé de frango sem pele e cortado em cubos",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de filé de frango sem pele e cortado em cubos"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimentão verde cortado em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde cortado em cubos"
+    },
+    {
+      "nome": "pimentão vermelho cortado em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão vermelho cortado em cubos"
+    },
+    {
+      "nome": "pimentão amarelo cortado em cubos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão amarelo cortado em cubos"
+    },
+    {
+      "nome": "cogumelos em conserva cortados ao meio",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de cogumelos em conserva cortados ao meio"
+    },
+    {
+      "nome": "molho shoyu",
+      "quantidade": "1/4",
+      "unidade": "xícara",
+      "texto_original": "1/4 xícara de molho shoyu"
+    },
+    {
+      "nome": "maisena",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de maisena"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de água"
+    },
+    {
+      "nome": "amendoim torrado",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de amendoim torrado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma frigideira ou panela grande, misture a metade do azeite de oliva, a cebola, o alho e deixe fritar.",
+      "Retire e coloque em um prato.",
+      "Na mesma panela, coloque o sal, o restante do azeite e frite os pimentões e os cogumelos por 5 minutos.",
+      "Retire e despeje em outro prato.",
+      "Ainda na mesma panela, coloque o frango e frite até dourar.",
+      "Coloque todos os ingredientes novamente na frigideira, misture bem com uma colher de pau e refogue por mais 2 minutos.",
+      "Em uma xícara, misture o molho shoyu, a maisena e a água.",
+      "Mexa bem e junte a mistura de frango.",
+      "Cozinhe, mexendo constantemente, até formar um molho espesso.",
+      "Coloque em uma travessa, polvilhe com amendoim e sirva quente."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Espatula",
+    "Tigela",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Frango xadrez. Ingredientes: azeite de oliva, cebolas médias cortadas em cubos, alho esmagados, filé de frango sem pele e cortado em cubos, sal a gosto, pimentão verde cortado em cubos, pimentão vermelho cortado em cubos, pimentão amarelo cortado em cubos, cogumelos em conserva cortados ao meio, molho shoyu, maisena, água, amendoim torrado. Preparo: Em uma frigideira ou panela grande, misture a metade do azeite de oliva, a cebola, o alho e deixe fritar. Retire e coloque em um prato. Na mesma panela, coloque o sal, o restante do azeite e frite os pimentões e os cogumelos por 5 minutos."
+}

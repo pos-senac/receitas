@@ -1,0 +1,69 @@
+{
+  "id": "tg-114553",
+  "titulo": "Pudim de geladeira (igual ao pudim de forno)",
+  "url": "https://www.tudogostoso.com.br/receita/114553-pudim-de-geladeira-igual-ao-pudim-de-forno.html",
+  "nota": 4.5,
+  "n_avaliacoes": 493,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Pudim de geladeira (igual ao pudim de forno)",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite (use a medida da lata de leite condensado)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite (use a medida da lata de leite condensado)"
+    },
+    {
+      "nome": "gelatina sem sabor",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gelatina sem sabor"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolva a gelatina sem sabor de acordo com as instruções do fabricante.",
+      "Bata no liquidificador todos os ingredientes até obter uma massa lisa e homogênea."
+    ],
+    "Calda": [
+      "Coloque o açúcar em uma forma redonda com fundo central e leve ao fogo até caramelizar.",
+      "Despeje o líquido na forma e leve à geladeira até que fique bem firme.",
+      "Desenforme e sirva."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espátula para bolo",
+    "Espátula de silicone"
+  ],
+  "texto_para_embedding": "Pudim de geladeira (igual ao pudim de forno). Ingredientes: leite condensado, creme de leite, leite (use a medida da lata de leite condensado), gelatina sem sabor, açúcar, água. Preparo: Dissolva a gelatina sem sabor de acordo com as instruções do fabricante. Bata no liquidificador todos os ingredientes até obter uma massa lisa e homogênea. Coloque o açúcar em uma forma redonda com fundo central e leve ao fogo até caramelizar."
+}

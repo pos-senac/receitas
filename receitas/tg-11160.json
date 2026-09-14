@@ -1,0 +1,71 @@
+{
+  "id": "tg-11160",
+  "titulo": "Purê de abóbora",
+  "url": "https://www.tudogostoso.com.br/receita/11160-pure-de-abobora.html",
+  "nota": 4.7,
+  "n_avaliacoes": 231,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Purê de abóbora",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 20,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "abóbora",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg abóbora"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola média picada"
+    },
+    {
+      "nome": "rasa de sopa de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher rasa de sopa de margarina"
+    },
+    {
+      "nome": "chá de cheiro verde picado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de cheiro verde picado"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "tablete de caldo de bacon",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tablete de caldo de bacon"
+    },
+    {
+      "nome": "rasa de chá de molho de pimenta (opcional)",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres rasa de chá de molho de pimenta (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Ferver a abóbora com água sem sal, quando amolecer escorra e esprema à parte em uma panela com 2 colheres de sopa de azeite.",
+      "Doure bem a cebola, quando estiver bem douradinha acrescente: a margarina o cheiro-verde, o leite e o caldo de bacon.",
+      "Mexa bem e coloque a abóbora espremida.",
+      "Mexa bem e coloque por fim o molho de pimenta."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Expremedor de Batata"
+  ],
+  "texto_para_embedding": "Purê de abóbora. Ingredientes: abóbora, cebola média picada, rasa de sopa de margarina, chá de cheiro verde picado, leite, tablete de caldo de bacon, rasa de chá de molho de pimenta (opcional). Preparo: Ferver a abóbora com água sem sal, quando amolecer escorra e esprema à parte em uma panela com 2 colheres de sopa de azeite. Doure bem a cebola, quando estiver bem douradinha acrescente: a margarina o cheiro-verde, o leite e o caldo de bacon. Mexa bem e coloque a abóbora espremida."
+}

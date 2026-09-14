@@ -1,0 +1,60 @@
+{
+  "id": "tg-134285",
+  "titulo": "Biscoito de polvilho assado fácil",
+  "url": "https://www.tudogostoso.com.br/receita/134285-biscoito-de-polvilho-assado-facil.html",
+  "nota": 4.5,
+  "n_avaliacoes": 360,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito de polvilho assado fácil",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 25,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "polvilho azedo",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de polvilho azedo"
+    },
+    {
+      "nome": "água fervente",
+      "quantidade": "200",
+      "unidade": "ml",
+      "texto_original": "200 ml de água fervente"
+    },
+    {
+      "nome": "óleo em temperatura ambiente",
+      "quantidade": "150",
+      "unidade": "ml",
+      "texto_original": "150 ml de óleo em temperatura ambiente"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma vasilha acrescente o polvilho, a água fervente e o óleo, misture bem e acrescente o sal a gosto.",
+      "Adicione por último os ovos, um de cada vez, até obter uma massa consistente.",
+      "Coloque a massa em um saquinho de confeiteiro e modele os biscoitos em uma forma (não é necessário untar a forma).",
+      "Leve para assar em forno médio (180° C), preaquecido, por 25 minutos."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Bowl",
+    "Colher de silicone",
+    "Copo medidor"
+  ],
+  "texto_para_embedding": "Biscoito de polvilho assado fácil. Ingredientes: polvilho azedo, água fervente, óleo em temperatura ambiente, ovos, sal a gosto. Preparo: Em uma vasilha acrescente o polvilho, a água fervente e o óleo, misture bem e acrescente o sal a gosto. Adicione por último os ovos, um de cada vez, até obter uma massa consistente. Coloque a massa em um saquinho de confeiteiro e modele os biscoitos em uma forma (não é necessário untar a forma)."
+}

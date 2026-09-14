@@ -1,0 +1,48 @@
+{
+  "id": "tg-712",
+  "titulo": "Risólis",
+  "url": "https://www.tudogostoso.com.br/receita/712-risolis.html",
+  "nota": 4.6,
+  "n_avaliacoes": 765,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Risólis",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de leite"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de manteiga ou margarina"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de sal"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "copos",
+      "texto_original": "2 copos de farinha de trigo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Ferva o leite, a manteiga e o sal.",
+      "Quando levantar fervura, jogar de uma vez os 2 copos de farinha.",
+      "Sovar bem a massa. Estique a massa em cima da pia (pode ser com as mãos), corte rodelas com a borda de um copo e recheie a gosto. Feche os risólis e passe no ovo batido e farinha de rosca. Frite."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Risólis. Ingredientes: leite, manteiga ou margarina, sal, farinha de trigo. Preparo: Ferva o leite, a manteiga e o sal. Quando levantar fervura, jogar de uma vez os 2 copos de farinha. Sovar bem a massa. Estique a massa em cima da pia (pode ser com as mãos), corte rodelas com a borda de um copo e recheie a gosto. Feche os risólis e passe no ovo batido e farinha de rosca. Frite."
+}

@@ -1,0 +1,129 @@
+{
+  "id": "tg-9125",
+  "titulo": "Bife à parmegiana",
+  "url": "https://www.tudogostoso.com.br/receita/9125-bife-a-parmegiana.html",
+  "nota": 4.8,
+  "n_avaliacoes": 343,
+  "categoria": "Receitas carnes",
+  "subcategoria": "Bife à parmegiana",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 90,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "carne para bife",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de carne para bife"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "farinha de rosca"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picada"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "ketchup",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de ketchup"
+    },
+    {
+      "nome": "mostarda",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de mostarda"
+    },
+    {
+      "nome": "salsinha e cebolinha a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha e cebolinha a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "óleo"
+    },
+    {
+      "nome": "queijo mussarela",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo mussarela"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano"
+    }
+  ],
+  "modo_preparo": {
+    "Bife": [
+      "Tempere os bifes com alho e sal e reserve.",
+      "Bata o ovo inteiro e passe os bifes pelo ovo e pela farinha de rosca.",
+      "Aqueça em uma frigideira o óleo e frite os bifes, escorra-os em papel-toalha e vá dispondo em um refratário."
+    ],
+    "Molho": [
+      "Refogue a cebola no óleo, junte o molho de tomate, o catchup, a mostarda, o sal, salsinha e cebolinha, abaixe o fogo e deixe o molho apurar."
+    ],
+    "Montagem": [
+      "Despeje o molho pronto sobre os bifes e distribua queijo mussarela sobre os bifes",
+      "Salpique delicadamente um pouco de orégano por cima do queijo e leve ao forno até derreter o queijo.",
+      "Sirva com arroz e purê de batatas.",
+      "Bom apetite."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Bowl",
+    "Colher de pau",
+    "Pegador multiuso"
+  ],
+  "texto_para_embedding": "Bife à parmegiana. Ingredientes: carne para bife, alho, sal, ovo, farinha de rosca, óleo, cebola picada, molho de tomate, ketchup, mostarda, salsinha e cebolinha a gosto, sal a gosto, óleo, queijo mussarela, orégano. Preparo: Tempere os bifes com alho e sal e reserve. Bata o ovo inteiro e passe os bifes pelo ovo e pela farinha de rosca. Aqueça em uma frigideira o óleo e frite os bifes, escorra-os em papel-toalha e vá dispondo em um refratário."
+}

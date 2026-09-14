@@ -1,0 +1,101 @@
+{
+  "id": "tg-4907",
+  "titulo": "Filé de Peixe ao Molho Branco",
+  "url": "https://www.tudogostoso.com.br/receita/4907-file-de-peixe-ao-molho-branco.html",
+  "nota": 4.8,
+  "n_avaliacoes": 107,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Filé de Peixe ao Molho Branco",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "filé de peixe",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de filé de peixe"
+    },
+    {
+      "nome": "chá de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de leite"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de amido de milho"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de margarina"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    },
+    {
+      "nome": "Pimenta do reino",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta do reino"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho"
+    },
+    {
+      "nome": "Óeo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óeo"
+    },
+    {
+      "nome": "sopa de queijo parmesão ralado",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de queijo parmesão ralado"
+    },
+    {
+      "nome": "Algumas fatias de queijo muzzarela",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Algumas fatias de queijo muzzarela"
+    },
+    {
+      "nome": "tablete de caldo knor (do sabor que preferir)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo knor (do sabor que preferir)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse os dentes de alho e deixe dourar no óleo.",
+      "Jogue o filé e deixe refogar.",
+      "Coloque o sal e a pimenta a gosto.",
+      "Coloque um pouco d'água e jogue o tablete de caldo knor.",
+      "Mexa um pouco e deixe cozinhado.",
+      "Enquanto isso, em uma panela pequena, derreta a margarina, coloque o amido de milho e em seguida jogue o leite.",
+      "Mexa até engrossar.",
+      "Depois de grosso, jogue o queijo ralado e mexa mais um pouco.",
+      "Desligue o fogo e reserve.",
+      "Vá olhando sempre o filé até ter certeza de que já está cozido.",
+      "Coloque o filé em uma travessa e jogue o molho branco por cima.",
+      "Misture levemente.",
+      "Distribua as fatias de queijo de maneira uniforme e coloque no forno pré-aquecido até derreter o queijo.",
+      "Este prato é acompanhado apenas de arroz branco."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Filé de Peixe ao Molho Branco. Ingredientes: filé de peixe, chá de leite, sopa de amido de milho, sopa de margarina, Sal, Pimenta do reino, alho, Óeo, sopa de queijo parmesão ralado, Algumas fatias de queijo muzzarela, tablete de caldo knor (do sabor que preferir). Preparo: Amasse os dentes de alho e deixe dourar no óleo. Jogue o filé e deixe refogar. Coloque o sal e a pimenta a gosto."
+}

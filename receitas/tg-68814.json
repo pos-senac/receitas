@@ -1,0 +1,69 @@
+{
+  "id": "tg-68814",
+  "titulo": "Bolo de trigo simples",
+  "url": "https://www.tudogostoso.com.br/receita/68814-bolo-de-trigo-simples.html",
+  "nota": 4.6,
+  "n_avaliacoes": 127,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de trigo simples",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 90,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "margarina de 250g",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 margarina de 250g"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de açúcar"
+    },
+    {
+      "nome": "ovos inteiros",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 ovos inteiros"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras",
+      "texto_original": "4 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "1/2 xícara de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícara de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture com colher de pau a margarina com o açúcar, em seguida acrescente os ovos inteiros, e leve à batedeira por 15 minutos em velocidade mínima.",
+      "Peneire a farinha, o fermento e o sal, acrescente, mexendo com a colher de pau.",
+      "Acrescente o leite e mexa até a massa ficar bem misturada.",
+      "Unte a forma média com margarina e farinha de trigo, coloque a massa.",
+      "Leve ao forno médio, pré-aquecido, por aproximadamente 1 hora, ou até que esteja bem douradinho.",
+      "Fica uma delícia com café, ou até mesmo recheado a seu gosto."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de trigo simples. Ingredientes: margarina de 250g, açúcar, ovos inteiros, farinha de trigo, sopa de fermento em pó, sal, 1/2 xícara de leite. Preparo: Misture com colher de pau a margarina com o açúcar, em seguida acrescente os ovos inteiros, e leve à batedeira por 15 minutos em velocidade mínima. Peneire a farinha, o fermento e o sal, acrescente, mexendo com a colher de pau. Acrescente o leite e mexa até a massa ficar bem misturada."
+}

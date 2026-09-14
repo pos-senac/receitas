@@ -1,0 +1,87 @@
+{
+  "id": "tg-57798",
+  "titulo": "Peito de frango rápido e econômico",
+  "url": "https://www.tudogostoso.com.br/receita/57798-peito-de-frango-rapido-e-economico.html",
+  "nota": 4.6,
+  "n_avaliacoes": 184,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Peito de frango rápido e econômico",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "peito de frango em tiras ou filé",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg peito de frango em tiras ou filé"
+    },
+    {
+      "nome": "cebola picada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola picada"
+    },
+    {
+      "nome": "pimentão verde em tiras finas",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 pimentão verde em tiras finas"
+    },
+    {
+      "nome": "caldo de galinha",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 caldo de galinha"
+    },
+    {
+      "nome": "sopa (rasa) de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa (rasa) de farinha de trigo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "noz-moscada",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de noz-moscada"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "azeite ou óleo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de azeite ou óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela o óleo ou azeite, a cebola, o pimentão e o peito de frango.",
+      "Deixe cozinhando por uns 15 minutos, sempre mexendo.",
+      "Se necessário, acrescente um pouco de água.",
+      "Acrescente o caldo de galinha e um pouco de água para dissolvê-lo, após polvilhe com o trigo misturando tudo bem.",
+      "Acrescente o leite e mexa até engrossar, se achar necessário coloque mais leite de acordo com sua preferência para a consistência do molho."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Ralador",
+    "Tábua de corte",
+    "Colher medidora"
+  ],
+  "texto_para_embedding": "Peito de frango rápido e econômico. Ingredientes: peito de frango em tiras ou filé, cebola picada, pimentão verde em tiras finas, caldo de galinha, sopa (rasa) de farinha de trigo, leite, noz-moscada, sal a gosto, azeite ou óleo. Preparo: Coloque em uma panela o óleo ou azeite, a cebola, o pimentão e o peito de frango. Deixe cozinhando por uns 15 minutos, sempre mexendo. Se necessário, acrescente um pouco de água."
+}

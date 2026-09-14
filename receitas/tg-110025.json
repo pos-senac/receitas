@@ -1,0 +1,68 @@
+{
+  "id": "tg-110025",
+  "titulo": "Cupcake de micro-ondas",
+  "url": "https://www.tudogostoso.com.br/receita/110025-cupcake-de-micro-ondas.html",
+  "nota": 4.4,
+  "n_avaliacoes": 158,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Cupcake de micro-ondas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 5,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) fermento em pó"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/3",
+      "unidade": "xícara",
+      "texto_original": "1/3 xícara de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1/3",
+      "unidade": "xícara",
+      "texto_original": "1/3 xícara de óleo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "barrinha de chocolate Laka ou Diamante Negro de 25 g (opcional)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 barrinha de chocolate Laka ou Diamante Negro de 25 g (opcional)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, passe pela peneira o a farinha, o açúcar e o fermento, acrescente o ovo, o leite e o óleo.",
+      "Corte o chocolate em pedaços pequenos e coloque na massa.",
+      "Misture muito bem e coloque em forminhas de papel.",
+      "Leve ao micro-ondas por 2 minutos.",
+      "Decore conforme sua preferência."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cupcake de micro-ondas. Ingredientes: farinha de trigo, açúcar, fermento em pó, leite, óleo, ovo, barrinha de chocolate Laka ou Diamante Negro de 25 g (opcional). Preparo: Em um recipiente, passe pela peneira o a farinha, o açúcar e o fermento, acrescente o ovo, o leite e o óleo. Corte o chocolate em pedaços pequenos e coloque na massa. Misture muito bem e coloque em forminhas de papel."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "tg-35343",
+  "titulo": "Bolo pão de ló simples",
+  "url": "https://www.tudogostoso.com.br/receita/35343-bolo-pao-de-lo-simples.html",
+  "nota": 4.7,
+  "n_avaliacoes": 101,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo pão de ló simples",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de água"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos e a água na potência máxima da batedeira, até formar uma espuma.",
+      "Sempre batendo, coloque o óleo, o açúcar e a farinha.",
+      "Diminua a potência da batedeira e coloque o fermento.",
+      "Unte uma forma.",
+      "Leve ao forno médio, pré - aquecido, por aproximadamente 40 minutos, ou até dourar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo pão de ló simples. Ingredientes: ovos, água, óleo, açúcar, farinha de trigo, fermento. Preparo: Bata os ovos e a água na potência máxima da batedeira, até formar uma espuma. Sempre batendo, coloque o óleo, o açúcar e a farinha. Diminua a potência da batedeira e coloque o fermento."
+}

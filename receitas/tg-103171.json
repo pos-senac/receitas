@@ -1,0 +1,73 @@
+{
+  "id": "tg-103171",
+  "titulo": "Bolinho de chuva sem ovo",
+  "url": "https://www.tudogostoso.com.br/receita/103171-bolinho-de-chuva-sem-ovo.html",
+  "nota": 4.6,
+  "n_avaliacoes": 466,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Bolinho de chuva sem ovo",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de fermento"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "leite morno ou água",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de leite morno ou água"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sobremesa de canela",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de canela"
+    },
+    {
+      "nome": "Óleo (para fritar)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo (para fritar)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque a farinha de trigo em uma vasilha acrescente o açúcar, fermento e o leite (ou água), misture de uma maneira que a massa não fique tão molenga e nem tão dura.",
+      "Para fritar, aqueça o óleo quando estiver quente pegue colheradas e coloque na panela abaixe o fogo para não ficar cru.",
+      "Depois de dourado, coloque em papel toalha para secar.",
+      "Para polvilhar, misture o açúcar e a canela.",
+      "Arrume os bolinhos e polvilhe."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Escumadeira",
+    "Fouet",
+    "Frigideira funda"
+  ],
+  "texto_para_embedding": "Bolinho de chuva sem ovo. Ingredientes: farinha de trigo, fermento, açúcar, leite morno ou água, sopa de açúcar, sobremesa de canela, Óleo (para fritar). Preparo: Coloque a farinha de trigo em uma vasilha acrescente o açúcar, fermento e o leite (ou água), misture de uma maneira que a massa não fique tão molenga e nem tão dura. Para fritar, aqueça o óleo quando estiver quente pegue colheradas e coloque na panela abaixe o fogo para não ficar cru. Depois de dourado, coloque em papel toalha para secar."
+}

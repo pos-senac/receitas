@@ -1,0 +1,54 @@
+{
+  "id": "tg-173520",
+  "titulo": "Crepioca - Pão de queijo de frigideira",
+  "url": "https://www.tudogostoso.com.br/receita/173520-crepioca-pao-de-queijo-de-frigideira.html",
+  "nota": 4.9,
+  "n_avaliacoes": 131,
+  "categoria": "Receitas diet",
+  "subcategoria": "Crepioca - Pão de queijo de frigideira",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 6,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "tapioca",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de tapioca"
+    },
+    {
+      "nome": "requeijão light",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) requeijão light"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes em um prato e misture-os até que fiquem homogêneos.",
+      "Depois, aqueça um pouquinho uma frigideira sem óleo, sem azeite e sem manteiga, somente a frigideira e logo após coloque a massa.",
+      "Espere um tempo até que ela fique um pouco douradinha embaixo, se preferir virar a crepioca, vire-a com a ajuda de uma colher ou garfo.",
+      "Ou coloque uma tampa que cubra toda a frigideira e espere ela cozinhar até o ponto do seu gosto, mais queimadinho ou mais branquinho."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Espatula",
+    "Fouet",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Crepioca - Pão de queijo de frigideira. Ingredientes: ovo, tapioca, requeijão light, sal. Preparo: Coloque todos os ingredientes em um prato e misture-os até que fiquem homogêneos. Depois, aqueça um pouquinho uma frigideira sem óleo, sem azeite e sem manteiga, somente a frigideira e logo após coloque a massa. Espere um tempo até que ela fique um pouco douradinha embaixo, se preferir virar a crepioca, vire-a com a ajuda de uma colher ou garfo."
+}

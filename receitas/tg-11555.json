@@ -1,0 +1,55 @@
+{
+  "id": "tg-11555",
+  "titulo": "Massa rápida para coxinha",
+  "url": "https://www.tudogostoso.com.br/receita/11555-massa-rapida-para-coxinha.html",
+  "nota": 4.6,
+  "n_avaliacoes": 179,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Massa rápida para coxinha",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de água"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "3/4",
+      "unidade": "xícara",
+      "texto_original": "3/4 xícara de óleo"
+    },
+    {
+      "nome": "cubos de caldo de galinha",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 cubos de caldo de galinha"
+    },
+    {
+      "nome": "e 1/2 de farinha de trigo (bem cheias)",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras e 1/2 de farinha de trigo (bem cheias)"
+    },
+    {
+      "nome": "Obs: Não vai ao fogo",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Obs: Não vai ao fogo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela a água, o óleo, os cubos de caldo e deixe ferver.",
+      "Á parte em um recipiente coloque a farinha.",
+      "Quando a água já estiver fervida despeje sobre toda a farinha (fora do fogo), mexa bem até obter uma massa homogênea.",
+      "Obs: Com esta massa você poderá estar usando em: bolinha de queijo, risolis e bolinho de bacalhau."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Massa rápida para coxinha. Ingredientes: água, óleo, cubos de caldo de galinha, e 1/2 de farinha de trigo (bem cheias), Obs: Não vai ao fogo. Preparo: Coloque em uma panela a água, o óleo, os cubos de caldo e deixe ferver. Á parte em um recipiente coloque a farinha. Quando a água já estiver fervida despeje sobre toda a farinha (fora do fogo), mexa bem até obter uma massa homogênea."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tg-27564",
+  "titulo": "Gelatina com leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/27564-gelatina-com-leite-condensado.html",
+  "nota": 4.6,
+  "n_avaliacoes": 116,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Gelatina com leite condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "gelatina do sabor de sua preferência",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina do sabor de sua preferência"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "água suficiente para o preparo da gelatina",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "água suficiente para o preparo da gelatina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Prepare a gelatina conforme as instruções da caixinha.",
+      "Para agilizar o processo, utilize água gelada depois de dissolvê - la na fervente.",
+      "Coloque o líquido no liquidificador e depois o leite condensado.",
+      "Bata bem.",
+      "Leve à geladeira até endurecer, depois sirva."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Leiteira",
+    "Taça de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Gelatina com leite condensado. Ingredientes: gelatina do sabor de sua preferência, leite condensado, água suficiente para o preparo da gelatina. Preparo: Prepare a gelatina conforme as instruções da caixinha. Para agilizar o processo, utilize água gelada depois de dissolvê - la na fervente. Coloque o líquido no liquidificador e depois o leite condensado."
+}

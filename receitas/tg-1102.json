@@ -1,0 +1,84 @@
+{
+  "id": "tg-1102",
+  "titulo": "Hamburger",
+  "url": "https://www.tudogostoso.com.br/receita/1102-hamburger.html",
+  "nota": 4.5,
+  "n_avaliacoes": 116,
+  "categoria": "Receitas sanduíches",
+  "subcategoria": "Hamburger",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "½ kg de carne bovina",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "½ kg de carne bovina"
+    },
+    {
+      "nome": "envelope de creme de cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de creme de cebola"
+    },
+    {
+      "nome": "ovo inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro"
+    },
+    {
+      "nome": "Sal e pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e pimenta a gosto"
+    },
+    {
+      "nome": "Óleo para fritar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para fritar"
+    },
+    {
+      "nome": "Alface",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Alface"
+    },
+    {
+      "nome": "Tomate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Tomate"
+    },
+    {
+      "nome": "Cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Cebola"
+    },
+    {
+      "nome": "Maionese",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Maionese"
+    },
+    {
+      "nome": "Pão de hamburger",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pão de hamburger"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em um recipiente, coloque a carne moída, o creme de cebola, o ovo levemente batido, o sal e a pimenta. Misture para se agregarem. A seguir, coloque uma porção da mistura obtida em um saco plástico e passe o rolo.",
+      "Retire o saco e modele o hamburger com cortador próprio ou um cortador redondo. Frite em óleo quente.",
+      "Sirva com pão de hamburger, maionese, alface, tomate e cebola."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Hamburger. Ingredientes: ½ kg de carne bovina, envelope de creme de cebola, ovo inteiro, Sal e pimenta a gosto, Óleo para fritar, Alface, Tomate, Cebola, Maionese, Pão de hamburger. Preparo: Em um recipiente, coloque a carne moída, o creme de cebola, o ovo levemente batido, o sal e a pimenta. Misture para se agregarem. A seguir, coloque uma porção da mistura obtida em um saco plástico e passe o rolo. Retire o saco e modele o hamburger com cortador próprio ou um cortador redondo. Frite em óleo quente. Sirva com pão de hamburger, maionese, alface, tomate e cebola."
+}

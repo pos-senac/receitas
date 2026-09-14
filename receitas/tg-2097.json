@@ -1,0 +1,104 @@
+{
+  "id": "tg-2097",
+  "titulo": "Salpicão de frango",
+  "url": "https://www.tudogostoso.com.br/receita/2097-salpicao-de-frango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 589,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Salpicão de frango",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 40,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "peito de frango (grande)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango (grande)"
+    },
+    {
+      "nome": "milho",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de milho"
+    },
+    {
+      "nome": "ervilha",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilha"
+    },
+    {
+      "nome": "cenoura ralada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura ralada"
+    },
+    {
+      "nome": "ou 1 caixa de creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata ou 1 caixa de creme de leite"
+    },
+    {
+      "nome": "uva-passa a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "uva-passa a gosto"
+    },
+    {
+      "nome": "batata palha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "batata palha"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "tablete de caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tablete de caldo de galinha"
+    },
+    {
+      "nome": "salsinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "salsinha"
+    },
+    {
+      "nome": "cebolinha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebolinha"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cebola"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em uma panela o tablete de caldo de galinha, uma pitada de sal e água suficiente para cozinhar o frango.",
+      "Enquanto o frango cozinha, misture em um recipiente o milho, a ervilha, a cenoura e as uvas- passas. Tempere com sal, salsinha, cebolinha e a cebola.",
+      "Quando o frango estiver cozido, desfie e coloque-o no recipiente com o restante dos ingredientes.",
+      "Acrescente o creme de leite e a batata palha.",
+      "Coloque em um recipiente e leve para assar por aproximadamente 7 minutos.",
+      "Sirva ainda quente."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Ralador",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Salpicão de frango. Ingredientes: peito de frango (grande), milho, ervilha, cenoura ralada, ou 1 caixa de creme de leite, uva-passa a gosto, batata palha, sal a gosto, tablete de caldo de galinha, salsinha, cebolinha, cebola. Preparo: Coloque em uma panela o tablete de caldo de galinha, uma pitada de sal e água suficiente para cozinhar o frango. Enquanto o frango cozinha, misture em um recipiente o milho, a ervilha, a cenoura e as uvas- passas. Tempere com sal, salsinha, cebolinha e a cebola. Quando o frango estiver cozido, desfie e coloque-o no recipiente com o restante dos ingredientes."
+}

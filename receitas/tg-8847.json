@@ -1,0 +1,58 @@
+{
+  "id": "tg-8847",
+  "titulo": "Almôndegas",
+  "url": "https://www.tudogostoso.com.br/receita/8847-almondegas.html",
+  "nota": 4.5,
+  "n_avaliacoes": 371,
+  "categoria": "Receitas almôndega",
+  "subcategoria": "Almôndegas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "alho amassado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho amassado"
+    },
+    {
+      "nome": "tomate sem pele e sem sementes picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate sem pele e sem sementes picado"
+    },
+    {
+      "nome": "Sal e orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal e orégano a gosto"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola ralada"
+    },
+    {
+      "nome": "chá de aveia em flocos",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de aveia em flocos"
+    },
+    {
+      "nome": "carne moída",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de carne moída"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Junte 300 g de carne moída, 1/2 cebola ralada, 1 dente de alho amassado, 1/2 xícara de chá de aveia em flocos, tomate e tempere com sal e pimenta do reino a gosto. Misture bem. Modele as almôndegas tomando como porções 1/2 colher sopa. Coloque-as em uma assadeira untada, regue com azeite e deixe até dourar. Retire as almôndegas e enfeite com folhas de alface. Você também pode cozinhá-las, coloque 1 lata de molho de tomate pronto em uma panela com 1/2 xícara de água. Cozinhe por aproximadamente 20 minutos com panela tampada e mexendo sempre, com cuidado para não desmanchar as bolinhas. Bom apetite."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Almôndegas. Ingredientes: alho amassado, tomate sem pele e sem sementes picado, Sal e orégano a gosto, cebola ralada, chá de aveia em flocos, carne moída. Preparo: Junte 300 g de carne moída, 1/2 cebola ralada, 1 dente de alho amassado, 1/2 xícara de chá de aveia em flocos, tomate e tempere com sal e pimenta do reino a gosto. Misture bem. Modele as almôndegas tomando como porções 1/2 colher sopa. Coloque-as em uma assadeira untada, regue com azeite e deixe até dourar. Retire as almôndegas e enfeite com folhas de alface. Você também pode cozinhá-las, coloque 1 lata de molho de tomate pronto em uma panela com 1/2 xícara de água. Cozinhe por aproximadamente 20 minutos com panela tampada e mexendo sempre, com cuidado para não desmanchar as bolinhas. Bom apetite."
+}

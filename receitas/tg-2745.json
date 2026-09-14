@@ -1,0 +1,128 @@
+{
+  "id": "tg-2745",
+  "titulo": "Pão de mel",
+  "url": "https://www.tudogostoso.com.br/receita/2745-pao-de-mel.html",
+  "nota": 4.6,
+  "n_avaliacoes": 205,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Pão de mel",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "mel",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de mel"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "manteiga em temperatura ambiente",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos"
+    },
+    {
+      "nome": "bicarbontato de sódio",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de bicarbontato de sódio"
+    },
+    {
+      "nome": "noz moscada",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de noz moscada"
+    },
+    {
+      "nome": "cravo em pó",
+      "quantidade": "1",
+      "unidade": "colher (chá)",
+      "texto_original": "1 colher (chá) de cravo em pó"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de canela em pó"
+    },
+    {
+      "nome": "Manteiga e farinha de rosca, o quanto baste para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Manteiga e farinha de rosca, o quanto baste para untar"
+    },
+    {
+      "nome": "/ 1 tablete de chocolate meio amargo, picado",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g / 1 tablete de chocolate meio amargo, picado"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Unte uma forma redonda ou retangular com a manteiga e a farinha de rosca.",
+      "Ligue o forno em temperatura média (180 graus).",
+      "Na tigela grande da batedeira, coloque o açúcar, o mel, a manteiga e os ovos inteiros (sem a casca).",
+      "Bata muito bem.",
+      "Acrescente alternadamente o leite e a farinha de trigo, sem parar de bater.",
+      "Coloque primeiro uma xícara de farinha, em seguida ½ xícara de leite e assim por diante.",
+      "Depois da última adição, pare de bater.",
+      "Junte o bicarbonato e as especiarias.",
+      "Misture delicadamente.",
+      "Despeje a massa dentro da assadeira untada e leve ao forno pré-aquecido.",
+      "Asse por 15 minutos em temperatura média, abaixe o fogo o máximo que puder e asse por mais 20 minutos.",
+      "Para ter certeza que o bolo está assado, espete um palito.",
+      "Se sair seco, o bolo está pronto.",
+      "Retire do forno e passe uma faca de ponta redonda nas laterais da assadeira.",
+      "Deixe esfriar e desenforme (coloque um prato sobre a assadeira e vire de uma vez).",
+      "Cubra o bolo com a cobertura de chocolate."
+    ],
+    "Cobertura:": [
+      "Coloque água numa panela e leve ao fogo alto.",
+      "Quando ferver abaixe o fogo.",
+      "Coloque o chocolate picado e a manteiga numa tigela grande.",
+      "Coloque a tigela sobre a panela com água fervendo para derreter o chocolate em banho-maria, o segredo é não deixar a água encostar na tigela.",
+      "Mexa bem o chocolate com a manteiga até dissolver completamente, cerca de 4 minutos.",
+      "Quando o chocolate estiver derretido, desligue o fogo e retire a tigela da panela.",
+      "Com a ajuda de uma faca de ponta redonda, espalhe o chocolate nas laterais e na superfície do bolo.",
+      "Se você quiser o pão de mel em quadradinhos, use uma assadeira retangular para assá-lo.",
+      "Corte em quadrados e para cobri-los com a cobertura, espete um palito em cada pedaço e mergulhe, um a um, no chocolate derretido.",
+      "Porém, triplique a quantidade dos ingredientes da cobertura (3 tabletes de chocolate e 6 colheres de manteiga).",
+      "Para secar, coloque sobre uma grade, ou sobre uma folha de papel manteiga."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de mel. Ingredientes: farinha de trigo, mel, açúcar, leite, manteiga em temperatura ambiente, ovos, bicarbontato de sódio, noz moscada, cravo em pó, canela em pó, Manteiga e farinha de rosca, o quanto baste para untar, / 1 tablete de chocolate meio amargo, picado, manteiga. Preparo: Unte uma forma redonda ou retangular com a manteiga e a farinha de rosca. Ligue o forno em temperatura média (180 graus). Na tigela grande da batedeira, coloque o açúcar, o mel, a manteiga e os ovos inteiros (sem a casca)."
+}

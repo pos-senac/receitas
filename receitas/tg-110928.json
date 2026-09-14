@@ -1,0 +1,56 @@
+{
+  "id": "tg-110928",
+  "titulo": "Arroz doce sem leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/110928-arroz-doce-sem-leite-condensado.html",
+  "nota": 4.7,
+  "n_avaliacoes": 106,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Arroz doce sem leite condensado",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "arroz",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de arroz"
+    },
+    {
+      "nome": "água",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de leite"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o arroz e a água na panela.",
+      "Leve ao fogo médio e cozinhe até a água quase secar.",
+      "Adicione o leite e o açúcar e cozinhe até ficar cremoso.",
+      "Sirva quente ou gelado. Se for servir gelado, pode acrescentar 1/2 xícara (chá) de açúcar a mais, pois ele perde um pouco da doçura depois de frio."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de silicone",
+    "Colher para sobremesa",
+    "Copo medidor",
+    "Fogão",
+    "Taça de sobremesa"
+  ],
+  "texto_para_embedding": "Arroz doce sem leite condensado. Ingredientes: arroz, água, açúcar, leite. Preparo: Coloque o arroz e a água na panela. Leve ao fogo médio e cozinhe até a água quase secar. Adicione o leite e o açúcar e cozinhe até ficar cremoso."
+}

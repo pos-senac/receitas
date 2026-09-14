@@ -1,0 +1,114 @@
+{
+  "id": "tg-141765",
+  "titulo": "Bolo gelado de abacaxi",
+  "url": "https://www.tudogostoso.com.br/receita/141765-bolo-gelado-de-abacaxi.html",
+  "nota": 4.7,
+  "n_avaliacoes": 195,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo gelado de abacaxi",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "abacaxi grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abacaxi grande"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "1 e 1/2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícaras",
+      "texto_original": "1 e 1/2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de água",
+      "quantidade": "10",
+      "unidade": "colheres",
+      "texto_original": "10 colheres de sopa de água"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "coco ralado de 100 g",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de coco ralado de 100 g"
+    },
+    {
+      "nome": "gotas de baunilha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "gotas de baunilha"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite sem soro",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite sem soro"
+    },
+    {
+      "nome": "leite (medir pela lata de leite condensado)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de leite (medir pela lata de leite condensado)"
+    },
+    {
+      "nome": "sopa de amido de milho",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de sopa de amido de milho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Pique o abacaxi em pedaços pequenos, espalhe em uma forma sem untar, espalhe por cima do abacaxi as 10 colheres de açúcar e reserve."
+    ],
+    "Massa:": [
+      "Bata as claras em neve e reserve.",
+      "Bata as gemas com o açúcar, até formar um creme.",
+      "Coloque a água, a baunilha e a farinha aos poucos, no creme feito com as gemas e o açúcar.",
+      "Bata bem e junte as claras em neve, delicadamente.",
+      "Por último, acrescente o fermento.",
+      "Despeje a massa por cima do abacaxi e leve para assar."
+    ],
+    "Cobertura:": [
+      "Misture em uma panela o leite condensado, o creme de leite, o leite e a maizena.",
+      "Leve ao fogo e mexa até engrossar.",
+      "Coloque por cima do bolo ainda quente.",
+      "Coloque o coco ralado por cima do creme e leve para gelar."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo gelado de abacaxi. Ingredientes: abacaxi grande, açúcar, ovos, açúcar, farinha de trigo, sopa de água, sopa de fermento em pó, coco ralado de 100 g, gotas de baunilha, leite condensado, creme de leite sem soro, leite (medir pela lata de leite condensado), sopa de amido de milho. Preparo: Pique o abacaxi em pedaços pequenos, espalhe em uma forma sem untar, espalhe por cima do abacaxi as 10 colheres de açúcar e reserve. Bata as claras em neve e reserve. Bata as gemas com o açúcar, até formar um creme."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "tg-30675",
+  "titulo": "Pretzel delicioso",
+  "url": "https://www.tudogostoso.com.br/receita/30675-pretzel-delicioso.html",
+  "nota": 4.6,
+  "n_avaliacoes": 303,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Pretzel delicioso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 120,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "água morna",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de água morna"
+    },
+    {
+      "nome": "leite morno",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de leite morno"
+    },
+    {
+      "nome": "fermento biológico seco",
+      "quantidade": "20",
+      "unidade": "g",
+      "texto_original": "20 g de fermento biológico seco"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de açúcar"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "margarina sem sal",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de margarina sem sal"
+    },
+    {
+      "nome": "Farinha para trabalhar a massa e enrola - la",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha para trabalhar a massa e enrola - la"
+    },
+    {
+      "nome": "Margarina para untar a forma",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Margarina para untar a forma"
+    },
+    {
+      "nome": "manteiga sem sal derretida",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de manteiga sem sal derretida"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de açúcar"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "3",
+      "unidade": "colheres (chá)",
+      "texto_original": "3 colheres (chá) de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Peneire a farinha em uma tigela e reserve.",
+      "No liquidificador, bata a água, o leite, o fermento, o sal, o açúcar, o ovo e a margarina.",
+      "Faça uma cavidade na farinha e despeje o líquido no centro, mexendo com uma colher.",
+      "Transfira para uma superfície enfarinhada e sove.",
+      "Se preciso, junte mais farinha até a massa não grudar nas mãos.",
+      "Cubra a massa e deixe descansar por 45 minutos.",
+      "Derreta a manteiga em fogo brando e reserve.",
+      "Divida a massa em porções iguais e modele os cordões compridos.",
+      "Disponha em assadeiras untadas.",
+      "Leve ao forno alto, pré - aquecido, por 25 minutos ou até dourar.",
+      "Retire do forno, passe na manteiga e polvilhe com o açucar e a canela misturados."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pretzel delicioso. Ingredientes: farinha de trigo, água morna, leite morno, fermento biológico seco, sal, açúcar, ovo, margarina sem sal, Farinha para trabalhar a massa e enrola - la, Margarina para untar a forma, manteiga sem sal derretida, açúcar, canela em pó. Preparo: Peneire a farinha em uma tigela e reserve. No liquidificador, bata a água, o leite, o fermento, o sal, o açúcar, o ovo e a margarina. Faça uma cavidade na farinha e despeje o líquido no centro, mexendo com uma colher."
+}

@@ -1,0 +1,65 @@
+Ideia do projeto (faculdade / artigo com experimento de IA)
+============================================================
+
+Extrair receitas do site tudogostoso.com (talvez umas 1000 receitas), fazer um RAG com elas, conectar a um LLM (local, OpenRouter ou ChatGPT) e ter uma interface em Streamlit. O usuário informa o que tem em casa de ingredientes e o sistema sugere as melhores receitas (considerando as avaliações do site) para fazer com o que ele tem.
+
+
+Avaliacao geral
+---------------
+
+A ideia e boa para um artigo de faculdade: problema claro, pipeline de IA completo e facil de demonstrar.
+
+
+O que funciona bem
+------------------
+
+- Problema real e mensuravel: "tenho X ingredientes -> quais receitas cabem?"
+- Stack didatica: coleta -> indexacao -> retrieval -> LLM -> UI
+- Facil de avaliar: precisao do match de ingredientes, ranking vs avaliacao do site, comparacao com baseline (so keyword / so LLM sem RAG)
+
+
+Pontos de atencao
+-----------------
+
+1. Scraping do TudoGostoso
+   Termos de uso e propriedade do conteudo costumam restringir crawling em escala. Para artigo, o mais limpo e:
+   - dataset publico (ex.: recipe datasets no Kaggle / Hugging Face), ou
+   - scraping limitado + citar fonte + nao redistribuir o dump, ou
+   - pedir permissao / usar so metadados que voce mesmo anotar
+
+   Se insistir no TudoGostoso, documente no artigo: escopo, rate limit, robots.txt e justificativa etica.
+
+2. RAG pode ser o "meio", nao o diferencial
+   Matching de ingredientes e em grande parte filtragem estruturada (ingredientes presentes / faltantes), nao so similaridade semantica. Um desenho forte:
+
+   1. Parse dos ingredientes do usuario
+   2. Filtrar receitas por cobertura (% ingredientes que o usuario tem)
+   3. Ordenar por nota do site + cobertura
+   4. Usar o LLM so para explicar, adaptar quantidades e sugerir substituicoes
+
+   RAG puro ("embedding da frase do usuario") sozinho costuma errar em "tenho ovo e farinha".
+
+3. Escala
+   1000 receitas e otimo para prototipo e experimento. Nao precisa de mais para o artigo.
+
+
+Desenho recomendado
+-------------------
+
+Camada     | Sugestao
+-----------|----------------------------------------------------------------
+Dados      | JSON/CSV: titulo, ingredientes normalizados, passos, nota, n. avaliacoes
+Retrieval  | hibrido: filtro por ingredientes + BM25/embeddings
+LLM        | OpenRouter (barato, varios modelos) ou Ollama local (bom para reprodutibilidade)
+UI         | Streamlit — perfeito para MVP academico
+
+Metrica de experimento (importante no artigo):
+ex.: cobertura media de ingredientes, nDCG do ranking, % receitas com 0 itens faltando,
+comparacao com vs sem LLM, com vs sem filtro estruturado.
+
+
+Veredito
+--------
+
+Vale fazer — especialmente se o artigo enfatizar hibrido (filtro + RAG/LLM) e avaliacao objetiva,
+nao so "montamos um chatbot de receitas".

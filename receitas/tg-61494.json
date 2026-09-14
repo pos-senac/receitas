@@ -1,0 +1,101 @@
+{
+  "id": "tg-61494",
+  "titulo": "Filé de tilápia assado",
+  "url": "https://www.tudogostoso.com.br/receita/61494-file-de-tilapia-assado.html",
+  "nota": 4.8,
+  "n_avaliacoes": 194,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Filé de tilápia assado",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "filé de tilápia",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de filé de tilápia"
+    },
+    {
+      "nome": "Suco de 1/2 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1/2 limão"
+    },
+    {
+      "nome": "tomates em rodelas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 tomates em rodelas"
+    },
+    {
+      "nome": "cebolas em rodelas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 cebolas em rodelas"
+    },
+    {
+      "nome": "chá de azeitonas pretas picadas",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de azeitonas pretas picadas"
+    },
+    {
+      "nome": "batatas cozidas",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de batatas cozidas"
+    },
+    {
+      "nome": "sopa de manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de manteiga"
+    },
+    {
+      "nome": "chá de creme de leite",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de chá de creme de leite"
+    },
+    {
+      "nome": "mussarela ralada",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de mussarela ralada"
+    },
+    {
+      "nome": "Azeite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeite"
+    },
+    {
+      "nome": "Sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere os filés com limão e sal.",
+      "Em um refratário colocar uma camada de cebola e uma de tomate, coloque os filés em cima das camadas.",
+      "Cobrir com outra camada de cebola e de tomate e na sequência as azeitonas e regue com o azeite.",
+      "Colocar para assar por 15 minutos em forno alto.",
+      "Reserve.",
+      "Em outra vasilha espremer as batatas.",
+      "Em uma panela derreta a manteiga, coloque a batata e o creme de leite.",
+      "Em seguida coloque esse purê em cima dos filés, coloque a mussarela.",
+      "Leve ao forno por mais 5 minutos e sirva."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Expremedor de Batata",
+    "Expremedor de Limão"
+  ],
+  "texto_para_embedding": "Filé de tilápia assado. Ingredientes: filé de tilápia, Suco de 1/2 limão, tomates em rodelas, cebolas em rodelas, chá de azeitonas pretas picadas, batatas cozidas, sopa de manteiga, chá de creme de leite, mussarela ralada, Azeite, Sal. Preparo: Tempere os filés com limão e sal. Em um refratário colocar uma camada de cebola e uma de tomate, coloque os filés em cima das camadas. Cobrir com outra camada de cebola e de tomate e na sequência as azeitonas e regue com o azeite."
+}

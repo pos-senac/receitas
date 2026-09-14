@@ -1,0 +1,136 @@
+{
+  "id": "tg-10782",
+  "titulo": "Bolo de brigadeiro",
+  "url": "https://www.tudogostoso.com.br/receita/10782-bolo-de-brigadeiro.html",
+  "nota": 4.8,
+  "n_avaliacoes": 280,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de brigadeiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 55,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de açúcar"
+    },
+    {
+      "nome": "nescau",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de nescau"
+    },
+    {
+      "nome": "sopa de fermento",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento"
+    },
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de manteiga sem sal"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "nescau",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de nescau"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de leite"
+    },
+    {
+      "nome": "chocolate",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de chocolate"
+    },
+    {
+      "nome": "Essência de rum (opcional)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Essência de rum (opcional)"
+    },
+    {
+      "nome": "Granulado ou raspas de chocolate",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Granulado ou raspas de chocolate"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater os 3 primeiros ingredientes no liquidificador (reserve).",
+      "Peneirar os demais ingredientes secos todos juntos, duas vezes, para ficar bem envolvidos.",
+      "Coloque em uma vasilha os ingredientes já batidos do liquidificador",
+      "sobre o líquido acrescente vagarosamente os ingredientes secos já peneirados",
+      "todos juntos, mexendo suavemente.",
+      "Assar em forma untada e enfarinhada."
+    ],
+    "Recheio:": [
+      "Misture tudo, (menos o creme de leite) e leve ao fogo, até o ponto de brigadeiro (o ponto de brigadeiro é quando desgrudar do fundo da panela).",
+      "Quando tirar do fogo junte:  1 lata de creme de leite sem soro e misture bem."
+    ],
+    "Calda:": [
+      "Misture bem o leite com o chocolate."
+    ],
+    "Montagem:": [
+      "Corte o bolo ao meio, umedecer a massa com a calda e rechear.",
+      "Coloque a outra metade da massa, umedecer a massa com o restante da calda.",
+      "Cobrir e decorar com granulado ou raspas de chocolate."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Espátula de silicone",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de brigadeiro. Ingredientes: ovos, óleo, leite, trigo, açúcar, nescau, sopa de fermento, manteiga sem sal, leite condensado, nescau, creme de leite, leite, chocolate, Essência de rum (opcional), Granulado ou raspas de chocolate. Preparo: Bater os 3 primeiros ingredientes no liquidificador (reserve). Peneirar os demais ingredientes secos todos juntos, duas vezes, para ficar bem envolvidos. Coloque em uma vasilha os ingredientes já batidos do liquidificador"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "tg-5496",
+  "titulo": "Torta de Atum",
+  "url": "https://www.tudogostoso.com.br/receita/5496-torta-de-atum.html",
+  "nota": 4.6,
+  "n_avaliacoes": 530,
+  "categoria": "Receitas bolos e tortas salgadas",
+  "subcategoria": "Torta de Atum",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copo",
+      "texto_original": "2 copo de leite"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de óleo"
+    },
+    {
+      "nome": "farinha",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha"
+    },
+    {
+      "nome": "sobremesa de sal",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sobremesa de sal"
+    },
+    {
+      "nome": "sobremesa de fermento em pó",
+      "quantidade": "2",
+      "unidade": "colher",
+      "texto_original": "2 colher de sobremesa de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "tomate médio picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate médio picado"
+    },
+    {
+      "nome": "atum ralado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de atum ralado"
+    },
+    {
+      "nome": "porção de ervilha a seu gosto",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 porção de ervilha a seu gosto"
+    },
+    {
+      "nome": "azeitonas picadas",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 azeitonas picadas"
+    }
+  ],
+  "modo_preparo": {
+    "Para a Massa": [
+      "Bata todos os igredientes no liquidificador. Unte uma assadeira e depois coloque uma camada de massa e outra de recheio e em seguida outra de massa."
+    ],
+    "Para fazer o Recheio": [
+      "Misture todos os igredientes em um prato tempere a seu gosto e esta pronto o recheio."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Espatula",
+    "Prato raso",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Torta de Atum. Ingredientes: leite, óleo, farinha, sobremesa de sal, sobremesa de fermento em pó, ovos, tomate médio picado, atum ralado, porção de ervilha a seu gosto, azeitonas picadas. Preparo: Bata todos os igredientes no liquidificador. Unte uma assadeira e depois coloque uma camada de massa e outra de recheio e em seguida outra de massa. Misture todos os igredientes em um prato tempere a seu gosto e esta pronto o recheio."
+}

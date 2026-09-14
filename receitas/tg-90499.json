@@ -1,0 +1,68 @@
+{
+  "id": "tg-90499",
+  "titulo": "Maçã do amor fácil e perfeita",
+  "url": "https://www.tudogostoso.com.br/receita/90499-maca-do-amor-facil-e-perfeita.html",
+  "nota": 4.5,
+  "n_avaliacoes": 500,
+  "categoria": "Receitas frutas",
+  "subcategoria": "Maçã do amor fácil e perfeita",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de açúcar"
+    },
+    {
+      "nome": "água",
+      "quantidade": "500",
+      "unidade": "ml",
+      "texto_original": "500 ml de água"
+    },
+    {
+      "nome": "vinagre",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de vinagre"
+    },
+    {
+      "nome": "corante vermelho (pó ou líquido)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "corante vermelho (pó ou líquido)"
+    },
+    {
+      "nome": "maçãs (pequena/média)",
+      "quantidade": "12",
+      "unidade": null,
+      "texto_original": "12 maçãs (pequena/média)"
+    }
+  ],
+  "modo_preparo": {
+    "Maçãs": [
+      "Lave e seque as maçãs.",
+      "Espete-as com 1 ou 2 palitos (ajudará na firmeza na hora de caramelizar).",
+      "Unte formas de alumínio (pode ser de bolo) com óleo, bem pouco."
+    ],
+    "Calda": [
+      "Coloque todos os ingredientes dentro de uma panela.",
+      "Nesta receita não se usa nenhuma colher (pois, pode açucarar a calda).",
+      "Misture apenas mexendo a panela - não use nenhum tipo de colher, pois, pode quebrar o ponto da calda.",
+      "Até a fervura, pode usar fogo alto, quando ferver, mude para médio e mantenha por aproximadamente 25 minutos.",
+      "Mergulhe a ponta de um palito de sorvete na calda e pingue na forma em segundos.",
+      "Pressione com o dedo (ela amassará) e solte sobre a forma; se ela fizer barulho de sólida, desligue imediatamente e comece o processo de mergulhar as maçãs e colocá-las sobre a forma previamente untada.",
+      "Note que o ideal é realizar este processo o mais breve possível, pois a calda vai, naturalmente, endurecendo."
+    ]
+  },
+  "utensilios": [
+    "Assadeira",
+    "Palito de sorvete",
+    "Panela",
+    "Colher de pau"
+  ],
+  "texto_para_embedding": "Maçã do amor fácil e perfeita. Ingredientes: açúcar, água, vinagre, corante vermelho (pó ou líquido), maçãs (pequena/média). Preparo: Lave e seque as maçãs. Espete-as com 1 ou 2 palitos (ajudará na firmeza na hora de caramelizar). Unte formas de alumínio (pode ser de bolo) com óleo, bem pouco."
+}

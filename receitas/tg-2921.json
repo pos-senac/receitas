@@ -1,0 +1,46 @@
+{
+  "id": "tg-2921",
+  "titulo": "Leite condensado caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/2921-leite-condensado-caseiro.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1044,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Leite condensado caseiro",
+  "nivel": null,
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 15,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "chá de leite em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara chá de leite em pó"
+    },
+    {
+      "nome": "chá de açucar cristal",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara chá de açucar cristal"
+    },
+    {
+      "nome": "chá de água fervente",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara chá de água fervente"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque no liquidificador a água fervente, o leite em pó e o açúcar.",
+      "Bata até dar a consistência de leite condensado.",
+      "Rendimento: 340g."
+    ]
+  },
+  "utensilios": [
+    "Colher para servir",
+    "Liquidificador",
+    "Bowl"
+  ],
+  "texto_para_embedding": "Leite condensado caseiro. Ingredientes: chá de leite em pó, chá de açucar cristal, chá de água fervente. Preparo: Coloque no liquidificador a água fervente, o leite em pó e o açúcar. Bata até dar a consistência de leite condensado. Rendimento: 340g."
+}

@@ -1,0 +1,104 @@
+{
+  "id": "tg-95329",
+  "titulo": "Arroz de forno super-rápido",
+  "url": "https://www.tudogostoso.com.br/receita/95329-arroz-de-forno-super-rapido.html",
+  "nota": 4.7,
+  "n_avaliacoes": 235,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Arroz de forno super-rápido",
+  "nivel": "facil",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 45,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "arroz cozido",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de arroz cozido"
+    },
+    {
+      "nome": "seleta de legumes (milho, ervilha, batata, cenoura etc)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de seleta de legumes (milho, ervilha, batata, cenoura etc)"
+    },
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "tomates picados em cubos",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates picados em cubos"
+    },
+    {
+      "nome": "cebola média picada em rodelas",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada em rodelas"
+    },
+    {
+      "nome": "requeijão",
+      "quantidade": "1",
+      "unidade": "copo",
+      "texto_original": "1 copo de requeijão"
+    },
+    {
+      "nome": "batata palha",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de batata palha"
+    },
+    {
+      "nome": "queijo mussarela ralado",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de queijo mussarela ralado"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de molho de tomate"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta-do-reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta-do-reino a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture o conteúdo da lata de seleta de legumes com o arroz cozido, sem levar ao fogo e reserve.",
+      "Refogue a cebola no óleo, junte o tomate picado, o peito de frango desfiado e as 2 colheres de molho de tomate.",
+      "Tempere com sal e pimenta-do-reino a gosto.",
+      "Em um refratário faça uma camada de arroz, uma de requeijão e uma de molho e repita novamente a mesma sequência, terminando com a última camada de arroz.",
+      "Sobre as camadas prontas, espalhar a batata palha e o queijo ralado.",
+      "Levar ao forno médio por no máximo 15 minutos ou no micro-ondas na potência alta por no máximo 6 minutos."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Colher de silicone",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Arroz de forno super-rápido. Ingredientes: arroz cozido, seleta de legumes (milho, ervilha, batata, cenoura etc), peito de frango cozido e desfiado, tomates picados em cubos, cebola média picada em rodelas, requeijão, batata palha, queijo mussarela ralado, molho de tomate, óleo, sal a gosto, pimenta-do-reino a gosto. Preparo: Misture o conteúdo da lata de seleta de legumes com o arroz cozido, sem levar ao fogo e reserve. Refogue a cebola no óleo, junte o tomate picado, o peito de frango desfiado e as 2 colheres de molho de tomate. Tempere com sal e pimenta-do-reino a gosto."
+}

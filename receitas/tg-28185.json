@@ -1,0 +1,108 @@
+{
+  "id": "tg-28185",
+  "titulo": "Apple pie",
+  "url": "https://www.tudogostoso.com.br/receita/28185-apple-pie.html",
+  "nota": 4.4,
+  "n_avaliacoes": 181,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Apple pie",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de farinha de trigo"
+    },
+    {
+      "nome": "manteiga sem sal",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de manteiga sem sal"
+    },
+    {
+      "nome": "sopa de água gelada",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de água gelada"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1",
+      "unidade": "pitada",
+      "texto_original": "1 pitada de sal"
+    },
+    {
+      "nome": "ovos para a massa",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 ovos para a massa"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "chá de água",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de chá de água"
+    },
+    {
+      "nome": "maçã",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de maçã"
+    },
+    {
+      "nome": "chá de açúcar",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de açúcar"
+    },
+    {
+      "nome": "e meia de sopa de farinha de trigo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher e meia de sopa de farinha de trigo"
+    },
+    {
+      "nome": "raspas de 1/2 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "raspas de 1/2 limão"
+    },
+    {
+      "nome": "chá de canela em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de canela em pó"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Misture a farinha, o açúcar e o sal.",
+      "Adicione a manteiga e a água fria. Misture com as mãos até que a manteiga esteja bem dissolvida e a mistura pareça uma farofa.",
+      "Quebre os dois ovos num copo e misture levemente com um garfo.",
+      "Junte os ovos à farofa e misture rapidamente, sem sovar, até obter uma massa homogênea.",
+      "Embrulhe em papel filme e guarde na geladeira enquanto prepara o recheio."
+    ],
+    "Recheio:": [
+      "Descasque as maçãs e corte-as em cubinhos, sem utilizar o miolo ( cabos e sementes). Numa tigela misture a canela, o açúcar, a farinha de trigo, as raspas de limão e as maçãs.",
+      "Estique a massa com um rolo formando 2 discos, sendo que um deles ligeiramente maior para forrar a forma embaixo e dos lados. Numa forma redonda de 20 ou 30cm, untada com azeite e farinha de trigo coloque o disco maior, sobre esse disco coloque o recheio, cubra o recheio com o resto da massa e una as massas apertando com os dedos. Utilize uma gema batida com a água para passar sobre a massa, para que ela fique douradinha ao assar. Leve ao forno médio ( 180ºC), preaquecido, por aproximadamente 30 minutos ou até dourar. A torta fica mais gostosa ainda acompanhada de sorvete de creme."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Apple pie. Ingredientes: farinha de trigo, manteiga sem sal, sopa de água gelada, sopa de açúcar, sal, ovos para a massa, ovo, chá de água, maçã, chá de açúcar, e meia de sopa de farinha de trigo, raspas de 1/2 limão, chá de canela em pó. Preparo: Misture a farinha, o açúcar e o sal. Adicione a manteiga e a água fria. Misture com as mãos até que a manteiga esteja bem dissolvida e a mistura pareça uma farofa. Quebre os dois ovos num copo e misture levemente com um garfo."
+}

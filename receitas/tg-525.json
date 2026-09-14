@@ -1,0 +1,57 @@
+{
+  "id": "tg-525",
+  "titulo": "Pavê de limão",
+  "url": "https://www.tudogostoso.com.br/receita/525-pave-de-limao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 606,
+  "categoria": "Receitas pavês",
+  "subcategoria": "Pavê de limão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "bolacha de maisena de 200g",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de bolacha de maisena de 200g"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "suco de limão puro",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de suco de limão puro"
+    },
+    {
+      "nome": "Raspas de limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Raspas de limão"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Umedeça as bolachas com água sem abusar.",
+      "Forre o pirex com estas bolachas umedecidas com água.",
+      "Bata no liqüidificafor a lata de leite condensado, o creme de leite e o suco de limão puro.",
+      "Despeje sobre as bolachas e enfeite com um pouco de raspas de limão.",
+      "Sirva bem gelado.",
+      "Pronto. Simples e deliciosa."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pavê de limão. Ingredientes: bolacha de maisena de 200g, leite condensado, creme de leite, suco de limão puro, Raspas de limão. Preparo: Umedeça as bolachas com água sem abusar. Forre o pirex com estas bolachas umedecidas com água. Bata no liqüidificafor a lata de leite condensado, o creme de leite e o suco de limão puro."
+}

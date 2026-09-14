@@ -1,0 +1,53 @@
+{
+  "id": "tg-109721",
+  "titulo": "Cobertura de chocolate com leite condensado",
+  "url": "https://www.tudogostoso.com.br/receita/109721-cobertura-de-chocolate-com-leite-condensado.html",
+  "nota": 4.5,
+  "n_avaliacoes": 180,
+  "categoria": "Receitas recheios e coberturas",
+  "subcategoria": "Cobertura de chocolate com leite condensado",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 10,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "chocolate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de chocolate"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de margarina"
+    },
+    {
+      "nome": "leite (usar a embalagem do leite condensado)",
+      "quantidade": "1/2",
+      "unidade": "lata",
+      "texto_original": "1/2 lata de leite (usar a embalagem do leite condensado)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve todos os ingredientes ao fogo, mexe até que engrosse e jogue sobre o bolo."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Refratário",
+    "Colher de silicone",
+    "Fogão",
+    "Travessa de vidro",
+    "Manteigueira"
+  ],
+  "texto_para_embedding": "Cobertura de chocolate com leite condensado. Ingredientes: leite condensado, chocolate, margarina, leite (usar a embalagem do leite condensado). Preparo: Leve todos os ingredientes ao fogo, mexe até que engrosse e jogue sobre o bolo."
+}

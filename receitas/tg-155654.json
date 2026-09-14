@@ -1,0 +1,98 @@
+{
+  "id": "tg-155654",
+  "titulo": "Bolo de cenoura magnífico",
+  "url": "https://www.tudogostoso.com.br/receita/155654-bolo-de-cenoura-magnifico.html",
+  "nota": 4.4,
+  "n_avaliacoes": 550,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de cenoura magnífico",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de óleo"
+    },
+    {
+      "nome": "cenouras grandes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cenouras grandes"
+    },
+    {
+      "nome": "açucar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açucar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "leite de vaca",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite de vaca"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chocolate em pó"
+    },
+    {
+      "nome": "açúcar e água para caramelizar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar e água para caramelizar"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Bata no liquidificador 1 xícara de óleo, 2 cenouras cortadas e 3 ovos.",
+      "Em um recipiente, peneire 3 xícaras de farinha de trigo, 2 xícaras de açúcar e 1 colher de fermento em pó.",
+      "Com uma colher, misture os secos com o líquido que foi batido no liquidificador até ficar uma mistura homogênea."
+    ],
+    "Calda:": [
+      "Faça uma calda de caramelo com 1 xícara de açúcar e 1/2 xícara de água, deixe no fogo até caramelar e reserve."
+    ],
+    "Pudim:": [
+      "Bata no liquidificador 1 lata de leite condensado, 1 lata (a mesma medida da lata) de leite de vaca, 3 ovos e o chocolate em pó.",
+      "Coloque a calda em uma forma de bolo com furo (tipo forma de pudim), acrescente a mistura de chocolate e por último coloque a massa do bolo de cenoura.",
+      "Coloque para assar em forno preaquecido a 200ºC em banho-maria, até que o bolo cozinhe."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de cenoura magnífico. Ingredientes: óleo, cenouras grandes, açucar, ovos, farinha de trigo, sopa de fermento em pó, ovos, leite condensado, leite de vaca, chocolate em pó, açúcar e água para caramelizar. Preparo: Bata no liquidificador 1 xícara de óleo, 2 cenouras cortadas e 3 ovos. Em um recipiente, peneire 3 xícaras de farinha de trigo, 2 xícaras de açúcar e 1 colher de fermento em pó. Com uma colher, misture os secos com o líquido que foi batido no liquidificador até ficar uma mistura homogênea."
+}

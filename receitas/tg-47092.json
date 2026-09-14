@@ -1,0 +1,74 @@
+{
+  "id": "tg-47092",
+  "titulo": "Bolo de maçã e canela molhadinho",
+  "url": "https://www.tudogostoso.com.br/receita/47092-bolo-de-maca-e-canela-molhadinho.html",
+  "nota": 4.9,
+  "n_avaliacoes": 123,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de maçã e canela molhadinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "maçãs grandes",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 maçãs grandes"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de fermento em pó"
+    },
+    {
+      "nome": "canela em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de canela em pó"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descasque as 3 maçãs e reserve as cascas.",
+      "Corte as maçãs em cubos pequenos.",
+      "Misture todos os ingredientes secos (farinha, açúcar, canela e o fermento) em uma tigela grande.",
+      "Acrescente as maçãs em cubos, misture muito bem até todos os cubos estarem soltos e envolvidos na mistura, reserve.",
+      "No liquidificador bata os ovos, o óleo e as cascas das maçãs.",
+      "Misture o creme com os ingredientes secos na tigela, ficará uma massa muito espessa e pesada.",
+      "Coloque em forma grande com furo no meio, untada e enfarinhada.",
+      "Leve ao forno médio, pré-aquecido, por 40 minutos.",
+      "Após o tempo indicado faça um furo com a faca, se sair limpa está pronto.",
+      "Espere esfriar um pouco e desenforme.",
+      "Polvilhe uma mistura de 1/2 xícara de açúcar com 1 colher (sopa) de canela em pó (opcional a cobertura)."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de maçã e canela molhadinho. Ingredientes: maçãs grandes, ovos, açúcar, farinha de trigo, fermento em pó, canela em pó, óleo. Preparo: Descasque as 3 maçãs e reserve as cascas. Corte as maçãs em cubos pequenos. Misture todos os ingredientes secos (farinha, açúcar, canela e o fermento) em uma tigela grande."
+}

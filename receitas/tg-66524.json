@@ -1,0 +1,80 @@
+{
+  "id": "tg-66524",
+  "titulo": "Chico balanceado com banana",
+  "url": "https://www.tudogostoso.com.br/receita/66524-chico-balanceado-com-banana.html",
+  "nota": 4.7,
+  "n_avaliacoes": 142,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Chico balanceado com banana",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar"
+    },
+    {
+      "nome": "bananas nanicas",
+      "quantidade": "5",
+      "unidade": null,
+      "texto_original": "5 bananas nanicas"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "A mesma medida de leite",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "A mesma medida de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 gemas"
+    },
+    {
+      "nome": "claras",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 claras"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "6",
+      "unidade": "colheres (sopa)",
+      "texto_original": "6 colheres (sopa) de açúcar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Caramelize um refratário com as 2 xícaras de açúcar.",
+      "Reserve.",
+      "Leve ao fogo em uma panela o leite condensado, o leite, as gemas peneiradas e o amido de milho até começar a ferver.",
+      "Deixe amornar.",
+      "Pique as bananas, em pedaços diagonais, com mais ou menos 1 cm de espessura.",
+      "Disponha no refratário, sobre o caramelo frio, arrumando-as lado a lado.",
+      "Despeje o creme sobre as bananas.",
+      "Bata as claras em neve e acrescente, aos poucos, as 6 colheres de açúcar.",
+      "Faça uma camada sobre o creme de leite condensado.",
+      "Leve ao forno para dourar o merengue.",
+      "Sirva gelado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Chico balanceado com banana. Ingredientes: açúcar, bananas nanicas, leite condensado, A mesma medida de leite, amido de milho, gemas, claras, açúcar. Preparo: Caramelize um refratário com as 2 xícaras de açúcar. Reserve. Leve ao fogo em uma panela o leite condensado, o leite, as gemas peneiradas e o amido de milho até começar a ferver."
+}

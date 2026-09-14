@@ -1,0 +1,49 @@
+{
+  "id": "tg-27688",
+  "titulo": "Almoço rápido",
+  "url": "https://www.tudogostoso.com.br/receita/27688-almoco-rapido.html",
+  "nota": 4.5,
+  "n_avaliacoes": 690,
+  "categoria": "Receitas peixes",
+  "subcategoria": "Almoço rápido",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "filé de peixe (a sua escolha)",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de filé de peixe (a sua escolha)"
+    },
+    {
+      "nome": "molho de tomate",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de molho de tomate"
+    },
+    {
+      "nome": "pote de requeijão",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pote de requeijão"
+    },
+    {
+      "nome": "sopa de queijo ralado",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de queijo ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere o peixe com alho e limão, coloque - os num refratário.",
+      "Coloque o requeijão.",
+      "Em cima do requeijão, adicione o molho de tomate e salpique o queijo ralado.",
+      "Leve ao forno em temperatura média."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Almoço rápido. Ingredientes: filé de peixe (a sua escolha), molho de tomate, pote de requeijão, sopa de queijo ralado. Preparo: Tempere o peixe com alho e limão, coloque - os num refratário. Coloque o requeijão. Em cima do requeijão, adicione o molho de tomate e salpique o queijo ralado."
+}

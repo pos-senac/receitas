@@ -1,0 +1,62 @@
+{
+  "id": "tg-171344",
+  "titulo": "Pudim de caneca delicioso super rápido",
+  "url": "https://www.tudogostoso.com.br/receita/171344-pudim-de-caneca-delicioso-super-rapido.html",
+  "nota": 4.1,
+  "n_avaliacoes": 154,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de caneca delicioso super rápido",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 5,
+  "porcoes": 1,
+  "ingredientes": [
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de açúcar"
+    },
+    {
+      "nome": "sopa da água",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa da água"
+    },
+    {
+      "nome": "ovo inteiro",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo inteiro"
+    },
+    {
+      "nome": "sopa de leite líquido",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de sopa de leite líquido"
+    },
+    {
+      "nome": "sopa de leite condensado",
+      "quantidade": "8",
+      "unidade": "colheres",
+      "texto_original": "8 colheres de sopa de leite condensado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma caneca grande coloque o açúcar e a água.",
+      "Leve ao micro-ondas na potência 80 por 30 segundos, se não ficar calda, repetir ciclos de 30 segundos, quantos forem preciso.",
+      "Em outro recipiente (caneca ou copo resistente grande) coloque o ovo e mexa bem.",
+      "Em seguida acrescente o leite e o leite condensado, bata bem com uma colher.",
+      "Despeje essa mistura na caneca da calda.",
+      "Na mesma potencia 80 selecione diretamente 1 minuto, se continuar bem mole no meio faça ciclos de 15 segundos.",
+      "Espere esfriar e desenforme."
+    ]
+  },
+  "utensilios": [
+    "Caneca",
+    "Luva térmica",
+    "Micro-ondas"
+  ],
+  "texto_para_embedding": "Pudim de caneca delicioso super rápido. Ingredientes: sopa de açúcar, sopa da água, ovo inteiro, sopa de leite líquido, sopa de leite condensado. Preparo: Em uma caneca grande coloque o açúcar e a água. Leve ao micro-ondas na potência 80 por 30 segundos, se não ficar calda, repetir ciclos de 30 segundos, quantos forem preciso. Em outro recipiente (caneca ou copo resistente grande) coloque o ovo e mexa bem."
+}

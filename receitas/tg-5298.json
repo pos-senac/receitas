@@ -1,0 +1,63 @@
+{
+  "id": "tg-5298",
+  "titulo": "Bolinho de batata com queijo (melhor do que batata-frita)",
+  "url": "https://www.tudogostoso.com.br/receita/5298-bolinho-de-batata-com-queijo-melhor-do-que-batata-frita.html",
+  "nota": 4.1,
+  "n_avaliacoes": 372,
+  "categoria": "Receitas petiscos",
+  "subcategoria": "Bolinho de batata com queijo (melhor do que batata-frita)",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "batatas (descascadas)",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de batatas (descascadas)"
+    },
+    {
+      "nome": "queijo ralado bem cheias",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de queijo ralado bem cheias"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "papel toalha",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "papel toalha"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Cozinhe as batatas em água e sal, escorra e passe imediatamente pelo espremedor.",
+      "Em seguida, acrescente o amido de milho, o queijo, o ovo e acerte o sal.",
+      "Misture bem.",
+      "Deixe esfriar o suficiente para por as mãos e faça pequenas bolinhas (como brigadeiro) arrumando em uma travessa. Leve à geladeira por no mínimo 2 horas.",
+      "Frite aos poucos em bastante óleo quente (10 a 12 bolinhas por vez).",
+      "Retire e coloque sobre papel toalha."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolinho de batata com queijo (melhor do que batata-frita). Ingredientes: batatas (descascadas), queijo ralado bem cheias, amido de milho, ovo, sal a gosto, papel toalha. Preparo: Cozinhe as batatas em água e sal, escorra e passe imediatamente pelo espremedor. Em seguida, acrescente o amido de milho, o queijo, o ovo e acerte o sal. Misture bem."
+}

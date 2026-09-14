@@ -1,0 +1,50 @@
+{
+  "id": "tg-18440",
+  "titulo": "Costela no bafo na panela de pressão",
+  "url": "https://www.tudogostoso.com.br/receita/18440-costela-no-bafo-na-panela-de-pressao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 276,
+  "categoria": "Receitas bovina",
+  "subcategoria": "Costela no bafo na panela de pressão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "costela inteira",
+      "quantidade": "1",
+      "unidade": "kg",
+      "texto_original": "1 kg de costela inteira"
+    },
+    {
+      "nome": "sopa de sal grosso",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de sal grosso"
+    },
+    {
+      "nome": "cebola",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque em um panela de pressão a costela inteira, e jogue o sal grosso e a cebola em rodelas, não colocar água, somente a costela o sal e a cebola.",
+      "Feche a panela e deixe na pressao por 20 a 30 minutos no fogo baixo.",
+      "Mexa a panela de vez em quando.",
+      "Depois é só servir e bom apetite."
+    ]
+  },
+  "utensilios": [
+    "Panela de pressão",
+    "Colher de silicone",
+    "Faca",
+    "Fogão",
+    "Tábua de corte",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Costela no bafo na panela de pressão. Ingredientes: costela inteira, sopa de sal grosso, cebola. Preparo: Coloque em um panela de pressão a costela inteira, e jogue o sal grosso e a cebola em rodelas, não colocar água, somente a costela o sal e a cebola. Feche a panela e deixe na pressao por 20 a 30 minutos no fogo baixo. Mexa a panela de vez em quando."
+}

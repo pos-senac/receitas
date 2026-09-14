@@ -1,0 +1,99 @@
+{
+  "id": "tg-6724",
+  "titulo": "Panqueca de frango",
+  "url": "https://www.tudogostoso.com.br/receita/6724-panqueca-de-frango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 194,
+  "categoria": "Receitas prato unico",
+  "subcategoria": "Panqueca de frango",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "1/2 xícara (chá) de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícara (chá) de leite"
+    },
+    {
+      "nome": "1/2 xícara (chá) de farinha de trigo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de óleo"
+    },
+    {
+      "nome": "cubinhos de caldo de frango",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cubinhos de caldo de frango"
+    },
+    {
+      "nome": "queijo ralado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "queijo ralado a gosto"
+    },
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "massa de tomate",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de massa de tomate"
+    },
+    {
+      "nome": "cebola picadinho",
+      "quantidade": "3",
+      "unidade": "colheres",
+      "texto_original": "3 colheres de cebola picadinho"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Mistura todos os ingredientes no liquitificador.",
+      "Numa frigideira untada coloque uma concha de massa, gire para cobrir todo o fundo e deixa dourar.",
+      "Vire para dourar o outro lado e reserve."
+    ],
+    "Recheio:": [
+      "Aqueça o óleo e refogue a cebola picada, misture o peito de frango e a massa de tomate coloque o sal cozinhe por 15 minutos.",
+      "Reserve um pouco do molho."
+    ],
+    "Montagem:": [
+      "Coloque um pouco de recheio em cada panqueca fechando-as em forma de rolinho, coloque em uma travessa, jogue sobre as panquecas o molho reservado.",
+      "Coloque no micro-ondas por 15 minutos."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Faca",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Panqueca de frango. Ingredientes: ovos, 1/2 xícara (chá) de leite, 1/2 xícara (chá) de farinha de trigo, óleo, cubinhos de caldo de frango, queijo ralado a gosto, peito de frango cozido e desfiado, massa de tomate, cebola picadinho, sal a gosto. Preparo: Mistura todos os ingredientes no liquitificador. Numa frigideira untada coloque uma concha de massa, gire para cobrir todo o fundo e deixa dourar. Vire para dourar o outro lado e reserve."
+}

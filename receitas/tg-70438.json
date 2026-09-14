@@ -1,0 +1,54 @@
+{
+  "id": "tg-70438",
+  "titulo": "Brigadeiro de copinho",
+  "url": "https://www.tudogostoso.com.br/receita/70438-brigadeiro-de-copinho.html",
+  "nota": 4.7,
+  "n_avaliacoes": 431,
+  "categoria": "Receitas docinhos e bombons",
+  "subcategoria": "Brigadeiro de copinho",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 15,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "chocolate em pó",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de chocolate em pó"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, misture o leite condensado, a margarina e o chocolate em pó.",
+      "Leve ao fogo baixo e mexa sem parar, até ficar no ponto de brigadeiro mole.",
+      "Retire do fogo e misture o creme de leite, incorpore bem e distribua nos copinhos.",
+      "Enfeite com granulado ou com bolinhas de chocolate.",
+      "Sirva com mini colheres."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Colher para sobremesa"
+  ],
+  "texto_para_embedding": "Brigadeiro de copinho. Ingredientes: leite condensado, creme de leite, chocolate em pó, margarina. Preparo: Em uma panela, misture o leite condensado, a margarina e o chocolate em pó. Leve ao fogo baixo e mexa sem parar, até ficar no ponto de brigadeiro mole. Retire do fogo e misture o creme de leite, incorpore bem e distribua nos copinhos."
+}

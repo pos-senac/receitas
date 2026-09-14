@@ -1,0 +1,48 @@
+{
+  "id": "tg-109683",
+  "titulo": "Biscoito amanteigado caseiro",
+  "url": "https://www.tudogostoso.com.br/receita/109683-biscoito-amanteigado-caseiro.html",
+  "nota": 4.6,
+  "n_avaliacoes": 149,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoito amanteigado caseiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 20,
+  "porcoes": 60,
+  "ingredientes": [
+    {
+      "nome": "amído de milho",
+      "quantidade": "9",
+      "unidade": "colheres",
+      "texto_original": "9 colheres de amído de milho"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "9",
+      "unidade": "colheres",
+      "texto_original": "9 colheres de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de açúcar"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "6",
+      "unidade": "colheres",
+      "texto_original": "6 colheres de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misturar até ficar uma massa bem homogênea.",
+      "Fazer bolinhas e amassar levemente com o garfo no tabuleiro. Não é necessário untar. Leve ao fogo médio por aproximadamente 35 minutos.",
+      "Se preferir derreta goiabada para rechear."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Biscoito amanteigado caseiro. Ingredientes: amído de milho, farinha de trigo, açúcar, manteiga. Preparo: Misturar até ficar uma massa bem homogênea. Fazer bolinhas e amassar levemente com o garfo no tabuleiro. Não é necessário untar. Leve ao fogo médio por aproximadamente 35 minutos. Se preferir derreta goiabada para rechear."
+}

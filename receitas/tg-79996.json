@@ -1,0 +1,48 @@
+{
+  "id": "tg-79996",
+  "titulo": "Pão de queijo 3 ingredientes",
+  "url": "https://www.tudogostoso.com.br/receita/79996-pao-de-queijo-3-ingredientes.html",
+  "nota": 4.5,
+  "n_avaliacoes": 1226,
+  "categoria": "Receitas pães",
+  "subcategoria": "Pão de queijo 3 ingredientes",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 25,
+  "ingredientes": [
+    {
+      "nome": "caixinha de creme de leite (200 ml)",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de creme de leite (200 ml)"
+    },
+    {
+      "nome": "queijo ralado",
+      "quantidade": "1",
+      "unidade": "copo (requeijão)",
+      "texto_original": "1 copo (requeijão) de queijo ralado"
+    },
+    {
+      "nome": "polvilho",
+      "quantidade": "1",
+      "unidade": "copo (requeijão)",
+      "texto_original": "1 copo (requeijão) de polvilho"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse até soltar das mãos (caso precise um pouquinho a mais de polvilho, coloque aos poucos até que chegue ao ponto de enrolar).",
+      "Faça bolinhas, coloque em forma untada e asse em forno preaquecido bem quente.",
+      "Se achar necessário, acrescente sal.",
+      "Asse até ficarem douradinhos levemente."
+    ]
+  },
+  "utensilios": [
+    "Bowl",
+    "Colher de pau",
+    "Forma",
+    "Luva térmica"
+  ],
+  "texto_para_embedding": "Pão de queijo 3 ingredientes. Ingredientes: caixinha de creme de leite (200 ml), queijo ralado, polvilho. Preparo: Amasse até soltar das mãos (caso precise um pouquinho a mais de polvilho, coloque aos poucos até que chegue ao ponto de enrolar). Faça bolinhas, coloque em forma untada e asse em forno preaquecido bem quente. Se achar necessário, acrescente sal."
+}

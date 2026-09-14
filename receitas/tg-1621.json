@@ -1,0 +1,48 @@
+{
+  "id": "tg-1621",
+  "titulo": "Mousse de limão",
+  "url": "https://www.tudogostoso.com.br/receita/1621-mousse-de-limao.html",
+  "nota": 4.7,
+  "n_avaliacoes": 2351,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de limão",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 10,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "suco de limão (esse suco é puro mesmo, sem água, é só espremer o limão)",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de suco de limão (esse suco é puro mesmo, sem água, é só espremer o limão)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque no liquidificador o creme de leite (com soro mesmo) e o leite condensado.",
+      "Bata um pouco e depois vá acrescentando o suco do limão, aos poucos.",
+      "Ele vai ficar bem consistente, leve à geladeira."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Colher para sobremesa",
+    "Expremedor de Limão",
+    "Taça de sobremesa",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Mousse de limão. Ingredientes: leite condensado, creme de leite, suco de limão (esse suco é puro mesmo, sem água, é só espremer o limão). Preparo: Coloque no liquidificador o creme de leite (com soro mesmo) e o leite condensado. Bata um pouco e depois vá acrescentando o suco do limão, aos poucos. Ele vai ficar bem consistente, leve à geladeira."
+}

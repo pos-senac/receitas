@@ -1,0 +1,93 @@
+{
+  "id": "tg-74928",
+  "titulo": "Risoles rápidos de frios",
+  "url": "https://www.tudogostoso.com.br/receita/74928-risoles-rapidos-de-frios.html",
+  "nota": 4.5,
+  "n_avaliacoes": 206,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Risoles rápidos de frios",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 38,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "2",
+      "unidade": "copos (requeijão)",
+      "texto_original": "2 copos (requeijão) de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "copos (requeijão)",
+      "texto_original": "3 copos (requeijão) de farinha de trigo"
+    },
+    {
+      "nome": "caldo de galinha",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caldo de galinha"
+    },
+    {
+      "nome": "colherzinha de chá de margarina",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 colherzinha de chá de margarina"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "queijo",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de queijo"
+    },
+    {
+      "nome": "presunto",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de presunto"
+    },
+    {
+      "nome": "Orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Orégano a gosto"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1/2",
+      "unidade": "copo",
+      "texto_original": "1/2 copo de leite"
+    },
+    {
+      "nome": "Farinha de rosca",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Farinha de rosca"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o leite com a margarina, o caldo knorr e o sal na panela.",
+      "Quando levantar fervura adicione o trigo, mexa bem até soltar da panela e reserve.",
+      "Pique os frios, adicione o orégano adicional, abra a massa com rolo de macarrão e faça rodelas com 1 copo de boca não muito grande.",
+      "Recheie, feche bem com os dedos, passe os risoles no leite e na rosca.",
+      "Frite no óleo bem quente."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Panela",
+    "Papel-toalha",
+    "Escumadeira",
+    "Faca",
+    "Rolo de massa"
+  ],
+  "texto_para_embedding": "Risoles rápidos de frios. Ingredientes: leite, farinha de trigo, caldo de galinha, colherzinha de chá de margarina, Sal a gosto, queijo, presunto, Orégano a gosto, leite, Farinha de rosca. Preparo: Coloque o leite com a margarina, o caldo knorr e o sal na panela. Quando levantar fervura adicione o trigo, mexa bem até soltar da panela e reserve. Pique os frios, adicione o orégano adicional, abra a massa com rolo de macarrão e faça rodelas com 1 copo de boca não muito grande."
+}

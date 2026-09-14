@@ -1,0 +1,74 @@
+{
+  "id": "tg-3123",
+  "titulo": "Sobremesa de morango",
+  "url": "https://www.tudogostoso.com.br/receita/3123-sobremesa-de-morango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 246,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Sobremesa de morango",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "litro de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de leite"
+    },
+    {
+      "nome": "amido de milho",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de amido de milho"
+    },
+    {
+      "nome": "gemas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite (com o soro)",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite (com o soro)"
+    },
+    {
+      "nome": "morango (picados e passado no açúcar)",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de morango (picados e passado no açúcar)"
+    },
+    {
+      "nome": "gelatina de morango (com quatro colheres de açúcar)",
+      "quantidade": "2",
+      "unidade": "pacotes",
+      "texto_original": "2 pacotes de gelatina de morango (com quatro colheres de açúcar)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo o leite, o amido de milho, as gemas e o leite condensado.",
+      "Deixe engrossar e coloque o creme de leite.",
+      "Mexa um pouco e desligue o fogo.",
+      "Despeje em um refratário transparente.",
+      "Prepare a gelatina, espere esfriar e coloque em cima do creme.",
+      "Adicione os morangos e leve para gelar por duas horas."
+    ]
+  },
+  "utensilios": [
+    "Colher de silicone",
+    "Panela com cabo",
+    "Prato de sobremesa",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Sobremesa de morango. Ingredientes: litro de leite, amido de milho, gemas, leite condensado, creme de leite (com o soro), morango (picados e passado no açúcar), gelatina de morango (com quatro colheres de açúcar). Preparo: Leve ao fogo o leite, o amido de milho, as gemas e o leite condensado. Deixe engrossar e coloque o creme de leite. Mexa um pouco e desligue o fogo."
+}

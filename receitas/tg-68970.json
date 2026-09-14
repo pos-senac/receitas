@@ -1,0 +1,72 @@
+{
+  "id": "tg-68970",
+  "titulo": "Pão de queijo mineiro",
+  "url": "https://www.tudogostoso.com.br/receita/68970-pao-de-queijo-mineiro.html",
+  "nota": 4.5,
+  "n_avaliacoes": 504,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Pão de queijo mineiro",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 100,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "óleo de soja",
+      "quantidade": "50",
+      "unidade": "ml",
+      "texto_original": "50 ml de óleo de soja"
+    },
+    {
+      "nome": "água",
+      "quantidade": "50",
+      "unidade": "ml",
+      "texto_original": "50 ml de água"
+    },
+    {
+      "nome": "polvilho azedo",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de polvilho azedo"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1/2",
+      "unidade": "colher",
+      "texto_original": "1/2 colher de sal"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "queijo Minas (meia cura ou padrão) ralado",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de queijo Minas (meia cura ou padrão) ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Leve ao fogo a água, o leite e o óleo até começar a ferver.",
+      "Em uma tigela coloque o polvilho e o sal.",
+      "Depois de levantar fervura, coloque a mistura da panela na tigela do polvilho, escaldando-o.",
+      "Quando a massa estiver menos quente, adicione o ovo e o queijo.",
+      "Sove bem a massa até que ela fique uniforme e grudando pouco nas mãos.",
+      "Leve a massa à geladeira por 30 minutos, para que a massa fique firme.",
+      "Retire a massa da geladeira.",
+      "Unte as mãos com óleo e forme bolinhas com a massa, dispondo-as em assadeira untada.",
+      "Leve ao forno preaquecido até que os pães de queijo dourem ."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Pão de queijo mineiro. Ingredientes: leite, óleo de soja, água, polvilho azedo, sal, ovo, queijo Minas (meia cura ou padrão) ralado. Preparo: Leve ao fogo a água, o leite e o óleo até começar a ferver. Em uma tigela coloque o polvilho e o sal. Depois de levantar fervura, coloque a mistura da panela na tigela do polvilho, escaldando-o."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tg-34839",
+  "titulo": "Bolo fofo",
+  "url": "https://www.tudogostoso.com.br/receita/34839-bolo-fofo.html",
+  "nota": 4.8,
+  "n_avaliacoes": 101,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo fofo",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 50,
+  "porcoes": 14,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "bem cheias de margarina",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres bem cheias de margarina"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "farinha de trigo peneirada",
+      "quantidade": "4",
+      "unidade": "xícaras (chá)",
+      "texto_original": "4 xícaras (chá) de farinha de trigo peneirada"
+    },
+    {
+      "nome": "1/2 xícaras (chá) de leite",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 1/2 xícaras (chá) de leite"
+    },
+    {
+      "nome": "fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de fermento em pó"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Primeiramente separe as gemas das claras.",
+      "Em uma tigela coloque as gemas e a margarina.",
+      "Bata até formar um creme bem liso e claro.",
+      "Acrescente o açúcar e bata bastante, até obter um creme bem homogêneo.",
+      "Desligue a batedeira e coloque a farinha de trigo.",
+      "Mexa com uma colher de pau e acrescente o leite, aos poucos, para dissolver a farinha de trigo.",
+      "Adicione o fermento em pó e as claras batidas em neve.",
+      "Mexa delicadamente e coloque em uma forma untada.",
+      "Leve para assar em forno pré - aquecido, a 180°, por aproximadamente 40 minutos, ou até que enfiando um palitinho ele saia limpo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo fofo. Ingredientes: ovos, bem cheias de margarina, açúcar, farinha de trigo peneirada, 1/2 xícaras (chá) de leite, fermento em pó. Preparo: Primeiramente separe as gemas das claras. Em uma tigela coloque as gemas e a margarina. Bata até formar um creme bem liso e claro."
+}

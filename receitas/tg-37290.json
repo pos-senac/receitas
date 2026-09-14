@@ -1,0 +1,67 @@
+{
+  "id": "tg-37290",
+  "titulo": "Churros",
+  "url": "https://www.tudogostoso.com.br/receita/37290-churros.html",
+  "nota": 4.4,
+  "n_avaliacoes": 789,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Churros",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 20,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1 e 1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 e 1/2 xícara (chá) de leite"
+    },
+    {
+      "nome": "água",
+      "quantidade": "1/2",
+      "unidade": "xícara (chá)",
+      "texto_original": "1/2 xícara (chá) de água"
+    },
+    {
+      "nome": "margarina ou manteiga",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de margarina ou manteiga"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "açúcar a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "açúcar a gosto"
+    },
+    {
+      "nome": "canela a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "canela a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela, adicione o leite, a água, a manteiga e o sal.",
+      "Quando o leite ferver, adicione a farinha de trigo e mexa rápido até a massa soltar do fundo da panela.",
+      "Coloque a massa em um saco de confeiteiro com o bico pitanga, depois faça tirinhas com a massa e frite.",
+      "Misture a canela e o açúcar, depois passe nos churros fritos."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Churros. Ingredientes: leite, água, margarina ou manteiga, farinha de trigo, sal a gosto, açúcar a gosto, canela a gosto. Preparo: Em uma panela, adicione o leite, a água, a manteiga e o sal. Quando o leite ferver, adicione a farinha de trigo e mexa rápido até a massa soltar do fundo da panela. Coloque a massa em um saco de confeiteiro com o bico pitanga, depois faça tirinhas com a massa e frite."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tg-3300",
+  "titulo": "Pudim de maria-mole delicioso",
+  "url": "https://www.tudogostoso.com.br/receita/3300-pudim-de-maria-mole-delicioso.html",
+  "nota": 4.5,
+  "n_avaliacoes": 405,
+  "categoria": "Receitas pudins, flans",
+  "subcategoria": "Pudim de maria-mole delicioso",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 180,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "caixinha de maria-mole de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 caixinha de maria-mole de coco"
+    },
+    {
+      "nome": "leite de vaca (use a medida da lata de leite condensado)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "leite de vaca (use a medida da lata de leite condensado)"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador o creme de leite e o leite condensado.",
+      "Dissolva o pó da maria-mole em um copo de água fervente e reserve.",
+      "Acrescente todos os ingredientes no liquidificador e bata por mais 5 minutos.",
+      "Despeje a massa em uma forma de pudim e leve ao congelador por 3 horas."
+    ]
+  },
+  "utensilios": [
+    "Forma de pudim",
+    "Liquidificador",
+    "Espátula para bolo"
+  ],
+  "texto_para_embedding": "Pudim de maria-mole delicioso. Ingredientes: creme de leite, leite condensado, caixinha de maria-mole de coco, leite de vaca (use a medida da lata de leite condensado). Preparo: Bata no liquidificador o creme de leite e o leite condensado. Dissolva o pó da maria-mole em um copo de água fervente e reserve. Acrescente todos os ingredientes no liquidificador e bata por mais 5 minutos."
+}

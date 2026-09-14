@@ -1,0 +1,79 @@
+{
+  "id": "tg-41954",
+  "titulo": "Estrogonofe de frango simples",
+  "url": "https://www.tudogostoso.com.br/receita/41954-estrogonofe-de-frango-simples.html",
+  "nota": 4.8,
+  "n_avaliacoes": 318,
+  "categoria": "Receitas frango, galinha",
+  "subcategoria": "Estrogonofe de frango simples",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "peito de frango em tiras",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de peito de frango em tiras"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "molho shoyu a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "molho shoyu a gosto"
+    },
+    {
+      "nome": "catchup",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de catchup"
+    },
+    {
+      "nome": "mostarda a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "mostarda a gosto"
+    },
+    {
+      "nome": "cebola ralada",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 cebola ralada"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "orégano a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "orégano a gosto"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Fritar a cebola na manteiga até dourar.",
+      "Acrescentar o frango e deixar fritar com molho shoyu, ketchup, mostarda e orégano.",
+      "Esperar dourar.",
+      "Por último acrescentar o creme de leite, mas não deixar ferver."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Estrogonofe de frango simples. Ingredientes: peito de frango em tiras, creme de leite, molho shoyu a gosto, catchup, mostarda a gosto, cebola ralada, manteiga, orégano a gosto, sal a gosto. Preparo: Fritar a cebola na manteiga até dourar. Acrescentar o frango e deixar fritar com molho shoyu, ketchup, mostarda e orégano. Esperar dourar."
+}

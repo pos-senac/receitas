@@ -1,0 +1,77 @@
+{
+  "id": "tg-111",
+  "titulo": "Salmão ao champignon",
+  "url": "https://www.tudogostoso.com.br/receita/111-salmao-ao-champignon.html",
+  "nota": 4.7,
+  "n_avaliacoes": 188,
+  "categoria": "Receitas salmão",
+  "subcategoria": "Salmão ao champignon",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "postas de salmão",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 postas de salmão"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "alho picados e amassados",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho picados e amassados"
+    },
+    {
+      "nome": "pimenta do reino a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta do reino a gosto"
+    },
+    {
+      "nome": "suco de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "suco de 1 limão"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de manteiga"
+    },
+    {
+      "nome": "vidro pequeno de cogumelos em fatias",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro pequeno de cogumelos em fatias"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de creme de leite"
+    },
+    {
+      "nome": "sal e pimenta do reino branca a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal e pimenta do reino branca a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Tempere as postas de salmão com alho, sal, limão e pimenta. Deixe marinar por meia hora. Grelhe as postas de salmão até dourarem.",
+      "Para o molho,derreta a manteiga, refogue os cogumelos. Acrescente o creme de leite e deixe engrossar.Tempere e colque sobre o salmão grelhado."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Salmão ao champignon. Ingredientes: postas de salmão, sal a gosto, alho picados e amassados, pimenta do reino a gosto, suco de 1 limão, manteiga, vidro pequeno de cogumelos em fatias, creme de leite, sal e pimenta do reino branca a gosto. Preparo: Tempere as postas de salmão com alho, sal, limão e pimenta. Deixe marinar por meia hora. Grelhe as postas de salmão até dourarem. Para o molho,derreta a manteiga, refogue os cogumelos. Acrescente o creme de leite e deixe engrossar.Tempere e colque sobre o salmão grelhado."
+}

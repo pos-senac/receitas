@@ -1,0 +1,129 @@
+{
+  "id": "tg-18857",
+  "titulo": "Empadão de camarão",
+  "url": "https://www.tudogostoso.com.br/receita/18857-empadao-de-camarao.html",
+  "nota": 4.5,
+  "n_avaliacoes": 132,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Empadão de camarão",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 40,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de margarina"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "camarão",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de camarão"
+    },
+    {
+      "nome": "cebola grande picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande picada"
+    },
+    {
+      "nome": "tomate picado",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 tomate picado"
+    },
+    {
+      "nome": "massa de tomate",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de massa de tomate"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho amassados"
+    },
+    {
+      "nome": "Suco de 1 limão",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1 limão"
+    },
+    {
+      "nome": "Azeitonas verdes picadas",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Azeitonas verdes picadas"
+    },
+    {
+      "nome": "farinha de trigo para ligar o recheio",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de farinha de trigo para ligar o recheio"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "Coentro picado a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Coentro picado a gosto"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de azeite"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "Misture todos os ingredientes até formar uma massa homogênea.",
+      "Se for preciso, acrescente mais farinha, até a massa não grudar mais nas mãos."
+    ],
+    "Recheio:": [
+      "Lave bem o camarão e tempere com o alho, sal, suco de limão, cebola, tomate e coentro.",
+      "Em uma panela, coloque o azeite, junte o camarão e deixe refogar um pouco.",
+      "Acrescente a massa de tomate, as azeitonas, prove o sal.",
+      "Junte a farinha de trigo, dando um pouco de cremosidade ao recheio.",
+      "Deixe esfriar.",
+      "Em um pirex redondo, coloque a metade da massa, forrando bem o fundo e as laterais do pirex.",
+      "Acrescente o recheio, cubra com o restante da massa, pincele com uma gema e leve ao forno até dourar."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Expremedor de Limão",
+    "Faca",
+    "Forno elétrico",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Empadão de camarão. Ingredientes: farinha de trigo, margarina, ovo, Sal a gosto, camarão, cebola grande picada, tomate picado, massa de tomate, alho amassados, Suco de 1 limão, Azeitonas verdes picadas, farinha de trigo para ligar o recheio, Sal a gosto, Coentro picado a gosto, azeite. Preparo: Misture todos os ingredientes até formar uma massa homogênea. Se for preciso, acrescente mais farinha, até a massa não grudar mais nas mãos. Lave bem o camarão e tempere com o alho, sal, suco de limão, cebola, tomate e coentro."
+}

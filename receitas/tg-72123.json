@@ -1,0 +1,76 @@
+{
+  "id": "tg-72123",
+  "titulo": "Panqueca americana doce",
+  "url": "https://www.tudogostoso.com.br/receita/72123-panqueca-americana-doce.html",
+  "nota": 4.6,
+  "n_avaliacoes": 267,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Panqueca americana doce",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 80,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "xícara de farinha de trigo",
+      "quantidade": "1 e 1/4",
+      "unidade": null,
+      "texto_original": "1 e 1/4 de xícara de farinha de trigo"
+    },
+    {
+      "nome": "rasa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) rasa de fermento em pó"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de açúcar"
+    },
+    {
+      "nome": "sal",
+      "quantidade": "1/2",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1/2 colher (sobremesa) de sal"
+    },
+    {
+      "nome": "ovo batido",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo batido"
+    },
+    {
+      "nome": "leite (ou leite de soja)",
+      "quantidade": "1 e 1/4",
+      "unidade": "xícara",
+      "texto_original": "1 e 1/4 xícara de leite (ou leite de soja)"
+    },
+    {
+      "nome": "óleo",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Peneirar os os ingredientes secos e reserve.",
+      "Misture o ovo, o leite e o óleo aos ingredientes secos mexendo apenas o suficiente para umedecer a farinha.",
+      "A massa deverá ficar grossa e um pouco empelotada.",
+      "Despeje a massa na frigideira quente e untada com um fio de óleo.",
+      "Ao colocar a mistura na frigideira, espere que as bolhas formadas estourem e vire a massa.",
+      "Sirva com mel, geleia, manteiga e acrescente frutas picadas ao seu gosto."
+    ]
+  },
+  "utensilios": [
+    "Frigideira",
+    "Bowl",
+    "Concha",
+    "Fouet",
+    "Peneira",
+    "Prato raso"
+  ],
+  "texto_para_embedding": "Panqueca americana doce. Ingredientes: xícara de farinha de trigo, rasa de fermento em pó, açúcar, sal, ovo batido, leite (ou leite de soja), óleo. Preparo: Peneirar os os ingredientes secos e reserve. Misture o ovo, o leite e o óleo aos ingredientes secos mexendo apenas o suficiente para umedecer a farinha. A massa deverá ficar grossa e um pouco empelotada."
+}

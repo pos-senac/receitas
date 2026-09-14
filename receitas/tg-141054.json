@@ -1,0 +1,71 @@
+{
+  "id": "tg-141054",
+  "titulo": "Torta de banana banoffee",
+  "url": "https://www.tudogostoso.com.br/receita/141054-torta-de-banana-banoffee.html",
+  "nota": 4.7,
+  "n_avaliacoes": 157,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Torta de banana banoffee",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 10,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "doce de leite",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de doce de leite"
+    },
+    {
+      "nome": "bananas cortadas em rodelas",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 bananas cortadas em rodelas"
+    },
+    {
+      "nome": "nata (chantilly, se preferir)",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de nata (chantilly, se preferir)"
+    },
+    {
+      "nome": "biscoito maizena triturado (tipo farinha, bem fininho)",
+      "quantidade": "1",
+      "unidade": "pacote",
+      "texto_original": "1 pacote de biscoito maizena triturado (tipo farinha, bem fininho)"
+    },
+    {
+      "nome": "margarina culinária",
+      "quantidade": "200",
+      "unidade": "g",
+      "texto_original": "200 g de margarina culinária"
+    },
+    {
+      "nome": "chá de canela em pó para polvilhar",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de canela em pó para polvilhar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture o biscoito triturado com a margarina culinária, com a ponta dos dedos, até formar uma massa lisa.",
+      "Forre o fundo de uma forma de abrir (fundo falso), e asse por apenas 10 minutos, em forno preaquecido a 180°C.",
+      "Retire.",
+      "Deixe a massa esfriar.",
+      "Coloque o doce de leite sobre a massa já fria.",
+      "Alise para ficar plano.",
+      "Pique as bananas em rodelas, e distribua-as sobre o doce de leite.",
+      "Coloque a nata por cima (se preferir, pode batê-la para deixar em ponto de chantilly), e alise.",
+      "Pegue uma peneira pequena e espalhe a canela por cima passando-a pela peneira, para que pulverize melhor por toda a torta.",
+      "Deixe na geladeira por 3 horas antes de desenformar."
+    ]
+  },
+  "utensilios": [
+    "Espatula",
+    "Faca",
+    "Forma com fundo removível"
+  ],
+  "texto_para_embedding": "Torta de banana banoffee. Ingredientes: doce de leite, bananas cortadas em rodelas, nata (chantilly, se preferir), biscoito maizena triturado (tipo farinha, bem fininho), margarina culinária, chá de canela em pó para polvilhar. Preparo: Misture o biscoito triturado com a margarina culinária, com a ponta dos dedos, até formar uma massa lisa. Forre o fundo de uma forma de abrir (fundo falso), e asse por apenas 10 minutos, em forno preaquecido a 180°C. Retire."
+}

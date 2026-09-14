@@ -1,0 +1,103 @@
+{
+  "id": "tg-9580",
+  "titulo": "Antepasto delicioso de berinjela",
+  "url": "https://www.tudogostoso.com.br/receita/9580-antepasto-delicioso-de-berinjela.html",
+  "nota": 4.7,
+  "n_avaliacoes": 206,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Antepasto delicioso de berinjela",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "berinjelas grandes",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 berinjelas grandes"
+    },
+    {
+      "nome": "½ xícara (chá) de azeite de oliva",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ½ xícara (chá) de azeite de oliva"
+    },
+    {
+      "nome": "pimentão vermelho",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão vermelho"
+    },
+    {
+      "nome": "pimentão verde",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão verde"
+    },
+    {
+      "nome": "pimentão amarelo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pimentão amarelo"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho"
+    },
+    {
+      "nome": "folhas de louro",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 folhas de louro"
+    },
+    {
+      "nome": "azeitona preta picada",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de azeitona preta picada"
+    },
+    {
+      "nome": "cebolas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas"
+    },
+    {
+      "nome": "orégano",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de orégano"
+    },
+    {
+      "nome": "Pimenta calabresa em flocos á gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Pimenta calabresa em flocos á gosto"
+    },
+    {
+      "nome": "Sal á gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal á gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave as berinjelas e corte-as em cubos.",
+      "Em uma panela de pressão coloque os cubos de berinjela, azeite, orégano, folha de louro, 1 cebola em cubos, alho amassado.",
+      "Misture tudo, feche a panela sem levar ao fogo e deixe descansar por 12 horas.",
+      "Passado ás 12 horas, abra a panela e acrescente a pimenta calabresa e o sal a gosto.",
+      "Leve ao fogo e deixe cozinhar em pressão por 5 minutos.",
+      "Espere sair a pressão naturalmente.",
+      "Abra a panela e acrescente os pimentões cortados em cubos, a azeitona e a outra cebola em cubos.",
+      "Misture tudo, deixe esfriar.",
+      "Coloque em um vidro com tampa e conserve na geladeira.",
+      "Sugestão: sirva com pão sírio, torradas, pão francês."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Antepasto delicioso de berinjela. Ingredientes: berinjelas grandes, ½ xícara (chá) de azeite de oliva, pimentão vermelho, pimentão verde, pimentão amarelo, alho, folhas de louro, azeitona preta picada, cebolas, orégano, Pimenta calabresa em flocos á gosto, Sal á gosto. Preparo: Lave as berinjelas e corte-as em cubos. Em uma panela de pressão coloque os cubos de berinjela, azeite, orégano, folha de louro, 1 cebola em cubos, alho amassado. Misture tudo, feche a panela sem levar ao fogo e deixe descansar por 12 horas."
+}

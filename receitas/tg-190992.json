@@ -1,0 +1,74 @@
+{
+  "id": "tg-190992",
+  "titulo": "Sunomono (salada de pepino japonesa)",
+  "url": "https://www.tudogostoso.com.br/receita/190992-sunomono-salada-de-pepino-japonesa.html",
+  "nota": 4.9,
+  "n_avaliacoes": 148,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Sunomono (salada de pepino japonesa)",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "pepino japonês",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 pepino japonês"
+    },
+    {
+      "nome": "sal marinho ou himalaia",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de sal marinho ou himalaia"
+    },
+    {
+      "nome": "vinagre de arroz",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de vinagre de arroz"
+    },
+    {
+      "nome": "açúcar (não use refinado)",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de açúcar (não use refinado)"
+    },
+    {
+      "nome": "gergelim branco e/ou preto",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de gergelim branco e/ou preto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Lave bem e seque o pepino.",
+      "Use um cortador ou faca para fatiar os pepinos bem fininhos.",
+      "Coloque os pepinos em um prato fundo e coloque o sal.",
+      "Misture bem.",
+      "Os pepinos vão desidratar, liberando muita água.",
+      "Transfira os pepinos para um escorredor com um prato embaixo.",
+      "Deixe por 15 minutos.",
+      "Caso queira, toste o gergelim na frigideira para que esfrie até servir a salada.",
+      "Em uma panela, coloque o açúcar, o vinagre e ligue em fogo baixo.",
+      "Deixe aquecer até que o açúcar derreta e se misture ao vinagre, mas não deixe ferver.",
+      "Reserve e deixe esfriar.",
+      "Enxágue os pepinos em água corrente para tirar o excesso de sal.",
+      "Esprema bem com as mãos para tirar o excesso de água.",
+      "Seque com um papel toalha antes de colocar os temperos.",
+      "Coloque os pepinos em uma saladeira funda e adicione o molho de vinagre.",
+      "Se desejar, coloque algumas gotas de óleo de gergelim e pimenta-do-reino.",
+      "Finalize a salada com o gergelim tostado."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Bowl",
+    "Copo medidor",
+    "Hashi",
+    "Peneira"
+  ],
+  "texto_para_embedding": "Sunomono (salada de pepino japonesa). Ingredientes: pepino japonês, sal marinho ou himalaia, vinagre de arroz, açúcar (não use refinado), gergelim branco e/ou preto. Preparo: Lave bem e seque o pepino. Use um cortador ou faca para fatiar os pepinos bem fininhos. Coloque os pepinos em um prato fundo e coloque o sal."
+}

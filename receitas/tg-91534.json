@@ -1,0 +1,66 @@
+{
+  "id": "tg-91534",
+  "titulo": "Bolo Comum",
+  "url": "https://www.tudogostoso.com.br/receita/91534-bolo-comum.html",
+  "nota": 4.5,
+  "n_avaliacoes": 583,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo Comum",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "3",
+      "unidade": "xícaras",
+      "texto_original": "3 xícaras de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "manteiga",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bater o açúcar, a manteiga e os ovos.",
+      "Depois acrescente a farinha de trigo, o leite e por último o fermento.",
+      "Unte a forma com farinha.",
+      "Asse por mais ou menos 40 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Colher de silicone",
+    "Copo medidor",
+    "Formo de bolo"
+  ],
+  "texto_para_embedding": "Bolo Comum. Ingredientes: leite, sopa de fermento em pó, farinha de trigo, açúcar, ovos, manteiga. Preparo: Bater o açúcar, a manteiga e os ovos. Depois acrescente a farinha de trigo, o leite e por último o fermento. Unte a forma com farinha."
+}

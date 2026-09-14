@@ -1,0 +1,74 @@
+{
+  "id": "tg-79",
+  "titulo": "Bolo de fubá da vó Maria",
+  "url": "https://www.tudogostoso.com.br/receita/79-bolo-de-fuba-da-vo-maria.html",
+  "nota": 4.6,
+  "n_avaliacoes": 3168,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de fubá da vó Maria",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 12,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de açúcar"
+    },
+    {
+      "nome": "trigo",
+      "quantidade": "2",
+      "unidade": "xícaras (chá)",
+      "texto_original": "2 xícaras (chá) de trigo"
+    },
+    {
+      "nome": "fubá",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de fubá"
+    },
+    {
+      "nome": "margarina",
+      "quantidade": "3",
+      "unidade": "colheres (sopa)",
+      "texto_original": "3 colheres (sopa) de margarina"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de leite"
+    },
+    {
+      "nome": "fermento",
+      "quantidade": "4",
+      "unidade": "colheres (chá)",
+      "texto_original": "4 colheres (chá) de fermento"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma batedeira, bata as claras em neve e acrescente o açúcar.",
+      "Adicione as gemas, a margarina, o leite, a farinha de trigo, o fubá e continue batendo.",
+      "Acrescente por último o fermento e misture com uma colher ou espátula.",
+      "Despeje a massa em uma forma untada e deixe assar em forno médio (180° C), preaquecido, por aproximadamente 30 minutos."
+    ]
+  },
+  "utensilios": [
+    "Batedeira",
+    "Copo medidor",
+    "Espátula de silicone",
+    "Formo de bolo",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Bolo de fubá da vó Maria. Ingredientes: ovos, açúcar, trigo, fubá, margarina, leite, fermento. Preparo: Em uma batedeira, bata as claras em neve e acrescente o açúcar. Adicione as gemas, a margarina, o leite, a farinha de trigo, o fubá e continue batendo. Acrescente por último o fermento e misture com uma colher ou espátula."
+}

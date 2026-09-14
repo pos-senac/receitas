@@ -1,0 +1,74 @@
+{
+  "id": "tg-957",
+  "titulo": "Batatas souté",
+  "url": "https://www.tudogostoso.com.br/receita/957-batatas-soute.html",
+  "nota": 4.1,
+  "n_avaliacoes": 138,
+  "categoria": "Receitas acompanhamentos",
+  "subcategoria": "Batatas souté",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 35,
+  "porcoes": 3,
+  "ingredientes": [
+    {
+      "nome": "batatas picadas (500 g)",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de batatas picadas (500 g)"
+    },
+    {
+      "nome": "óleo (30 ml)",
+      "quantidade": "2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "2 colheres (sopa) de óleo (30 ml)"
+    },
+    {
+      "nome": "manteiga (15 ml)",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de manteiga (15 ml)"
+    },
+    {
+      "nome": "presunto moído",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de presunto moído"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": "1",
+      "unidade": "dente",
+      "texto_original": "1 dente de alho picado"
+    },
+    {
+      "nome": "salsa picada",
+      "quantidade": "1",
+      "unidade": "colher(chá)",
+      "texto_original": "1 colher(chá) de salsa picada"
+    },
+    {
+      "nome": "sal",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal"
+    },
+    {
+      "nome": "pimenta",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Em uma panela com água fervente e salgada, escalde as batatas por 3 minutos, escorra e seque-as.",
+      "Aqueça o óleo até ficar bem quente, salteie as batatas, mexendo de vez em quando para que fique dourada de todos os lados.",
+      "Junte o resto dos ingredientes.",
+      "Enquanto mexe, continue salteando até que estejam douradas.",
+      "Sirva."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Batatas souté. Ingredientes: batatas picadas (500 g), óleo (30 ml), manteiga (15 ml), presunto moído, alho picado, salsa picada, sal, pimenta. Preparo: Em uma panela com água fervente e salgada, escalde as batatas por 3 minutos, escorra e seque-as. Aqueça o óleo até ficar bem quente, salteie as batatas, mexendo de vez em quando para que fique dourada de todos os lados. Junte o resto dos ingredientes."
+}

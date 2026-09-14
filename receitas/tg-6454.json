@@ -1,0 +1,46 @@
+{
+  "id": "tg-6454",
+  "titulo": "Cocada de Corte",
+  "url": "https://www.tudogostoso.com.br/receita/6454-cocada-de-corte.html",
+  "nota": 4.6,
+  "n_avaliacoes": 204,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Cocada de Corte",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 30,
+  "ingredientes": [
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "açúcar (lata de leite condensado)",
+      "quantidade": "2",
+      "unidade": "latas",
+      "texto_original": "2 latas de açúcar (lata de leite condensado)"
+    },
+    {
+      "nome": "coco ralado",
+      "quantidade": "100",
+      "unidade": "g",
+      "texto_original": "100 g de coco ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Misture tudo e leve ao fogo sempre mexendo pra não grudar, quando estiver com uma coloração bem amarela passando pra um marronzinho claro pode tirar do fogo.",
+      "Unte uma forma com margarina e despeje a cocada na forma.",
+      "Quando ela ainda estiver esfriando pegue uma faca e corte-a em quadradinhos.",
+      "Quando esfriar totalmente é só desinformar.",
+      "Caso queira fazer no microondas coloque na potência média alta por cerca de uns 16 minutos. E mexa pelo menos de 4 em 4 minutos.",
+      "No final preste mais atenção porque sobe muito e tem que parar pra mexer.",
+      "Depois é só colocar em uma forma untada e cortar em quadradinhos quando tiver esfriando."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Cocada de Corte. Ingredientes: leite condensado, açúcar (lata de leite condensado), coco ralado. Preparo: Misture tudo e leve ao fogo sempre mexendo pra não grudar, quando estiver com uma coloração bem amarela passando pra um marronzinho claro pode tirar do fogo. Unte uma forma com margarina e despeje a cocada na forma. Quando ela ainda estiver esfriando pegue uma faca e corte-a em quadradinhos."
+}

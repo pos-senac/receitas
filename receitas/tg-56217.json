@@ -1,0 +1,150 @@
+{
+  "id": "tg-56217",
+  "titulo": "Empada de Frango",
+  "url": "https://www.tudogostoso.com.br/receita/56217-empada-de-frango.html",
+  "nota": 4.6,
+  "n_avaliacoes": 229,
+  "categoria": "Receitas salgadinhos",
+  "subcategoria": "Empada de Frango",
+  "nivel": "medio",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 40,
+  "porcoes": 14,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "4",
+      "unidade": "xícaras (chá)",
+      "texto_original": "4 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "nome": "ovo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 ovo"
+    },
+    {
+      "nome": "gema",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 gema"
+    },
+    {
+      "nome": "manteiga ou margarina",
+      "quantidade": "4",
+      "unidade": "colheres (sopa)",
+      "texto_original": "4 colheres (sopa) de manteiga ou margarina"
+    },
+    {
+      "nome": "gordura vegetal",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de gordura vegetal"
+    },
+    {
+      "nome": "Sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Sal a gosto"
+    },
+    {
+      "nome": "peito de frango cozido e desfiado",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de peito de frango cozido e desfiado"
+    },
+    {
+      "nome": "tomates grandes picados",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates grandes picados"
+    },
+    {
+      "nome": "cebola média picada",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola média picada"
+    },
+    {
+      "nome": "alho picado",
+      "quantidade": "2",
+      "unidade": "dentes",
+      "texto_original": "2 dentes de alho picado"
+    },
+    {
+      "nome": "pimentão verde picado",
+      "quantidade": "1",
+      "unidade": "colher (sobremesa)",
+      "texto_original": "1 colher (sobremesa) de pimentão verde picado"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1",
+      "unidade": "colher (sopa)",
+      "texto_original": "1 colher (sopa) de azeite"
+    },
+    {
+      "nome": "ervilhas",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de ervilhas"
+    },
+    {
+      "nome": "Salsinha picada a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Salsinha picada a gosto"
+    },
+    {
+      "nome": "azeitonas verdes sem caroço",
+      "quantidade": "14",
+      "unidade": null,
+      "texto_original": "14 azeitonas verdes sem caroço"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "250",
+      "unidade": "ml",
+      "texto_original": "250 ml de leite"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "1 e 1/2",
+      "unidade": "colheres (sopa)",
+      "texto_original": "1 e 1/2 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "nome": "gemas para pincelar",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 gemas para pincelar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque todos os ingredientes da massa em uma tigela grande e misture bem até formar uma massa homogênea. Recomendo que coloque a farinha aos poucos.",
+      "Se a massa ficar muito grudenta, adicione mais um pouco de farinha.",
+      "Se a massa ficar muito ressecada, adicione mais um pouco de manteira ou margarina.",
+      "Embrulhe a massa em filme plástico e deixe descansar enquanto prepara o recheio.",
+      "Refogue no azeite a cebola, o alho, o tomate e o pimentão.",
+      "Acrescente o frango desfiado e refogue mais um pouco.",
+      "Junte a farinha de trigo e misture muito bem, acrescentando o leite de uma só vez e mexendo rapidamente.",
+      "Coloque as ervilhas, tempere com o sal e acrescente a salsinha. Depois de engrossar, apague o fogo e reserve.",
+      "Forre as forminhas com a massa, separe uma porção e aperte-a contra o fundo e a lateral da forminha. Não deixe que a massa fique muito grossa, retire o excesso e repita o procedimento com todas as forminhas. Reserve um pouco da massa para as tampinhas.",
+      "Coloque o restante da massa sobre um pedaço grande de filme plástico, cubra-a com outro pedaço de filme e abra-a com um rolo. Isso é fundamental para a massa não quebrar.",
+      "Corte 12 rodelas um pouco maiores que o diâmetro das forminhas e reserve.",
+      "Recheie as forminhas com o recheio já frio e acrescente uma azeitona em cada empada. Tampe com a rodela de massa e aperte as bordas com as pontas dos dedos.",
+      "Não use o recheio quente, isso deixará a massa \"encruada\".",
+      "Pincele a empada com a gema batida e leve para assar até ficarem douradas, cerca de 20 minutos.",
+      "Depois de assadas, espere esfriar para desenformar."
+    ]
+  },
+  "utensilios": [
+    "Forminha de empada",
+    "Panela",
+    "Plástico-filme",
+    "Bowl",
+    "Colher de pau"
+  ],
+  "texto_para_embedding": "Empada de Frango. Ingredientes: farinha de trigo, ovo, gema, manteiga ou margarina, gordura vegetal, Sal a gosto, peito de frango cozido e desfiado, tomates grandes picados, cebola média picada, alho picado, pimentão verde picado, azeite, ervilhas, Salsinha picada a gosto, azeitonas verdes sem caroço, leite, farinha de trigo, gemas para pincelar. Preparo: Coloque todos os ingredientes da massa em uma tigela grande e misture bem até formar uma massa homogênea. Recomendo que coloque a farinha aos poucos. Se a massa ficar muito grudenta, adicione mais um pouco de farinha. Se a massa ficar muito ressecada, adicione mais um pouco de manteira ou margarina."
+}

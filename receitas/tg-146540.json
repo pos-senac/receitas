@@ -1,0 +1,65 @@
+{
+  "id": "tg-146540",
+  "titulo": "Coxa de frango assada com batatas",
+  "url": "https://www.tudogostoso.com.br/receita/146540-coxa-de-frango-assada-com-batatas.html",
+  "nota": 4.6,
+  "n_avaliacoes": 117,
+  "categoria": "Receitas aves",
+  "subcategoria": "Coxa de frango assada com batatas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 45,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "coxas de frango",
+      "quantidade": "6",
+      "unidade": null,
+      "texto_original": "6 coxas de frango"
+    },
+    {
+      "nome": "batata",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de batata"
+    },
+    {
+      "nome": "alho",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "alho"
+    },
+    {
+      "nome": "ervas de tempero (coentro, salsa, cebolinha, louro etc)",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "ervas de tempero (coentro, salsa, cebolinha, louro etc)"
+    },
+    {
+      "nome": "maionese a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "maionese a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Limpe as coxas de frango e tempere com alho e as ervas de tempero.",
+      "Preaqueça o forno em temperatura média, por 10 minutos.",
+      "Unte as coxas de frango com a maionese.",
+      "Coloque em um refratário coberto por papel laminado no forno por 25 minutos.",
+      "Enquanto as coxas estão no forno, corte as batatas e ferva por 15 min, apenas para pré-cozinhar.",
+      "Retire as coxas de frango do forno e acrescente as batatas pré cozidas, unte-as com manteiga (ou maionese).",
+      "Recoloque o refratário com as coxas e as batatas no forno, dessa vez retire o papel laminado, por mais 20 minutos."
+    ]
+  },
+  "utensilios": [
+    "Papel-alumínio",
+    "Refratário",
+    "Fogão",
+    "Forma",
+    "Forno elétrico",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Coxa de frango assada com batatas. Ingredientes: coxas de frango, batata, alho, ervas de tempero (coentro, salsa, cebolinha, louro etc), maionese a gosto. Preparo: Limpe as coxas de frango e tempere com alho e as ervas de tempero. Preaqueça o forno em temperatura média, por 10 minutos. Unte as coxas de frango com a maionese."
+}

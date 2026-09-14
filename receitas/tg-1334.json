@@ -1,0 +1,58 @@
+{
+  "id": "tg-1334",
+  "titulo": "Waffle",
+  "url": "https://www.tudogostoso.com.br/receita/1334-waffle.html",
+  "nota": 4.4,
+  "n_avaliacoes": 153,
+  "categoria": "Receitas lanches",
+  "subcategoria": "Waffle",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": 4,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "1/2",
+      "unidade": "xícara",
+      "texto_original": "1/2 xícara de açúcar"
+    },
+    {
+      "nome": "ovos",
+      "quantidade": "3",
+      "unidade": null,
+      "texto_original": "3 ovos"
+    },
+    {
+      "nome": "leite",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de leite"
+    },
+    {
+      "nome": "envelope de fermento em pó",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 envelope de fermento em pó"
+    },
+    {
+      "nome": "chá de casca de limão ralado",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de casca de limão ralado"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata os ovos com o açúcar. Acrescente a casca de limão, o fermento, o leite, aos poucos, a farinha. A massa deve ficar cremosa e espalhar-se levemente pela chapa. Se precisar, junteum pouco mais de farinha de trigo. Asse em forma de waffle, tipo chapa de fogão ou elétrica. Depois de pronto cubra com o que lhe abrir mais o apetite: leite condensado, geléia..."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Waffle. Ingredientes: farinha de trigo, açúcar, ovos, leite, envelope de fermento em pó, chá de casca de limão ralado. Preparo: Bata os ovos com o açúcar. Acrescente a casca de limão, o fermento, o leite, aos poucos, a farinha. A massa deve ficar cremosa e espalhar-se levemente pela chapa. Se precisar, junteum pouco mais de farinha de trigo. Asse em forma de waffle, tipo chapa de fogão ou elétrica. Depois de pronto cubra com o que lhe abrir mais o apetite: leite condensado, geléia..."
+}

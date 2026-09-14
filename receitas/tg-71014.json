@@ -1,0 +1,103 @@
+{
+  "id": "tg-71014",
+  "titulo": "Feijão tropeiro",
+  "url": "https://www.tudogostoso.com.br/receita/71014-feijao-tropeiro.html",
+  "nota": 4.5,
+  "n_avaliacoes": 177,
+  "categoria": "Receitas saladas, molhos e acompanhamentos",
+  "subcategoria": "Feijão tropeiro",
+  "nivel": "medio",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "bacon picadinho",
+      "quantidade": "150",
+      "unidade": "g",
+      "texto_original": "150 g de bacon picadinho"
+    },
+    {
+      "nome": "linguiça calabresa picadinha",
+      "quantidade": "250",
+      "unidade": "g",
+      "texto_original": "250 g de linguiça calabresa picadinha"
+    },
+    {
+      "nome": "azeite",
+      "quantidade": "1",
+      "unidade": "xícara (café)",
+      "texto_original": "1 xícara (café) de azeite"
+    },
+    {
+      "nome": "cebolas picadinhas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas picadinhas"
+    },
+    {
+      "nome": "alho amassados",
+      "quantidade": "6",
+      "unidade": "dentes",
+      "texto_original": "6 dentes de alho amassados"
+    },
+    {
+      "nome": "feijão cozido e escorrido",
+      "quantidade": "500",
+      "unidade": "g",
+      "texto_original": "500 g de feijão cozido e escorrido"
+    },
+    {
+      "nome": "cubo de caldo de bacon",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cubo de caldo de bacon"
+    },
+    {
+      "nome": "ovos fritos inteiros e picadinhos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos fritos inteiros e picadinhos"
+    },
+    {
+      "nome": "cheiro-verde a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro-verde a gosto"
+    },
+    {
+      "nome": "farinha de mandioca crua",
+      "quantidade": "1 e 1/2",
+      "unidade": "colher",
+      "texto_original": "1 e 1/2 colher de farinha de mandioca crua"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque o azeite em uma panela e frite o bacon e a linguiça separadamente, depois reserve.",
+      "Na mesma panela, frite a cebola e o alho, junte o feijão escorrido e o caldo de bacon.",
+      "Junte novamente o bacon e a linguiça, acrescente a farinha de mandioca e os ovos fritos picadinhos.",
+      "Acrescente bastante cheiro-verde.",
+      "Acerte o sal e a pimenta e está pronto para servir."
+    ]
+  },
+  "utensilios": [
+    "Panela",
+    "Colher de pau",
+    "Faca",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Feijão tropeiro. Ingredientes: bacon picadinho, linguiça calabresa picadinha, azeite, cebolas picadinhas, alho amassados, feijão cozido e escorrido, cubo de caldo de bacon, ovos fritos inteiros e picadinhos, cheiro-verde a gosto, farinha de mandioca crua, sal a gosto, pimenta a gosto. Preparo: Coloque o azeite em uma panela e frite o bacon e a linguiça separadamente, depois reserve. Na mesma panela, frite a cebola e o alho, junte o feijão escorrido e o caldo de bacon. Junte novamente o bacon e a linguiça, acrescente a farinha de mandioca e os ovos fritos picadinhos."
+}

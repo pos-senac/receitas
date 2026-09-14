@@ -1,0 +1,62 @@
+{
+  "id": "tg-4849",
+  "titulo": "Sopa de feijão com macarrão",
+  "url": "https://www.tudogostoso.com.br/receita/4849-sopa-de-feijao-com-macarrao.html",
+  "nota": 4.6,
+  "n_avaliacoes": 168,
+  "categoria": "Receitas sopas",
+  "subcategoria": "Sopa de feijão com macarrão",
+  "nivel": "facil",
+  "custo": "Custo baixo",
+  "tempo_preparo_min": 30,
+  "porcoes": 5,
+  "ingredientes": [
+    {
+      "nome": "feijão",
+      "quantidade": "3",
+      "unidade": "xícaras (chá)",
+      "texto_original": "3 xícaras (chá) de feijão"
+    },
+    {
+      "nome": "litro de água fria",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 litro de água fria"
+    },
+    {
+      "nome": "tabletes de caldos de sua preferência",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tabletes de caldos de sua preferência"
+    },
+    {
+      "nome": "macarrão de sua preferência",
+      "quantidade": "1",
+      "unidade": "xícara (chá)",
+      "texto_original": "1 xícara (chá) de macarrão de sua preferência"
+    },
+    {
+      "nome": "cenoura em cubinhos",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cenoura em cubinhos"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Bata no liquidificador as 3 xícaras de feijão cozido.",
+      "Peneire e leve ao fogo em panela tampada com 1 litro de água.",
+      "Quando ferver, acrescente 2 tabletes de caldo e deixe em fogo baixo por cerca de 15 minutos.",
+      "Despeje o macarrão com as cenouras.",
+      "Cozinhe por cerca de 20 minutos, mexendo de vez em quando até que cozinhem.",
+      "Sirva a seguir, polvilhando com 1 colher de sopa de cebolinha verde picadinha."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Peneira"
+  ],
+  "texto_para_embedding": "Sopa de feijão com macarrão. Ingredientes: feijão, litro de água fria, tabletes de caldos de sua preferência, macarrão de sua preferência, cenoura em cubinhos. Preparo: Bata no liquidificador as 3 xícaras de feijão cozido. Peneire e leve ao fogo em panela tampada com 1 litro de água. Quando ferver, acrescente 2 tabletes de caldo e deixe em fogo baixo por cerca de 15 minutos."
+}

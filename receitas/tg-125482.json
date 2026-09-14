@@ -1,0 +1,90 @@
+{
+  "id": "tg-125482",
+  "titulo": "Gelatina em camadas",
+  "url": "https://www.tudogostoso.com.br/receita/125482-gelatina-em-camadas.html",
+  "nota": 4.7,
+  "n_avaliacoes": 248,
+  "categoria": "Receitas doces e sobremesas",
+  "subcategoria": "Gelatina em camadas",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 150,
+  "porcoes": 6,
+  "ingredientes": [
+    {
+      "nome": "gelatina em pó sabor uva",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina em pó sabor uva"
+    },
+    {
+      "nome": "gelatina em pó sabor abacaxi",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina em pó sabor abacaxi"
+    },
+    {
+      "nome": "gelatina em pó sabor tutti-frutti",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina em pó sabor tutti-frutti"
+    },
+    {
+      "nome": "gelatina em pó sabor limão",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina em pó sabor limão"
+    },
+    {
+      "nome": "gelatina em pó sabor tangerina",
+      "quantidade": "1",
+      "unidade": "caixa",
+      "texto_original": "1 caixa de gelatina em pó sabor tangerina"
+    },
+    {
+      "nome": "água quente",
+      "quantidade": "900",
+      "unidade": "ml",
+      "texto_original": "900 ml de água quente"
+    },
+    {
+      "nome": "água gelada",
+      "quantidade": "900",
+      "unidade": "ml",
+      "texto_original": "900 ml de água gelada"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "vidro de leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 vidro de leite de coco"
+    },
+    {
+      "nome": "Óleo para untar",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Óleo para untar"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Dissolver em 150 ml de água fervente o conteúdo da caixinha de gelatina, iniciando pelo primeiro sabor dos ingredientes.",
+      "Adicionar 150 ml de água gelada á mistura e mexer bem.",
+      "Em uma fôrma para pudim, com um furo no meio, untada com óleo, despejar metade da gelatina já dissolvida.",
+      "Em seguida levar ao congelador da geladeira por 15 minutos.",
+      "Com a metade da gelatina restante, misturar à ela 6 colheres de sopa de leite condensado e 4 colheres de leite de coco.",
+      "Passados os 15 minutos da gelatina no congelador, com bastante cuidado, despejar a mistura feita anteriormente e levar novamente para o congelador, por 15 minutos.",
+      "Repetir o procedimento com os demais sabores, sempre obedecendo os tempos de 15 minutos para a camada de gelatina e 15 minutos para a camada do creme.",
+      "Após acrescentar a última camada de creme, de tangerina, levar à geladeira por pelo menos 3 horas, desenformar no momento de servir.",
+      "Bom apetite!"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Gelatina em camadas. Ingredientes: gelatina em pó sabor uva, gelatina em pó sabor abacaxi, gelatina em pó sabor tutti-frutti, gelatina em pó sabor limão, gelatina em pó sabor tangerina, água quente, água gelada, leite condensado, vidro de leite de coco, Óleo para untar. Preparo: Dissolver em 150 ml de água fervente o conteúdo da caixinha de gelatina, iniciando pelo primeiro sabor dos ingredientes. Adicionar 150 ml de água gelada á mistura e mexer bem. Em uma fôrma para pudim, com um furo no meio, untada com óleo, despejar metade da gelatina já dissolvida."
+}

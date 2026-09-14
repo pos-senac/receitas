@@ -1,0 +1,95 @@
+{
+  "id": "tg-60592",
+  "titulo": "Vatapá de camarão rápido",
+  "url": "https://www.tudogostoso.com.br/receita/60592-vatapa-de-camarao-rapido.html",
+  "nota": 4.7,
+  "n_avaliacoes": 132,
+  "categoria": "Receitas camarão",
+  "subcategoria": "Vatapá de camarão rápido",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 90,
+  "porcoes": 15,
+  "ingredientes": [
+    {
+      "nome": "camarão descascado e lavado, sem cabeça e rabo",
+      "quantidade": "1/2",
+      "unidade": "kg",
+      "texto_original": "1/2 kg de camarão descascado e lavado, sem cabeça e rabo"
+    },
+    {
+      "nome": "cebolas médias",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 cebolas médias"
+    },
+    {
+      "nome": "tomates",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 tomates"
+    },
+    {
+      "nome": "leite de coco",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 leite de coco"
+    },
+    {
+      "nome": "azeite de dendê",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 azeite de dendê"
+    },
+    {
+      "nome": "cheiro verde picado",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "cheiro verde picado"
+    },
+    {
+      "nome": "pães",
+      "quantidade": "10",
+      "unidade": null,
+      "texto_original": "10 pães"
+    },
+    {
+      "nome": "pimentas cheirosas",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 pimentas cheirosas"
+    },
+    {
+      "nome": "sal a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "sal a gosto"
+    },
+    {
+      "nome": "pimenta (malagueta ou murupi) a gosto",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "pimenta (malagueta ou murupi) a gosto"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Refogue o camarão com 3 colheres de dendê junto com a cebola, o tomate, cheiro verde e pimenta cheirosa, reserve.",
+      "Bata no liquidificador os pães com água, para 2 pães, 1 copo de água.",
+      "Despeje o pão batido em uma panela e leve ao fogo.",
+      "Deixe ferver, mexendo sempre, ele começará a engrossar.",
+      "Quando começar a ferver acrescente o restante do dendê.",
+      "Acrescente o camarão refogado.",
+      "Adicione o sal e pimenta, mexendo sempre para não grudar no fundo da panela.",
+      "Quando estiver quase pronto misture o leite de coco e retire do fogo."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de pau",
+    "Faca de pão",
+    "Tábua de corte"
+  ],
+  "texto_para_embedding": "Vatapá de camarão rápido. Ingredientes: camarão descascado e lavado, sem cabeça e rabo, cebolas médias, tomates, leite de coco, azeite de dendê, cheiro verde picado, pães, pimentas cheirosas, sal a gosto, pimenta (malagueta ou murupi) a gosto. Preparo: Refogue o camarão com 3 colheres de dendê junto com a cebola, o tomate, cheiro verde e pimenta cheirosa, reserve. Bata no liquidificador os pães com água, para 2 pães, 1 copo de água. Despeje o pão batido em uma panela e leve ao fogo."
+}

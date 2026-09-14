@@ -1,0 +1,72 @@
+{
+  "id": "tg-4364",
+  "titulo": "Mousse de abacaxi",
+  "url": "https://www.tudogostoso.com.br/receita/4364-mousse-de-abacaxi.html",
+  "nota": 4.5,
+  "n_avaliacoes": 277,
+  "categoria": "Receitas mousses",
+  "subcategoria": "Mousse de abacaxi",
+  "nivel": "medio",
+  "custo": "Custo médio",
+  "tempo_preparo_min": 30,
+  "porcoes": 10,
+  "ingredientes": [
+    {
+      "nome": "abacaxi descascado e sem o miolo",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 abacaxi descascado e sem o miolo"
+    },
+    {
+      "nome": "americano de água",
+      "quantidade": "4",
+      "unidade": "copos",
+      "texto_original": "4 copos americano de água"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "2",
+      "unidade": "colheres",
+      "texto_original": "2 colheres de açúcar"
+    },
+    {
+      "nome": "leite condensado",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de leite condensado"
+    },
+    {
+      "nome": "creme de leite",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de creme de leite"
+    },
+    {
+      "nome": "caixinhas de gelatina com sabor de abacaxi",
+      "quantidade": "2",
+      "unidade": null,
+      "texto_original": "2 caixinhas de gelatina com sabor de abacaxi"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Coloque os quatro copos de água na panela.",
+      "Pique o abacaxi em quadradinhos e coloque junto na panela com água.",
+      "Acrescente as duas colheres de açúcar na água com o abacaxi.",
+      "Deixe ferver por 5 minutos.",
+      "Coa o abacaxi e reserve a água que com ele foi fervida.",
+      "Acrescente as gelatinas na água para dissolver.",
+      "Coloque a água com a gelatina dissolvida no liquidificador e bata com o leite condensado e o creme de leite.",
+      "Em um refratário coloque o abacaxi picado e por cima dele coloque o que foi batido no liquidificador.",
+      "Leve à geladeira até ficar bem firme.",
+      "Agora é só saborear porque fica uma verdadeira delícia!!!"
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Panela",
+    "Colher de silicone",
+    "Travessa de vidro"
+  ],
+  "texto_para_embedding": "Mousse de abacaxi. Ingredientes: abacaxi descascado e sem o miolo, americano de água, açúcar, leite condensado, creme de leite, caixinhas de gelatina com sabor de abacaxi. Preparo: Coloque os quatro copos de água na panela. Pique o abacaxi em quadradinhos e coloque junto na panela com água. Acrescente as duas colheres de açúcar na água com o abacaxi."
+}

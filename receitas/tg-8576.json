@@ -1,0 +1,70 @@
+{
+  "id": "tg-8576",
+  "titulo": "Peru de Natal",
+  "url": "https://www.tudogostoso.com.br/receita/8576-peru-de-natal.html",
+  "nota": 4.6,
+  "n_avaliacoes": 137,
+  "categoria": "Receitas peru",
+  "subcategoria": "Peru de Natal",
+  "nivel": "facil",
+  "custo": "Custo alto",
+  "tempo_preparo_min": 300,
+  "porcoes": 20,
+  "ingredientes": [
+    {
+      "nome": "peru de 4 a 5 kg",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 peru de 4 a 5 kg"
+    },
+    {
+      "nome": "cebola grande",
+      "quantidade": "1",
+      "unidade": null,
+      "texto_original": "1 cebola grande"
+    },
+    {
+      "nome": "cerveja",
+      "quantidade": "1",
+      "unidade": "lata",
+      "texto_original": "1 lata de cerveja"
+    },
+    {
+      "nome": "chá de açafrão",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de chá de açafrão"
+    },
+    {
+      "nome": "alho",
+      "quantidade": "3",
+      "unidade": "dentes",
+      "texto_original": "3 dentes de alho"
+    },
+    {
+      "nome": "sopa de óleo",
+      "quantidade": "4",
+      "unidade": "colheres",
+      "texto_original": "4 colheres de sopa de óleo"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Descongele o peru com um dia de antecedência.",
+      "Bata, no liquidificador, a cebola, o alho e o óleo.",
+      "Junte a cerveja e o açafrão.",
+      "Tempere o peru, deixando-o marinando por 5 horas.",
+      "Leve ao forno (180º graus), coberto com papel alumínio por cerca de 2 horas.",
+      "Retire o papel alumínio e aumente a temperatura do forno até corar."
+    ]
+  },
+  "utensilios": [
+    "Liquidificador",
+    "Papel-alumínio",
+    "Refratário",
+    "Colher de silicone",
+    "Forma",
+    "Tigela"
+  ],
+  "texto_para_embedding": "Peru de Natal. Ingredientes: peru de 4 a 5 kg, cebola grande, cerveja, chá de açafrão, alho, sopa de óleo. Preparo: Descongele o peru com um dia de antecedência. Bata, no liquidificador, a cebola, o alho e o óleo. Junte a cerveja e o açafrão."
+}

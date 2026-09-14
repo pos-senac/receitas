@@ -1,0 +1,90 @@
+{
+  "id": "tg-64156",
+  "titulo": "Bolo de laranja de liquidificador",
+  "url": "https://www.tudogostoso.com.br/receita/64156-bolo-de-laranja-de-liquidificador.html",
+  "nota": 4.8,
+  "n_avaliacoes": 280,
+  "categoria": "Receitas bolos e tortas doces",
+  "subcategoria": "Bolo de laranja de liquidificador",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 60,
+  "porcoes": 8,
+  "ingredientes": [
+    {
+      "nome": "ovos",
+      "quantidade": "4",
+      "unidade": null,
+      "texto_original": "4 ovos"
+    },
+    {
+      "nome": "chá de óleo",
+      "quantidade": "1",
+      "unidade": "xícara",
+      "texto_original": "1 xícara de chá de óleo"
+    },
+    {
+      "nome": "laranja (pera ou lima) com casca",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 laranja (pera ou lima) com casca"
+    },
+    {
+      "nome": "laranja (pera ou lima) sem casca",
+      "quantidade": "1/2",
+      "unidade": null,
+      "texto_original": "1/2 laranja (pera ou lima) sem casca"
+    },
+    {
+      "nome": "açúcar refinado",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de açúcar refinado"
+    },
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "2",
+      "unidade": "xícaras",
+      "texto_original": "2 xícaras de farinha de trigo"
+    },
+    {
+      "nome": "sopa de fermento em pó",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de fermento em pó"
+    },
+    {
+      "nome": "Suco de 1 laranja",
+      "quantidade": null,
+      "unidade": null,
+      "texto_original": "Suco de 1 laranja"
+    },
+    {
+      "nome": "sopa de açúcar",
+      "quantidade": "5",
+      "unidade": "colheres",
+      "texto_original": "5 colheres de sopa de açúcar"
+    },
+    {
+      "nome": "sopa de margarina",
+      "quantidade": "1",
+      "unidade": "colher",
+      "texto_original": "1 colher de sopa de margarina"
+    }
+  ],
+  "modo_preparo": {
+    "Massa:": [
+      "No liquidificador, bater muito bem os ovos, o óleo e 1 laranja (metade com casca, metade sem casca).",
+      "Enquanto isso, em um recipiente, colocar o trigo, o fermento e o açúcar.",
+      "Acrescentar o conteúdo do liquidificador nesse recipiente e misturar tudo com uma colher até formar uma massa pastosa.",
+      "Colocar tudo em uma fôrma untada com margarina e polvilhada com trigo.",
+      "Levar ao fogo médio, pré-aquecido, por 30 minutos."
+    ],
+    "Cobertura:": [
+      "Levar todos os ingredientes ao fogo por 5 minutos.",
+      "Derramar sobre o bolo, todo furadinho com um garfo."
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Bolo de laranja de liquidificador. Ingredientes: ovos, chá de óleo, laranja (pera ou lima) com casca, laranja (pera ou lima) sem casca, açúcar refinado, farinha de trigo, sopa de fermento em pó, Suco de 1 laranja, sopa de açúcar, sopa de margarina. Preparo: No liquidificador, bater muito bem os ovos, o óleo e 1 laranja (metade com casca, metade sem casca). Enquanto isso, em um recipiente, colocar o trigo, o fermento e o açúcar. Acrescentar o conteúdo do liquidificador nesse recipiente e misturar tudo com uma colher até formar uma massa pastosa."
+}

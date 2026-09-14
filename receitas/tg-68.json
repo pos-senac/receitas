@@ -1,0 +1,42 @@
+{
+  "id": "tg-68",
+  "titulo": "Biscoitos amanteigados",
+  "url": "https://www.tudogostoso.com.br/receita/68-biscoitos-amanteigados.html",
+  "nota": 4.4,
+  "n_avaliacoes": 958,
+  "categoria": "Receitas biscoitos",
+  "subcategoria": "Biscoitos amanteigados",
+  "nivel": null,
+  "custo": null,
+  "tempo_preparo_min": 30,
+  "porcoes": null,
+  "ingredientes": [
+    {
+      "nome": "farinha de trigo",
+      "quantidade": "400",
+      "unidade": "g",
+      "texto_original": "400 g de farinha de trigo"
+    },
+    {
+      "nome": "açúcar",
+      "quantidade": "125",
+      "unidade": "g",
+      "texto_original": "125 g de açúcar"
+    },
+    {
+      "nome": "margarina sem sal ou manteiga",
+      "quantidade": "300",
+      "unidade": "g",
+      "texto_original": "300 g de margarina sem sal ou manteiga"
+    }
+  ],
+  "modo_preparo": {
+    "preparo": [
+      "Amasse muito bem todos os ingredientes.",
+      "Enrole e achate as bolinhas.",
+      "Coloque em uma forma e asse em fogo moderado, até que fiquem douradinhos"
+    ]
+  },
+  "utensilios": [],
+  "texto_para_embedding": "Biscoitos amanteigados. Ingredientes: farinha de trigo, açúcar, margarina sem sal ou manteiga. Preparo: Amasse muito bem todos os ingredientes. Enrole e achate as bolinhas. Coloque em uma forma e asse em fogo moderado, até que fiquem douradinhos"
+}

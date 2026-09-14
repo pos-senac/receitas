@@ -1,5 +1,5 @@
 """
-Chat Streamlit: onboarding (dispensa/gostos) → pedido → ranking → explicação.
+Chat Streamlit: onboarding → esclarecimento do pedido → só então ranking.
 
 Pré-requisitos:
   pip install -r requirements.txt
@@ -23,11 +23,16 @@ from chat import (
     aplicar_atualizacao_perfil,
     classificar_mensagem,
     contexto_explicacao,
+    formatar_rascunho_md,
+    mesclar_rascunho,
     montar_busca_do_perfil,
     ollama_chat_stream,
     ollama_disponivel,
+    pedido_desde_rascunho,
     perfil_novo,
     processar_onboarding,
+    rascunho_novo,
+    rascunho_tem_estilo,
     resumir_top_markdown,
 )
 from ranking import carregar_receitas, ranquear
@@ -44,6 +49,8 @@ def get_receitas() -> list[dict[str, Any]]:
 def init_state() -> None:
     if "perfil" not in st.session_state:
         st.session_state.perfil = perfil_novo()
+    if "rascunho" not in st.session_state:
+        st.session_state.rascunho = rascunho_novo()
     if "messages" not in st.session_state:
         st.session_state.messages = [
             {"role": "assistant", "content": MSG_BOAS_VINDAS},
@@ -56,12 +63,14 @@ def init_state() -> None:
 
 def reset_chat() -> None:
     st.session_state.perfil = perfil_novo()
+    st.session_state.rascunho = rascunho_novo()
     st.session_state.messages = [{"role": "assistant", "content": MSG_BOAS_VINDAS}]
     st.session_state.last_top = None
     st.session_state.last_intent = None
 
 
-def render_perfil_sidebar(perfil: dict[str, Any]) -> None:
+def render_sidebar(perfil: dict[str, Any], rascunho: dict[str, Any]) -> bool:
+    """Retorna True se o usuário pediu busca forçada pelo botão."""
     st.sidebar.markdown("### Seu perfil")
     st.sidebar.caption(f"Fase: `{perfil.get('fase')}`")
     st.sidebar.markdown("**Dispensa**")
@@ -71,14 +80,105 @@ def render_perfil_sidebar(perfil: dict[str, Any]) -> None:
     st.sidebar.markdown("**Não gosta**")
     st.sidebar.write(", ".join(perfil.get("nao_gosta") or []) or "—")
 
+    st.sidebar.markdown("### Pedido em elaboração")
+    st.sidebar.markdown(formatar_rascunho_md(rascunho))
+
+    forcar = False
+    pode = rascunho.get("ativo") and (
+        rascunho_tem_estilo(rascunho) or bool(rascunho.get("texto"))
+    )
+    if st.sidebar.button("Buscar agora", type="primary", disabled=not pode):
+        forcar = True
+    if st.sidebar.button("Limpar pedido"):
+        st.session_state.rascunho = rascunho_novo()
+        st.rerun()
+    return forcar
+
+
+def executar_busca(
+    *,
+    pedido: str,
+    perfil: dict[str, Any],
+    rascunho: dict[str, Any],
+    receitas: list[dict[str, Any]],
+    base_url: str,
+    model: str,
+    usar_llm: bool,
+    ok: bool,
+    k: int,
+    min_cobertura: float,
+    max_faltantes: int | None,
+    nota_min: float | None,
+    exigir_estilo: bool,
+    explicar: bool,
+) -> str:
+    intent = montar_busca_do_perfil(
+        pedido,
+        perfil,
+        rascunho=rascunho,
+        base_url=base_url if ok else None,
+        model=model if ok else None,
+        usar_llm=usar_llm and ok,
+    )
+    ings = intent.get("ingredientes") or []
+    top = ranquear(
+        receitas,
+        ings,
+        metodos=intent.get("metodos") or [],
+        keywords=intent.get("keywords") or [],
+        evitar=intent.get("evitar") or [],
+        k=k,
+        min_cobertura=min_cobertura if ings else 0.0,
+        max_faltantes=max_faltantes if ings else None,
+        nota_min=nota_min,
+        exigir_estilo=exigir_estilo,
+    )
+    st.session_state.last_top = top
+    st.session_state.last_intent = intent
+
+    if not top:
+        return (
+            "Não achei receitas com seu perfil e esse pedido. "
+            "Ajuste o rascunho ou a dispensa e tente de novo."
+        )
+
+    lista = resumir_top_markdown(top, intent)
+    st.markdown(lista)
+    resposta = lista
+
+    if explicar and ok:
+        st.markdown("**Sugestão:**")
+        try:
+            explicacao = st.write_stream(
+                ollama_chat_stream(
+                    base_url=base_url,
+                    model=model,
+                    system=EXPLICAR_SYSTEM,
+                    user=contexto_explicacao(top, intent, perfil, pedido),
+                )
+            )
+            if explicacao:
+                resposta = lista + "\n\n**Sugestão:**\n" + str(explicacao)
+        except Exception as exc:  # noqa: BLE001
+            err = f"Falha ao explicar com Ollama: {exc}"
+            st.error(err)
+            resposta = lista + "\n\n" + err
+    elif explicar and not ok:
+        nota = f"\n\n_{MSG_SEM_OLLAMA}_"
+        st.markdown(nota)
+        resposta = lista + nota
+
+    # Após buscar, mantém rascunho mas pode seguir refinando.
+    return resposta
+
 
 def main() -> None:
     st.set_page_config(page_title="Receitas em casa", page_icon="🍲", layout="wide")
     st.title("Receitas em casa")
     st.caption(
-        "Chat com perfil (dispensa / gostos). "
-        "O ranking roda em memória; o LLM só interpreta e explica — "
-        "pedidos off-topic ou de jailbreak são recusados no código."
+        "O assistente esclarece o que você quer **antes** de buscar. "
+        "Diga “pode buscar” ou use **Buscar agora** na barra lateral. "
+        "Jailbreak/off-topic são recusados no código."
     )
 
     init_state()
@@ -105,21 +205,28 @@ def main() -> None:
     else:
         st.sidebar.warning(f"Ollama indisponível: {info}")
 
-    render_perfil_sidebar(st.session_state.perfil)
+    forcar_busca = render_sidebar(st.session_state.perfil, st.session_state.rascunho)
 
     for msg in st.session_state.messages:
         with st.chat_message(msg["role"]):
             st.markdown(msg["content"])
 
     prompt = st.chat_input("Digite sua mensagem…")
-    if not prompt:
+    if not prompt and not forcar_busca:
         return
 
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
+    if forcar_busca and not prompt:
+        prompt = "pode buscar"
+        st.session_state.messages.append({"role": "user", "content": "*(Buscar agora)*"})
+        with st.chat_message("user"):
+            st.markdown("*(Buscar agora)*")
+    elif prompt:
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
 
     perfil = st.session_state.perfil
+    rascunho = st.session_state.rascunho
     resposta_final = ""
 
     with st.chat_message("assistant"):
@@ -138,11 +245,21 @@ def main() -> None:
                 clf = classificar_mensagem(
                     prompt,
                     perfil,
+                    rascunho,
                     base_url=base_url if ok else None,
                     model=model if ok else None,
                     usar_llm=usar_llm and ok,
+                    forcar_busca=forcar_busca,
                 )
                 acao = clf.get("acao")
+
+                # Sempre aplica patch de rascunho quando houver.
+                if clf.get("rascunho_patch"):
+                    rascunho = mesclar_rascunho(rascunho, clf["rascunho_patch"])
+                if acao == "esclarecer":
+                    rascunho["turnos"] = int(rascunho.get("turnos") or 0) + 1
+                    rascunho["ativo"] = True
+                st.session_state.rascunho = rascunho
 
                 if acao == "recusar":
                     resposta_final = MSG_RECUSA
@@ -159,76 +276,46 @@ def main() -> None:
                     )
                     st.markdown(resposta_final)
 
-                elif acao == "buscar":
-                    pedido = clf.get("pedido") or prompt
-                    intent = montar_busca_do_perfil(
-                        pedido,
-                        perfil,
-                        base_url=base_url if ok else None,
-                        model=model if ok else None,
-                        usar_llm=usar_llm and ok,
+                elif acao == "esclarecer":
+                    resposta_final = clf.get("resposta_curta") or "Pode me contar mais?"
+                    perguntas = clf.get("perguntas") or []
+                    if perguntas and not all(q in resposta_final for q in perguntas):
+                        resposta_final += "\n\n" + "\n".join(f"- {q}" for q in perguntas)
+                    resposta_final += (
+                        "\n\n_Rascunho atualizado — diga **pode buscar** quando quiser._"
                     )
-                    ings = intent.get("ingredientes") or []
-                    top = ranquear(
-                        receitas,
-                        ings,
-                        metodos=intent.get("metodos") or [],
-                        keywords=intent.get("keywords") or [],
-                        evitar=intent.get("evitar") or [],
+                    st.markdown(resposta_final)
+
+                elif acao == "buscar" and clf.get("pronto_para_buscar"):
+                    pedido = (
+                        clf.get("pedido")
+                        or pedido_desde_rascunho(rascunho, prompt)
+                        or prompt
+                    )
+                    st.markdown("Buscando com o pedido esclarecido…")
+                    resposta_final = executar_busca(
+                        pedido=pedido,
+                        perfil=perfil,
+                        rascunho=rascunho,
+                        receitas=receitas,
+                        base_url=base_url,
+                        model=model,
+                        usar_llm=usar_llm,
+                        ok=ok,
                         k=k,
-                        min_cobertura=min_cobertura if ings else 0.0,
+                        min_cobertura=min_cobertura,
                         max_faltantes=(
-                            int(max_faltantes)
-                            if (usar_max_faltantes and ings)
-                            else None
+                            int(max_faltantes) if usar_max_faltantes else None
                         ),
                         nota_min=nota_min if nota_min > 0 else None,
                         exigir_estilo=exigir_estilo,
+                        explicar=explicar,
                     )
-                    st.session_state.last_top = top
-                    st.session_state.last_intent = intent
-
-                    if not top:
-                        resposta_final = (
-                            "Não achei receitas com seu perfil e esse pedido. "
-                            "Tente outro estilo ou atualize a dispensa."
-                        )
-                        st.markdown(resposta_final)
-                    else:
-                        lista = resumir_top_markdown(top, intent)
-                        st.markdown(lista)
-                        resposta_final = lista
-
-                        if explicar and ok:
-                            st.markdown("**Sugestão:**")
-                            try:
-                                explicacao = st.write_stream(
-                                    ollama_chat_stream(
-                                        base_url=base_url,
-                                        model=model,
-                                        system=EXPLICAR_SYSTEM,
-                                        user=contexto_explicacao(
-                                            top, intent, perfil, pedido
-                                        ),
-                                    )
-                                )
-                                if explicacao:
-                                    resposta_final = (
-                                        lista + "\n\n**Sugestão:**\n" + str(explicacao)
-                                    )
-                            except Exception as exc:  # noqa: BLE001
-                                err = f"Falha ao explicar com Ollama: {exc}"
-                                st.error(err)
-                                resposta_final = lista + "\n\n" + err
-                        elif explicar and not ok:
-                            nota = f"\n\n_{MSG_SEM_OLLAMA}_"
-                            st.markdown(nota)
-                            resposta_final = lista + nota
 
                 else:
                     resposta_final = clf.get("resposta_curta") or (
-                        "Pode pedir uma receita (ex.: quero um bolo) "
-                        "ou atualizar a dispensa."
+                        "Me diga o que quer cozinhar; eu esclareço e só busco depois "
+                        "(ou diga **pode buscar**)."
                     )
                     st.markdown(resposta_final)
 

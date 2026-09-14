@@ -56,8 +56,6 @@ METODOS_KEYWORDS: dict[str, list[str]] = {
         "pudim",
         "mousse",
         "torta doce",
-        "cobertura",
-        "chantilly",
     ],
     "salgado": ["salgado", "salgada", "petisco", "lanche"],
     "rapido": ["rapido", "pratico", "minutos", "simples"],
@@ -199,18 +197,62 @@ def texto_busca_receita(receita: dict[str, Any]) -> str:
     return normalizar_texto(" ".join(partes))
 
 
-def score_estilo(texto: str, keywords: list[str]) -> tuple[float, list[str]]:
-    """Retorna (0..1, termos que bateram)."""
+def score_estilo(
+    titulo: str,
+    texto: str,
+    keywords: list[str],
+) -> tuple[float, list[str]]:
+    """Retorna (0..1, termos que bateram). Hits no título pesam bem mais."""
     if not keywords:
         return 0.0, []
-    hits: list[str] = []
+
+    genericos = {"doce", "sobremesa", "rapido", "pratico", "simples", "minutos"}
+    titulo_n = normalizar_texto(titulo)
+    texto_n = normalizar_texto(texto)
+    hits_titulo: list[str] = []
+    hits_corpo: list[str] = []
+
     for kw in keywords:
-        if _contem_termo_solto(texto, kw):
-            hits.append(kw)
-    if not hits:
+        if _contem_termo_solto(titulo_n, kw):
+            hits_titulo.append(kw)
+        elif _contem_termo_solto(texto_n, kw):
+            hits_corpo.append(kw)
+
+    if not hits_titulo and not hits_corpo:
         return 0.0, []
-    # Mais hits = um pouco mais de confiança, com teto em 1.
-    return min(1.0, 0.45 + 0.15 * len(hits)), hits
+
+    espec_titulo = [k for k in hits_titulo if k not in genericos]
+    gen_titulo = [k for k in hits_titulo if k in genericos]
+
+    # Título específico (bolo, pudim…) vale mais que genéricos (doce, sobremesa).
+    score = min(0.50, 0.30 * len(espec_titulo)) + min(0.12, 0.06 * len(gen_titulo))
+
+    # Bônus forte se o título COMEÇA com o prato (ex.: "bolo de cenoura").
+    for kw in espec_titulo:
+        if titulo_n == kw or titulo_n.startswith(kw + " "):
+            score += 0.42
+            break
+
+    # Corpo (preparo/embedding): reforço leve.
+    score += min(0.18, 0.06 * len(hits_corpo))
+
+    # Se a busca pede "bolo", receitas sem bolo no título (só pudim/mousse) caem.
+    pede_bolo = any(k in {"bolo", "bolos"} for k in keywords)
+    if pede_bolo and not any(k in {"bolo", "bolos"} for k in hits_titulo):
+        score *= 0.35
+
+    # Acessórios ("cobertura/recheio para bolo") se o título não é o prato.
+    if re.search(r"(?<![a-z0-9])(cobertura|recheio|calda)(?![a-z0-9])", titulo_n) or re.search(
+        r"\bpara bolo\b|\bpara torta\b", titulo_n
+    ):
+        if not any(
+            titulo_n == kw or titulo_n.startswith(kw + " ")
+            for kw in ("bolo", "bolos", "torta", "pudim", "mousse", "doce")
+        ):
+            score *= 0.25
+
+    hits = hits_titulo + [h for h in hits_corpo if h not in hits_titulo]
+    return min(1.0, score), hits
 
 
 def cobrir_receita(
@@ -239,8 +281,9 @@ def cobrir_receita(
         cobertura = 1.0  # busca só por estilo
         falta = ings
 
+    titulo = str(receita.get("titulo") or "")
     texto = texto_busca_receita(receita)
-    estilo, estilo_hits = score_estilo(texto, keywords_estilo or [])
+    estilo, estilo_hits = score_estilo(titulo, texto, keywords_estilo or [])
 
     evitar_hits: list[str] = []
     for termo in evitar or []:
@@ -255,10 +298,10 @@ def cobrir_receita(
     except (TypeError, ValueError):
         nota_f = 0.0
 
-    # Cobertura manda; estilo reforça; nota desempata.
+    # Cobertura manda; estilo (esp. título) reforça; nota desempata.
     score = (
         cobertura * 1000.0
-        + estilo * 250.0
+        + estilo * 400.0
         + nota_f * 10.0
         + min(float(n_av), 5000.0) / 5000.0
         - len(evitar_hits) * 80.0

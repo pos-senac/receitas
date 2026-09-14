@@ -1,10 +1,9 @@
 """
-Protótipo Streamlit: ingredientes → ranking em memória → explicação via Ollama.
+Chat Streamlit: onboarding (dispensa/gostos) → pedido → ranking → explicação.
 
 Pré-requisitos:
   pip install -r requirements.txt
-  ollama serve   # em outro terminal
-  ollama pull qwen2.5:14b   # ou outro modelo
+  ollama serve && ollama pull qwen2.5:14b
 
 Uso:
   streamlit run app.py
@@ -12,24 +11,29 @@ Uso:
 
 from __future__ import annotations
 
-import json
-from typing import Any, Iterator
+from typing import Any
 
-import requests
 import streamlit as st
 
-from ranking import carregar_receitas, parse_ingredientes_usuario, ranquear
+from chat import (
+    EXPLICAR_SYSTEM,
+    MSG_BOAS_VINDAS,
+    MSG_RECUSA,
+    MSG_SEM_OLLAMA,
+    aplicar_atualizacao_perfil,
+    classificar_mensagem,
+    contexto_explicacao,
+    montar_busca_do_perfil,
+    ollama_chat_stream,
+    ollama_disponivel,
+    perfil_novo,
+    processar_onboarding,
+    resumir_top_markdown,
+)
+from ranking import carregar_receitas, ranquear
 
 OLLAMA_URL_DEFAULT = "http://localhost:11434"
 MODELO_DEFAULT = "qwen2.5:14b"
-
-SYSTEM_PROMPT = """Você é um assistente culinário. Use APENAS as receitas fornecidas no contexto.
-Não invente receitas fora da lista. Se nenhuma encaixar bem, diga isso com clareza.
-Responda em português do Brasil, de forma objetiva e útil:
-1) Quais receitas recomendaria e por quê (cobertura de ingredientes + nota)
-2) O que falta em cada uma e possíveis substituições simples
-3) Dica rápida de preparo ou adaptação de porções, se fizer sentido
-Cite o título da receita; se houver URL, mencione que a fonte é o TudoGostoso."""
 
 
 @st.cache_resource
@@ -37,119 +41,63 @@ def get_receitas() -> list[dict[str, Any]]:
     return carregar_receitas()
 
 
-def resumir_modo_preparo(modo: dict[str, Any], max_passos: int = 4) -> str:
-    passos: list[str] = []
-    for secao, lista in (modo or {}).items():
-        for passo in lista or []:
-            passos.append(str(passo))
-            if len(passos) >= max_passos:
-                return " ".join(passos)
-    return " ".join(passos)
+def init_state() -> None:
+    if "perfil" not in st.session_state:
+        st.session_state.perfil = perfil_novo()
+    if "messages" not in st.session_state:
+        st.session_state.messages = [
+            {"role": "assistant", "content": MSG_BOAS_VINDAS},
+        ]
+    if "last_top" not in st.session_state:
+        st.session_state.last_top = None
+    if "last_intent" not in st.session_state:
+        st.session_state.last_intent = None
 
 
-def contexto_para_llm(
-    top: list[dict[str, Any]],
-    ingredientes_usuario: list[str],
-) -> str:
-    blocos = [
-        f"Ingredientes que o usuário tem: {', '.join(ingredientes_usuario)}",
-        "",
-        "Receitas candidatas (já ranqueadas por cobertura + nota):",
-    ]
-    for i, r in enumerate(top, start=1):
-        cob = r["cobertura"] * 100
-        blocos.append(
-            f"\n{i}. {r['titulo']} (nota {r.get('nota')}, "
-            f"{r.get('n_avaliacoes')} avaliações, cobertura {cob:.0f}%)"
-        )
-        blocos.append(f"   URL: {r.get('url')}")
-        blocos.append(f"   Tem: {', '.join(r['tem']) or '—'}")
-        blocos.append(f"   Falta: {', '.join(r['falta']) or '—'}")
-        prep = resumir_modo_preparo(r.get("modo_preparo") or {})
-        if prep:
-            blocos.append(f"   Preparo (resumo): {prep}")
-    return "\n".join(blocos)
+def reset_chat() -> None:
+    st.session_state.perfil = perfil_novo()
+    st.session_state.messages = [{"role": "assistant", "content": MSG_BOAS_VINDAS}]
+    st.session_state.last_top = None
+    st.session_state.last_intent = None
 
 
-def ollama_chat_stream(
-    *,
-    base_url: str,
-    model: str,
-    user_content: str,
-    temperature: float = 0.3,
-) -> Iterator[str]:
-    url = base_url.rstrip("/") + "/api/chat"
-    payload = {
-        "model": model,
-        "stream": True,
-        "options": {"temperature": temperature},
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_content},
-        ],
-    }
-    with requests.post(url, json=payload, stream=True, timeout=120) as resp:
-        if resp.status_code != 200:
-            raise RuntimeError(
-                f"Ollama retornou HTTP {resp.status_code}: {resp.text[:300]}"
-            )
-        for line in resp.iter_lines(decode_unicode=True):
-            if not line:
-                continue
-            data = json.loads(line)
-            if data.get("error"):
-                raise RuntimeError(str(data["error"]))
-            msg = data.get("message") or {}
-            piece = msg.get("content") or ""
-            if piece:
-                yield piece
-            if data.get("done"):
-                break
-
-
-def ollama_disponivel(base_url: str) -> tuple[bool, str]:
-    try:
-        resp = requests.get(base_url.rstrip("/") + "/api/tags", timeout=3)
-        if resp.status_code != 200:
-            return False, f"HTTP {resp.status_code}"
-        models = [m.get("name", "") for m in (resp.json().get("models") or [])]
-        if not models:
-            return True, "sem modelos (rode: ollama pull ...)"
-        return True, ", ".join(models[:8])
-    except requests.RequestException as exc:
-        return False, str(exc)
+def render_perfil_sidebar(perfil: dict[str, Any]) -> None:
+    st.sidebar.markdown("### Seu perfil")
+    st.sidebar.caption(f"Fase: `{perfil.get('fase')}`")
+    st.sidebar.markdown("**Dispensa**")
+    st.sidebar.write(", ".join(perfil.get("dispensa") or []) or "—")
+    st.sidebar.markdown("**Gosta**")
+    st.sidebar.write(", ".join(perfil.get("gosta") or []) or "—")
+    st.sidebar.markdown("**Não gosta**")
+    st.sidebar.write(", ".join(perfil.get("nao_gosta") or []) or "—")
 
 
 def main() -> None:
     st.set_page_config(page_title="Receitas em casa", page_icon="🍲", layout="wide")
-    st.title("Receitas com o que você tem")
+    st.title("Receitas em casa")
     st.caption(
-        "Filtro por cobertura de ingredientes + ranking pela nota do TudoGostoso. "
-        "O LLM (Ollama) só explica o top‑k — não substitui o match."
+        "Chat com perfil (dispensa / gostos). "
+        "O ranking roda em memória; o LLM só interpreta e explica — "
+        "pedidos off-topic ou de jailbreak são recusados no código."
     )
 
+    init_state()
     receitas = get_receitas()
-    st.sidebar.markdown(f"**{len(receitas)}** receitas em memória")
 
+    st.sidebar.markdown(f"**{len(receitas)}** receitas em memória")
     base_url = st.sidebar.text_input("Ollama URL", OLLAMA_URL_DEFAULT)
     model = st.sidebar.text_input("Modelo", MODELO_DEFAULT)
-    k = st.sidebar.slider("Top‑k", min_value=1, max_value=10, value=5)
-    min_cobertura = st.sidebar.slider(
-        "Cobertura mínima",
-        min_value=0.0,
-        max_value=1.0,
-        value=0.4,
-        step=0.05,
-    )
-    max_faltantes = st.sidebar.number_input(
-        "Máx. faltantes (vazio = sem limite)",
-        min_value=0,
-        max_value=30,
-        value=8,
-    )
-    usar_max_faltantes = st.sidebar.checkbox("Limitar faltantes", value=True)
+    k = st.sidebar.slider("Top‑k", 1, 10, 5)
+    min_cobertura = st.sidebar.slider("Cobertura mínima", 0.0, 1.0, 0.25, 0.05)
+    max_faltantes = st.sidebar.number_input("Máx. faltantes", 0, 30, 12)
+    usar_max_faltantes = st.sidebar.checkbox("Limitar faltantes", True)
     nota_min = st.sidebar.slider("Nota mínima", 0.0, 5.0, 0.0, 0.1)
-    chamar_llm = st.sidebar.checkbox("Explicar com Ollama", value=True)
+    usar_llm = st.sidebar.checkbox("Usar Ollama (interpretação/explicação)", True)
+    exigir_estilo = st.sidebar.checkbox("Exigir match de estilo no pedido", True)
+    explicar = st.sidebar.checkbox("Explicar top‑k com LLM", True)
+    if st.sidebar.button("Reiniciar conversa"):
+        reset_chat()
+        st.rerun()
 
     ok, info = ollama_disponivel(base_url)
     if ok:
@@ -157,79 +105,137 @@ def main() -> None:
     else:
         st.sidebar.warning(f"Ollama indisponível: {info}")
 
-    texto_ings = st.text_area(
-        "Ingredientes que você tem",
-        placeholder="ex.: ovo, farinha, leite, açúcar, manteiga",
-        height=100,
-    )
+    render_perfil_sidebar(st.session_state.perfil)
 
-    buscar = st.button("Buscar receitas", type="primary")
+    for msg in st.session_state.messages:
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
 
-    if buscar:
-        ings = parse_ingredientes_usuario(texto_ings)
-        if not ings:
-            st.warning("Informe pelo menos um ingrediente.")
-            return
+    prompt = st.chat_input("Digite sua mensagem…")
+    if not prompt:
+        return
 
-        top = ranquear(
-            receitas,
-            ings,
-            k=k,
-            min_cobertura=min_cobertura,
-            max_faltantes=int(max_faltantes) if usar_max_faltantes else None,
-            nota_min=nota_min if nota_min > 0 else None,
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    perfil = st.session_state.perfil
+    resposta_final = ""
+
+    with st.chat_message("assistant"):
+        with st.spinner("Pensando…"):
+            if perfil.get("fase") != "pronto":
+                perfil, resposta_final = processar_onboarding(
+                    perfil,
+                    prompt,
+                    base_url=base_url if ok else None,
+                    model=model if ok else None,
+                    usar_llm=usar_llm and ok,
+                )
+                st.session_state.perfil = perfil
+                st.markdown(resposta_final)
+            else:
+                clf = classificar_mensagem(
+                    prompt,
+                    perfil,
+                    base_url=base_url if ok else None,
+                    model=model if ok else None,
+                    usar_llm=usar_llm and ok,
+                )
+                acao = clf.get("acao")
+
+                if acao == "recusar":
+                    resposta_final = MSG_RECUSA
+                    st.markdown(resposta_final)
+
+                elif acao == "atualizar_perfil":
+                    perfil = aplicar_atualizacao_perfil(perfil, clf)
+                    st.session_state.perfil = perfil
+                    resposta_final = clf.get("resposta_curta") or "Perfil atualizado."
+                    resposta_final += (
+                        f"\n\nDispensa: {', '.join(perfil['dispensa']) or '—'}\n"
+                        f"Gosta: {', '.join(perfil['gosta']) or '—'}\n"
+                        f"Não gosta: {', '.join(perfil['nao_gosta']) or '—'}"
+                    )
+                    st.markdown(resposta_final)
+
+                elif acao == "buscar":
+                    pedido = clf.get("pedido") or prompt
+                    intent = montar_busca_do_perfil(
+                        pedido,
+                        perfil,
+                        base_url=base_url if ok else None,
+                        model=model if ok else None,
+                        usar_llm=usar_llm and ok,
+                    )
+                    ings = intent.get("ingredientes") or []
+                    top = ranquear(
+                        receitas,
+                        ings,
+                        metodos=intent.get("metodos") or [],
+                        keywords=intent.get("keywords") or [],
+                        evitar=intent.get("evitar") or [],
+                        k=k,
+                        min_cobertura=min_cobertura if ings else 0.0,
+                        max_faltantes=(
+                            int(max_faltantes)
+                            if (usar_max_faltantes and ings)
+                            else None
+                        ),
+                        nota_min=nota_min if nota_min > 0 else None,
+                        exigir_estilo=exigir_estilo,
+                    )
+                    st.session_state.last_top = top
+                    st.session_state.last_intent = intent
+
+                    if not top:
+                        resposta_final = (
+                            "Não achei receitas com seu perfil e esse pedido. "
+                            "Tente outro estilo ou atualize a dispensa."
+                        )
+                        st.markdown(resposta_final)
+                    else:
+                        lista = resumir_top_markdown(top, intent)
+                        st.markdown(lista)
+                        resposta_final = lista
+
+                        if explicar and ok:
+                            st.markdown("**Sugestão:**")
+                            try:
+                                explicacao = st.write_stream(
+                                    ollama_chat_stream(
+                                        base_url=base_url,
+                                        model=model,
+                                        system=EXPLICAR_SYSTEM,
+                                        user=contexto_explicacao(
+                                            top, intent, perfil, pedido
+                                        ),
+                                    )
+                                )
+                                if explicacao:
+                                    resposta_final = (
+                                        lista + "\n\n**Sugestão:**\n" + str(explicacao)
+                                    )
+                            except Exception as exc:  # noqa: BLE001
+                                err = f"Falha ao explicar com Ollama: {exc}"
+                                st.error(err)
+                                resposta_final = lista + "\n\n" + err
+                        elif explicar and not ok:
+                            nota = f"\n\n_{MSG_SEM_OLLAMA}_"
+                            st.markdown(nota)
+                            resposta_final = lista + nota
+
+                else:
+                    resposta_final = clf.get("resposta_curta") or (
+                        "Pode pedir uma receita (ex.: quero um bolo) "
+                        "ou atualizar a dispensa."
+                    )
+                    st.markdown(resposta_final)
+
+    if resposta_final:
+        st.session_state.messages.append(
+            {"role": "assistant", "content": resposta_final}
         )
-        st.session_state["ings"] = ings
-        st.session_state["top"] = top
-
-    top = st.session_state.get("top")
-    ings = st.session_state.get("ings") or []
-
-    if top is None:
-        st.info("Digite os ingredientes e clique em Buscar.")
-        return
-
-    if not top:
-        st.warning("Nenhuma receita passou nos filtros. Afrouxe cobertura/faltantes/nota.")
-        return
-
-    st.subheader(f"Top {len(top)} receitas")
-    for i, r in enumerate(top, start=1):
-        with st.container(border=True):
-            cob = r["cobertura"] * 100
-            st.markdown(
-                f"**{i}. [{r['titulo']}]({r['url']})** — "
-                f"nota {r.get('nota')} ({r.get('n_avaliacoes')} av.) · "
-                f"cobertura **{cob:.0f}%** · faltam {r['n_faltantes']}"
-            )
-            c1, c2 = st.columns(2)
-            with c1:
-                st.markdown("**Você tem**")
-                st.write(", ".join(r["tem"]) or "—")
-            with c2:
-                st.markdown("**Falta**")
-                st.write(", ".join(r["falta"]) or "—")
-
-    if not chamar_llm:
-        return
-
-    st.subheader("Sugestão do modelo")
-    if not ok:
-        st.error("Inicie o Ollama (`ollama serve`) e baixe um modelo antes.")
-        return
-
-    prompt = (
-        "Com base no contexto abaixo, sugira o que cozinhar.\n\n"
-        + contexto_para_llm(top, ings)
-    )
-
-    try:
-        st.write_stream(
-            ollama_chat_stream(base_url=base_url, model=model, user_content=prompt)
-        )
-    except Exception as exc:  # noqa: BLE001 — UI precisa mostrar qualquer falha
-        st.error(f"Falha ao falar com o Ollama: {exc}")
-        st.code(prompt, language="text")
 
 
 if __name__ == "__main__":

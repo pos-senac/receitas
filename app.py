@@ -46,6 +46,11 @@ def get_receitas() -> list[dict[str, Any]]:
     return carregar_receitas()
 
 
+    # Renderiza a Logo Escrita centralizada
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        st.image("assets/escrita.png", use_container_width=True)
+
 def init_state() -> None:
     if "perfil" not in st.session_state:
         st.session_state.perfil = perfil_novo()
@@ -142,48 +147,107 @@ def executar_busca(
             "Ajuste o rascunho ou a dispensa e tente de novo."
         )
 
-    lista = resumir_top_markdown(top, intent)
-    st.markdown(lista)
-    resposta = lista
-
-    if explicar and ok:
-        st.markdown("**Sugestão:**")
-        try:
-            explicacao = st.write_stream(
-                ollama_chat_stream(
-                    base_url=base_url,
-                    model=model,
-                    system=EXPLICAR_SYSTEM,
-                    user=contexto_explicacao(top, intent, perfil, pedido),
+    # Renderiza receita recomendada com layout Byte & Bite
+    r = top[0]
+    st.markdown(f"### Recomendação: [{r['titulo']}]({r['url']})")
+    
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        st.markdown("#### 💡 Aviso Inteligente")
+        total = len(r['tem']) + len(r['falta'])
+        st.write(f"Você já tem {len(r['tem'])} de {total} ingredientes.")
+        if r['tem']:
+            for item in r['tem']:
+                st.markdown(f"- {item}")
+    
+    with col2:
+        st.markdown("#### 🛒 Lista de Compras")
+        st.write("**Só o que falta:**")
+        if r['falta']:
+            for item in r['falta']:
+                st.markdown(f"- {item}")
+        else:
+            st.write("Você tem tudo!")
+    
+    with col3:
+        st.markdown("#### 🌿 Adaptação Saudável")
+        if explicar and ok:
+            try:
+                explicacao = st.write_stream(
+                    ollama_chat_stream(
+                        base_url=base_url,
+                        model=model,
+                        system=EXPLICAR_SYSTEM,
+                        user=contexto_explicacao([r], intent, perfil, pedido),
+                    )
                 )
-            )
-            if explicacao:
-                resposta = lista + "\n\n**Sugestão:**\n" + str(explicacao)
-        except Exception as exc:  # noqa: BLE001
-            err = f"Falha ao explicar com Ollama: {exc}"
-            st.error(err)
-            resposta = lista + "\n\n" + err
-    elif explicar and not ok:
-        nota = f"\n\n_{MSG_SEM_OLLAMA}_"
-        st.markdown(nota)
-        resposta = lista + nota
-
-    # Após buscar, mantém rascunho mas pode seguir refinando.
+            except Exception as exc:
+                st.error(f"Falha ao explicar com Ollama: {exc}")
+        elif explicar and not ok:
+            st.markdown(f"_{MSG_SEM_OLLAMA}_")
+    
+    if len(top) > 1:
+        st.markdown("---")
+        st.markdown("### Outras opções")
+        st.markdown(resumir_top_markdown(top[1:], intent))
+    
+    resposta = f"Recomendação gerada: {r['titulo']}"
     return resposta
 
 
 def main() -> None:
-    st.set_page_config(page_title="Receitas em casa", page_icon="🍲", layout="wide")
-    st.title("Receitas em casa")
-    st.caption(
-        "O assistente esclarece o que você quer **antes** de buscar. "
-        "Diga “pode buscar” ou use **Buscar agora** na barra lateral. "
-        "Jailbreak/off-topic são recusados no código."
-    )
+    st.set_page_config(page_title="Byte & Bite — Assistente Culinário", page_icon="🍳", layout="wide")
+    st.markdown("""
+    <style>
+    .byte-bite-header {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    .byte-bite-title {
+        font-size: 3rem;
+        font-weight: 700;
+        color: #ff4b4b;
+        margin-bottom: 0;
+    }
+    .byte-bite-subtitle {
+        font-size: 1.2rem;
+        color: #6c757d;
+        margin-top: 0;
+    }
+    [data-testid="column"] {
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        padding: 15px;
+        border-left: 5px solid #ff4b4b;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        margin: 5px;
+    }
+    @media (prefers-color-scheme: dark) {
+        [data-testid="column"] {
+            background-color: #1e1e1e;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+        }
+    }
+    </style>
+    <div class="byte-bite-header">
+        <div class="byte-bite-subtitle">A IA que transforma o que você tem em casa no cardápio que você precisa.</div>
+    </div>
+    """, unsafe_allow_html=True)
+
+    # Renderiza a Logo Escrita centralizada
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        st.image("assets/escrita.png", use_container_width=True)
 
     init_state()
     receitas = get_receitas()
 
+    # Logo Sidebar
+    col_img1, col_img2, col_img3 = st.sidebar.columns([1,2,1])
+    with col_img2:
+        st.image("assets/simbolo.png", use_container_width=True)
+    st.sidebar.markdown("---")
     st.sidebar.markdown(f"**{len(receitas)}** receitas em memória")
     base_url = st.sidebar.text_input("Ollama URL", OLLAMA_URL_DEFAULT)
     model = st.sidebar.text_input("Modelo", MODELO_DEFAULT)
@@ -205,6 +269,8 @@ def main() -> None:
     else:
         st.sidebar.warning(f"Ollama indisponível: {info}")
 
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("🩺 **Acompanhamento Profissional**: Em caso de condição de saúde, procure um médico ou nutricionista. O Byte & Bite não substitui esse cuidado: ele ajuda a aplicar o plano alimentar no dia a dia.")
     forcar_busca = render_sidebar(st.session_state.perfil, st.session_state.rascunho)
 
     for msg in st.session_state.messages:

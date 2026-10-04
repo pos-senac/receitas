@@ -1,0 +1,18 @@
+[theme]
+# Laranja Ferrugem do símbolo "&" (Usado em botões e destaques primários)
+primaryColor = "#D96C40" 
+
+# Creme bem claro do fundo dos slides
+backgroundColor = "#FDF7F1" 
+
+# Verde menta clarinho (Usado nas caixinhas de dicas do PDF, ótimo para a barra lateral)
+secondaryBackgroundColor = "#EEF3F0" 
+
+# Verde Floresta Escuro (Usado nos textos "Byte & Bite" para dar contraste)
+textColor = "#2C5545" 
+
+font = "sans serif"
+
+[client]
+showSidebarNavigation = false
+toolbarMode = "minimal"

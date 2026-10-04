@@ -46,11 +46,6 @@ def get_receitas() -> list[dict[str, Any]]:
     return carregar_receitas()
 
 
-    # Renderiza a Logo Escrita centralizada
-    col1, col2, col3 = st.columns([1, 2, 1])
-    with col2:
-        st.image("assets/escrita.png", use_container_width=True)
-
 def init_state() -> None:
     if "perfil" not in st.session_state:
         st.session_state.perfil = perfil_novo()
@@ -76,27 +71,42 @@ def reset_chat() -> None:
 
 def render_sidebar(perfil: dict[str, Any], rascunho: dict[str, Any]) -> bool:
     """Retorna True se o usuário pediu busca forçada pelo botão."""
-    st.sidebar.markdown("### Seu perfil")
-    st.sidebar.caption(f"Fase: `{perfil.get('fase')}`")
-    st.sidebar.markdown("**Dispensa**")
-    st.sidebar.write(", ".join(perfil.get("dispensa") or []) or "—")
-    st.sidebar.markdown("**Gosta**")
-    st.sidebar.write(", ".join(perfil.get("gosta") or []) or "—")
-    st.sidebar.markdown("**Não gosta**")
-    st.sidebar.write(", ".join(perfil.get("nao_gosta") or []) or "—")
+    st.sidebar.markdown("### 👤 Meu Perfil")
+    
+    # Status visual da fase do perfil
+    fase = perfil.get('fase', 'Desconhecida')
+    if fase == "pronto":
+        st.sidebar.success("Perfil Completo!")
+    else:
+        st.sidebar.info(f"Fase atual: {fase.capitalize()}")
 
-    st.sidebar.markdown("### Pedido em elaboração")
-    st.sidebar.markdown(formatar_rascunho_md(rascunho))
+    with st.sidebar.expander("📦 Minha Despensa & Gostos", expanded=True):
+        st.markdown("**Dispensa**")
+        st.write(", ".join(perfil.get("dispensa") or []) or "—")
+        st.markdown("**Gosta**")
+        st.write(", ".join(perfil.get("gosta") or []) or "—")
+        st.markdown("**Não gosta**")
+        st.write(", ".join(perfil.get("nao_gosta") or []) or "—")
 
-    forcar = False
-    pode = rascunho.get("ativo") and (
-        rascunho_tem_estilo(rascunho) or bool(rascunho.get("texto"))
-    )
-    if st.sidebar.button("Buscar agora", type="primary", disabled=not pode):
-        forcar = True
-    if st.sidebar.button("Limpar pedido"):
-        st.session_state.rascunho = rascunho_novo()
-        st.rerun()
+    st.sidebar.markdown("### 📝 Pedido em elaboração")
+    
+    with st.sidebar.container(border=True):
+        st.markdown(formatar_rascunho_md(rascunho))
+        
+        forcar = False
+        pode = rascunho.get("ativo") and (
+            rascunho_tem_estilo(rascunho) or bool(rascunho.get("texto"))
+        )
+        
+        col_btn1, col_btn2 = st.columns(2)
+        with col_btn1:
+            if st.button("Buscar agora 🔍", type="primary", disabled=not pode, use_container_width=True):
+                forcar = True
+        with col_btn2:
+            if st.button("Limpar pedido 🧹", use_container_width=True):
+                st.session_state.rascunho = rascunho_novo()
+                st.rerun()
+                
     return forcar
 
 
@@ -147,31 +157,35 @@ def executar_busca(
             "Ajuste o rascunho ou a dispensa e tente de novo."
         )
 
-    # Renderiza receita recomendada com layout Byte & Bite
+    # Renderiza receita recomendada com layout Byte & Bite em formato de Card
     r = top[0]
-    st.markdown(f"### Recomendação: [{r['titulo']}]({r['url']})")
+    st.markdown("### ✨ Minha Recomendação para Você")
     
-    col1, col2, col3 = st.columns(3)
-    
-    with col1:
-        st.markdown("#### 💡 Aviso Inteligente")
-        total = len(r['tem']) + len(r['falta'])
-        st.write(f"Você já tem {len(r['tem'])} de {total} ingredientes.")
-        if r['tem']:
-            for item in r['tem']:
-                st.markdown(f"- {item}")
-    
-    with col2:
-        st.markdown("#### 🛒 Lista de Compras")
-        st.write("**Só o que falta:**")
-        if r['falta']:
-            for item in r['falta']:
-                st.markdown(f"- {item}")
-        else:
-            st.write("Você tem tudo!")
-    
-    with col3:
-        st.markdown("#### 🌿 Adaptação Saudável")
+    with st.container(border=True):
+        st.markdown(f"## 🍽️ [{r['titulo']}]({r['url']})")
+        
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            st.success("#### 💡 O que você já tem")
+            total = len(r['tem']) + len(r['falta'])
+            st.write(f"Você já tem {len(r['tem'])} de {total} ingredientes.")
+            if r['tem']:
+                for item in r['tem']:
+                    st.markdown(f"- {item}")
+        
+        with col2:
+            if r['falta']:
+                st.warning("#### 🛒 Lista de Compras")
+                st.write("**Só o que falta:**")
+                for item in r['falta']:
+                    st.markdown(f"- {item}")
+            else:
+                st.info("#### 🎉 Lista de Compras")
+                st.write("Você tem tudo!")
+        
+        st.markdown("---")
+        st.markdown("#### 🌿 Adaptação Saudável e Dica do Chef")
         if explicar and ok:
             try:
                 explicacao = st.write_stream(
@@ -188,18 +202,22 @@ def executar_busca(
             st.markdown(f"_{MSG_SEM_OLLAMA}_")
     
     if len(top) > 1:
-        st.markdown("---")
-        st.markdown("### Outras opções")
-        st.markdown(resumir_top_markdown(top[1:], intent))
+        st.markdown("<br>#### 🔄 Outras opções", unsafe_allow_html=True)
+        with st.expander("Ver receitas alternativas que também combinam"):
+            st.markdown(resumir_top_markdown(top[1:], intent))
     
-    resposta = f"Recomendação gerada: {r['titulo']}"
+    resposta = f"Recomendação gerada: **{r['titulo']}**"
     return resposta
 
 
 def main() -> None:
-    st.set_page_config(page_title="Byte & Bite — Assistente Culinário", page_icon="🍳", layout="wide")
+    st.set_page_config(page_title="Byte & Bite — Assistente Culinário", page_icon="🍳", layout="wide", initial_sidebar_state="expanded")
     st.markdown("""
     <style>
+    /* Esconde o menu padrao do Streamlit para parecer App Web */
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+
     .byte-bite-header {
         text-align: center;
         margin-bottom: 2rem;
@@ -207,25 +225,30 @@ def main() -> None:
     .byte-bite-title {
         font-size: 3rem;
         font-weight: 700;
-        color: #ff4b4b;
+        color: #2C5545; /* Verde Escuro da Marca */
         margin-bottom: 0;
     }
     .byte-bite-subtitle {
         font-size: 1.2rem;
-        color: #6c757d;
+        color: #537566; /* Verde um pouco mais claro para subtítulo */
         margin-top: 0;
     }
+    
+    /* Personalização dos 'Cards' (Colunas) */
     [data-testid="column"] {
-        background-color: #f8f9fa;
+        background-color: #ffffff; /* Fundo branco para destacar no fundo creme */
         border-radius: 10px;
         padding: 15px;
-        border-left: 5px solid #ff4b4b;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        border-left: 5px solid #D96C40; /* Laranja Ferrugem da Marca na borda esquerda */
+        box-shadow: 0 4px 6px rgba(0,0,0,0.05);
         margin: 5px;
     }
+    
+    /* Modo Escuro - Adaptação opcional se o usuário usar o PC no modo dark */
     @media (prefers-color-scheme: dark) {
         [data-testid="column"] {
-            background-color: #1e1e1e;
+            background-color: #1F3B30; /* Fundo verde super escuro */
+            border-left: 5px solid #D96C40;
             box-shadow: 0 4px 6px rgba(0,0,0,0.3);
         }
     }
@@ -236,41 +259,53 @@ def main() -> None:
     """, unsafe_allow_html=True)
 
     # Renderiza a Logo Escrita centralizada
-    col1, col2, col3 = st.columns([1, 2, 1])
+    col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        st.image("assets/escrita.png", use_container_width=True)
+        try:
+            st.image("assets/escrita.png", use_container_width=True)
+        except:
+            pass
 
     init_state()
     receitas = get_receitas()
 
-    # Logo Sidebar
-    col_img1, col_img2, col_img3 = st.sidebar.columns([1,2,1])
-    with col_img2:
-        st.image("assets/simbolo.png", use_container_width=True)
-    st.sidebar.markdown("---")
-    st.sidebar.markdown(f"**{len(receitas)}** receitas em memória")
-    base_url = st.sidebar.text_input("Ollama URL", OLLAMA_URL_DEFAULT)
-    model = st.sidebar.text_input("Modelo", MODELO_DEFAULT)
-    k = st.sidebar.slider("Top‑k", 1, 10, 5)
-    min_cobertura = st.sidebar.slider("Cobertura mínima", 0.0, 1.0, 0.25, 0.05)
-    max_faltantes = st.sidebar.number_input("Máx. faltantes", 0, 30, 12)
-    usar_max_faltantes = st.sidebar.checkbox("Limitar faltantes", True)
-    nota_min = st.sidebar.slider("Nota mínima", 0.0, 5.0, 0.0, 0.1)
-    usar_llm = st.sidebar.checkbox("Usar Ollama (interpretação/explicação)", True)
-    exigir_estilo = st.sidebar.checkbox("Exigir match de estilo no pedido", True)
-    explicar = st.sidebar.checkbox("Explicar top‑k com LLM", True)
-    if st.sidebar.button("Reiniciar conversa"):
-        reset_chat()
-        st.rerun()
+    # Logo Sidebar e Configurações escondidas (Dev Mode)
+    with st.sidebar:
+        col_img1, col_img2, col_img3 = st.columns([1,0.8,1])
+        with col_img2:
+            try:
+                st.image("assets/simbolo.png", use_container_width=True)
+            except:
+                pass
+        
+        st.markdown("---")
+        
+        with st.expander("⚙️ Configurações Técnicas do Sistema"):
+            st.markdown(f"**{len(receitas)}** receitas em memória")
+            base_url = st.text_input("Ollama URL", OLLAMA_URL_DEFAULT)
+            model = st.text_input("Modelo", MODELO_DEFAULT)
+            k = st.slider("Top‑k", 1, 10, 5)
+            min_cobertura = st.slider("Cobertura mínima", 0.0, 1.0, 0.25, 0.05)
+            max_faltantes = st.number_input("Máx. faltantes", 0, 30, 12)
+            usar_max_faltantes = st.checkbox("Limitar faltantes", True)
+            nota_min = st.slider("Nota mínima", 0.0, 5.0, 0.0, 0.1)
+            usar_llm = st.checkbox("Usar Ollama (interpretação/explicação)", True)
+            exigir_estilo = st.checkbox("Exigir match de estilo no pedido", True)
+            explicar = st.checkbox("Explicar top‑k com LLM", True)
+            
+            ok, info = ollama_disponivel(base_url)
+            if ok:
+                st.success(f"Ollama ok — {info}")
+            else:
+                st.warning(f"Ollama indisponível: {info}")
 
-    ok, info = ollama_disponivel(base_url)
-    if ok:
-        st.sidebar.success(f"Ollama ok — {info}")
-    else:
-        st.sidebar.warning(f"Ollama indisponível: {info}")
+            if st.button("Reiniciar conversa inteira"):
+                reset_chat()
+                st.rerun()
 
     st.sidebar.markdown("---")
     st.sidebar.markdown("🩺 **Acompanhamento Profissional**: Em caso de condição de saúde, procure um médico ou nutricionista. O Byte & Bite não substitui esse cuidado: ele ajuda a aplicar o plano alimentar no dia a dia.")
+    
     forcar_busca = render_sidebar(st.session_state.perfil, st.session_state.rascunho)
 
     for msg in st.session_state.messages:
@@ -285,7 +320,7 @@ def main() -> None:
         prompt = "pode buscar"
         st.session_state.messages.append({"role": "user", "content": "*(Buscar agora)*"})
         with st.chat_message("user"):
-            st.markdown("*(Buscar agora)*")
+            st.markdown("*(Buscando...)*")
     elif prompt:
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
@@ -296,7 +331,7 @@ def main() -> None:
     resposta_final = ""
 
     with st.chat_message("assistant"):
-        with st.spinner("Pensando…"):
+        with st.spinner("🍳 Pensando e analisando ingredientes…"):
             if perfil.get("fase") != "pronto":
                 perfil, resposta_final = processar_onboarding(
                     perfil,
@@ -341,6 +376,7 @@ def main() -> None:
                         f"Não gosta: {', '.join(perfil['nao_gosta']) or '—'}"
                     )
                     st.markdown(resposta_final)
+                    st.rerun()
 
                 elif acao == "esclarecer":
                     resposta_final = clf.get("resposta_curta") or "Pode me contar mais?"
@@ -348,7 +384,7 @@ def main() -> None:
                     if perguntas and not all(q in resposta_final for q in perguntas):
                         resposta_final += "\n\n" + "\n".join(f"- {q}" for q in perguntas)
                     resposta_final += (
-                        "\n\n_Rascunho atualizado — diga **pode buscar** quando quiser._"
+                        "\n\n_💡 Rascunho atualizado — diga **pode buscar** quando quiser._"
                     )
                     st.markdown(resposta_final)
 

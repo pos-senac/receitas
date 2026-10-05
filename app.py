@@ -173,8 +173,8 @@ def executar_busca(
 
 
 def main() -> None:
-    st.set_page_config(page_title="Receitas em casa", page_icon="🍲", layout="wide")
-    st.title("Receitas em casa")
+    st.set_page_config(page_title="Byte & Bite — Assistente Culinário", page_icon="assets/simbolo.png", layout="wide")
+    st.image("assets/escrita.png", width=320)
     st.caption(
         "O assistente esclarece o que você quer **antes** de buscar. "
         "Diga “pode buscar” ou use **Buscar agora** na barra lateral. "
@@ -184,7 +184,7 @@ def main() -> None:
     init_state()
     receitas = get_receitas()
 
-    st.sidebar.markdown(f"**{len(receitas)}** receitas em memória")
+    st.sidebar.image("assets/simbolo.png", width=80)
     base_url = st.sidebar.text_input("Ollama URL", OLLAMA_URL_DEFAULT)
     model = st.sidebar.text_input("Modelo", MODELO_DEFAULT)
     k = st.sidebar.slider("Top‑k", 1, 10, 5)

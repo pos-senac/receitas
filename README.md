@@ -17,15 +17,15 @@ Ao contrário de abordagens ingênuas que delegam toda a decisão à alucinaçã
 
 ```mermaid
 flowchart TD
-    User([Usuário]) <--> UI[Streamlit Frontend]
-    UI <--> State[Máquina de Estados & Guardrails (chat.py)]
-    State <--> DB[(SQLite: bytebite.db)]
-    State --> Intent[Extrator de Intenção (intent.py)]
-    Intent --> RankEngine[Motor de Ranking Determinístico (ranking.py)]
-    Data[(1.000 Receitas JSON)] --> RankEngine
-    RankEngine --> TopK[Top-1 Recomendada + Alternativas]
-    TopK --> LLM[Ollama: Camada Cognitiva (qwen2.5:14b)]
-    LLM --> CardResult[Exibição dos 3 Pilares no Chat]
+    User(["Usuário"]) <--> UI["Streamlit Frontend"]
+    UI <--> State["Máquina de Estados & Guardrails (chat.py)"]
+    State <--> DB[("SQLite: bytebite.db")]
+    State --> Intent["Extrator de Intenção (intent.py)"]
+    Intent --> RankEngine["Motor de Ranking Determinístico (ranking.py)"]
+    Data[("1.000 Receitas JSON")] --> RankEngine
+    RankEngine --> TopK["Top-1 Recomendada + Alternativas"]
+    TopK --> LLM["Ollama: Camada Cognitiva (qwen2.5:14b)"]
+    LLM --> CardResult["Exibição dos 3 Pilares no Chat"]
     CardResult --> UI
 ```
 
